@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Paintbrush</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #1a1a2e;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 100vh;
+      font-family: sans-serif;
+      color: #eee;
+      overflow: hidden;
+    }
+
+    #toolbar {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 10px 20px;
+      background: #16213e;
+      border-bottom: 1px solid #0f3460;
+      width: 100%;
+      flex-wrap: wrap;
+    }
+
+    #toolbar label {
+      font-size: 13px;
+      color: #aaa;
+    }
+
+    .tool-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .tool-btn {
+      background: #0f3460;
+      border: 1px solid #1a4a80;
+      color: #eee;
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 13px;
+      transition: background 0.15s;
+    }
+
+    .tool-btn:hover { background: #1a4a80; }
+    .tool-btn.active { background: #e94560; border-color: #e94560; }
+
+    #color-picker {
+      width: 36px;
+      height: 36px;
+      border: none;
+      border-radius: 50%;
+      cursor: pointer;
+      padding: 2px;
+      background: transparent;
+    }
+
+    #size-slider {
+      width: 100px;
+      accent-color: #e94560;
+    }
+
+    #size-display {
+      font-size: 13px;
+      width: 28px;
+      text-align: right;
+    }
+
+    #opacity-slider {
+      width: 80px;
+      accent-color: #e94560;
+    }
+
+    .separator {
+      width: 1px;
+      height: 30px;
+      background: #0f3460;
+    }
+
+    #canvas-container {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+      overflow: hidden;
+    }
+
+    #canvas {
+      background: #ffffff;
+      border-radius: 4px;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.5);
+      cursor: crosshair;
+      touch-action: none;
+    }
+
+    #canvas.eraser-mode { cursor: cell; }
+
+    .color-swatch {
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      cursor: pointer;
+      border: 2px solid transparent;
+      transition: transform 0.1s, border-color 0.1s;
+    }
+
+    .color-swatch:hover { transform: scale(1.2); }
+    .color-swatch.selected { border-color: #fff; }
+  </style>
+</head>
+<body>
+
+<div id="toolbar">
+  <div class="tool-group">
+    <button class="tool-btn active" id="btn-brush" title="Brush">Brush</button>
+    <button class="tool-btn" id="btn-eraser" title="Eraser">Eraser</button>
+  </div>
+
+  <div class="separator"></div>
+
+  <div class="tool-group">
+    <label>Color</label>
+    <input type="color" id="color-picker" value="#e94560">
+    <div style="display:flex;gap:5px;">
+      <div class="color-swatch selected" style="background:#e94560" data-color="#e94560"></div>
+      <div class="color-swatch" style="background:#000000" data-color="#000000"></div>
+      <div class="color-swatch" style="background:#ffffff;border:2px solid #555" data-color="#ffffff"></div>
+      <div class="color-swatch" style="background:#f5a623" data-color="#f5a623"></div>
+      <div class="color-swatch" style="background:#7ed321" data-color="#7ed321"></div>
+      <div class="color-swatch" style="background:#4a90e2" data-color="#4a90e2"></div>
+      <div class="color-swatch" style="background:#9b59b6" data-color="#9b59b6"></div>
+    </div>
+  </div>
+
+  <div class="separator"></div>
+
+  <div class="tool-group">
+    <label>Size</label>
+    <input type="range" id="size-slider" min="1" max="60" value="8">
+    <span id="size-display">8</span>
+  </div>
+
+  <div class="separator"></div>
+
+  <div class="tool-group">
+    <label>Opacity</label>
+    <input type="range" id="opacity-slider" min="1" max="100" value="100">
+  </div>
+
+  <div class="separator"></div>
+
+  <button class="tool-btn" id="btn-clear">Clear</button>
+</div>
+
+<div id="canvas-container">
+  <canvas id="canvas"></canvas>
+</div>
+
+<script>
+  const canvas = document.getElementById('canvas');
+  const ctx = canvas.getContext('2d');
+  const container = document.getElementById('canvas-container');
+
+  // Size canvas to fit container
+  function resizeCanvas() {
+    const w = container.clientWidth - 32;
+    const h = container.clientHeight - 32;
+    // Save current drawing
+    const imgData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+    canvas.width = w;
+    canvas.height = h;
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(0, 0, w, h);
+    ctx.putImageData(imgData, 0, 0);
+  }
+
+  resizeCanvas();
+  window.addEventListener('resize', resizeCanvas);
+
+  // State
+  let painting = false;
+  let tool = 'brush';
+  let color = '#e94560';
+  let size = 8;
+  let opacity = 1;
+  let lastX = 0, lastY = 0;
+
+  // UI refs
+  const colorPicker = document.getElementById('color-picker');
+  const sizeSlider = document.getElementById('size-slider');
+  const sizeDisplay = document.getElementById('size-display');
+  const opacitySlider = document.getElementById('opacity-slider');
+  const btnBrush = document.getElementById('btn-brush');
+  const btnEraser = document.getElementById('btn-eraser');
+  const swatches = document.querySelectorAll('.color-swatch');
+
+  colorPicker.addEventListener('input', e => {
+    color = e.target.value;
+    swatches.forEach(s => s.classList.remove('selected'));
+  });
+
+  swatches.forEach(swatch => {
+    swatch.addEventListener('click', () => {
+      color = swatch.dataset.color;
+      colorPicker.value = color;
+      swatches.forEach(s => s.classList.remove('selected'));
+      swatch.classList.add('selected');
+      setTool('brush');
+    });
+  });
+
+  sizeSlider.addEventListener('input', e => {
+    size = parseInt(e.target.value);
+    sizeDisplay.textContent = size;
+  });
+
+  opacitySlider.addEventListener('input', e => {
+    opacity = parseInt(e.target.value) / 100;
+  });
+
+  function setTool(t) {
+    tool = t;
+    btnBrush.classList.toggle('active', t === 'brush');
+    btnEraser.classList.toggle('active', t === 'eraser');
+    canvas.classList.toggle('eraser-mode', t === 'eraser');
+  }
+
+  btnBrush.addEventListener('click', () => setTool('brush'));
+  btnEraser.addEventListener('click', () => setTool('eraser'));
+
+  document.getElementById('btn-clear').addEventListener('click', () => {
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+  });
+
+  // Drawing
+  function getPos(e) {
+    const rect = canvas.getBoundingClientRect();
+    if (e.touches) {
+      return {
+        x: e.touches[0].clientX - rect.left,
+        y: e.touches[0].clientY - rect.top
+      };
+    }
+    return { x: e.clientX - rect.left, y: e.clientY - rect.top };
+  }
+
+  function startDraw(e) {
+    e.preventDefault();
+    painting = true;
+    const { x, y } = getPos(e);
+    lastX = x;
+    lastY = y;
+    // Draw a dot on click
+    draw(e);
+  }
+
+  function draw(e) {
+    if (!painting) return;
+    e.preventDefault();
+    const { x, y } = getPos(e);
+
+    ctx.save();
+    ctx.globalAlpha = tool === 'eraser' ? 1 : opacity;
+    ctx.strokeStyle = tool === 'eraser' ? '#ffffff' : color;
+    ctx.lineWidth = tool === 'eraser' ? size * 2 : size;
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+
+    ctx.beginPath();
+    ctx.moveTo(lastX, lastY);
+    ctx.lineTo(x, y);
+    ctx.stroke();
+    ctx.restore();
+
+    lastX = x;
+    lastY = y;
+  }
+
+  function stopDraw() { painting = false; }
+
+  canvas.addEventListener('mousedown', startDraw);
+  canvas.addEventListener('mousemove', draw);
+  canvas.addEventListener('mouseup', stopDraw);
+  canvas.addEventListener('mouseleave', stopDraw);
+
+  canvas.addEventListener('touchstart', startDraw, { passive: false });
+  canvas.addEventListener('touchmove', draw, { passive: false });
+  canvas.addEventListener('touchend', stopDraw);
+</script>
+</body>
+</html>
