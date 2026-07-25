@@ -1,76 +1,6 @@
 {
-  "generated_at": "2026-07-25T03:03:32.080823+00:00",
+  "generated_at": "2026-07-25T03:06:27.554915+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "PM Modi thanks people for responses, positive suggestions received for midnight video",
-        "link": "https://www.thehindu.com/news/national/pm-modi-thanks-people-for-responses-positive-suggestions-received-for-midnight-video/article71265125.ece",
-        "source": "The Hindu",
-        "time_ago": "38m ago",
-        "summary": "Prime Minister Narendra Modi's outreach to the youth came four days after thousands of students led by the Cockroach Janta Party (CJP) took part in the 'Sansad Chalo' march to press for their demand for the resignation o",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "CJP Protest LIVE Updates: 18 Delhi Metro Stations Shut Amid Continued Protest At Jantar Mantar",
-        "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "1h ago",
-        "summary": "CJP Jantar Mantar protest LIVE: The protesters led by\u00a0the satirical political group, Cockroach Janta Party (CJP), continue to demand the resignation of Union\u00a0Education Minister Dharmendra Pradhan",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "20-yr-old army officer's son dies after car falls into open drain in south Delhi",
-        "link": "https://timesofindia.indiatimes.com/city/delhi/20-year-old-us-student-army-officers-son-dies-as-car-plunges-into-open-drain-in-south-delhi/articleshow/132617481.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "Tragedy struck Vasant Kunj when a 20-year-old student named Yashvendra lost his life after his car rolled into an open drain. Having just returned from the United States, he was accompanied by a woman who managed to esca",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-        "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "40m ago",
-        "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-        "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "33m ago",
-        "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Which matches and tournaments can football fans watch after the World Cup?",
-        "link": "https://www.aljazeera.com/sports/2026/7/24/what-do-football-fans-have-in-store-to-beat-post-world-cup-blues?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Al Jazeera's guide to filling the football void with the Champions League, Premier League, La Liga, UEFA Super Cup and more.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
     "sports": [
       {
         "title": "NBA odds: LeBron James signing with 76ers causes massive movement in futures markets",
@@ -84,25 +14,23 @@
         ]
       },
       {
-        "title": "LeBron chooses 76ers, calls it his 'last decision'...",
-        "link": "https://www.espn.com/nba/story/_/id/49440164/lebron-chooses-76ers-sign-2-year-8-million-contract",
-        "source": "ESPN",
-        "time_ago": "1m ago",
-        "summary": "LeBron James, after considering retirement, is continuing his NBA career with the 76ers. James is taking a two-year, $8 million deal, Klutch Sports Group CEO Rich Paul told ESPN's Shams Charania.",
+        "title": "Free MLB home run picks July 24: Dodgers' Kyle Tucker among expert's best bets for Friday",
+        "link": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-july-24-dodgers-kyle-tucker-among-experts-best-bets-for-friday/",
+        "source": "CBS Sports",
+        "time_ago": "5h ago",
+        "summary": "SportsLine's Matt Severance shares his best MLB home run props picks for Friday, July 24",
         "covered_by": [
-          "CBS Sports",
-          "ESPN"
+          "CBS Sports"
         ]
       },
       {
-        "title": "Obama holds surprise visit with WNBA All-Stars",
-        "link": "https://www.espn.com/wnba/story/_/id/49442330/former-president-obama-surprises-wnba-all-stars-practice",
-        "source": "ESPN",
-        "time_ago": "1m ago",
-        "summary": "Former President Barack Obama visited with the WNBA All-Stars on Friday, professing his fandom for the women's game and taking photos with the players, including Caitlin Clark and Angel Reese.",
+        "title": "Scott overcomes pressure and big pal Dean to give Scotland golden start",
+        "link": "https://www.bbc.co.uk/sport/articles/cdx8255g8qqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "5h ago",
+        "summary": "Scotland's Duncan Scott thrilled a home crowd with his swim to gold at Tollcross on the first full day of competition at the Commonwealth Games.",
         "covered_by": [
-          "CBS Sports",
-          "ESPN"
+          "BBC Sport"
         ]
       }
     ],
@@ -143,7 +71,7 @@
         "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
         "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
         "source": "Ars Technica",
-        "time_ago": "5h ago",
+        "time_ago": "6h ago",
         "summary": "Models are improving quickly, but the cheaper options are often good enough.",
         "covered_by": [
           "Ars Technica",
@@ -174,7 +102,79 @@
           "TechCrunch"
         ]
       }
+    ],
+    "india": [
+      {
+        "title": "PM Modi thanks people for responses, positive suggestions received for midnight video",
+        "link": "https://www.thehindu.com/news/national/pm-modi-thanks-people-for-responses-positive-suggestions-received-for-midnight-video/article71265125.ece",
+        "source": "The Hindu",
+        "time_ago": "40m ago",
+        "summary": "Prime Minister Narendra Modi's outreach to the youth came four days after thousands of students led by the Cockroach Janta Party (CJP) took part in the 'Sansad Chalo' march to press for their demand for the resignation o",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "CJP Protest LIVE Updates: 18 Delhi Metro Stations Shut Amid Continued Protest At Jantar Mantar",
+        "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "1h ago",
+        "summary": "CJP Jantar Mantar protest LIVE: The protesters led by\u00a0the satirical political group, Cockroach Janta Party (CJP), continue to demand the resignation of Union\u00a0Education Minister Dharmendra Pradhan",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "20-yr-old army officer's son dies after car falls into open drain in south Delhi",
+        "link": "https://timesofindia.indiatimes.com/city/delhi/20-year-old-us-student-army-officers-son-dies-as-car-plunges-into-open-drain-in-south-delhi/articleshow/132617481.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "Tragedy struck Vasant Kunj when a 20-year-old student named Yashvendra lost his life after his car rolled into an open drain. Having just returned from the United States, he was accompanied by a woman who managed to esca",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "36m ago",
+        "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "IOC rejects human rights group\u2019s complaint against Trump ally Infantino",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/ioc-rejects-human-rights-groups-complaint-against-trump-ally-infantino?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "IOC says the complaint against its member and FIFA chief Infantino fell outside its ethics committee\u2019s jurisdiction.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "\u2018The show must go on\u2019: Trump returns to rescheduled White House press gala",
+        "link": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "7m ago",
+        "summary": "US president makes jokes, mocks opponents at correspondents' dinner that was halted by a shooting in April.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
     ]
   },
-  "errors": []
+  "errors": [
+    "ESPN: no element found: line 1, column 0"
+  ]
 }
