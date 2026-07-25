@@ -10,6 +10,7 @@ No API keys required — pulls public RSS feeds only.
 
 import re
 import html
+import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -121,7 +122,7 @@ class RedirectHandler308(urllib.request.HTTPRedirectHandler):
 _opener = urllib.request.build_opener(RedirectHandler308)
 
 
-def fetch_feed(source, url):
+def _download(url):
     req = urllib.request.Request(
         url,
         headers={
@@ -130,17 +131,21 @@ def fetch_feed(source, url):
         },
     )
     with _opener.open(req, timeout=10) as resp:
-        data = resp.read()
+        return resp.read()
 
+
+def _parse_items(data):
+    """Parse RSS/Atom bytes into raw item dicts. Includes the per-item
+    <source> publisher (present on Google News RSS) as _feed_source so
+    callers can attribute items to the outlet that actually wrote them."""
     root = ElementTree.fromstring(data)
-    items = []
-    # RSS 2.0: channel/item ; Atom: feed/entry
     nodes = root.findall(".//item")
     is_atom = False
     if not nodes:
         nodes = root.findall(".//{http://www.w3.org/2005/Atom}entry")
         is_atom = True
 
+    items = []
     for node in nodes:
         if is_atom:
             title_el = node.find("{http://www.w3.org/2005/Atom}title")
@@ -148,12 +153,14 @@ def fetch_feed(source, url):
             link = link_el.get("href") if link_el is not None else None
             date_el = node.find("{http://www.w3.org/2005/Atom}updated")
             summary_el = node.find("{http://www.w3.org/2005/Atom}summary")
+            source_el = None
         else:
             title_el = node.find("title")
             link_el = node.find("link")
             link = link_el.text.strip() if link_el is not None and link_el.text else None
             date_el = node.find("pubDate")
             summary_el = node.find("description")
+            source_el = node.find("source")
 
         title = strip_html(title_el.text) if title_el is not None and title_el.text else None
         if not title or not link:
@@ -161,16 +168,38 @@ def fetch_feed(source, url):
 
         pub_dt = parse_date(date_el.text) if date_el is not None and date_el.text else None
         summary = strip_html(summary_el.text)[:220] if summary_el is not None and summary_el.text else ""
+        feed_source = strip_html(source_el.text) if source_el is not None and source_el.text else None
 
         items.append({
             "title": title,
             "link": link.strip(),
-            "source": source,
             "published": pub_dt.isoformat() if pub_dt else None,
             "time_ago": time_ago(pub_dt),
             "_sort_dt": pub_dt or datetime(1970, 1, 1, tzinfo=timezone.utc),
             "summary": summary,
+            "_feed_source": feed_source,
         })
+    return items
+
+
+def fetch_feed(source, url):
+    items = _parse_items(_download(url))
+    for item in items:
+        item["source"] = source
+        item.pop("_feed_source", None)
+    return items
+
+
+def fetch_topic_items(topic, days=3):
+    """Fetch a Google News search feed for an arbitrary user-supplied topic,
+    attributing each item to its actual publisher (from the feed's <source>
+    tag) so top_trending() can do the same cross-source comparison it does
+    for the fixed categories."""
+    query = urllib.parse.quote(f"{topic} when:{days}d")
+    url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
+    items = _parse_items(_download(url))
+    for item in items:
+        item["source"] = item.pop("_feed_source", None) or "Google News"
     return items
 
 
@@ -247,13 +276,33 @@ def build_category(name):
     return top_trending(all_items), errors
 
 
-def build_digest():
-    result = {"generated_at": datetime.now(timezone.utc).isoformat(), "categories": {}, "errors": []}
-    with ThreadPoolExecutor(max_workers=len(FEEDS)) as pool:
-        futures = {pool.submit(build_category, name): name for name in FEEDS}
+def build_custom_topic(topic):
+    try:
+        items = fetch_topic_items(topic)
+        return top_trending(items), []
+    except Exception as e:
+        return [], [f"{topic}: {e}"]
+
+
+def build_digest(custom_topic=None):
+    result = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "categories": {},
+        "custom_topic": None,
+        "errors": [],
+    }
+    extra_workers = 1 if custom_topic else 0
+    with ThreadPoolExecutor(max_workers=len(FEEDS) + extra_workers) as pool:
+        futures = {pool.submit(build_category, name): ("category", name) for name in FEEDS}
+        if custom_topic:
+            futures[pool.submit(build_custom_topic, custom_topic)] = ("custom", custom_topic)
+
         for fut in as_completed(futures):
-            name = futures[fut]
+            kind, name = futures[fut]
             items, errors = fut.result()
-            result["categories"][name] = items
+            if kind == "category":
+                result["categories"][name] = items
+            else:
+                result["custom_topic"] = {"topic": name, "items": items}
             result["errors"].extend(errors)
     return result

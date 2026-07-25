@@ -64,6 +64,33 @@
   .status { font-size: 13px; color: var(--muted); margin-bottom: 24px; min-height: 18px; }
   .status.error { color: #c0392b; }
 
+  .topic-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 24px;
+  }
+  .topic-row input {
+    flex: 1;
+    padding: 10px 12px;
+    font-size: 14px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--card);
+    color: var(--text);
+  }
+  .topic-row button {
+    background: var(--card);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 10px 16px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .topic-row button:hover:not(:disabled) { border-color: var(--text); }
+  .topic-row button:disabled { opacity: 0.5; cursor: default; }
+
   nav.jump {
     display: flex;
     flex-wrap: wrap;
@@ -156,12 +183,18 @@
 
   <div class="status" id="status"></div>
 
+  <div class="topic-row">
+    <input type="text" id="topic-input" placeholder="Add a topic (e.g. Cricket World Cup)" />
+    <button id="topic-btn">Analyze</button>
+  </div>
+
   <nav class="jump">
     <a href="#ai">AI</a>
     <a href="#world">World</a>
     <a href="#tech">Tech Companies</a>
     <a href="#sports">Sports</a>
     <a href="#india">India</a>
+    <span id="nav-extra"></span>
   </nav>
 
   <section class="category" id="ai">
@@ -188,12 +221,20 @@
     <h2>India</h2>
     <div class="list" data-list="india"></div>
   </section>
+
+  <div id="custom-section-container"></div>
 </div>
 
 <script>
 const CATEGORIES = ["ai", "world", "tech", "sports", "india"];
 const refreshBtn = document.getElementById("refresh");
 const statusEl = document.getElementById("status");
+const topicInput = document.getElementById("topic-input");
+const topicBtn = document.getElementById("topic-btn");
+const navExtra = document.getElementById("nav-extra");
+const customContainer = document.getElementById("custom-section-container");
+
+let currentTopic = null;
 
 function escapeHtml(str) {
   const div = document.createElement("div");
@@ -201,20 +242,11 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
-function renderSkeletons() {
-  CATEGORIES.forEach(cat => {
-    const list = document.querySelector(`[data-list="${cat}"]`);
-    list.innerHTML = '<div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>';
-  });
-}
-
-function renderCategory(cat, items) {
-  const list = document.querySelector(`[data-list="${cat}"]`);
+function itemsHtml(items) {
   if (!items || items.length === 0) {
-    list.innerHTML = '<div class="empty">No items available right now.</div>';
-    return;
+    return '<div class="empty">No items available right now.</div>';
   }
-  list.innerHTML = items.map(item => {
+  return items.map(item => {
     const coveredBy = (item.covered_by || []).join(", ");
     return `
     <div class="item">
@@ -230,19 +262,52 @@ function renderCategory(cat, items) {
   }).join("");
 }
 
+function renderSkeletons() {
+  CATEGORIES.forEach(cat => {
+    const list = document.querySelector(`[data-list="${cat}"]`);
+    list.innerHTML = '<div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>';
+  });
+  if (currentTopic) {
+    const list = document.getElementById("custom-list");
+    if (list) list.innerHTML = '<div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>';
+  }
+}
+
+function renderCategory(cat, items) {
+  document.querySelector(`[data-list="${cat}"]`).innerHTML = itemsHtml(items);
+}
+
+function renderCustomTopicSection(customTopic) {
+  customContainer.innerHTML = "";
+  navExtra.innerHTML = "";
+  if (!customTopic || !customTopic.topic) return;
+
+  navExtra.innerHTML = `<a href="#custom-topic">${escapeHtml(customTopic.topic)}</a>`;
+
+  const section = document.createElement("section");
+  section.className = "category";
+  section.id = "custom-topic";
+  section.innerHTML = `<h2>${escapeHtml(customTopic.topic)}</h2><div class="list" id="custom-list"></div>`;
+  customContainer.appendChild(section);
+  document.getElementById("custom-list").innerHTML = itemsHtml(customTopic.items);
+}
+
 async function loadDigest() {
   refreshBtn.disabled = true;
+  topicBtn.disabled = true;
   refreshBtn.textContent = "Loading...";
   statusEl.textContent = "Fetching latest headlines...";
   statusEl.classList.remove("error");
   renderSkeletons();
 
   try {
-    const res = await fetch("/api/news");
+    const qs = currentTopic ? `?topic=${encodeURIComponent(currentTopic)}` : "";
+    const res = await fetch(`/api/news${qs}`);
     if (!res.ok) throw new Error(`Server returned ${res.status}`);
     const data = await res.json();
 
     CATEGORIES.forEach(cat => renderCategory(cat, data.categories[cat]));
+    renderCustomTopicSection(data.custom_topic);
 
     const generated = new Date(data.generated_at);
     let msg = `Updated ${generated.toLocaleTimeString()}`;
@@ -259,11 +324,20 @@ async function loadDigest() {
     });
   } finally {
     refreshBtn.disabled = false;
+    topicBtn.disabled = false;
     refreshBtn.textContent = "Get Today's Digest";
   }
 }
 
 refreshBtn.addEventListener("click", loadDigest);
+topicBtn.addEventListener("click", () => {
+  const topic = topicInput.value.trim();
+  currentTopic = topic || null;
+  loadDigest();
+});
+topicInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") topicBtn.click();
+});
 </script>
 </body>
 </html>

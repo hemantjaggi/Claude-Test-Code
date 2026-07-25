@@ -15,6 +15,7 @@ Then open: http://localhost:8766
 import json
 import os
 from http.server import HTTPServer, BaseHTTPRequestHandler
+from urllib.parse import urlparse, parse_qs
 
 from news_digest import build_digest
 
@@ -29,11 +30,13 @@ class Handler(BaseHTTPRequestHandler):
             print(f"  [{args[1]}] {args[0]}")
 
     def do_GET(self):
-        path = self.path.split("?")[0]
+        parsed = urlparse(self.path)
+        path = parsed.path
 
         if path == "/api/news":
+            topic = parse_qs(parsed.query).get("topic", [""])[0].strip() or None
             try:
-                digest = build_digest()
+                digest = build_digest(custom_topic=topic)
                 body = json.dumps(digest).encode("utf-8")
                 self.send_response(200)
                 self.send_header("Content-Type", "application/json")
