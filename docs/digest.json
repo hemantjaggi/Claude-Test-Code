@@ -1,70 +1,35 @@
 {
-  "generated_at": "2026-07-25T03:39:15.365535+00:00",
+  "generated_at": "2026-07-25T23:32:14.777207+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "PM Modi thanks people for responses, positive suggestions received for midnight video",
-        "link": "https://www.thehindu.com/news/national/pm-modi-thanks-people-for-responses-positive-suggestions-received-for-midnight-video/article71265125.ece",
-        "source": "The Hindu",
-        "time_ago": "1h ago",
-        "summary": "Prime Minister Narendra Modi's outreach to the youth came four days after thousands of students led by the Cockroach Janta Party (CJP) took part in the 'Sansad Chalo' march to press for their demand for the resignation o",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "20-yr-old army officer's son dies after car falls into open drain in south Delhi",
-        "link": "https://timesofindia.indiatimes.com/city/delhi/20-year-old-us-student-army-officers-son-dies-as-car-plunges-into-open-drain-in-south-delhi/articleshow/132617481.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "Tragedy struck Vasant Kunj when a 20-year-old student named Yashvendra lost his life after his car rolled into an open drain. Having just returned from the United States, he was accompanied by a woman who managed to esca",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "'No talks unless Dharmendra Pradhan resigns': CJP warns of tougher protest",
-        "link": "https://timesofindia.indiatimes.com/city/delhi/no-point-in-talks-if-dharmendra-pradhan-doesnt-resign-well-take-tougher-stand-cjp/articleshow/132617768.cms",
-        "source": "Times of India",
-        "time_ago": "49m ago",
-        "summary": "The Cockroach Janta Party continues its protest demanding Union Education Minister Dharmendra Pradhan's resignation.  They received positive responses on compensation and legal cases during recent government meetings.  H",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
     "world": [
       {
-        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-        "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
+        "title": "What\u2019s next for Venezuela\u2019s path to recovery from devastating earthquakes?",
+        "link": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
+        "source": "Al Jazeera",
         "time_ago": "1h ago",
-        "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+        "summary": "The cost of reconstruction is expected to run into the tens of billions, even as the country faces numerous obstacles.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "IOC rejects human rights group\u2019s complaint against Trump ally Infantino",
-        "link": "https://www.aljazeera.com/sports/2026/7/24/ioc-rejects-human-rights-groups-complaint-against-trump-ally-infantino?traffic_source=rss",
+        "title": "The Global South is being forced to choose creditors over children",
+        "link": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "IOC says the complaint against its member and FIFA chief Infantino fell outside its ethics committee\u2019s jurisdiction.",
+        "time_ago": "8h ago",
+        "summary": "The education of millions of children is at risk because of the current global financial order. We need change",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "\u2018The show must go on\u2019: Trump returns to rescheduled White House press gala",
-        "link": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
+        "title": "What\u2019s behind the ICC investigation into Karim Khan?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "40m ago",
-        "summary": "US president makes jokes, mocks opponents at correspondents' dinner that was halted by a shooting in April.",
+        "time_ago": "10h ago",
+        "summary": "Lawyers for the ICC\u2019s ousted Chief Prosecutor Karim Khan say he is the victim of a political witchhunt",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -73,68 +38,33 @@
     ],
     "sports": [
       {
-        "title": "NBA odds: LeBron James signing with 76ers causes massive movement in futures markets",
-        "link": "https://www.cbssports.com/betting/news/nba-odds-lebron-james-signing-with-76ers-causes-massive-movement-in-futures-markets/",
+        "title": "Big-hitting Marsh helps Sunrisers beat Brave for first win",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cedjn5eey19o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "6h ago",
+        "summary": "Mitch Marsh hits 69 off 34 balls to help Sunrisers Leeds secure their first win of the 2026 men's Hundred as they beat Southern Brave by five runs at Headingley.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Ravindra stars as Welsh Fire beat MI London to continue winning start",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/c934l1xp8jqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "Rachin Ravindra's superb 98 from 44 balls helps Welsh Fire win their second game in a row in The Hundred, beating MI London by 15 runs.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "UFC Fight Night start time for Magomed Ankalaev vs. Bogdan Guskov: Where to watch live on Paramount+",
+        "link": "https://www.cbssports.com/ufc/news/ufc-fight-night-start-time-magomed-ankalaev-bogdan-guskov-where-to-watch-paramount/",
         "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "The King is headed to Philadelphia and here's how oddsmakers have reacted to the news",
+        "time_ago": "8h ago",
+        "summary": "Light heavyweight collide in the main event from Abu Dhabi",
         "covered_by": [
-          "BBC Sport",
           "CBS Sports"
-        ]
-      },
-      {
-        "title": "LeBron chooses 76ers, calls it his 'last decision'...",
-        "link": "https://www.espn.com/nba/story/_/id/49440164/lebron-chooses-76ers-sign-2-year-8-million-contract",
-        "source": "ESPN",
-        "time_ago": "1m ago",
-        "summary": "LeBron James, after considering retirement, is continuing his NBA career with the 76ers. James is taking a two-year, $8 million deal, Klutch Sports Group CEO Rich Paul told ESPN's Shams Charania.",
-        "covered_by": [
-          "CBS Sports",
-          "ESPN"
-        ]
-      },
-      {
-        "title": "Obama holds surprise visit with WNBA All-Stars",
-        "link": "https://www.espn.com/wnba/story/_/id/49442330/former-president-obama-surprises-wnba-all-stars-practice",
-        "source": "ESPN",
-        "time_ago": "1m ago",
-        "summary": "Former President Barack Obama visited with the WNBA All-Stars on Friday, professing his fandom for the women's game and taking photos with the players, including Caitlin Clark and Angel Reese.",
-        "covered_by": [
-          "CBS Sports",
-          "ESPN"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
-        "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Forgot your Google password? Now you can log in with a selfie.",
-        "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
-        "covered_by": [
-          "Ars Technica"
-        ]
-      },
-      {
-        "title": "After backlash, Meta pauses plan to \u2018rate limit\u2019 its smart glasses",
-        "link": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-        "source": "The Verge",
-        "time_ago": "",
-        "summary": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't req",
-        "covered_by": [
-          "The Verge"
         ]
       }
     ],
@@ -143,7 +73,7 @@
         "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
         "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
         "source": "Ars Technica",
-        "time_ago": "6h ago",
+        "time_ago": "1d ago",
         "summary": "Models are improving quickly, but the cheaper options are often good enough.",
         "covered_by": [
           "Ars Technica",
@@ -155,7 +85,7 @@
         "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
         "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "23h ago",
         "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
         "covered_by": [
           "Ars Technica",
@@ -167,15 +97,88 @@
         "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
         "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn\u2019t catch.",
         "covered_by": [
           "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+        "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+        "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+        "source": "Ars Technica",
+        "time_ago": "5h ago",
+        "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+        "covered_by": [
+          "Ars Technica",
           "TechCrunch"
+        ]
+      },
+      {
+        "title": "Forgot your Google password? Now you can log in with a selfie.",
+        "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+        "source": "Ars Technica",
+        "time_ago": "2d ago",
+        "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "From one paper leak protest to another: Full circle for Dharmendra Pradhan",
+        "link": "https://timesofindia.indiatimes.com/india/from-one-paper-leak-protest-to-another-full-circle-for-dharmendra-pradhan/articleshow/132635135.cms",
+        "source": "Times of India",
+        "time_ago": "58m ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Congress was wary of CJP but later joined it in hailing victory",
+        "link": "https://timesofindia.indiatimes.com/india/congress-was-wary-of-cjp-but-later-joined-it-in-hailing-victory/articleshow/132633403.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Jantar Mantar protest updates: President accepts Dharmendra Pradhan's resignation, Pralhad Joshi to take charge of Education Ministry",
+        "link": "https://www.thehindu.com/news/national/jantar-mantar-delhi-student-protest-cjp-government-talks-sonam-wangchuk-hunger-strike-live-updates-july-25-2026/article71265108.ece",
+        "source": "The Hindu",
+        "time_ago": "3m ago",
+        "summary": "Victory of students who are future of India, says Rahul Gandhi after Dharmendra Pradhan's resignation; CJP marks \u2018first victory\u2019 after Pradhan\u2019s resignation announcement, Abhijeet Dipke says two demands remain",
+        "covered_by": [
+          "NDTV",
+          "The Hindu"
         ]
       }
     ]
   },
   "custom_topic": null,
-  "errors": []
+  "errors": [
+    "ESPN: no element found: line 1, column 0"
+  ]
 }
