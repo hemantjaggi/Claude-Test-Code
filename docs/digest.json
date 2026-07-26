@@ -1,70 +1,107 @@
 {
-  "generated_at": "2026-07-25T23:32:14.777207+00:00",
+  "generated_at": "2026-07-26T23:30:58.476361+00:00",
   "categories": {
+    "india": [
+      {
+        "title": "India fuels Bitchat's global rise despite takedown order",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/india-fuels-bitchats-global-rise-despite-takedown-order/articleshow/132650094.cms",
+        "source": "Times of India",
+        "time_ago": "44m ago",
+        "summary": "Bitchat, an internet-free messaging app, is gaining popularity in India.  The app saw significant download increases in the week ending July 24.  India accounted for over half of Bitchat's global downloads during this pe",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Police nab youth with methamphetamine",
+        "link": "https://www.thehindu.com/news/national/kerala/police-nab-youth-with-methamphetamine/article71270229.ece",
+        "source": "The Hindu",
+        "time_ago": "6h ago",
+        "summary": "The police seized 93.63 grams of methamphetamine in Shamnu\u2019s possession",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "July FPI inflows touch Rs 42,000 crore, top February record",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/july-fpi-inflows-touch-rs-42000-crore-top-february-record/articleshow/132650064.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "Foreign portfolio investors became net buyers of Indian equities in July. This marked a reversal after four months of significant outflows from the market. Total foreign inflows reached their strongest point this year, s",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
     "world": [
       {
-        "title": "What\u2019s next for Venezuela\u2019s path to recovery from devastating earthquakes?",
-        "link": "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss",
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump\u2019s border czar probes possible vetting failures after ICE shooting",
+        "link": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
         "source": "Al Jazeera",
         "time_ago": "1h ago",
-        "summary": "The cost of reconstruction is expected to run into the tens of billions, even as the country faces numerous obstacles.",
+        "summary": "ICE officer under review for alleged mental health struggles, violent behavior amid deadly shooting case in Maine.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "The Global South is being forced to choose creditors over children",
-        "link": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "8h ago",
-        "summary": "The education of millions of children is at risk because of the current global financial order. We need change",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "What\u2019s behind the ICC investigation into Karim Khan?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "10h ago",
-        "summary": "Lawyers for the ICC\u2019s ousted Chief Prosecutor Karim Khan say he is the victim of a political witchhunt",
+        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+        "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       }
     ],
-    "sports": [
+    "tech": [
       {
-        "title": "Big-hitting Marsh helps Sunrisers beat Brave for first win",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cedjn5eey19o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "6h ago",
-        "summary": "Mitch Marsh hits 69 off 34 balls to help Sunrisers Leeds secure their first win of the 2026 men's Hundred as they beat Southern Brave by five runs at Headingley.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Ravindra stars as Welsh Fire beat MI London to continue winning start",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/c934l1xp8jqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
+        "title": "Can Apple make smart glasses that aren\u2019t a constant privacy threat?",
+        "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+        "source": "TechCrunch",
         "time_ago": "2h ago",
-        "summary": "Rachin Ravindra's superb 98 from 44 balls helps Welsh Fire win their second game in a row in The Hundred, beating MI London by 15 runs.",
+        "summary": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
         "covered_by": [
-          "BBC Sport"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "UFC Fight Night start time for Magomed Ankalaev vs. Bogdan Guskov: Where to watch live on Paramount+",
-        "link": "https://www.cbssports.com/ufc/news/ufc-fight-night-start-time-magomed-ankalaev-bogdan-guskov-where-to-watch-paramount/",
-        "source": "CBS Sports",
-        "time_ago": "8h ago",
-        "summary": "Light heavyweight collide in the main event from Abu Dhabi",
+        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+        "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
         "covered_by": [
-          "CBS Sports"
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
+        "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+        "covered_by": [
+          "TechCrunch"
         ]
       }
     ],
@@ -73,7 +110,7 @@
         "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
         "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
         "source": "Ars Technica",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Models are improving quickly, but the cheaper options are often good enough.",
         "covered_by": [
           "Ars Technica",
@@ -82,11 +119,11 @@
         ]
       },
       {
-        "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
-        "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
+        "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
         "source": "TechCrunch",
-        "time_ago": "23h ago",
-        "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "time_ago": "2d ago",
+        "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -97,7 +134,7 @@
         "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
         "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
         "source": "TechCrunch",
-        "time_ago": "2d ago",
+        "time_ago": "3d ago",
         "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn\u2019t catch.",
         "covered_by": [
           "Ars Technica",
@@ -106,73 +143,37 @@
         ]
       }
     ],
-    "tech": [
+    "sports": [
       {
-        "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-        "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+        "title": "Highlights - Joshua beats Prenga after early scare",
+        "link": "https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "11h ago",
+        "summary": "In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-        "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-        "source": "Ars Technica",
-        "time_ago": "5h ago",
-        "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+        "title": "Spence Jr to retire after losing comeback fight",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/cz05133k3nxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "15h ago",
+        "summary": "Former welterweight world champion Errol Spence Jr will retire from boxing after losing his comeback fight to Tim Tszyu in Sydney.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Forgot your Google password? Now you can log in with a selfie.",
-        "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+        "title": "Big-hitting Marsh helps Sunrisers beat Brave for first win",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cedjn5eey19o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1d ago",
+        "summary": "Mitch Marsh hits 69 off 34 balls to help Sunrisers Leeds secure their first win of the 2026 men's Hundred as they beat Southern Brave by five runs at Headingley.",
         "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "From one paper leak protest to another: Full circle for Dharmendra Pradhan",
-        "link": "https://timesofindia.indiatimes.com/india/from-one-paper-leak-protest-to-another-full-circle-for-dharmendra-pradhan/articleshow/132635135.cms",
-        "source": "Times of India",
-        "time_ago": "58m ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Congress was wary of CJP but later joined it in hailing victory",
-        "link": "https://timesofindia.indiatimes.com/india/congress-was-wary-of-cjp-but-later-joined-it-in-hailing-victory/articleshow/132633403.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Jantar Mantar protest updates: President accepts Dharmendra Pradhan's resignation, Pralhad Joshi to take charge of Education Ministry",
-        "link": "https://www.thehindu.com/news/national/jantar-mantar-delhi-student-protest-cjp-government-talks-sonam-wangchuk-hunger-strike-live-updates-july-25-2026/article71265108.ece",
-        "source": "The Hindu",
-        "time_ago": "3m ago",
-        "summary": "Victory of students who are future of India, says Rahul Gandhi after Dharmendra Pradhan's resignation; CJP marks \u2018first victory\u2019 after Pradhan\u2019s resignation announcement, Abhijeet Dipke says two demands remain",
-        "covered_by": [
-          "NDTV",
-          "The Hindu"
+          "BBC Sport"
         ]
       }
     ]
