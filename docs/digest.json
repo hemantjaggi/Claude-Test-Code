@@ -1,107 +1,70 @@
 {
-  "generated_at": "2026-07-26T23:30:58.476361+00:00",
+  "generated_at": "2026-07-27T23:35:46.016857+00:00",
   "categories": {
-    "india": [
+    "sports": [
       {
-        "title": "India fuels Bitchat's global rise despite takedown order",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/india-fuels-bitchats-global-rise-despite-takedown-order/articleshow/132650094.cms",
-        "source": "Times of India",
-        "time_ago": "44m ago",
-        "summary": "Bitchat, an internet-free messaging app, is gaining popularity in India.  The app saw significant download increases in the week ending July 24.  India accounted for over half of Bitchat's global downloads during this pe",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Police nab youth with methamphetamine",
-        "link": "https://www.thehindu.com/news/national/kerala/police-nab-youth-with-methamphetamine/article71270229.ece",
-        "source": "The Hindu",
-        "time_ago": "6h ago",
-        "summary": "The police seized 93.63 grams of methamphetamine in Shamnu\u2019s possession",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "July FPI inflows touch Rs 42,000 crore, top February record",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/july-fpi-inflows-touch-rs-42000-crore-top-february-record/articleshow/132650064.cms",
-        "source": "Times of India",
+        "title": "Free MLB home run picks, odds: Willson Contreras features in expert's top HR player props for Monday, July 27",
+        "link": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-willson-contreras-features-in-experts-top-hr-player-props-for-monday-july-27/",
+        "source": "CBS Sports",
         "time_ago": "1h ago",
-        "summary": "Foreign portfolio investors became net buyers of Indian equities in July. This marked a reversal after four months of significant outflows from the market. Total foreign inflows reached their strongest point this year, s",
+        "summary": "SportsLine expert Angelo \"Amags\" Magliocca has found his top MLB home run props picks for Monday, July 27",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Jacks fifty helps MI London beat Brave in last-ball thriller",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cvg097mp2lmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "Will Jacks' 54 off 41 balls helps MI London to a three-wicket win over Southern Brave in a nail-biting conclusion at the Utilita Bowl in Southampton.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Salah, Stones & Sancho - who are the Premier League free agents?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "9h ago",
+        "summary": "BBC Sport takes a look at some of the notable out-of-contract players who playing in the English top flight last season.",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ],
     "world": [
       {
-        "title": "What we know so far about the Berlin Pride ramming attack",
-        "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Trump\u2019s border czar probes possible vetting failures after ICE shooting",
-        "link": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
+        "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
+        "link": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "ICE officer under review for alleged mental health struggles, violent behavior amid deadly shooting case in Maine.",
+        "time_ago": "2h ago",
+        "summary": "A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-        "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+        "title": "A Japanese town wrestles with identity after protests over its first mosque",
+        "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+        "time_ago": "1h ago",
+        "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
+        "covered_by": [
+          "BBC",
+          "CNN"
+        ]
+      },
+      {
+        "title": "Spain protests mass \u2018touristification\u2019 of Mallorca",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spain-protests-mass-touristification-of-mallorca?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Thousands of protesters filled the streets of Palma to denounce mass tourism.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Can Apple make smart glasses that aren\u2019t a constant privacy threat?",
-        "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-        "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
-        "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-        "covered_by": [
-          "TechCrunch"
         ]
       }
     ],
@@ -110,7 +73,7 @@
         "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
         "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
         "source": "Ars Technica",
-        "time_ago": "2d ago",
+        "time_ago": "3d ago",
         "summary": "Models are improving quickly, but the cheaper options are often good enough.",
         "covered_by": [
           "Ars Technica",
@@ -119,61 +82,96 @@
         ]
       },
       {
-        "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
-        "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+        "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
+        "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
         "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+        "time_ago": "6h ago",
+        "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       },
       {
-        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-        "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-        "source": "TechCrunch",
-        "time_ago": "3d ago",
-        "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn\u2019t catch.",
+        "title": "\u201cGoogle and Reddit do not own the Internet,\" web scraper says after court win",
+        "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+        "source": "Ars Technica",
+        "time_ago": "3h ago",
+        "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       }
     ],
-    "sports": [
+    "tech": [
       {
-        "title": "Highlights - Joshua beats Prenga after early scare",
-        "link": "https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "11h ago",
-        "summary": "In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia.",
+        "title": "Amazon\u2019s new satellite network for mobile phones could turn up the heat on SpaceX",
+        "link": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Spence Jr to retire after losing comeback fight",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/cz05133k3nxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "15h ago",
-        "summary": "Former welterweight world champion Errol Spence Jr will retire from boxing after losing his comeback fight to Tim Tszyu in Sydney.",
+        "title": "\u201cGoogle and Reddit do not own the Internet,\" web scraper says after court win",
+        "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+        "source": "Ars Technica",
+        "time_ago": "3h ago",
+        "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
-        "title": "Big-hitting Marsh helps Sunrisers beat Brave for first win",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cedjn5eey19o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1d ago",
-        "summary": "Mitch Marsh hits 69 off 34 balls to help Sunrisers Leeds secure their first win of the 2026 men's Hundred as they beat Southern Brave by five runs at Headingley.",
+        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+        "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+        "source": "Ars Technica",
+        "time_ago": "1h ago",
+        "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
         "covered_by": [
-          "BBC Sport"
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Need out-of-box thinking to plug paper leaks, says Supreme Court",
+        "link": "https://timesofindia.indiatimes.com/india/need-out-of-box-thinking-to-plug-paper-leaks-says-supreme-court/articleshow/132672742.cms",
+        "source": "Times of India",
+        "time_ago": "35m ago",
+        "summary": "A high-powered committee for education reform has been formed. The Supreme Court seeks \"out-of-box thinking\" to address sector problems. The court will hear the NEET paper leak petition on August 3. Government needs to e",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Congress chief targets Amit Shah over \u2018flood-free Assam\u2019 promise as he attacks BJP on floods",
+        "link": "https://www.thehindu.com/news/national/assam/congress-chief-targets-amit-shah-over-flood-free-assam-promise-as-he-attacks-bjp-on-floods/article71271734.ece",
+        "source": "The Hindu",
+        "time_ago": "1h ago",
+        "summary": "Congress president Mallikarjun Kharge urged the Union and Assam governments to mobilise every available resource for rescue, relief and rehabilitation",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "India summons Ukraine envoy for ship attack, Kyiv seeks talks",
+        "link": "https://timesofindia.indiatimes.com/india/india-summons-ukraine-envoy-for-ship-attack-kyiv-seeks-talks/articleshow/132670598.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ]
