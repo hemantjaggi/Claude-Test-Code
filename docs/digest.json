@@ -1,80 +1,13 @@
 {
-  "generated_at": "2026-07-27T23:35:46.016857+00:00",
+  "generated_at": "2026-07-28T23:31:33.415941+00:00",
   "categories": {
-    "sports": [
-      {
-        "title": "Free MLB home run picks, odds: Willson Contreras features in expert's top HR player props for Monday, July 27",
-        "link": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-willson-contreras-features-in-experts-top-hr-player-props-for-monday-july-27/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "SportsLine expert Angelo \"Amags\" Magliocca has found his top MLB home run props picks for Monday, July 27",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Jacks fifty helps MI London beat Brave in last-ball thriller",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cvg097mp2lmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Will Jacks' 54 off 41 balls helps MI London to a three-wicket win over Southern Brave in a nail-biting conclusion at the Utilita Bowl in Southampton.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Salah, Stones & Sancho - who are the Premier League free agents?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "9h ago",
-        "summary": "BBC Sport takes a look at some of the notable out-of-contract players who playing in the English top flight last season.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
-        "link": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "A Japanese town wrestles with identity after protests over its first mosque",
-        "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
-        "covered_by": [
-          "BBC",
-          "CNN"
-        ]
-      },
-      {
-        "title": "Spain protests mass \u2018touristification\u2019 of Mallorca",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/spain-protests-mass-touristification-of-mallorca?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Thousands of protesters filled the streets of Palma to denounce mass tourism.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
     "ai": [
       {
-        "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-        "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+        "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
         "source": "Ars Technica",
-        "time_ago": "3d ago",
-        "summary": "Models are improving quickly, but the cheaper options are often good enough.",
+        "time_ago": "1h ago",
+        "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -82,22 +15,22 @@
         ]
       },
       {
-        "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
-        "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+        "title": "\u201cGoogle and Reddit do not own the Internet,\" web scraper says after court win",
+        "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "\u201cGoogle and Reddit do not own the Internet,\" web scraper says after court win",
-        "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-        "source": "Ars Technica",
-        "time_ago": "3h ago",
-        "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+        "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
+        "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "source": "TechCrunch",
+        "time_ago": "23h ago",
+        "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
@@ -106,13 +39,12 @@
     ],
     "tech": [
       {
-        "title": "Amazon\u2019s new satellite network for mobile phones could turn up the heat on SpaceX",
-        "link": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+        "title": "Apple launches \u2018Upgrade\u2019 device leasing program in partnership with Klarna",
+        "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
+        "time_ago": "9h ago",
+        "summary": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that is driving up the price of hardware.",
         "covered_by": [
-          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
@@ -121,57 +53,123 @@
         "title": "\u201cGoogle and Reddit do not own the Internet,\" web scraper says after court win",
         "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
         "source": "Ars Technica",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "Ars Technica"
         ]
       },
       {
-        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+        "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
         "source": "Ars Technica",
         "time_ago": "1h ago",
-        "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+        "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "Ars Technica"
         ]
       }
     ],
     "india": [
       {
-        "title": "Need out-of-box thinking to plug paper leaks, says Supreme Court",
-        "link": "https://timesofindia.indiatimes.com/india/need-out-of-box-thinking-to-plug-paper-leaks-says-supreme-court/articleshow/132672742.cms",
+        "title": "NEET row: CBI chargesheets 13 in paper leak",
+        "link": "https://timesofindia.indiatimes.com/india/neet-row-cbi-chargesheets-13-in-paper-leak/articleshow/132696640.cms",
         "source": "Times of India",
-        "time_ago": "35m ago",
-        "summary": "A high-powered committee for education reform has been formed. The Supreme Court seeks \"out-of-box thinking\" to address sector problems. The court will hear the NEET paper leak petition on August 3. Government needs to e",
+        "time_ago": "38m ago",
+        "summary": "The CBI has filed a chargesheet against thirteen individuals in the NEET-UG 2026 paper leak case. These accused include three NTA subject experts and several middlemen involved in question distribution. The agency's inve",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Congress chief targets Amit Shah over \u2018flood-free Assam\u2019 promise as he attacks BJP on floods",
-        "link": "https://www.thehindu.com/news/national/assam/congress-chief-targets-amit-shah-over-flood-free-assam-promise-as-he-attacks-bjp-on-floods/article71271734.ece",
-        "source": "The Hindu",
+        "title": "Don't touch water bodies under garb of beautification, Supreme Court tells Bihar govt",
+        "link": "https://timesofindia.indiatimes.com/india/dont-touch-water-bodies-under-garb-of-beautification-supreme-court-tells-bihar-government/articleshow/132694515.cms",
+        "source": "Times of India",
         "time_ago": "1h ago",
-        "summary": "Congress president Mallikarjun Kharge urged the Union and Assam governments to mobilise every available resource for rescue, relief and rehabilitation",
+        "summary": "The Supreme Court has ordered the Bihar government to stop filling historic ponds in Darbhanga.  This action follows allegations that the state is filling water bodies for public amenities.  The court warned the state no",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "India summons Ukraine envoy for ship attack, Kyiv seeks talks",
-        "link": "https://timesofindia.indiatimes.com/india/india-summons-ukraine-envoy-for-ship-attack-kyiv-seeks-talks/articleshow/132670598.cms",
+        "title": "Defence minister Rajnath Singh unveils key policy reforms in Indian Coast Guard",
+        "link": "https://timesofindia.indiatimes.com/defence/news/rajnath-singh-unveils-key-policy-reforms-in-indian-coast-guard-to-promote-gender-parity-in-induction-streamline-ex-gratia-procedures/articleshow/132694730.cms",
         "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "",
+        "time_ago": "1h ago",
+        "summary": "Defence Minister Rajnath Singh introduced two key policy reforms for the Indian Coast Guard.  These reforms promote gender parity in officer induction and streamline ex-gratia payments.  Women candidates will now join th",
         "covered_by": [
           "The Hindu",
           "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Donald Trump and world leaders attend Lindsey Graham\u2019s funeral",
+        "link": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "Donald Trump said Lindsey Graham was a force in politics at the late senator's funeral in DC.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
+        "link": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "A magnitude 6.8 earthquake struck Japan's Kyushu island, causing building collapses, fires and widespread damage.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "What will it take to stop the conflict in Sudan?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "The army says it's retaken a key highway linking Khartoum to El-Obeid.",
+        "covered_by": [
+          "Al Jazeera",
+          "CNN"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "FIFA wants to sell World Cup stake to private investors: UEFA isn't happy and here's why",
+        "link": "https://www.cbssports.com/soccer/news/fifa-sell-world-cup-stake-to-private-investors-uefa-why-2026/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Here's what to know about the controversial proposal that raises questions about the future of the World Cup",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Crawley and Brook help Sunrisers beat Super Giants",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c0rd141y41do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1h ago",
+        "summary": "Leeds Sunrisers end Manchester Super Giants' unbeaten start to the season after chasing down 182 thanks to half-centuries from Mitch Marsh and Zak Crawley while Harry Brook chips in with 42.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "I turned down Love Island and won silver at the Commonwealth Games",
+        "link": "https://www.bbc.co.uk/news/articles/cg4dve90w90o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1h ago",
+        "summary": "Katie Shanahan was offered the chance to appear on the dating show last year - but decided she wanted to inspire a new generation of young swimmers.",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
