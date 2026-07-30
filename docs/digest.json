@@ -1,181 +1,180 @@
 {
-  "generated_at": "2026-07-29T23:32:31.513542+00:00",
+  "generated_at": "2026-07-30T23:34:09.456202+00:00",
   "categories": {
     "india": [
       {
-        "title": "Rahul Gandhi remarks row: BJP hits back, calls Congress MP's claim 'a pack of lies'",
-        "link": "https://timesofindia.indiatimes.com/india/rahul-gandhis-remarks-row-bjp-strikes-back-says-congress-mps-claim-a-pack-of-lies/articleshow/132724024.cms",
-        "source": "Times of India",
-        "time_ago": "35m ago",
-        "summary": "The BJP strongly objects if Rahul Gandhi called students an idiot.  They welcome the remark if it was self-directed by the Congress leader.  BJP leaders accused Rahul Gandhi of spreading falsehoods and misleading the nat",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Now, just one visit for NEET-UG counselling",
-        "link": "https://timesofindia.indiatimes.com/india/now-just-one-visit-for-neet-ug-counselling/articleshow/132723980.cms",
-        "source": "Times of India",
-        "time_ago": "54m ago",
-        "summary": "NEET-UG counselling now requires only one physical reporting for candidates seeking admission. Aspirants can complete subsequent document verification online while retaining their allotted seats. The Medical Counselling ",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "'Not going to let him get away': Rahul targets Shah over police action on NEET protesters",
-        "link": "https://timesofindia.indiatimes.com/india/not-going-to-let-him-get-away-rahul-gandhi-targets-amit-shah-over-police-action-on-neet-protesters-bjp-says-prove-it-or-apologise/articleshow/132721797.cms",
+        "title": "BJP submits breach of privilege notice against Rahul Gandhi",
+        "link": "https://timesofindia.indiatimes.com/india/bjp-submits-breach-of-privilege-notice-against-rahul-gandhi/articleshow/132750242.cms",
         "source": "Times of India",
         "time_ago": "2h ago",
-        "summary": "Rahul Gandhi accused Home Minister Amit Shah of police excesses against protesters.  He demanded Shah's dismissal and a Supreme Court-monitored probe into the actions.  Gandhi also blamed the RSS for the education sector",
+        "summary": "BJP submitted a privilege notice against Rahul Gandhi in Lok Sabha.  He is accused of demeaning Parliament and insulting citizens with his remarks.  BJP seeks an unconditional apology from the Congress leader.  The notic",
         "covered_by": [
+          "NDTV",
           "The Hindu",
           "Times of India"
         ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-        "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-        "source": "TechCrunch",
-        "time_ago": "46m ago",
-        "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are do",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
       },
       {
-        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-        "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-        "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-        "source": "TechCrunch",
-        "time_ago": "32m ago",
-        "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-        "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-        "source": "TechCrunch",
-        "time_ago": "46m ago",
-        "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are do",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-        "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-        "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-        "source": "TechCrunch",
-        "time_ago": "32m ago",
-        "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "New investigation shows how an Israeli settler escaped justice",
-        "link": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "A Palestinian rights' group found that an Israeli settler killed Awdah Hathaleen but is still escaping justice.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC",
-          "CNN"
-        ]
-      },
-      {
-        "title": "Trump threatens Iran strikes after attack on US base in Jordan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "\u201dIt\u2019s our turn.\u201d President Donald Trump says the US will hit Iran \u201cvery hard\u201d following an attack on US forces in Jordan",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Is FIFA selling parts of the World Cup to private investors?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "16 Indians, including 10 seamen, killed in Middle East conflict: Government",
+        "link": "https://timesofindia.indiatimes.com/india/16-indians-including-10-seamen-killed-in-middle-east-conflict-government/articleshow/132750491.cms",
+        "source": "Times of India",
         "time_ago": "1h ago",
-        "summary": "This week FIFA announced plans to form a new subsidiary company to run part of the World Cup and offer a 20% stake.",
+        "summary": "Sixteen Indian nationals, including ten seafarers, have died in the West Asia conflict. Seventy-five other Indian nationals sustained injuries in the same regional conflict. In a separate incident, twelve Indian national",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Release 3,500 cusecs of water to Tamil Nadu: Cauvery authority to Karnataka",
+        "link": "https://timesofindia.indiatimes.com/india/release-3500-cusecs-of-water-to-tamil-nadu-cauvery-authority-to-karnataka/articleshow/132750252.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "The Cauvery Water Management Authority ordered Karnataka to release 3,500 cusecs daily. This directive mandates a total release of 4 TMC of water to Tamil Nadu. Karnataka had appealed the committee's order citing low res",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Mauricio Pochettino close to signing new USMNT deal through 2030 World Cup, per reports",
-        "link": "https://www.cbssports.com/soccer/news/usmnt-maurichio-pochettino-new-deal-close-2020-world-cup/",
+        "title": "Ranking the top 10 NFL players at every position, plus best training camp battles and red flags for contenders",
+        "link": "https://www.cbssports.com/nfl/news/nfl-position-rankings-training-camp-battles/",
         "source": "CBS Sports",
         "time_ago": "6h ago",
-        "summary": "Pochettino took the job in September of 2024 with this summer's World Cup top of mind but will now have a full four year cycle ahead of him",
+        "summary": "See who made the cut in our position rankings, then catch up on the biggest camp competitions and the flaws that could derail Super Bowl hopefuls",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Pretorius drives Spirit to win over MI London",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/c20dp9lrn4zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Lhuan-dre Pretorius recovers from a heavy collision in the field to hit 64 as London Spirit beat MI London by seven wickets for their first win in this season's Hundred.",
+        "title": "Eddie Howe leaves Newcastle weeks before Premier League season begins",
+        "link": "https://www.cbssports.com/soccer/news/eddie-howe-exits-newcastle-preseason-premier-league/",
+        "source": "CBS Sports",
+        "time_ago": "6h ago",
+        "summary": "Howe spent nearly five years at the club and led the team to their first trophy in 70 years with the EFL Cup triumph in 2025",
         "covered_by": [
-          "BBC Sport"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Jacks hits 65 to become all-time Hundred top scorer",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/c98vjg4q090o?at_medium=RSS&at_campaign=rss",
+        "title": "Southern Brave defend 128 to seal first win of the season",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cj631362wzgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "Will Jacks makes 65 off 44 balls against London Spirit at The Oval as he becomes The Hundreds leading run scorer.",
+        "time_ago": "1h ago",
+        "summary": "Southern Brave secure their first win in the men's Hundred by successfully defending a total of 128 to defeat Birmingham Phoenix by 12 runs at the Utilita Bowl.",
         "covered_by": [
           "BBC Sport"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Will Saudi Arabia be dragged further into the war in Iran?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+        "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3m ago",
+        "summary": "Israel and Hamas have yet to comment on the announcement.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Watch: Giant iceberg turns over near  Greenland's coast",
+        "link": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "12h ago",
+        "summary": "Video captured by a passerby showed the moment the iceberg collapsed, creating a big wave.",
+        "covered_by": [
+          "BBC",
+          "CNN"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+        "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+        "source": "TechCrunch",
+        "time_ago": "8m ago",
+        "summary": "The former OpenAI researcher\u2019s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
+        "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
+        "source": "Ars Technica",
+        "time_ago": "1h ago",
+        "summary": "The iPhone and Mac sold well, but memory costs threaten further price increases.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "As experts have warned for the last two years, some companies \u2014 like Microsoft and now Google \u2014 are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "source": "TechCrunch",
+        "time_ago": "23h ago",
+        "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "In the Hugging Face breach, OpenAI\u2019s hacker was noisy and fast \u2014 but not unstoppable",
+        "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Chrome may get faster updates with no restart required",
+        "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+        "source": "Ars Technica",
+        "time_ago": "4h ago",
+        "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ]
