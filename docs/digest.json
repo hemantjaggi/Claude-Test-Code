@@ -1,153 +1,46 @@
 {
-  "generated_at": "2026-07-30T23:34:09.456202+00:00",
+  "generated_at": "2026-07-31T23:31:54.943850+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "BJP submits breach of privilege notice against Rahul Gandhi",
-        "link": "https://timesofindia.indiatimes.com/india/bjp-submits-breach-of-privilege-notice-against-rahul-gandhi/articleshow/132750242.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "BJP submitted a privilege notice against Rahul Gandhi in Lok Sabha.  He is accused of demeaning Parliament and insulting citizens with his remarks.  BJP seeks an unconditional apology from the Congress leader.  The notic",
-        "covered_by": [
-          "NDTV",
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "16 Indians, including 10 seamen, killed in Middle East conflict: Government",
-        "link": "https://timesofindia.indiatimes.com/india/16-indians-including-10-seamen-killed-in-middle-east-conflict-government/articleshow/132750491.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "Sixteen Indian nationals, including ten seafarers, have died in the West Asia conflict. Seventy-five other Indian nationals sustained injuries in the same regional conflict. In a separate incident, twelve Indian national",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Release 3,500 cusecs of water to Tamil Nadu: Cauvery authority to Karnataka",
-        "link": "https://timesofindia.indiatimes.com/india/release-3500-cusecs-of-water-to-tamil-nadu-cauvery-authority-to-karnataka/articleshow/132750252.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "The Cauvery Water Management Authority ordered Karnataka to release 3,500 cusecs daily. This directive mandates a total release of 4 TMC of water to Tamil Nadu. Karnataka had appealed the committee's order citing low res",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
     "sports": [
       {
-        "title": "Ranking the top 10 NFL players at every position, plus best training camp battles and red flags for contenders",
-        "link": "https://www.cbssports.com/nfl/news/nfl-position-rankings-training-camp-battles/",
+        "title": "'It keeps you on your toes': How Chelsea Gray's mastery of behind-the-back passes has fueled the Aces dynasty",
+        "link": "https://www.cbssports.com/wnba/news/chelsea-gray-behind-the-back-passes-aces-dynasty/",
         "source": "CBS Sports",
-        "time_ago": "6h ago",
-        "summary": "See who made the cut in our position rankings, then catch up on the biggest camp competitions and the flaws that could derail Super Bowl hopefuls",
+        "time_ago": "8h ago",
+        "summary": "'I don't think there's anyone in the game on both sides, men and women, who can do the things that Chelsea Gray can do,' A'ja Wilson said",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Eddie Howe leaves Newcastle weeks before Premier League season begins",
-        "link": "https://www.cbssports.com/soccer/news/eddie-howe-exits-newcastle-preseason-premier-league/",
-        "source": "CBS Sports",
-        "time_ago": "6h ago",
-        "summary": "Howe spent nearly five years at the club and led the team to their first trophy in 70 years with the EFL Cup triumph in 2025",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Southern Brave defend 128 to seal first win of the season",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cj631362wzgo?at_medium=RSS&at_campaign=rss",
+        "title": "Fifa executive says staff 'deceived' by Infantino plans",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
         "time_ago": "1h ago",
-        "summary": "Southern Brave secure their first win in the men's Hundred by successfully defending a total of 128 to defeat Birmingham Phoenix by 12 runs at the Utilita Bowl.",
+        "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "League has 'genuine concern' for members over cheating claim",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c39edvjxglwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "11h ago",
+        "summary": "An amateur cricket league says it has \"genuine concern for the welfare\" of Saltburn Cricket Club members over a recent finger clicking controversy that has made global headlines.",
         "covered_by": [
           "BBC Sport"
         ]
       }
     ],
-    "world": [
-      {
-        "title": "Will Saudi Arabia be dragged further into the war in Iran?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
-        "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "3m ago",
-        "summary": "Israel and Hamas have yet to comment on the announcement.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Watch: Giant iceberg turns over near  Greenland's coast",
-        "link": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "12h ago",
-        "summary": "Video captured by a passerby showed the moment the iceberg collapsed, creating a big wave.",
-        "covered_by": [
-          "BBC",
-          "CNN"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-        "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-        "source": "TechCrunch",
-        "time_ago": "8m ago",
-        "summary": "The former OpenAI researcher\u2019s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
-        "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
-        "source": "Ars Technica",
-        "time_ago": "1h ago",
-        "summary": "The iPhone and Mac sold well, but memory costs threaten further price increases.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-        "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "As experts have warned for the last two years, some companies \u2014 like Microsoft and now Google \u2014 are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
     "ai": [
       {
-        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-        "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-        "source": "TechCrunch",
-        "time_ago": "23h ago",
-        "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+        "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+        "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+        "source": "Ars Technica",
+        "time_ago": "2h ago",
+        "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -155,11 +48,11 @@
         ]
       },
       {
-        "title": "In the Hugging Face breach, OpenAI\u2019s hacker was noisy and fast \u2014 but not unstoppable",
-        "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+        "time_ago": "22h ago",
+        "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -170,11 +63,118 @@
         "title": "Chrome may get faster updates with no restart required",
         "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
         "source": "Ars Technica",
-        "time_ago": "4h ago",
+        "time_ago": "1d ago",
         "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+        "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+        "source": "Ars Technica",
+        "time_ago": "3h ago",
+        "summary": "\u201cWhat on earth is Google doing?\u201d Misinformation fears spur walk-back of AI tool.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "SpaceX won\u2019t remove all of xAI\u2019s unpermitted turbines for another year",
+        "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Apple stockpiles inventory as it braces for \u2018significant supply constraints\u2019",
+        "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "What triggered the mass migrant crossings into Ceuta?",
+        "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "5h ago",
+        "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "FIFA COO Lamour says staff deceived over Infantino\u2019s World Cup plan",
+        "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "5h ago",
+        "summary": "Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino's World Cup sell-off plan.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Three-year roadmap proposed for Hamas disarmament in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "6h ago",
+        "summary": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza's political transition",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "PM Modi: I forgive those who abused me & my mom, our job to guide them",
+        "link": "https://timesofindia.indiatimes.com/india/pm-modi-i-forgive-those-who-abused-me-my-mom-our-job-to-guide-them/articleshow/132778945.cms",
+        "source": "Times of India",
+        "time_ago": "57m ago",
+        "summary": "Prime Minister Narendra Modi will forgive young protesters accused of abuse. He stated these misguided children need guidance and correction, not punishment. The Prime Minister believes punishing them will not change cir",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Tahir Hussain gets life for IB staffer\u2019s killing in 2020 riots",
+        "link": "https://timesofindia.indiatimes.com/india/tahir-hussain-gets-life-for-ib-staffers-killing-in-2020-riots/articleshow/132778934.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "A Delhi court sentenced former AAP councillor Tahir Hussain and four others to life imprisonment.  They were convicted for the murder of Intelligence Bureau staffer Ankit Sharma.  The court found Sharma was lynched solel",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Migrant worker killed, another injured in terror attack in J&K\u2019s Kulgam",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/terrorists-open-fire-on-labourers-in-jk-kulgam/article71291738.ece",
+        "source": "The Hindu",
+        "time_ago": "3h ago",
+        "summary": "Preliminary reports suggest that suspected terrorists fired on non-locals after sundown and escaped from the spot; security forces cordoned off the area and launched a search operation",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ]
