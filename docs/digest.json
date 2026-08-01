@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-07-31T23:31:54.943850+00:00",
+  "generated_at": "2026-08-01T23:29:51.257380+00:00",
   "categories": {
-    "sports": [
+    "tech": [
       {
-        "title": "'It keeps you on your toes': How Chelsea Gray's mastery of behind-the-back passes has fueled the Aces dynasty",
-        "link": "https://www.cbssports.com/wnba/news/chelsea-gray-behind-the-back-passes-aces-dynasty/",
-        "source": "CBS Sports",
-        "time_ago": "8h ago",
-        "summary": "'I don't think there's anyone in the game on both sides, men and women, who can do the things that Chelsea Gray can do,' A'ja Wilson said",
+        "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+        "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "\u201cWhat on earth is Google doing?\u201d Misinformation fears spur walk-back of AI tool.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
-        "title": "Fifa executive says staff 'deceived' by Infantino plans",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
+        "title": "Sam Altman is still making the case for parenting via ChatGPT",
+        "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
         "covered_by": [
-          "BBC Sport"
+          "TechCrunch"
         ]
       },
       {
-        "title": "League has 'genuine concern' for members over cheating claim",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/c39edvjxglwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "11h ago",
-        "summary": "An amateur cricket league says it has \"genuine concern for the welfare\" of Saltburn Cricket Club members over a recent finger clicking controversy that has made global headlines.",
+        "title": "Google plans to exempt sanctioned nations from Android developer verification",
+        "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
         "covered_by": [
-          "BBC Sport"
+          "Ars Technica"
         ]
       }
     ],
@@ -39,7 +39,7 @@
         "title": "Reddit keeps its strange DMCA fight over Google search results alive",
         "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
         "source": "Ars Technica",
-        "time_ago": "2h ago",
+        "time_ago": "1d ago",
         "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
         "covered_by": [
           "Ars Technica",
@@ -51,7 +51,7 @@
         "title": "Anthropic says its own AI models breached three companies during security tests",
         "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
         "source": "TechCrunch",
-        "time_ago": "22h ago",
+        "time_ago": "1d ago",
         "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
         "covered_by": [
           "Ars Technica",
@@ -63,7 +63,7 @@
         "title": "Chrome may get faster updates with no restart required",
         "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
         "source": "Ars Technica",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
         "covered_by": [
           "Ars Technica",
@@ -72,71 +72,35 @@
         ]
       }
     ],
-    "tech": [
-      {
-        "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-        "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-        "source": "Ars Technica",
-        "time_ago": "3h ago",
-        "summary": "\u201cWhat on earth is Google doing?\u201d Misinformation fears spur walk-back of AI tool.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "SpaceX won\u2019t remove all of xAI\u2019s unpermitted turbines for another year",
-        "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple stockpiles inventory as it braces for \u2018significant supply constraints\u2019",
-        "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
     "world": [
       {
-        "title": "What triggered the mass migrant crossings into Ceuta?",
-        "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+        "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
+        "link": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Russian ship defies sanctions to send military vehicles to Mali",
+        "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "5h ago",
-        "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+        "time_ago": "26m ago",
+        "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "FIFA COO Lamour says staff deceived over Infantino\u2019s World Cup plan",
-        "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino's World Cup sell-off plan.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Three-year roadmap proposed for Hamas disarmament in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza's political transition",
+        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+        "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -145,36 +109,69 @@
     ],
     "india": [
       {
-        "title": "PM Modi: I forgive those who abused me & my mom, our job to guide them",
-        "link": "https://timesofindia.indiatimes.com/india/pm-modi-i-forgive-those-who-abused-me-my-mom-our-job-to-guide-them/articleshow/132778945.cms",
-        "source": "Times of India",
-        "time_ago": "57m ago",
-        "summary": "Prime Minister Narendra Modi will forgive young protesters accused of abuse. He stated these misguided children need guidance and correction, not punishment. The Prime Minister believes punishing them will not change cir",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Tahir Hussain gets life for IB staffer\u2019s killing in 2020 riots",
-        "link": "https://timesofindia.indiatimes.com/india/tahir-hussain-gets-life-for-ib-staffers-killing-in-2020-riots/articleshow/132778934.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "A Delhi court sentenced former AAP councillor Tahir Hussain and four others to life imprisonment.  They were convicted for the murder of Intelligence Bureau staffer Ankit Sharma.  The court found Sharma was lynched solel",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Migrant worker killed, another injured in terror attack in J&K\u2019s Kulgam",
-        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/terrorists-open-fire-on-labourers-in-jk-kulgam/article71291738.ece",
+        "title": "Eggs twice a week for students in Kolkata schools, says Bengal CM Suvendu Adhikari",
+        "link": "https://www.thehindu.com/news/national/west-bengal/suvendu-inaugurates-iskcons-kitchen-in-kolkata-for-school-mid-day-meals-to-benefit-44000-students/article71294219.ece",
         "source": "The Hindu",
-        "time_ago": "3h ago",
-        "summary": "Preliminary reports suggest that suspected terrorists fired on non-locals after sundown and escaped from the spot; security forces cordoned off the area and launched a search operation",
+        "time_ago": "1h ago",
+        "summary": "Mr. Adhikari reiterated that ISKCON follows a tradition of serving pure vegetarian food and that the State government had no intention of asking the organisation to alter its practices",
+        "covered_by": [
+          "NDTV",
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Tamil Nadu native arrested for running fake online Kerala lottery racket",
+        "link": "https://www.thehindu.com/news/national/kerala/tamil-nadu-native-arrested-for-running-fake-online-kerala-lottery-racket/article71295600.ece",
+        "source": "The Hindu",
+        "time_ago": "5h ago",
+        "summary": "According to police, he created websites designed to resemble official Kerala government lottery portal by using Kerala Lotteries\u00a0name, official logos and government address to mislead customers",
         "covered_by": [
           "The Hindu",
           "Times of India"
+        ]
+      },
+      {
+        "title": "Judge Bhuyan questions SC collegium\u2019s opacity",
+        "link": "https://timesofindia.indiatimes.com/india/judge-bhuyan-questions-sc-collegiums-opacity/articleshow/132798513.cms",
+        "source": "Times of India",
+        "time_ago": "46m ago",
+        "summary": "Justice Ujjal Bhuyan questioned the Supreme Court collegium's lack of transparency in judicial appointments. He noted that recent collegium resolutions provided no reasons for their decisions. This opacity, he argued, co",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Betting the Seahawks in 2026: See how Seattle's win total, Super Bowl odds are trending and our best bets",
+        "link": "https://www.cbssports.com/betting/news/betting-the-seahawks-in-2026-see-how-seattles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "8h ago",
+        "summary": "We're breaking down Seahawks futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Betting the Saints in 2026: See how New Orleans' win total, Super Bowl odds are trending and our best bets",
+        "link": "https://www.cbssports.com/betting/news/betting-the-saints-in-2026-see-how-new-orleans-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "8h ago",
+        "summary": "We're breaking down Saints futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1h ago",
+        "summary": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
