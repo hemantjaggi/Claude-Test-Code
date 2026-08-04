@@ -1,117 +1,115 @@
 {
-  "generated_at": "2026-08-03T23:38:12.364577+00:00",
+  "generated_at": "2026-08-04T23:34:00.983601+00:00",
   "categories": {
-    "india": [
+    "world": [
       {
-        "title": "Prashant Kishor breaches BJP\u2019s fortress in Bankipur",
-        "link": "https://www.thehindu.com/news/national/bihar/bankipur-bihar-bypoll-result-prashant-kishor-rekha-guptaneeraj-kumar-august-3-2026/article71299772.ece",
-        "source": "The Hindu",
-        "time_ago": "4h ago",
-        "summary": "Former political strategist wins byelection in Bihar Assembly constituency left vacant by BJP chief Nitin Nabin; BJP retains Manjalpur in Gujarat, while Congress holds on to Datia in Madhya Pradesh",
+        "title": "US court deals blow to Trump\u2019s bid to scrap climate grant programme",
+        "link": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "India crosses 20k organ transplants/yr for 1st time",
-        "link": "https://timesofindia.indiatimes.com/india/india-crosses-20k-organ-transplants/yr-for-1st-time/articleshow/132843064.cms",
-        "source": "Times of India",
-        "time_ago": "51m ago",
-        "summary": "India performed a record 20,138 organ transplants in 2025, a significant increase over previous years. Delhi-NCR led the nation in transplant procedures, while Tamil Nadu topped deceased organ donors. India now ranks thi",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Opposition toughens stand, washout of session likely",
-        "link": "https://timesofindia.indiatimes.com/india/opposition-toughens-stand-washout-of-session-likely/articleshow/132842585.cms",
-        "source": "Times of India",
+        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+        "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
         "time_ago": "1h ago",
-        "summary": "Parliament's monsoon session faces potential washout amid opposition demands. Opposition insists on discussing Ram temple donations and police actions. Union ministers criticize opposition for boycotting legislative proc",
+        "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Elon Musk\u2019s SpaceX reports losses but less than expected",
+        "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "sports": [
       {
-        "title": "UFC's Nascimento, 34, dies after apparent heart attack",
-        "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cvgwvnje09po?at_medium=RSS&at_campaign=rss",
+        "title": "Who am I? Guess Premier League star No 15",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c8jn129ymm3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "22m ago",
-        "summary": "MMA fighter Allan Nascimento dies at the age of 34, says the sport's leading promotion the UFC.",
+        "time_ago": "17h ago",
+        "summary": "Work out the identity of today's player in as few attempts as possible.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "BBC Sport"
         ]
       },
       {
-        "title": "2026 Fantasy football draft prep: Proven NFL experts reveal rankings, top 150, strategy, rookie picks",
-        "link": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-proven-nfl-experts-reveal-rankings-top-150-strategy-rookie-picks/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "SportsLine's 2026 Fantasy football draft guide includes Fantasy football auction values, keeper advice, top rookies, mock drafts and more",
+        "title": "The summer that changed Welsh football",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ced4lq94ldvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "18h ago",
+        "summary": "A decade on from Euro 2016, key figures tell BBC Sport Wales the inside story of the summer that changed Welsh football forever.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "BBC Sport"
         ]
       },
       {
-        "title": "Welsh Fire make light work of low-scoring Southern Brave",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cjwx9ddx883o?at_medium=RSS&at_campaign=rss",
+        "title": "Runs and records galore as Sunrisers beat Spirit in men's Hundred",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cy74ejvy705o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff.",
+        "time_ago": "1h ago",
+        "summary": "Sunrisers Leeds post the biggest score in Hundred history, making 241, on a night when numerous records were broken as the home side beat London Spirit by 37 runs at Headingley.",
         "covered_by": [
           "BBC Sport"
         ]
       }
     ],
-    "world": [
+    "india": [
       {
-        "title": "EU calls for stronger borders after Ceuta migrant crossings",
-        "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Trump says talks with Iran are \u2018last chance\u2019 to forge a deal",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "Udhayanidhi Stalin arrest updates: Leader of Opposition says statement wasn't intended as double entendre",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrest-trisha-comment-dmk-protests-tvk-vijay-tamil-nadu-politics-live-updates-august-4-2026/article71304357.ece",
+        "source": "The Hindu",
         "time_ago": "3h ago",
-        "summary": "US President Donald Trump said Iran has a \"last chance\" to reach a nuclear agreement.",
+        "summary": "He accused the TVK government of filing the case to distract the public from the issues faced by farmers he raised.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Drone slams into Russian beach, killing at least 7 people",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "Video shows the moment a drone struck a crowded beach near the Russian Black Sea resort of Gelendzhik.",
+        "title": "Hexavalent vaccine could improve India\u2019s immunisation programme: Study",
+        "link": "https://www.thehindu.com/sci-tech/health/hexavalent-vaccine-could-improve-indias-immunisation-programme-study/article71304936.ece",
+        "source": "The Hindu",
+        "time_ago": "2h ago",
+        "summary": "A study by the Union Health Ministry and partner organisations says introducing the hexavalent vaccine under the Universal Immunisation Programme could reduce the number of injections, ease pressure on health workers and",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "AAP chief warns of major movement if Centre continues forcing E20 petrol",
+        "link": "https://www.thehindu.com/news/national/aaps-agitation-against-e20-fuel-to-continue-people-must-join-protest-arvind-kejriwal/article71304653.ece",
+        "source": "The Hindu",
+        "time_ago": "3h ago",
+        "summary": "Former Delhi CM accuses Modi of \u2018dictatorial attitude\u2019\u00a0after security forces stop AAP leaders from marching to the Prime Minister\u2019s residence; he says only American farmers will benefit from move",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-        "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+        "title": "Texas halts data center connections to power grid amid overwhelming demand",
+        "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
         "source": "Ars Technica",
-        "time_ago": "3d ago",
-        "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
+        "time_ago": "2h ago",
+        "summary": "Governor who touted Texas as AI \u201cepicenter\u201d pauses data center grid connections.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -119,57 +117,61 @@
         ]
       },
       {
-        "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
-        "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "OpenAI\u2019s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+        "time_ago": "9h ago",
+        "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-        "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-        "source": "Ars Technica",
-        "time_ago": "3d ago",
-        "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
         "covered_by": [
-          "Ars Technica",
+          "TechCrunch",
           "The Verge"
         ]
       }
     ],
     "tech": [
       {
-        "title": "Who\u2019s legally to blame for Anthropic and OpenAI\u2019s autonomous AI hacks? It\u2019s complicated",
-        "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier lab",
+        "time_ago": "9h ago",
+        "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
         "covered_by": [
-          "TechCrunch"
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Apple challenges UK government\u2019s latest demand for iCloud backdoor: report",
-        "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+        "title": "Elon Musk repeatedly one-upped his execs on SpaceX\u2019s first earnings call",
+        "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.",
+        "time_ago": "1h ago",
+        "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
         "covered_by": [
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Google plans to exempt sanctioned nations from Android developer verification",
-        "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
-        "source": "Ars Technica",
-        "time_ago": "3d ago",
-        "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
         "covered_by": [
-          "Ars Technica"
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ]
