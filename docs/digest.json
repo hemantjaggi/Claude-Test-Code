@@ -1,35 +1,140 @@
 {
-  "generated_at": "2026-08-04T23:34:00.983601+00:00",
+  "generated_at": "2026-08-05T23:30:04.371218+00:00",
   "categories": {
+    "ai": [
+      {
+        "title": "SpaceX spooks investors with debut earnings report",
+        "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+        "source": "Ars Technica",
+        "time_ago": "9h ago",
+        "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Anthropic\u2019s AI used fake identities, malware in rogue attack on GitHub project",
+        "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+        "source": "Ars Technica",
+        "time_ago": "2h ago",
+        "summary": "Anthropic and OpenAI models\u2019 unprompted actions forced halt to UK cyber tests.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Google plans to kill Assistant on your phone on September 4",
+        "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+        "source": "Ars Technica",
+        "time_ago": "8h ago",
+        "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Google plans to kill Assistant on your phone on September 4",
+        "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+        "source": "Ars Technica",
+        "time_ago": "8h ago",
+        "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "SpaceX spooks investors with debut earnings report",
+        "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+        "source": "Ars Technica",
+        "time_ago": "9h ago",
+        "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+        "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Centre renews bid for delimitation bill as Rijiju reaches out to Rahul Gandhi",
+        "link": "https://timesofindia.indiatimes.com/india/rijiju-reaches-out-to-rahul-on-delimitation-bill/articleshow/132972861.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "The government is pushing its delimitation legislation to increase Lok Sabha seats.  This bill also proposes one-third reservation for women starting in 2029.  Opposition leader Rahul Gandhi rejected the government's out",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Deal on Hormuz shipping route reached with Oman, says Iran",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/deal-on-hormuz-shipping-route-reached-with-oman-says-iran/articleshow/132976583.cms",
+        "source": "Times of India",
+        "time_ago": "43m ago",
+        "summary": "Iran and Oman have agreed on a proposed shipping route through the Strait of Hormuz. This agreement is a potential step toward reopening the critical waterway for energy supplies. A joint statement from Tehran and Muscat",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Rajya Sabha passes by voice vote bill to raise Supreme Court judge strength",
+        "link": "https://timesofindia.indiatimes.com/india/rajya-sabha-passes-by-voice-vote-bill-to-raise-supreme-court-judge-strength/articleshow/132973008.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "The Rajya Sabha approved a bill to increase the Supreme Court's judge count. This legislation replaces an ordinance that raised the sanctioned strength to thirty-eight judges. The bill's passage aims to expedite case dis",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
     "world": [
       {
-        "title": "US court deals blow to Trump\u2019s bid to scrap climate grant programme",
-        "link": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-        "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+        "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+        "time_ago": "5h ago",
+        "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Elon Musk\u2019s SpaceX reports losses but less than expected",
-        "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
+        "title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
+        "link": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.",
+        "time_ago": "30m ago",
+        "summary": "Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten drastic actions over commercial rights plan.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -38,140 +143,33 @@
     ],
     "sports": [
       {
-        "title": "Who am I? Guess Premier League star No 15",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c8jn129ymm3o?at_medium=RSS&at_campaign=rss",
+        "title": "2026 Wyndham Championship longshot picks, PGA props: This golf parlay could return $40,000",
+        "link": "https://www.cbssports.com/betting/news/2026-wyndham-championship-longshot-parlay-picks-predictions-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "SportsLine's model simulated the Wyndham Championship 2026 10,000 times and revealed a PGA longshot parlay that could return more than $40,000 on just a $10 bet",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Rockets march on after easy win against Phoenix",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cr49d69ene3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "17h ago",
-        "summary": "Work out the identity of today's player in as few attempts as possible.",
+        "time_ago": "2h ago",
+        "summary": "Trent Rockets' continued their excellent form as they comfortably beat Birmingham Phoenix by seven wickets to move four points clear at the top of the men's Hundred table, with two matches to go in the league phase.",
         "covered_by": [
           "BBC Sport"
         ]
       },
       {
-        "title": "The summer that changed Welsh football",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ced4lq94ldvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "18h ago",
-        "summary": "A decade on from Euro 2016, key figures tell BBC Sport Wales the inside story of the summer that changed Welsh football forever.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Runs and records galore as Sunrisers beat Spirit in men's Hundred",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cy74ejvy705o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Sunrisers Leeds post the biggest score in Hundred history, making 241, on a night when numerous records were broken as the home side beat London Spirit by 37 runs at Headingley.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Udhayanidhi Stalin arrest updates: Leader of Opposition says statement wasn't intended as double entendre",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-arrest-trisha-comment-dmk-protests-tvk-vijay-tamil-nadu-politics-live-updates-august-4-2026/article71304357.ece",
-        "source": "The Hindu",
+        "title": "2026 Fantasy Football Fallout: Stefon Diggs changes the Commanders outlooks for McLaurin and Daniels",
+        "link": "https://www.cbssports.com/fantasy/football/news/stefon-diggs-washington-commanders-fantasy-football-2026-outlook/",
+        "source": "CBS Sports",
         "time_ago": "3h ago",
-        "summary": "He accused the TVK government of filing the case to distract the public from the issues faced by farmers he raised.",
+        "summary": "Stefon Diggs is joining the Commanders and here are the Fantasy Football implications",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Hexavalent vaccine could improve India\u2019s immunisation programme: Study",
-        "link": "https://www.thehindu.com/sci-tech/health/hexavalent-vaccine-could-improve-indias-immunisation-programme-study/article71304936.ece",
-        "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "A study by the Union Health Ministry and partner organisations says introducing the hexavalent vaccine under the Universal Immunisation Programme could reduce the number of injections, ease pressure on health workers and",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "AAP chief warns of major movement if Centre continues forcing E20 petrol",
-        "link": "https://www.thehindu.com/news/national/aaps-agitation-against-e20-fuel-to-continue-people-must-join-protest-arvind-kejriwal/article71304653.ece",
-        "source": "The Hindu",
-        "time_ago": "3h ago",
-        "summary": "Former Delhi CM accuses Modi of \u2018dictatorial attitude\u2019\u00a0after security forces stop AAP leaders from marching to the Prime Minister\u2019s residence; he says only American farmers will benefit from move",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Texas halts data center connections to power grid amid overwhelming demand",
-        "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-        "source": "Ars Technica",
-        "time_ago": "2h ago",
-        "summary": "Governor who touted Texas as AI \u201cepicenter\u201d pauses data center grid connections.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-        "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-        "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-        "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Elon Musk repeatedly one-upped his execs on SpaceX\u2019s first earnings call",
-        "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
-        "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-        "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "CBS Sports"
         ]
       }
     ]
