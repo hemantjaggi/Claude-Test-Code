@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-05T23:30:04.371218+00:00",
+  "generated_at": "2026-08-07T01:37:07.172516+00:00",
   "categories": {
     "ai": [
       {
-        "title": "SpaceX spooks investors with debut earnings report",
-        "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+        "title": "Suno hopes to go legit with watermarks for AI-generated music",
+        "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
         "source": "Ars Technica",
-        "time_ago": "9h ago",
-        "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
+        "time_ago": "5h ago",
+        "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -15,91 +15,91 @@
         ]
       },
       {
-        "title": "Anthropic\u2019s AI used fake identities, malware in rogue attack on GitHub project",
-        "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-        "source": "Ars Technica",
+        "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
+        "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "source": "TechCrunch",
         "time_ago": "2h ago",
-        "summary": "Anthropic and OpenAI models\u2019 unprompted actions forced halt to UK cyber tests.",
+        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Google plans to kill Assistant on your phone on September 4",
-        "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+        "title": "Anthropic will design its own hardware to power Claude",
+        "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
         "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+        "time_ago": "5h ago",
+        "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
         "covered_by": [
           "Ars Technica",
-          "The Verge"
+          "TechCrunch"
         ]
       }
     ],
     "tech": [
       {
-        "title": "Google plans to kill Assistant on your phone on September 4",
-        "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-        "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "SpaceX spooks investors with debut earnings report",
-        "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
-        "source": "Ars Technica",
-        "time_ago": "9h ago",
-        "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-        "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+        "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
+        "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+        "time_ago": "2h ago",
+        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
         "covered_by": [
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "ChatGPT brings unlimited text chats to free users",
+        "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Anthropic will design its own hardware to power Claude",
+        "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+        "source": "Ars Technica",
+        "time_ago": "5h ago",
+        "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+        "covered_by": [
+          "Ars Technica"
         ]
       }
     ],
     "india": [
       {
-        "title": "Centre renews bid for delimitation bill as Rijiju reaches out to Rahul Gandhi",
-        "link": "https://timesofindia.indiatimes.com/india/rijiju-reaches-out-to-rahul-on-delimitation-bill/articleshow/132972861.cms",
+        "title": "Settling with a few cases won't stop CBI probe: Supreme Court warns realtors",
+        "link": "https://timesofindia.indiatimes.com/india/settling-with-a-few-wont-stop-probe-sc-to-realtors/articleshow/133018378.cms",
         "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "The government is pushing its delimitation legislation to increase Lok Sabha seats.  This bill also proposes one-third reservation for women starting in 2029.  Opposition leader Rahul Gandhi rejected the government's out",
+        "time_ago": "47m ago",
+        "summary": "The Supreme Court will continue CBI investigations into defaulting realtors. Builders cannot escape probes by settling with only a few homebuyers. Many bank officials are found to have colluded with these builders. CBI h",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Deal on Hormuz shipping route reached with Oman, says Iran",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/deal-on-hormuz-shipping-route-reached-with-oman-says-iran/articleshow/132976583.cms",
+        "title": "UPI charges: Lok Sabha passes Bill for government to make changes",
+        "link": "https://timesofindia.indiatimes.com/india/upi-charges-lok-sabha-passes-bill-for-government-to-make-changes/articleshow/133017916.cms",
         "source": "Times of India",
-        "time_ago": "43m ago",
-        "summary": "Iran and Oman have agreed on a proposed shipping route through the Strait of Hormuz. This agreement is a potential step toward reopening the critical waterway for energy supplies. A joint statement from Tehran and Muscat",
+        "time_ago": "2h ago",
+        "summary": "The Lok Sabha has taken a vital step by passing a Bill aimed at simplifying tax rules to enhance investment attractiveness. The new legislation abolishes a limitation on specific electronic payment options, allowing bank",
         "covered_by": [
-          "NDTV",
+          "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Rajya Sabha passes by voice vote bill to raise Supreme Court judge strength",
-        "link": "https://timesofindia.indiatimes.com/india/rajya-sabha-passes-by-voice-vote-bill-to-raise-supreme-court-judge-strength/articleshow/132973008.cms",
-        "source": "Times of India",
+        "title": "FCRA Bill is \u2018religion-neutral\u2019, Shah assures Christian bodies",
+        "link": "https://www.thehindu.com/news/national/fcra-bill-is-religion-neutral-shah-assures-christian-bodies/article71314671.ece",
+        "source": "The Hindu",
         "time_ago": "2h ago",
-        "summary": "The Rajya Sabha approved a bill to increase the Supreme Court's judge count. This legislation replaces an ordinance that raised the sanctioned strength to thirty-eight judges. The bill's passage aims to expedite case dis",
+        "summary": "Delegation meets Amit Shah; member says Home Minister has told them that the government has \u201cno intention to harass the Christian community\u201d; forum flags \u2018deemed cessation of assets\u2019 clause; Bill could be taken up for di",
         "covered_by": [
           "The Hindu",
           "Times of India"
@@ -108,33 +108,33 @@
     ],
     "world": [
       {
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-        "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump imposes 15% tariff on key chip material to counter China",
+        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "5h ago",
-        "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+        "time_ago": "33m ago",
+        "summary": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
-        "link": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
+        "title": "Trump signs new executive orders seeking to limit US birthright citizenship",
+        "link": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "30m ago",
-        "summary": "Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten drastic actions over commercial rights plan.",
+        "time_ago": "4h ago",
+        "summary": "The US president's latest effort comes after Supreme Court ruled against his push to reinterpret constitutional right.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-        "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+        "title": "WHO chief: Ebola outbreak in DRC spreading at \u2018unprecedented rate\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/08-06-sv-ebola-update-funding-drc?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "The world's fastest-growing Ebola outbreak has killed 1,751 people in DR Congo.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -143,31 +143,33 @@
     ],
     "sports": [
       {
-        "title": "2026 Wyndham Championship longshot picks, PGA props: This golf parlay could return $40,000",
-        "link": "https://www.cbssports.com/betting/news/2026-wyndham-championship-longshot-parlay-picks-predictions-best-bets/",
+        "title": "Real Madrid star Vinicius Jr. signs new deal until 2032 despite Arsenal interest",
+        "link": "https://www.cbssports.com/soccer/news/real-madrid-vinicius-jr-signs-new-deal-2032-arsenal/",
         "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "SportsLine's model simulated the Wyndham Championship 2026 10,000 times and revealed a PGA longshot parlay that could return more than $40,000 on just a $10 bet",
+        "time_ago": "5h ago",
+        "summary": "The Brazilian striker has signed a new long term deal with the Spanish giants",
         "covered_by": [
+          "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Rockets march on after easy win against Phoenix",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cr49d69ene3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Trent Rockets' continued their excellent form as they comfortably beat Birmingham Phoenix by seven wickets to move four points clear at the top of the men's Hundred table, with two matches to go in the league phase.",
+        "title": "What should the FIFA presidency be, and who should lead it if Gianni Infantino loses battle to stay in charge?",
+        "link": "https://www.cbssports.com/soccer/news/fifa-president-gianni-infantino-battle-to-stay-in-charge/",
+        "source": "CBS Sports",
+        "time_ago": "7h ago",
+        "summary": "FIFA's scrapped plans to sell stakes in the World Cup has caused new levels of scrutiny around president Gianni Infantino, whose leadership has been called into question by multiple high-ranking bodies",
         "covered_by": [
-          "BBC Sport"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "2026 Fantasy Football Fallout: Stefon Diggs changes the Commanders outlooks for McLaurin and Daniels",
-        "link": "https://www.cbssports.com/fantasy/football/news/stefon-diggs-washington-commanders-fantasy-football-2026-outlook/",
+        "title": "2026 Hall of Fame Game where to watch: Carson Beck to start at QB for Cardinals",
+        "link": "https://www.cbssports.com/nfl/news/2026-hall-of-fame-game-where-to-watch-carson-beck-cardinals/",
         "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "Stefon Diggs is joining the Commanders and here are the Fantasy Football implications",
+        "time_ago": "1h ago",
+        "summary": "Football is officially back as the Panthers and Cardinals kick off the preseason in Canton, Ohio, with plenty of new faces on display",
         "covered_by": [
           "CBS Sports"
         ]
