@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-08-07T01:37:07.172516+00:00",
+  "generated_at": "2026-08-07T23:07:09.895285+00:00",
   "categories": {
+    "sports": [
+      {
+        "title": "How to build a Championship roster from any and every snake draft slot 1-12",
+        "link": "https://www.cbssports.com/",
+        "source": "CBS Sports",
+        "time_ago": "4h ago",
+        "summary": "fft 8/6",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Sunrisers claim second spot and eliminate Phoenix",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cjrvz0q9q0zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "Sunrisers Leeds move up to second in The Hundred and eliminate Birmingham Phoenix with a 45-run win at Edgbaston.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Euro navel gazing & early troubles for Scottish title hopefuls",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce8kr3y5xp4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "5h ago",
+        "summary": "Already it is looking like the Scottish title might be won again by the best of a bad bunch, but what can we look forward to this weekend?",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
     "ai": [
+      {
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "source": "TechCrunch",
+        "time_ago": "18m ago",
+        "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
       {
         "title": "Suno hopes to go legit with watermarks for AI-generated music",
         "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
         "source": "Ars Technica",
-        "time_ago": "5h ago",
+        "time_ago": "1d ago",
         "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
         "covered_by": [
           "Ars Technica",
@@ -15,163 +60,120 @@
         ]
       },
       {
-        "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
-        "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+        "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
         "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "time_ago": "1d ago",
+        "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
         "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "source": "TechCrunch",
+        "time_ago": "18m ago",
+        "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+        "covered_by": [
+          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Anthropic will design its own hardware to power Claude",
-        "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+        "title": "Remembering the pre-Google web, when search was an experiment",
+        "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
         "source": "Ars Technica",
-        "time_ago": "5h ago",
-        "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+        "time_ago": "12h ago",
+        "summary": "\"Most people have completely forgotten how chaotic it really was.\"",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+        "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+        "source": "Ars Technica",
+        "time_ago": "3h ago",
+        "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       }
     ],
-    "tech": [
+    "world": [
       {
-        "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
-        "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "title": "US appeals court halts White House ballroom construction",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "A federal appeals court has ordered President Donald Trump\u2019s administration to halt construction on a ballroom project.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "ChatGPT brings unlimited text chats to free users",
-        "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Anthropic will design its own hardware to power Claude",
-        "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-        "source": "Ars Technica",
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
         "time_ago": "5h ago",
-        "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+        "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
         "covered_by": [
-          "Ars Technica"
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "53m ago",
+        "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "india": [
       {
-        "title": "Settling with a few cases won't stop CBI probe: Supreme Court warns realtors",
-        "link": "https://timesofindia.indiatimes.com/india/settling-with-a-few-wont-stop-probe-sc-to-realtors/articleshow/133018378.cms",
+        "title": "Supreme Court shunts out 2 coal scam judges on unusual Delhi high court request",
+        "link": "https://timesofindia.indiatimes.com/india/supreme-court-shunts-out-two-coal-scam-judges-on-unusual-delhi-high-court-request/articleshow/133044136.cms",
         "source": "Times of India",
-        "time_ago": "47m ago",
-        "summary": "The Supreme Court will continue CBI investigations into defaulting realtors. Builders cannot escape probes by settling with only a few homebuyers. Many bank officials are found to have colluded with these builders. CBI h",
+        "time_ago": "29m ago",
+        "summary": "Supreme Court has replaced two special judges hearing coal scam cases in Delhi. The Delhi High Court requested their transfer for other judicial responsibilities. Judges Sunena Sharma and Dheeraj Mor were moved after ser",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "UPI charges: Lok Sabha passes Bill for government to make changes",
-        "link": "https://timesofindia.indiatimes.com/india/upi-charges-lok-sabha-passes-bill-for-government-to-make-changes/articleshow/133017916.cms",
+        "title": "Audio clips linking Biren to Manipur unrest doctored, government tells SC",
+        "link": "https://timesofindia.indiatimes.com/india/government-in-supreme-court-audio-clips-linking-biren-to-manipur-unrest-doctored/articleshow/133044120.cms",
         "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "The Lok Sabha has taken a vital step by passing a Bill aimed at simplifying tax rules to enhance investment attractiveness. The new legislation abolishes a limitation on specific electronic payment options, allowing bank",
+        "time_ago": "38m ago",
+        "summary": "The Centre informed the Supreme Court about the manipulation of audio recordings, with forensic analyses revealing several modifications. The court has instructed that the most recent forensic report be provided to the K",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "FCRA Bill is \u2018religion-neutral\u2019, Shah assures Christian bodies",
-        "link": "https://www.thehindu.com/news/national/fcra-bill-is-religion-neutral-shah-assures-christian-bodies/article71314671.ece",
-        "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "Delegation meets Amit Shah; member says Home Minister has told them that the government has \u201cno intention to harass the Christian community\u201d; forum flags \u2018deemed cessation of assets\u2019 clause; Bill could be taken up for di",
+        "title": "Air India announces pay hikes for pilots, raises salary by up to 15%",
+        "link": "https://timesofindia.indiatimes.com/india/air-india-salary-hikes-salaries-of-pilots-by-up-to-15/articleshow/133044147.cms",
+        "source": "Times of India",
+        "time_ago": "19m ago",
+        "summary": "Air India has announced a significant pay rise for pilots, ranging from eight to fifteen percent, with commanders seeing the most substantial hikes. In a strategic move to resolve fleet shortages and improve career advan",
         "covered_by": [
-          "The Hindu",
           "Times of India"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Trump imposes 15% tariff on key chip material to counter China",
-        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "33m ago",
-        "summary": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Trump signs new executive orders seeking to limit US birthright citizenship",
-        "link": "https://www.aljazeera.com/news/2026/8/6/trump-signs-new-executive-orders-seeking-to-limit-birthright-citizenship?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "The US president's latest effort comes after Supreme Court ruled against his push to reinterpret constitutional right.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "WHO chief: Ebola outbreak in DRC spreading at \u2018unprecedented rate\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/08-06-sv-ebola-update-funding-drc?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "The world's fastest-growing Ebola outbreak has killed 1,751 people in DR Congo.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Real Madrid star Vinicius Jr. signs new deal until 2032 despite Arsenal interest",
-        "link": "https://www.cbssports.com/soccer/news/real-madrid-vinicius-jr-signs-new-deal-2032-arsenal/",
-        "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "The Brazilian striker has signed a new long term deal with the Spanish giants",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "What should the FIFA presidency be, and who should lead it if Gianni Infantino loses battle to stay in charge?",
-        "link": "https://www.cbssports.com/soccer/news/fifa-president-gianni-infantino-battle-to-stay-in-charge/",
-        "source": "CBS Sports",
-        "time_ago": "7h ago",
-        "summary": "FIFA's scrapped plans to sell stakes in the World Cup has caused new levels of scrutiny around president Gianni Infantino, whose leadership has been called into question by multiple high-ranking bodies",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "2026 Hall of Fame Game where to watch: Carson Beck to start at QB for Cardinals",
-        "link": "https://www.cbssports.com/nfl/news/2026-hall-of-fame-game-where-to-watch-carson-beck-cardinals/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Football is officially back as the Panthers and Cardinals kick off the preseason in Canton, Ohio, with plenty of new faces on display",
-        "covered_by": [
-          "CBS Sports"
         ]
       }
     ]
