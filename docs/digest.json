@@ -1,46 +1,81 @@
 {
-  "generated_at": "2026-08-07T23:07:09.895285+00:00",
+  "generated_at": "2026-08-08T22:58:51.629968+00:00",
   "categories": {
     "sports": [
       {
-        "title": "How to build a Championship roster from any and every snake draft slot 1-12",
-        "link": "https://www.cbssports.com/",
+        "title": "2026 Fantasy football draft prep: NFL experts reveal rankings, top 150, rookie picks",
+        "link": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-nfl-experts-reveal-rankings-top-150-rookie-picks/",
         "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "fft 8/6",
+        "time_ago": "42m ago",
+        "summary": "SportsLine's 2026 Fantasy football draft guide includes Fantasy football auction values, keeper advice, top rookies, mock drafts and more",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Sunrisers claim second spot and eliminate Phoenix",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/cjrvz0q9q0zo?at_medium=RSS&at_campaign=rss",
+        "title": "Super Giants suffer batting collapse but hang on to beat Brave",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cg7meg7mnp1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
         "time_ago": "2h ago",
-        "summary": "Sunrisers Leeds move up to second in The Hundred and eliminate Birmingham Phoenix with a 45-run win at Edgbaston.",
+        "summary": "Despite a huge batting collapse, Manchester Super Giants do enough to beat Southern Brave by 10 runs in Southampton, to keep their hopes alive of qualifying for the knockout stages of the men's Hundred.",
         "covered_by": [
           "BBC Sport"
         ]
       },
       {
-        "title": "Euro navel gazing & early troubles for Scottish title hopefuls",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ce8kr3y5xp4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "5h ago",
-        "summary": "Already it is looking like the Scottish title might be won again by the best of a bad bunch, but what can we look forward to this weekend?",
+        "title": "UFC Fight Night odds, predictions, time: Mateusz Gamrot vs. Quillan Salkilld picks by elite MMA expert",
+        "link": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-predictions-fight-card-time-location-mateusz-gamrot-vs-quillan-salkilld-picks-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "49m ago",
+        "summary": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: Gamrot vs. Salkilld card Saturday on Paramount+",
         "covered_by": [
-          "BBC Sport"
+          "CBS Sports"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+        "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
+        "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "36m ago",
+        "summary": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "At least 200 people have been evacuated after a wildfire broke out near Italy\u2019s Lake Garda.",
+        "covered_by": [
+          "Al Jazeera",
+          "CNN"
         ]
       }
     ],
     "ai": [
       {
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
         "source": "TechCrunch",
-        "time_ago": "18m ago",
-        "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+        "time_ago": "3h ago",
+        "summary": "NextSlide says its team members are now working on ChatGPT.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -51,7 +86,7 @@
         "title": "Suno hopes to go legit with watermarks for AI-generated music",
         "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
         "source": "Ars Technica",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
         "covered_by": [
           "Ars Technica",
@@ -60,11 +95,11 @@
         ]
       },
       {
-        "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-        "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+        "time_ago": "1h ago",
+        "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
@@ -73,106 +108,70 @@
     ],
     "tech": [
       {
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
         "source": "TechCrunch",
-        "time_ago": "18m ago",
-        "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Remembering the pre-Google web, when search was an experiment",
-        "link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
-        "source": "Ars Technica",
-        "time_ago": "12h ago",
-        "summary": "\"Most people have completely forgotten how chaotic it really was.\"",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-        "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-        "source": "Ars Technica",
         "time_ago": "3h ago",
-        "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+        "summary": "NextSlide says its team members are now working on ChatGPT.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google\u2019s top hacker hunter explains why hacking groups get codenames",
+        "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world\u2019s foremost experts on tracking hackers to understand why companies give hackers codenames.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       }
     ],
-    "world": [
-      {
-        "title": "US appeals court halts White House ballroom construction",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "A federal appeals court has ordered President Donald Trump\u2019s administration to halt construction on a ballroom project.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "5h ago",
-        "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "53m ago",
-        "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
     "india": [
       {
-        "title": "Supreme Court shunts out 2 coal scam judges on unusual Delhi high court request",
-        "link": "https://timesofindia.indiatimes.com/india/supreme-court-shunts-out-two-coal-scam-judges-on-unusual-delhi-high-court-request/articleshow/133044136.cms",
+        "title": "Proposed MDR for UPI transactions will be nominal, says government",
+        "link": "https://timesofindia.indiatimes.com/india/proposed-mdr-for-upi-transactions-will-be-nominal-says-govt/articleshow/133059265.cms",
         "source": "Times of India",
-        "time_ago": "29m ago",
-        "summary": "Supreme Court has replaced two special judges hearing coal scam cases in Delhi. The Delhi High Court requested their transfer for other judicial responsibilities. Judges Sunena Sharma and Dheeraj Mor were moved after ser",
+        "time_ago": "1h ago",
+        "summary": "The government has pledged that the upcoming UPI merchant discount rate will be minimal. This fee will be applicable only to certain merchants and transactions that surpass a designated threshold. Importantly, person-to-",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Audio clips linking Biren to Manipur unrest doctored, government tells SC",
-        "link": "https://timesofindia.indiatimes.com/india/government-in-supreme-court-audio-clips-linking-biren-to-manipur-unrest-doctored/articleshow/133044120.cms",
+        "title": "Government spending on education below Unesco's 15% standard",
+        "link": "https://timesofindia.indiatimes.com/india/govt-spending-on-education-below-unescos-15-standard/articleshow/133059254.cms",
         "source": "Times of India",
-        "time_ago": "38m ago",
-        "summary": "The Centre informed the Supreme Court about the manipulation of audio recordings, with forensic analyses revealing several modifications. The court has instructed that the most recent forensic report be provided to the K",
+        "time_ago": "1h ago",
+        "summary": "India's education funding aligns with GDP standards but falls short of public spending goals. Completion rates for secondary schools lag behind national and UNESCO guidelines. This funding pattern emerges as countries sh",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Air India announces pay hikes for pilots, raises salary by up to 15%",
-        "link": "https://timesofindia.indiatimes.com/india/air-india-salary-hikes-salaries-of-pilots-by-up-to-15/articleshow/133044147.cms",
+        "title": "6 years after NDA exit, Punjab's SAD backs delimitation push",
+        "link": "https://timesofindia.indiatimes.com/india/6-years-after-nda-exit-sad-backs-delimitation-push/articleshow/133059180.cms",
         "source": "Times of India",
-        "time_ago": "19m ago",
-        "summary": "Air India has announced a significant pay rise for pilots, ranging from eight to fifteen percent, with commanders seeing the most substantial hikes. In a strategic move to resolve fleet shortages and improve career advan",
+        "time_ago": "1h ago",
+        "summary": "Akali Dal president Sukhbir Singh Badal now supports the women's reservation law rollout.  This move signals the government's potential revival of the Constitution amendment bill.  The government is also seeking support ",
         "covered_by": [
+          "The Hindu",
           "Times of India"
         ]
       }
