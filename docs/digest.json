@@ -1,80 +1,12 @@
 {
-  "generated_at": "2026-08-08T22:58:51.629968+00:00",
+  "generated_at": "2026-08-09T23:01:04.796013+00:00",
   "categories": {
-    "sports": [
-      {
-        "title": "2026 Fantasy football draft prep: NFL experts reveal rankings, top 150, rookie picks",
-        "link": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-nfl-experts-reveal-rankings-top-150-rookie-picks/",
-        "source": "CBS Sports",
-        "time_ago": "42m ago",
-        "summary": "SportsLine's 2026 Fantasy football draft guide includes Fantasy football auction values, keeper advice, top rookies, mock drafts and more",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Super Giants suffer batting collapse but hang on to beat Brave",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cg7meg7mnp1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Despite a huge batting collapse, Manchester Super Giants do enough to beat Southern Brave by 10 runs in Southampton, to keep their hopes alive of qualifying for the knockout stages of the men's Hundred.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "UFC Fight Night odds, predictions, time: Mateusz Gamrot vs. Quillan Salkilld picks by elite MMA expert",
-        "link": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-predictions-fight-card-time-location-mateusz-gamrot-vs-quillan-salkilld-picks-best-bets/",
-        "source": "CBS Sports",
-        "time_ago": "49m ago",
-        "summary": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: Gamrot vs. Salkilld card Saturday on Paramount+",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-        "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "3h ago",
-        "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
-        "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "36m ago",
-        "summary": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "At least 200 people have been evacuated after a wildfire broke out near Italy\u2019s Lake Garda.",
-        "covered_by": [
-          "Al Jazeera",
-          "CNN"
-        ]
-      }
-    ],
     "ai": [
       {
         "title": "OpenAI acquires presentation startup NextSlide",
         "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "NextSlide says its team members are now working on ChatGPT.",
         "covered_by": [
           "Ars Technica",
@@ -86,7 +18,7 @@
         "title": "Suno hopes to go legit with watermarks for AI-generated music",
         "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
         "source": "Ars Technica",
-        "time_ago": "2d ago",
+        "time_ago": "3d ago",
         "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
         "covered_by": [
           "Ars Technica",
@@ -95,14 +27,84 @@
         ]
       },
       {
-        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-        "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
+        "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
         "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+        "time_ago": "3h ago",
+        "summary": "Programming with Claude Code will soon require even less human oversight.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca\u2019s Soller",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Indian, US navies kick off 5-day specialised diving, EOD exercise in Kochi",
+        "link": "https://timesofindia.indiatimes.com/defence/news/indian-us-navies-to-conduct-specialised-diving-ordnance-disposal-exercise-in-kochi-from-today/articleshow/133074836.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "In a significant show of unity, the Indian and US navies will engage in a five-day explosive ordnance disposal drill in Kochi. This advanced training initiative aims to bolster interoperability and foster teamwork betwee",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Pushing One Health approach, U.P. priorities early identification and reporting of emerging zoonotic diseases",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/pushing-one-health-approach-up-priorities-early-identification-and-reporting-of-emerging-zoonotic-diseases/article71325413.ece",
+        "source": "The Hindu",
+        "time_ago": "43m ago",
+        "summary": "Mukesh Kumar Meshram, Additional Chief Secretary, Animal Husbandry, Dairy Development and Fisheries Department said that under the RISE Global Health Security (RISE GHS) Project, the Animal Husbandry Department, in colla",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Police search 26 locations tied to banned Jamaat-e-Islami J&K",
+        "link": "https://timesofindia.indiatimes.com/india/police-search-26-locations-tied-to-banned-jamaat-e-islami-jk/articleshow/133073766.cms",
+        "source": "Times of India",
+        "time_ago": "4h ago",
+        "summary": "Authorities conducted extensive searches at twenty-six locations in Sopore, north Kashmir, specifically targeting the premises of Jamaat-e-Islami J&K. Critical documents and electronic devices were seized amid an investi",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
@@ -111,7 +113,7 @@
         "title": "OpenAI acquires presentation startup NextSlide",
         "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "NextSlide says its team members are now working on ChatGPT.",
         "covered_by": [
           "Ars Technica",
@@ -122,7 +124,7 @@
         "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
         "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
         "source": "TechCrunch",
-        "time_ago": "1h ago",
+        "time_ago": "1d ago",
         "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
         "covered_by": [
           "TechCrunch",
@@ -133,7 +135,7 @@
         "title": "Google\u2019s top hacker hunter explains why hacking groups get codenames",
         "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
         "source": "TechCrunch",
-        "time_ago": "7h ago",
+        "time_ago": "1d ago",
         "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world\u2019s foremost experts on tracking hackers to understand why companies give hackers codenames.",
         "covered_by": [
           "Ars Technica",
@@ -141,38 +143,36 @@
         ]
       }
     ],
-    "india": [
+    "sports": [
       {
-        "title": "Proposed MDR for UPI transactions will be nominal, says government",
-        "link": "https://timesofindia.indiatimes.com/india/proposed-mdr-for-upi-transactions-will-be-nominal-says-govt/articleshow/133059265.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "The government has pledged that the upcoming UPI merchant discount rate will be minimal. This fee will be applicable only to certain merchants and transactions that surpass a designated threshold. Importantly, person-to-",
+        "title": "McKenna claims IBF middleweight title in Dublin",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/czrj0g551rgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "13h ago",
+        "summary": "Aaron McKenna produces a dominant performance against Etinosa Oliha to claim the IBF world middleweight title in his first professional fight on Irish soil.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Government spending on education below Unesco's 15% standard",
-        "link": "https://timesofindia.indiatimes.com/india/govt-spending-on-education-below-unescos-15-standard/articleshow/133059254.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "India's education funding aligns with GDP standards but falls short of public spending goals. Completion rates for secondary schools lag behind national and UNESCO guidelines. This funding pattern emerges as countries sh",
+        "title": "Sunrisers thump Fire to close in on qualification",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "Sunrisers Leeds move closer to securing qualification for The Hundred's knockout stages with a 71-run win over Welsh Fire, while a 101-run partnership helps London Spirit beat Birmingham Phoenix by seven wickets.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "BBC Sport"
         ]
       },
       {
-        "title": "6 years after NDA exit, Punjab's SAD backs delimitation push",
-        "link": "https://timesofindia.indiatimes.com/india/6-years-after-nda-exit-sad-backs-delimitation-push/articleshow/133059180.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "Akali Dal president Sukhbir Singh Badal now supports the women's reservation law rollout.  This move signals the government's potential revival of the Constitution amendment bill.  The government is also seeking support ",
+        "title": "Livingstone and Brevis power Spirit to success",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/crl74pjggp7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "A partnership of 103 between Liam Livingstone and Dewald Brevis, including some huge sixes, sees London Spirit coast to victory over Birmingham Phoenix.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "BBC Sport"
         ]
       }
     ]
