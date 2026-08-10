@@ -1,13 +1,46 @@
 {
-  "generated_at": "2026-08-09T23:01:04.796013+00:00",
+  "generated_at": "2026-08-10T23:07:37.060340+00:00",
   "categories": {
+    "india": [
+      {
+        "title": "Jharkhand protest: Police defend \u2018mild force\u2019, to scan CCTV for miscreants",
+        "link": "https://timesofindia.indiatimes.com/india/jharkhand-protest-police-defend-mild-force-to-scan-cctv-for-miscreants-key-points/articleshow/133138926.cms",
+        "source": "Times of India",
+        "time_ago": "51m ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Three students die of snakebite at Maharashtra school",
+        "link": "https://www.thehindu.com/news/national/maharashtra/snake-bites-tribal-girls-at-school-in-maharashtras-gadchiroli-some-dead-probe-ordered/article71327311.ece",
+        "source": "The Hindu",
+        "time_ago": "2h ago",
+        "summary": "The incident took place in the early hours of Monday when the snake, a krait, is suspected to have entered the hostel of the Japatlai Residential Ashram School in Dhanora taluka, Gadchiroli",
+        "covered_by": [
+          "The Hindu"
+        ]
+      },
+      {
+        "title": "\u2018We\u2019re reducing them\u2019: Trump targets childhood vaccine schedule, pushes separate MMR jabs",
+        "link": "https://timesofindia.indiatimes.com/world/us/were-reducing-them-trump-targets-childhood-vaccine-schedule-pushes-separate-mmr-jabs/articleshow/133139638.cms",
+        "source": "Times of India",
+        "time_ago": "10m ago",
+        "summary": "",
+        "covered_by": [
+          "Times of India"
+        ]
+      }
+    ],
     "ai": [
       {
         "title": "OpenAI acquires presentation startup NextSlide",
         "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "NextSlide says its team members are now working on ChatGPT.",
+        "time_ago": "2d ago",
+        "summary": "Founder Ahmed Beshry describes the startup\u2019s product as one \u201cthat could turn prompts, notes, documents, or research into a polished, editable presentation.\u201d",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -15,11 +48,11 @@
         ]
       },
       {
-        "title": "Suno hopes to go legit with watermarks for AI-generated music",
-        "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+        "title": "Amazon backs power plant that may become top source of US climate pollution",
+        "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
         "source": "Ars Technica",
-        "time_ago": "3d ago",
-        "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
+        "time_ago": "2h ago",
+        "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -27,152 +60,116 @@
         ]
       },
       {
-        "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
-        "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Programming with Claude Code will soon require even less human oversight.",
+        "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+        "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+        "source": "Ars Technica",
+        "time_ago": "54m ago",
+        "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca\u2019s Soller",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Indian, US navies kick off 5-day specialised diving, EOD exercise in Kochi",
-        "link": "https://timesofindia.indiatimes.com/defence/news/indian-us-navies-to-conduct-specialised-diving-ordnance-disposal-exercise-in-kochi-from-today/articleshow/133074836.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "In a significant show of unity, the Indian and US navies will engage in a five-day explosive ordnance disposal drill in Kochi. This advanced training initiative aims to bolster interoperability and foster teamwork betwee",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Pushing One Health approach, U.P. priorities early identification and reporting of emerging zoonotic diseases",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/pushing-one-health-approach-up-priorities-early-identification-and-reporting-of-emerging-zoonotic-diseases/article71325413.ece",
-        "source": "The Hindu",
-        "time_ago": "43m ago",
-        "summary": "Mukesh Kumar Meshram, Additional Chief Secretary, Animal Husbandry, Dairy Development and Fisheries Department said that under the RISE Global Health Security (RISE GHS) Project, the Animal Husbandry Department, in colla",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Police search 26 locations tied to banned Jamaat-e-Islami J&K",
-        "link": "https://timesofindia.indiatimes.com/india/police-search-26-locations-tied-to-banned-jamaat-e-islami-jk/articleshow/133073766.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "Authorities conducted extensive searches at twenty-six locations in Sopore, north Kashmir, specifically targeting the premises of Jamaat-e-Islami J&K. Critical documents and electronic devices were seized amid an investi",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
         ]
       }
     ],
     "tech": [
       {
-        "title": "OpenAI acquires presentation startup NextSlide",
-        "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+        "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "NextSlide says its team members are now working on ChatGPT.",
+        "time_ago": "4h ago",
+        "summary": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-        "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+        "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+        "source": "Ars Technica",
+        "time_ago": "54m ago",
+        "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+        "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+        "time_ago": "1h ago",
+        "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
-        ]
-      },
-      {
-        "title": "Google\u2019s top hacker hunter explains why hacking groups get codenames",
-        "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world\u2019s foremost experts on tracking hackers to understand why companies give hackers codenames.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
         ]
       }
     ],
     "sports": [
       {
-        "title": "McKenna claims IBF middleweight title in Dublin",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/czrj0g551rgo?at_medium=RSS&at_campaign=rss",
+        "title": "GB's Hunt comes of age with European 100m gold",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "13h ago",
-        "summary": "Aaron McKenna produces a dominant performance against Etinosa Oliha to claim the IBF world middleweight title in his first professional fight on Irish soil.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Sunrisers thump Fire to close in on qualification",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Sunrisers Leeds move closer to securing qualification for The Hundred's knockout stages with a 71-run win over Welsh Fire, while a 101-run partnership helps London Spirit beat Birmingham Phoenix by seven wickets.",
+        "time_ago": "16m ago",
+        "summary": "Britain's Amy Hunt has her \"coming of age\" moment as she storms to 100m glory at the European Athletics Championships in Birmingham.",
         "covered_by": [
           "BBC Sport"
         ]
       },
       {
-        "title": "Livingstone and Brevis power Spirit to success",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/crl74pjggp7o?at_medium=RSS&at_campaign=rss",
+        "title": "Ingebrigtsen returns from 'lowest of lows' to clinch 5,000m gold",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2d4jxrgd7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "A partnership of 103 between Liam Livingstone and Dewald Brevis, including some huge sixes, sees London Spirit coast to victory over Birmingham Phoenix.",
+        "time_ago": "1h ago",
+        "summary": "Jakob Ingebrigtsen fights back from \"the lowest of lows\" to win a stunning 5,000m gold at the European Championships after almost a year out with injury.",
         "covered_by": [
           "BBC Sport"
+        ]
+      },
+      {
+        "title": "European Athletics Championships: Key events, timetable & BBC coverage",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c9d338xxwp7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1h ago",
+        "summary": "Timetable and BBC coverage times for the European Athletics Championships in Birmingham from 10-16 August.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3m ago",
+        "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+        "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+        "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "5h ago",
+        "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ]
