@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10T23:07:37.060340+00:00",
+  "generated_at": "2026-08-11T23:18:50.942892+00:00",
   "categories": {
     "india": [
       {
-        "title": "Jharkhand protest: Police defend \u2018mild force\u2019, to scan CCTV for miscreants",
-        "link": "https://timesofindia.indiatimes.com/india/jharkhand-protest-police-defend-mild-force-to-scan-cctv-for-miscreants-key-points/articleshow/133138926.cms",
+        "title": "Amid disruption, Lok Sabha passes 2 more bills sans debate",
+        "link": "https://timesofindia.indiatimes.com/india/amid-disruption-lok-sabha-passes-2-more-bills-sans-debate/articleshow/133167104.cms",
         "source": "Times of India",
-        "time_ago": "51m ago",
+        "time_ago": "55m ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -14,33 +14,35 @@
         ]
       },
       {
-        "title": "Three students die of snakebite at Maharashtra school",
-        "link": "https://www.thehindu.com/news/national/maharashtra/snake-bites-tribal-girls-at-school-in-maharashtras-gadchiroli-some-dead-probe-ordered/article71327311.ece",
-        "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "The incident took place in the early hours of Monday when the snake, a krait, is suspected to have entered the hostel of the Japatlai Residential Ashram School in Dhanora taluka, Gadchiroli",
+        "title": "'Process can\u2019t be unending': SC wants SIR tribunals in Bengal to work faster",
+        "link": "https://timesofindia.indiatimes.com/india/bengal-sir-tribunals-must-work-faster-supreme-court/articleshow/133165472.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "",
         "covered_by": [
-          "The Hindu"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "\u2018We\u2019re reducing them\u2019: Trump targets childhood vaccine schedule, pushes separate MMR jabs",
-        "link": "https://timesofindia.indiatimes.com/world/us/were-reducing-them-trump-targets-childhood-vaccine-schedule-pushes-separate-mmr-jabs/articleshow/133139638.cms",
-        "source": "Times of India",
-        "time_ago": "10m ago",
-        "summary": "",
+        "title": "Kerala child rights panel, SGOU to launch certificate, diploma courses",
+        "link": "https://www.thehindu.com/news/national/kerala/kerala-child-rights-panel-sgou-to-launch-certificate-diploma-courses/article71333354.ece",
+        "source": "The Hindu",
+        "time_ago": "4h ago",
+        "summary": "Commission chairperson K.V. Manoj Kumar and SGOU Vice Chancellor Jagathy Raj V.P. sign MoU for courses for child rights and related laws.",
         "covered_by": [
+          "The Hindu",
           "Times of India"
         ]
       }
     ],
     "ai": [
       {
-        "title": "OpenAI acquires presentation startup NextSlide",
-        "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "Founder Ahmed Beshry describes the startup\u2019s product as one \u201cthat could turn prompts, notes, documents, or research into a polished, editable presentation.\u201d",
+        "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+        "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+        "source": "Ars Technica",
+        "time_ago": "3h ago",
+        "summary": "But will Gemini's surge survive slowing model releases?",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -51,7 +53,7 @@
         "title": "Amazon backs power plant that may become top source of US climate pollution",
         "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
         "source": "Ars Technica",
-        "time_ago": "2h ago",
+        "time_ago": "1d ago",
         "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
         "covered_by": [
           "Ars Technica",
@@ -60,113 +62,117 @@
         ]
       },
       {
-        "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-        "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-        "source": "Ars Technica",
-        "time_ago": "54m ago",
-        "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "source": "TechCrunch",
+        "time_ago": "3d ago",
+        "summary": "Founder Ahmed Beshry describes the startup\u2019s product as one \u201cthat could turn prompts, notes, documents, or research into a polished, editable presentation.\u201d",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
     "tech": [
       {
-        "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
-        "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+        "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+        "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+        "source": "Ars Technica",
+        "time_ago": "3h ago",
+        "summary": "But will Gemini's surge survive slowing model releases?",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "OpenAI launches ChatGPT desktop app for Linux",
+        "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
         "source": "TechCrunch",
         "time_ago": "4h ago",
-        "summary": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-        "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-        "source": "Ars Technica",
-        "time_ago": "54m ago",
-        "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
-        "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
-        "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
+        "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
         "covered_by": [
           "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "The budget-friendly Pixel Buds 2a are even cheaper right now",
+        "link": "https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale",
+        "source": "The Verge",
+        "time_ago": "",
+        "summary": "Looking for great pair of earbuds that work particularly well with Android phones? The Google Pixel Buds 2a are currently discounted to $99 (usually $129) at various retailers, including Amazon, Best Buy, and directly fr",
+        "covered_by": [
           "The Verge"
         ]
       }
     ],
     "sports": [
       {
-        "title": "GB's Hunt comes of age with European 100m gold",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "16m ago",
-        "summary": "Britain's Amy Hunt has her \"coming of age\" moment as she storms to 100m glory at the European Athletics Championships in Birmingham.",
+        "title": "Aston Villa's UEFA Super Cup trip vs. PSG is a barometer for English teams' success against European giants",
+        "link": "https://www.cbssports.com/soccer/news/aston-villa-psg-uefa-super-cup-english-teams-european-giants/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "Aston Villa will face Paris Saint-Germain on Wednesday in the annual clash between the UEFA Europa League victors and the UEFA Champions League winners",
         "covered_by": [
-          "BBC Sport"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Ingebrigtsen returns from 'lowest of lows' to clinch 5,000m gold",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2d4jxrgd7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Jakob Ingebrigtsen fights back from \"the lowest of lows\" to win a stunning 5,000m gold at the European Championships after almost a year out with injury.",
+        "title": "Jets CB Qwan'tez Stiggers hospitalized after collapsing in practice",
+        "link": "https://www.cbssports.com/nfl/news/jets-cb-qwantez-stiggers-hospitalized-after-collapsing-in-practice/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "Stiggers left Tuesday's joint practice with the Buccaneers in an ambulance",
         "covered_by": [
-          "BBC Sport"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "European Athletics Championships: Key events, timetable & BBC coverage",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c9d338xxwp7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Timetable and BBC coverage times for the European Athletics Championships in Birmingham from 10-16 August.",
+        "title": "'We've been breaking that rule for eight years:' NFL rule change leads to funny confession from one head coach",
+        "link": "https://www.cbssports.com/nfl/news/nfl-challenge-rule-change-zac-taylor-bengals/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "The NFL is now allowing head coaches to designate someone else to throw the challenge flag, but Zac Taylor has been doing it for years",
         "covered_by": [
-          "BBC Sport"
+          "BBC Sport",
+          "CBS Sports"
         ]
       }
     ],
     "world": [
       {
-        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+        "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "3m ago",
-        "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+        "time_ago": "2h ago",
+        "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-        "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
+        "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+        "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+        "covered_by": [
+          "BBC",
+          "CNN"
+        ]
+      },
+      {
+        "title": "Trump warns of \u2018jihadists\u2019 ruling in Washington as Democrats show momentum",
+        "link": "https://www.aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum?traffic_source=rss",
         "source": "Al Jazeera",
         "time_ago": "3h ago",
-        "summary": "The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-        "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "5h ago",
-        "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+        "summary": "Donald Trump labels US Democratic nominees 'jihadists' in inflammatory remarks made in the Oval Office.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
