@@ -1,47 +1,93 @@
 {
-  "generated_at": "2026-08-12T23:11:45.587077+00:00",
+  "generated_at": "2026-08-13T23:12:36.388660+00:00",
   "categories": {
-    "india": [
+    "sports": [
       {
-        "title": "16 Shortlisted For Ayodhya Ram Mandir Trust CEO Post Final Interview",
-        "link": "https://www.ndtv.com/india-news/16-shortlisted-for-ayodhya-ram-mandir-trust-ceo-post-final-interview-11902465#publisher=newsstand",
-        "source": "NDTV",
+        "title": "NFL preseason Week 1 schedule: One reason to watch each game",
+        "link": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-schedule-one-reason-to-watch-each-game/",
+        "source": "CBS Sports",
         "time_ago": "2h ago",
-        "summary": "The selection process for the Chief Executive Officer (CEO) of the Shri Ram Janmabhoomi Teerth Kshetra has entered its final stage, with the Search Committee completing the final round of interviews of 16 shortlisted can",
+        "summary": "A look at some of the biggest storylines as Week 1 of preseason action kicks off",
         "covered_by": [
-          "NDTV",
-          "The Hindu"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "White House Press Secretary Karoline Leavitt To Leave Job",
-        "link": "https://www.ndtv.com/world-news/white-house-press-secretary-karoline-leavitt-to-leave-job-at-months-end-11902340#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "2h ago",
-        "summary": "White House Press Secretary Karoline Leavitt will step down at the end of the month, President Donald Trump announced Wednesday as he hailed her as \"one of my most trusted aides.\"",
+        "title": "Done in a weekend - the $12.5bn LA Lakers sale that shocked the NBA",
+        "link": "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "3h ago",
+        "summary": "The Los Angeles Lakers' record $12.5bn (\u00a39.3bn) sale was agreed in the space of a weekend, leaving the NBA world and fans in shock.",
         "covered_by": [
-          "NDTV",
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "31m ago",
+        "summary": "Britain's Amy Hunt charges to 200m glory to secure her second European Championships gold medal - but the sprinter has her sights set on a historic quadruple in Birmingham.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Six workers dead, 14 injured as water, debris enter tunnel in Uttarakhand\u2019s Chamoli",
+        "link": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-chamoli-workers-feared-inside-under-construction-thdc-tunnel/article71342539.ece",
+        "source": "The Hindu",
+        "time_ago": "3h ago",
+        "summary": "22 people were trapped inside the tunnel and 20 were brought out; of them, six were declared dead, while 14 others have sustained injuries and are undergoing treatment; information about the remaining two workers was not",
+        "covered_by": [
+          "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Parliament Monsoon Session 2026 Highlights: Amit Shah \"Ready To Answer\" Opposition On Delhi Protests",
-        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-fcra-bill-lok-sabha-and-rajya-sabha-proceedings-opposition-protest-today-justice-yashwant-varma-cash-row-11897896#publisher=newsstand",
-        "source": "NDTV",
+        "title": "Govt. college students stage road blockade near Sholinghur demanding better amenities, frequent bus services",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/govt-college-students-stage-road-blockade-near-sholinghur-demanding-better-amenities-frequent-bus-services/article71341156.ece",
+        "source": "The Hindu",
         "time_ago": "4h ago",
-        "summary": "Parliament Monsoon Session 2026 Highlights: The probe panel was constituted by Lok Sabha Speaker Om Birla on August 15, 2025, under the Judges (Inquiry) Act, 1968.",
+        "summary": "",
         "covered_by": [
-          "NDTV",
-          "The Hindu"
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Sumit Sarkar, eminent scholar of modern Indian history, dies at 87",
+        "link": "https://www.thehindu.com/news/national/sumit-sarkar-eminent-scholar-of-modern-indian-history-dies-at-87/article71342624.ece",
+        "source": "The Hindu",
+        "time_ago": "4h ago",
+        "summary": "His works include Swadeshi Movement in Bengal, 1903-1908 (1973), Modern India (1989), and Writing Social History (1998), among others. He also co-edited Women and Social Reform in Modern India (2007) and Caste in Modern ",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "ai": [
       {
+        "title": "IBM partners with OpenAI to bolster enterprise AI push",
+        "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
         "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
         "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
         "source": "Ars Technica",
-        "time_ago": "2h ago",
+        "time_ago": "1d ago",
         "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
         "covered_by": [
           "Ars Technica",
@@ -50,23 +96,11 @@
         ]
       },
       {
-        "title": "OpenAI launches ChatGPT desktop app for Linux",
-        "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-        "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+        "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+        "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
         "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "But will Gemini's surge survive slowing model releases?",
+        "time_ago": "6h ago",
+        "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -76,105 +110,71 @@
     ],
     "tech": [
       {
-        "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-        "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-        "source": "Ars Technica",
-        "time_ago": "2h ago",
-        "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+        "title": "IBM partners with OpenAI to bolster enterprise AI push",
+        "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
         "covered_by": [
-          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-        "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "From the Pixel 11 series and a brand new competitor to Apple\u2019s AirTag, here are all the announcements from the Made by Google 2026 event.",
+        "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+        "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+        "source": "Ars Technica",
+        "time_ago": "6h ago",
+        "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
+          "The Verge"
         ]
       },
       {
-        "title": "Pixel 11 event live blog: Let\u2019s watch Trevor Noah introduce Google\u2019s new phones",
-        "link": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-        "source": "The Verge",
-        "time_ago": "",
-        "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting inste",
+        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+        "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
         "covered_by": [
+          "TechCrunch",
           "The Verge"
         ]
       }
     ],
     "world": [
       {
-        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-        "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "13m ago",
-        "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Thousands of Canadians call for US ambassador's expulsion",
-        "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "15m ago",
-        "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Trump administration plans to give ICE officers electric-shock gloves",
-        "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
+        "title": "Israeli strikes in Gaza kill two, including police chief",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "48m ago",
-        "summary": "US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president's immigration crackdown.",
+        "time_ago": "2h ago",
+        "summary": "Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
-      }
-    ],
-    "sports": [
+      },
       {
-        "title": "How 'hugely impressive' Villa teen Madjo took fight to PSG",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c2k72pep488o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "36m ago",
-        "summary": "Match of the Day's Nedum Onuoha and Stephen Warnock analyse 17-year-old Brian Madjo's \"hugely impressive\" goalscoring performance for Aston Villa in their 2-1 defeat by PSG in the UEFA Super Cup.",
+        "title": "Mexico says Colombia rejected its earthquake rescue team",
+        "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "Colombia denies politics played a role after Mexico said its military rescuers were refused entry.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Three big questions after shocking Lakers sale: Dodger-fication on hold? What does this mean for a Vegas team?",
-        "link": "https://www.cbssports.com/nba/news/three-big-questions-shocking-lakers-sale/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "The Lakers were sold this week for the second time in 14 months as Bob Iger and Josh Kushner bought the team from Mark Walter",
+        "title": "Is Russia\u2019s economy cracking despite the Iran war windfall?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "6h ago",
+        "summary": "A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "MI London hold on to beat Phoenix but fail to progress to eliminator",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/c8xnwrknkw0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "MI London hang on to beat Birmingham Phoenix by just two runs, but their margin of victory isn't big enough to help them finish in the top three of the Hundred table, meaning they're eliminated despite the victory at Edg",
-        "covered_by": [
-          "BBC Sport"
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ]
