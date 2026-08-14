@@ -1,57 +1,80 @@
 {
-  "generated_at": "2026-08-13T23:12:36.388660+00:00",
+  "generated_at": "2026-08-14T22:51:42.086426+00:00",
   "categories": {
     "sports": [
       {
-        "title": "NFL preseason Week 1 schedule: One reason to watch each game",
-        "link": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-schedule-one-reason-to-watch-each-game/",
+        "title": "What to know about 2026-27 Premier League: Tottenham, Chelsea look for bounce-back seasons",
+        "link": "https://www.cbssports.com/soccer/news/premier-league-manchester-united-arsenal-tottenham-chelsea-manchester-city-liverpool/",
         "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "A look at some of the biggest storylines as Week 1 of preseason action kicks off",
+        "time_ago": "4h ago",
+        "summary": "From Arsenal\u2019s historic title defense to a Pep-less Manchester City, here is everything you need to know ahead of the action-packed English soccer season",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Done in a weekend - the $12.5bn LA Lakers sale that shocked the NBA",
-        "link": "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss",
+        "title": "Hodgkinson beaten to European gold by rival Werro",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "The Los Angeles Lakers' record $12.5bn (\u00a39.3bn) sale was agreed in the space of a weekend, leaving the NBA world and fans in shock.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "31m ago",
-        "summary": "Britain's Amy Hunt charges to 200m glory to secure her second European Championships gold medal - but the sprinter has her sights set on a historic quadruple in Birmingham.",
+        "time_ago": "37m ago",
+        "summary": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final.",
         "covered_by": [
           "BBC Sport"
+        ]
+      },
+      {
+        "title": "UFC 330 predictions, odds, best bets: Ian Garry prop and big underdog among top picks to consider",
+        "link": "https://www.cbssports.com/ufc/news/ufc-330-predictions-best-bets-odds-islam-makhachev-ian-garry/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "The action heats up on Saturday night in Philadelphia and there's plenty of ways to get in on it",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
+        "link": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "Elon Musk earned 2.5 million times more than a Tesla worker's median pay in 2025, despite revenue and sales declines.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Israeli soldiers accused of supporting \u2018terrorist\u2019 settlers in Qusra",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Israeli soldiers accused of supporting \u2018terrorist\u2019 settlers in Qusra",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump asks Supreme Court to allow ballroom work to continue",
+        "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "india": [
       {
-        "title": "Six workers dead, 14 injured as water, debris enter tunnel in Uttarakhand\u2019s Chamoli",
-        "link": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-chamoli-workers-feared-inside-under-construction-thdc-tunnel/article71342539.ece",
-        "source": "The Hindu",
+        "title": "UP: Man killed by wife, daughter over inter-caste relationship dispute",
+        "link": "https://timesofindia.indiatimes.com/city/lucknow/man-killed-by-wife-daughter-over-inter-caste-relationship-dispute/articleshow/133251261.cms",
+        "source": "Times of India",
         "time_ago": "3h ago",
-        "summary": "22 people were trapped inside the tunnel and 20 were brought out; of them, six were declared dead, while 14 others have sustained injuries and are undergoing treatment; information about the remaining two workers was not",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Govt. college students stage road blockade near Sholinghur demanding better amenities, frequent bus services",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/govt-college-students-stage-road-blockade-near-sholinghur-demanding-better-amenities-frequent-bus-services/article71341156.ece",
-        "source": "The Hindu",
-        "time_ago": "4h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -59,11 +82,22 @@
         ]
       },
       {
-        "title": "Sumit Sarkar, eminent scholar of modern Indian history, dies at 87",
-        "link": "https://www.thehindu.com/news/national/sumit-sarkar-eminent-scholar-of-modern-indian-history-dies-at-87/article71342624.ece",
+        "title": "Savarkar remark: Supreme Court quashes case against Rahul Gandhi",
+        "link": "https://timesofindia.indiatimes.com/india/sc-relief-for-rahul-in-savarkar-case/articleshow/133253170.cms",
+        "source": "Times of India",
+        "time_ago": "37m ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Har Ghar Tiranga rally teaching youngsters about sacrifices of freedom fighters: BJP MLA",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/har-ghar-tiranga-rally-teaching-youngsters-about-sacrifices-of-freedom-fighters-bjp-mla/article71345239.ece",
         "source": "The Hindu",
-        "time_ago": "4h ago",
-        "summary": "His works include Swadeshi Movement in Bengal, 1903-1908 (1973), Modern India (1989), and Writing Social History (1998), among others. He also co-edited Women and Social Reform in Modern India (2007) and Caste in Modern ",
+        "time_ago": "3h ago",
+        "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
@@ -72,11 +106,11 @@
     ],
     "ai": [
       {
-        "title": "IBM partners with OpenAI to bolster enterprise AI push",
-        "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+        "title": "Google will now allow users to remove visible watermark from its AI generations",
+        "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+        "time_ago": "6h ago",
+        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -87,7 +121,7 @@
         "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
         "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
         "source": "Ars Technica",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
         "covered_by": [
           "Ars Technica",
@@ -96,11 +130,11 @@
         ]
       },
       {
-        "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-        "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-        "source": "Ars Technica",
-        "time_ago": "6h ago",
-        "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+        "title": "OpenAI hires new CRO as executive shake-up continues",
+        "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -110,71 +144,36 @@
     ],
     "tech": [
       {
-        "title": "IBM partners with OpenAI to bolster enterprise AI push",
-        "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+        "title": "Google will now allow users to remove visible watermark from its AI generations",
+        "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-        "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-        "source": "Ars Technica",
         "time_ago": "6h ago",
-        "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
         "covered_by": [
           "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-        "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-        "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
-      }
-    ],
-    "world": [
+      },
       {
-        "title": "Israeli strikes in Gaza kill two, including police chief",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.",
+        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+        "source": "Ars Technica",
+        "time_ago": "8h ago",
+        "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
-        "title": "Mexico says Colombia rejected its earthquake rescue team",
-        "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Colombia denies politics played a role after Mexico said its military rescuers were refused entry.",
+        "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+        "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Is Russia\u2019s economy cracking despite the Iran war windfall?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "TechCrunch"
         ]
       }
     ]
