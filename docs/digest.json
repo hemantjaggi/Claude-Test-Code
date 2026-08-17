@@ -1,69 +1,139 @@
 {
-  "generated_at": "2026-08-16T22:48:52.807214+00:00",
+  "generated_at": "2026-08-17T22:52:04.518592+00:00",
   "categories": {
     "sports": [
       {
-        "title": "UFC 330 fight fallout: Best options for Islam Makhachev, Ian Garry, Mackenzie Dern and more after Saturday",
-        "link": "https://www.cbssports.com/ufc/news/ufc-330-fights-to-make-islam-makhachev-carlos-prates-mackenzie-dern-gillian-robertson/",
+        "title": "Top Fifa official sacked after Infantino plan criticism",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "2026 BMW Championship odds, picks: Surprising predictions by model that's nailed 17 majors",
+        "link": "https://www.cbssports.com/betting/news/2026-bmw-championship-odds-picks-predictions-field/",
         "source": "CBS Sports",
-        "time_ago": "9h ago",
-        "summary": "Makhachev has two hungry contenders awaiting him, but one deserves the title shot more",
+        "time_ago": "4h ago",
+        "summary": "SportsLine's model simulated the BMW Championship 2026 10,000 times and revealed surprising picks for the second event in the 2026 FedEx Cup Playoffs",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Watch the best of Rodri's Manchester City journey",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
+        "title": "Renner's 2027 NFL Draft scouting series: Ranking the top 10 offensive tackles",
+        "link": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-rankings-top-10-offensive-tackles/",
+        "source": "CBS Sports",
         "time_ago": "1h ago",
-        "summary": "BBC Sport takes a look back at the moments that defined Rodri's time at Manchester City, from important goals to injuries and a Ballon d'Or, as the great midfielder takes his next step in his career.",
+        "summary": "Trevor Goosby enters as the clear OT1, but Jordan Seaton, Lance Heard and several high-upside athletes could push for Round 1 status",
         "covered_by": [
-          "BBC Sport",
           "CBS Sports"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "India signs Rs 1,943-cr deal with US firm to lease 2 MQ-9B Sea Guardian drones for Navy",
+        "link": "https://timesofindia.indiatimes.com/defence/news/india-signs-rs-1943-cr-deal-with-us-firm-to-lease-2-mq-9b-sea-guardian-drones-for-navy/articleshow/133306349.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "O'Connor targets biggest titles after European gold",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cdj00m4k0rro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "7h ago",
-        "summary": "Kate O'Connor knows she is capable of winning a world and Olympic title after producing a superb performance to clinch a European gold medal.",
+        "title": "No State can block traditional routes of elephants: Supreme Court",
+        "link": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece",
+        "source": "The Hindu",
+        "time_ago": "2h ago",
+        "summary": "Impeding elephant corridors is not a solution to human-animal conflicts, says SC; it directs Centre to conduct a national survey to remove obstructions from routes and ensure a ban on the use of fireballs and spikes to d",
         "covered_by": [
-          "BBC Sport"
+          "The Hindu"
+        ]
+      },
+      {
+        "title": "Seven held with elephant tusk in Malappuram",
+        "link": "https://www.thehindu.com/news/national/kerala/seven-held-with-elephant-tusk-in-malappuram/article71357055.ece",
+        "source": "The Hindu",
+        "time_ago": "3h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
+        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+        "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+        "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+        "source": "Ars Technica",
+        "time_ago": "4h ago",
+        "summary": "Amazon\u2019s team uses a T. rex preparing to devour a book as its logo.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ],
     "world": [
       {
-        "title": "What could stop Israeli settler attacks on Palestinians?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+        "title": "Trump says Iran will not make the deal he believes is necessary",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "53m ago",
-        "summary": "Violence in the occupied West Bank has intensified under Israel's far-right Netanyahu government.",
+        "time_ago": "2h ago",
+        "summary": "Trump says Iran will not make the deal he believes is necessary",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
-        "link": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
+        "title": "\u2018Truth or fiction\u2019: US trial of Tupac Shakur\u2019s accused killer begins",
+        "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "57m ago",
-        "summary": "Nearly 300 migrants and 61 alleged facilitators detained during mass migration attempt.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "US commander says mental health a 'priority' on USS Lincoln",
-        "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
         "time_ago": "1h ago",
-        "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
+        "summary": "Prosecutors claim Duane Davis was \u2018on-site commander\u2019 in murder of Shakur, who died after drive-by shooting in 1996.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
+        "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump\u2019s appeal over 1996 abuse claims.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -72,107 +142,35 @@
     ],
     "tech": [
       {
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+        "title": "\u2018Unprecedented\u2019 number of Apple users received recent spyware alert, say investigators",
+        "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
         "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "time_ago": "2h ago",
+        "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+        "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+        "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
         "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "OpenAI hires new CRO as executive shake-up continues",
-        "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-        "source": "TechCrunch",
-        "time_ago": "3d ago",
-        "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
-        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Vande Mataram row: Bankim Chandra's kin writes to Sonia Gandhi, seeks apology",
-        "link": "https://timesofindia.indiatimes.com/india/bankim-chandras-kin-sumitro-chatterjee-writes-to-sonia-gandhi-seeks-apology/articleshow/133282010.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "After Jharkhand protesters burn Soren, Rahul effigies, State Government calls for fourth round of talks",
-        "link": "https://www.thehindu.com/news/national/jharkhand/after-jharkhand-protesters-burn-soren-rahul-effigies-state-government-calls-them-for-fourth-round-of-talks/article71353578.ece",
-        "source": "The Hindu",
-        "time_ago": "1h ago",
-        "summary": "Protesters say Congress had promised to withdraw support from the JMM-led regime if the demand for a CBI probe was not addressed by August 15",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Three arrested after Bengal CJP volunteer\u2019s father dies in attack",
-        "link": "https://www.thehindu.com/news/national/west-bengal/three-arrested-after-bengal-cjp-volunteers-father-dies-in-attack/article71353154.ece",
-        "source": "The Hindu",
         "time_ago": "4h ago",
-        "summary": "Bengal Chief Minister Suvendu Adhikari dismisses allegations that BJP workers were behind the assault; CJP founder Abhijeet Dipke says \u201cwe are not going to back off\u201d",
+        "summary": "Amazon\u2019s team uses a T. rex preparing to devour a book as its logo.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+        "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+        "source": "Ars Technica",
+        "time_ago": "1h ago",
+        "summary": "\u201cWe're not necessarily building in a dogmatic fashion towards full autonomy.\u201d",
+        "covered_by": [
+          "Ars Technica"
         ]
       }
     ]
