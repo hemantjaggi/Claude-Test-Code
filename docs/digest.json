@@ -1,80 +1,118 @@
 {
-  "generated_at": "2026-08-17T22:52:04.518592+00:00",
+  "generated_at": "2026-08-18T22:52:41.198294+00:00",
   "categories": {
     "sports": [
       {
-        "title": "Top Fifa official sacked after Infantino plan criticism",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "2026 BMW Championship odds, picks: Surprising predictions by model that's nailed 17 majors",
-        "link": "https://www.cbssports.com/betting/news/2026-bmw-championship-odds-picks-predictions-field/",
-        "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "SportsLine's model simulated the BMW Championship 2026 10,000 times and revealed surprising picks for the second event in the 2026 FedEx Cup Playoffs",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Renner's 2027 NFL Draft scouting series: Ranking the top 10 offensive tackles",
-        "link": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-rankings-top-10-offensive-tackles/",
+        "title": "Why signing World Cup winner Rodri may be what sees Barcelona end Champions League drought",
+        "link": "https://www.cbssports.com/soccer/news/why-signing-world-cup-winner-rodri-makes-barcelona-champions-league-contenders-2026/",
         "source": "CBS Sports",
         "time_ago": "1h ago",
-        "summary": "Trevor Goosby enters as the clear OT1, but Jordan Seaton, Lance Heard and several high-upside athletes could push for Round 1 status",
+        "summary": "The Spanish star is back in Spain after joining from Man City, where he won the Champions League, the Premier League and the Ballon d'Or",
         "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Premier League relegation watch: Which sides run the risk of dropping down to the Championship?",
+        "link": "https://www.cbssports.com/soccer/news/premier-league-relegation-watch/",
+        "source": "CBS Sports",
+        "time_ago": "4h ago",
+        "summary": "The newly promoted trio of Coventry City, Hull City and Ipswich Town will have their work cut out for them but they are far from the only team that runs the risk of being relegated",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Jeanie Buss disputes her family's sale of Lakers stake: What to know about dramatic off-court fight",
+        "link": "https://www.cbssports.com/nba/news/buss-family-sells-lakers-stake-ending-era/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "Jeanie Buss would no longer serve as the Lakers' governor if her family sells its 17.8% ownership stake to Josh Kusher and Bob Iger",
+        "covered_by": [
+          "BBC Sport",
           "CBS Sports"
         ]
       }
     ],
     "india": [
       {
-        "title": "India signs Rs 1,943-cr deal with US firm to lease 2 MQ-9B Sea Guardian drones for Navy",
-        "link": "https://timesofindia.indiatimes.com/defence/news/india-signs-rs-1943-cr-deal-with-us-firm-to-lease-2-mq-9b-sea-guardian-drones-for-navy/articleshow/133306349.cms",
+        "title": "Goa moves SC, seeks life imprisonment for Tejpal for sex assault",
+        "link": "https://timesofindia.indiatimes.com/india/goa-moves-sc-seeks-life-imprisonment-for-tejpal-for-sex-assault/articleshow/133331982.cms",
         "source": "Times of India",
         "time_ago": "2h ago",
-        "summary": "",
+        "summary": "In a significant move, the Goa government has approached the Supreme Court, requesting a harsher sentence for Tarun Tejpal in a sexual assault case. The state argues that his current penalty is insufficient given the sev",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "No State can block traditional routes of elephants: Supreme Court",
-        "link": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece",
+        "title": "\u200bTime to push back: On India and the continuing U.S. pressure",
+        "link": "https://www.thehindu.com/opinion/editorial/time-to-push-back-on-india-and-the-continuing-us-pressure/article71360916.ece",
         "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "Impeding elephant corridors is not a solution to human-animal conflicts, says SC; it directs Centre to conduct a national survey to remove obstructions from routes and ensure a ban on the use of fireballs and spikes to d",
+        "time_ago": "3h ago",
+        "summary": "The U.S. has been emboldened to make increasing demands on India",
         "covered_by": [
-          "The Hindu"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Seven held with elephant tusk in Malappuram",
-        "link": "https://www.thehindu.com/news/national/kerala/seven-held-with-elephant-tusk-in-malappuram/article71357055.ece",
+        "title": "Jharkhand exam irregularities: CID arrests Abhay Tiwari's wife, brother",
+        "link": "https://www.thehindu.com/news/national/jharkhand-exam-irregularities-cid-arrests-abhay-tiwaris-wife-brother/article71361698.ece",
         "source": "The Hindu",
-        "time_ago": "3h ago",
-        "summary": "",
+        "time_ago": "5h ago",
+        "summary": "Abhay Tiwari, who was posted as a block supply officer in Poriyahat in Godda district, was arrested by the CID on July 22 in connection with the alleged recruitment examination irregularities",
         "covered_by": [
-          "The Hindu"
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Russian missile strike kills 10 civilians in Kharkiv",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "A Russian missile strike on Pechenihy, in Ukraine\u2019s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Nigeria hospital collapses after rain washed away its foundations",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "A hospital in Nigeria has collapsed after rainwater triggered a landslide, washing away the foundational infrastructure.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Inside secret police warehouse as Germany targets small boats gangs",
+        "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "17h ago",
+        "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+        "covered_by": [
+          "BBC",
+          "CNN"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
-        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "title": "Anthropic\u2019s annualized revenue surges to $65B",
+        "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "time_ago": "22h ago",
+        "summary": "The model maker added $18 billion in annualized revenue in two months.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -85,7 +123,7 @@
         "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
         "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
         "source": "TechCrunch",
-        "time_ago": "7h ago",
+        "time_ago": "1d ago",
         "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
         "covered_by": [
           "Ars Technica",
@@ -94,83 +132,49 @@
         ]
       },
       {
-        "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-        "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-        "source": "Ars Technica",
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "source": "TechCrunch",
         "time_ago": "4h ago",
-        "summary": "Amazon\u2019s team uses a T. rex preparing to devour a book as its logo.",
+        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Trump says Iran will not make the deal he believes is necessary",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Trump says Iran will not make the deal he believes is necessary",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "\u2018Truth or fiction\u2019: US trial of Tupac Shakur\u2019s accused killer begins",
-        "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Prosecutors claim Duane Davis was \u2018on-site commander\u2019 in murder of Shakur, who died after drive-by shooting in 1996.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
-        "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump\u2019s appeal over 1996 abuse claims.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
     "tech": [
       {
-        "title": "\u2018Unprecedented\u2019 number of Apple users received recent spyware alert, say investigators",
-        "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+        "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+        "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
         "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
+        "time_ago": "5h ago",
+        "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-        "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-        "source": "Ars Technica",
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "source": "TechCrunch",
         "time_ago": "4h ago",
-        "summary": "Amazon\u2019s team uses a T. rex preparing to devour a book as its logo.",
+        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-        "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-        "source": "Ars Technica",
-        "time_ago": "1h ago",
-        "summary": "\u201cWe're not necessarily building in a dogmatic fashion towards full autonomy.\u201d",
+        "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+        "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
+        "source": "TechCrunch",
+        "time_ago": "12h ago",
+        "summary": "The deal will triple the size of Einride's fleet while sweetening the company's sales pitch for its Saga AI software. The Tesla Semis will be available to customers across North America.",
         "covered_by": [
-          "Ars Technica"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ]
