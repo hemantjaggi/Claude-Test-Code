@@ -1,180 +1,179 @@
 {
-  "generated_at": "2026-08-18T22:52:41.198294+00:00",
+  "generated_at": "2026-08-19T22:52:34.334612+00:00",
   "categories": {
-    "sports": [
+    "ai": [
       {
-        "title": "Why signing World Cup winner Rodri may be what sees Barcelona end Champions League drought",
-        "link": "https://www.cbssports.com/soccer/news/why-signing-world-cup-winner-rodri-makes-barcelona-champions-league-contenders-2026/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "The Spanish star is back in Spain after joining from Man City, where he won the Champions League, the Premier League and the Ballon d'Or",
+        "title": "Google packs Search and Gemini with new AI study tools",
+        "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying,\u00a0as it continues to compete with companies like OpenAI.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Premier League relegation watch: Which sides run the risk of dropping down to the Championship?",
-        "link": "https://www.cbssports.com/soccer/news/premier-league-relegation-watch/",
-        "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "The newly promoted trio of Coventry City, Hull City and Ipswich Town will have their work cut out for them but they are far from the only team that runs the risk of being relegated",
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "source": "TechCrunch",
+        "time_ago": "41m ago",
+        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
-        "title": "Jeanie Buss disputes her family's sale of Lakers stake: What to know about dramatic off-court fight",
-        "link": "https://www.cbssports.com/nba/news/buss-family-sells-lakers-stake-ending-era/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "Jeanie Buss would no longer serve as the Lakers' governor if her family sells its 17.8% ownership stake to Josh Kusher and Bob Iger",
+        "title": "Meta ran ads for an app promising to nudify female politicians",
+        "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+        "source": "Ars Technica",
+        "time_ago": "7h ago",
+        "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "Ars Technica",
+          "The Verge"
         ]
       }
     ],
     "india": [
       {
-        "title": "Goa moves SC, seeks life imprisonment for Tejpal for sex assault",
-        "link": "https://timesofindia.indiatimes.com/india/goa-moves-sc-seeks-life-imprisonment-for-tejpal-for-sex-assault/articleshow/133331982.cms",
+        "title": "Disability rights groups raise concern over Census enumeration framework",
+        "link": "https://timesofindia.indiatimes.com/india/disability-rights-groups-raise-concern-over-census-enumeration-framework/articleshow/133358701.cms",
         "source": "Times of India",
         "time_ago": "2h ago",
-        "summary": "In a significant move, the Goa government has approached the Supreme Court, requesting a harsher sentence for Tarun Tejpal in a sexual assault case. The state argues that his current penalty is insufficient given the sev",
+        "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "\u200bTime to push back: On India and the continuing U.S. pressure",
-        "link": "https://www.thehindu.com/opinion/editorial/time-to-push-back-on-india-and-the-continuing-us-pressure/article71360916.ece",
-        "source": "The Hindu",
-        "time_ago": "3h ago",
-        "summary": "The U.S. has been emboldened to make increasing demands on India",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Jharkhand exam irregularities: CID arrests Abhay Tiwari's wife, brother",
-        "link": "https://www.thehindu.com/news/national/jharkhand-exam-irregularities-cid-arrests-abhay-tiwaris-wife-brother/article71361698.ece",
-        "source": "The Hindu",
-        "time_ago": "5h ago",
-        "summary": "Abhay Tiwari, who was posted as a block supply officer in Poriyahat in Godda district, was arrested by the CID on July 22 in connection with the alleged recruitment examination irregularities",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Russian missile strike kills 10 civilians in Kharkiv",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "PM's Gen Z, Gen Alpha outreach: Ministers told to visit universities, govt schools",
+        "link": "https://timesofindia.indiatimes.com/india/pm-modis-gen-z-gen-alpha-outreach-ministers-told-to-visit-universities-govt-schools/articleshow/133358584.cms",
+        "source": "Times of India",
         "time_ago": "2h ago",
-        "summary": "A Russian missile strike on Pechenihy, in Ukraine\u2019s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
+        "summary": "",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Nigeria hospital collapses after rain washed away its foundations",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "A hospital in Nigeria has collapsed after rainwater triggered a landslide, washing away the foundational infrastructure.",
+        "title": "Congress Firm On 2-Stanza Vande Mataram, BJP Terms Party \"Muslim League\"",
+        "link": "https://www.ndtv.com/india-news/congress-firm-on-2-stanza-vande-mataram-bjp-questions-loyalty-to-country-11933094#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "3h ago",
+        "summary": "Congress Working Committee today decided to follow its 1937 resolution that only the first two stanzas of Vande Mataram will be sung at party events.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Inside secret police warehouse as Germany targets small boats gangs",
-        "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "17h ago",
-        "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-        "covered_by": [
-          "BBC",
-          "CNN"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Anthropic\u2019s annualized revenue surges to $65B",
-        "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-        "source": "TechCrunch",
-        "time_ago": "22h ago",
-        "summary": "The model maker added $18 billion in annualized revenue in two months.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-        "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "OpenAI institutes new safeguards after Hugging Face breach",
-        "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "NDTV",
+          "The Hindu"
         ]
       }
     ],
     "tech": [
       {
-        "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-        "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
+        "time_ago": "41m ago",
+        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "OpenAI institutes new safeguards after Hugging Face breach",
-        "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+        "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+        "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+        "source": "Ars Technica",
+        "time_ago": "2h ago",
+        "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
         "covered_by": [
-          "TechCrunch",
+          "Ars Technica",
           "The Verge"
         ]
       },
       {
-        "title": "Einride strikes deal to add 500 Tesla Semis to its fleet",
-        "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
-        "source": "TechCrunch",
-        "time_ago": "12h ago",
-        "summary": "The deal will triple the size of Einride's fleet while sweetening the company's sales pitch for its Saga AI software. The Tesla Semis will be available to customers across North America.",
+        "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+        "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+        "source": "Ars Technica",
+        "time_ago": "49m ago",
+        "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "48m ago",
+        "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+        "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "'Tough road back' to PGA Tour from LIV - McIlroy",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c70gp9j4x2do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "Rory McIlroy feels it could be a \"tough road back\" to the PGA Tour for those players currently signed up to LIV Golf.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Fantasy football rankings 2026: Breakouts per computer that called Tetairoa McMillan's huge season",
+        "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-per-computer-that-called-tetairoa-mcmillans-huge-season/",
+        "source": "CBS Sports",
+        "time_ago": "35m ago",
+        "summary": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football breakouts for 2026 Fantasy football draft prep",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Agent's Take: Why early extensions for NFL first-round picks are becoming the new normal",
+        "link": "https://www.cbssports.com/nfl/news/agents-take-nfl-first-round-pick-contract-extension/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "With fifth-year options now fully guaranteed and positional markets rising rapidly, NFL teams are showing more urgency than ever to extend top first-round picks after three seasons",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
         ]
       }
     ]
