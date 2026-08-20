@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-19T22:52:34.334612+00:00",
+  "generated_at": "2026-08-20T22:56:43.774819+00:00",
   "categories": {
     "ai": [
+      {
+        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+        "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
       {
         "title": "Google packs Search and Gemini with new AI study tools",
         "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying,\u00a0as it continues to compete with companies like OpenAI.",
         "covered_by": [
           "Ars Technica",
@@ -15,34 +27,23 @@
         ]
       },
       {
-        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
         "source": "TechCrunch",
-        "time_ago": "41m ago",
-        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "time_ago": "20m ago",
+        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
-        ]
-      },
-      {
-        "title": "Meta ran ads for an app promising to nudify female politicians",
-        "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-        "source": "Ars Technica",
-        "time_ago": "7h ago",
-        "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
         ]
       }
     ],
     "india": [
       {
-        "title": "Disability rights groups raise concern over Census enumeration framework",
-        "link": "https://timesofindia.indiatimes.com/india/disability-rights-groups-raise-concern-over-census-enumeration-framework/articleshow/133358701.cms",
+        "title": "Tit for tat: India removes Pak high commission queue liners",
+        "link": "https://timesofindia.indiatimes.com/india/tit-for-tat-india-removes-pak-high-commission-queue-liners/articleshow/133389697.cms",
         "source": "Times of India",
-        "time_ago": "2h ago",
+        "time_ago": "28m ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -50,92 +51,57 @@
         ]
       },
       {
-        "title": "PM's Gen Z, Gen Alpha outreach: Ministers told to visit universities, govt schools",
-        "link": "https://timesofindia.indiatimes.com/india/pm-modis-gen-z-gen-alpha-outreach-ministers-told-to-visit-universities-govt-schools/articleshow/133358584.cms",
+        "title": "Govt announces panchayat poll process in Ladakh to fill \u2018democratic vacuum'",
+        "link": "https://timesofindia.indiatimes.com/india/govt-announces-panchayat-poll-process-in-ladakh-to-fill-democratic-vacuum-district-council-polls-next/articleshow/133386974.cms",
         "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Congress Firm On 2-Stanza Vande Mataram, BJP Terms Party \"Muslim League\"",
-        "link": "https://www.ndtv.com/india-news/congress-firm-on-2-stanza-vande-mataram-bjp-questions-loyalty-to-country-11933094#publisher=newsstand",
-        "source": "NDTV",
         "time_ago": "3h ago",
-        "summary": "Congress Working Committee today decided to follow its 1937 resolution that only the first two stanzas of Vande Mataram will be sung at party events.",
+        "summary": "",
         "covered_by": [
-          "NDTV",
-          "The Hindu"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-        "source": "TechCrunch",
-        "time_ago": "41m ago",
-        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-        "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-        "source": "Ars Technica",
-        "time_ago": "2h ago",
-        "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+        "title": "Jadavpur University on the boil as supporters of ABVP and SFI clash",
+        "link": "https://www.thehindu.com/news/national/west-bengal/jadavpur-university-violence-abvp-and-sfi-supporters-clash/article71368039.ece",
+        "source": "The Hindu",
+        "time_ago": "26m ago",
+        "summary": "The AVBP supporters tried to storm inside the university premises for the second consecutive day; Jadavpur BJP MLA said that \u201cnaxals, maoists and anti-nationals\u201d will not be allowed to perpetuate inside the university",
         "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-        "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-        "source": "Ars Technica",
-        "time_ago": "49m ago",
-        "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "world": [
       {
-        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "48m ago",
-        "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-        "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Fishermen rescued after five days adrift in cool box",
+        "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "time_ago": "2h ago",
-        "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+        "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Amputee children learn to swim after losing limbs in Israel\u2019s war on Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "13m ago",
+        "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -144,36 +110,70 @@
     ],
     "sports": [
       {
-        "title": "'Tough road back' to PGA Tour from LIV - McIlroy",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c70gp9j4x2do?at_medium=RSS&at_campaign=rss",
+        "title": "Premier League Power Rankings: Arsenal may be top, but City aren't the Gunners' biggest threat",
+        "link": "https://www.cbssports.com/soccer/news/premier-league-power-rankings-2026-27-kickoff/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "Here's how we rank the 20 Premier League teams ahead of action kicking off on Friday",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Everyone on NFL hot seat, plus the top 30 players 30 and over and predicting 2026's final undefeated team",
+        "link": "https://www.cbssports.com/nfl/news/everyone-on-nfl-hot-seat-plus-the-top-30-players-30-and-over-and-predicting-2026s-final-undefeated-team/",
+        "source": "CBS Sports",
+        "time_ago": "6h ago",
+        "summary": "Here's everything you need to know about the NFL for Aug. 20",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Brook shines as England take control against Pakistan",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Rory McIlroy feels it could be a \"tough road back\" to the PGA Tour for those players currently signed up to LIV Golf.",
+        "time_ago": "3h ago",
+        "summary": "WWatch highlights as Harry Brook shines in the Headingley gloom as England build a commanding 195-run lead over Pakistan on a shortened second day of the first Test.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "BBC Sport"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Google Pixel 11 series review: Is the magic fading?",
+        "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
         ]
       },
       {
-        "title": "Fantasy football rankings 2026: Breakouts per computer that called Tetairoa McMillan's huge season",
-        "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-per-computer-that-called-tetairoa-mcmillans-huge-season/",
-        "source": "CBS Sports",
-        "time_ago": "35m ago",
-        "summary": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football breakouts for 2026 Fantasy football draft prep",
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "source": "TechCrunch",
+        "time_ago": "20m ago",
+        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Agent's Take: Why early extensions for NFL first-round picks are becoming the new normal",
-        "link": "https://www.cbssports.com/nfl/news/agents-take-nfl-first-round-pick-contract-extension/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "With fifth-year options now fully guaranteed and positional markets rising rapidly, NFL teams are showing more urgency than ever to extend top first-round picks after three seasons",
+        "title": "Mark buys a castle",
+        "link": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta\u2019s international headquarters in Ireland.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ]
