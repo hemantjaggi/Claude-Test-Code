@@ -1,25 +1,48 @@
 {
-  "generated_at": "2026-08-20T22:56:43.774819+00:00",
+  "generated_at": "2026-08-21T22:52:22.425957+00:00",
   "categories": {
-    "ai": [
+    "tech": [
       {
-        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-        "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+        "title": "Tesla\u2019s solar roof is dead \u2014 here\u2019s what went wrong",
+        "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
         "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+        "time_ago": "4h ago",
+        "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
         "covered_by": [
           "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+        "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+        "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Google packs Search and Gemini with new AI study tools",
-        "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+        "title": "Walmart to finally start accepting Apple Pay and Google Pay",
+        "link": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying,\u00a0as it continues to compete with companies like OpenAI.",
+        "time_ago": "8h ago",
+        "summary": "Are pigs flying? Walmart has finally caved on its refusal to support Apple Pay and Google Pay.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
+        "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+        "source": "Ars Technica",
+        "time_ago": "11h ago",
+        "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -30,150 +53,128 @@
         "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
         "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
         "source": "TechCrunch",
-        "time_ago": "20m ago",
+        "time_ago": "1d ago",
         "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "source": "TechCrunch",
+        "time_ago": "14m ago",
+        "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
     "india": [
       {
-        "title": "Tit for tat: India removes Pak high commission queue liners",
-        "link": "https://timesofindia.indiatimes.com/india/tit-for-tat-india-removes-pak-high-commission-queue-liners/articleshow/133389697.cms",
-        "source": "Times of India",
-        "time_ago": "28m ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Govt announces panchayat poll process in Ladakh to fill \u2018democratic vacuum'",
-        "link": "https://timesofindia.indiatimes.com/india/govt-announces-panchayat-poll-process-in-ladakh-to-fill-democratic-vacuum-district-council-polls-next/articleshow/133386974.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Jadavpur University on the boil as supporters of ABVP and SFI clash",
-        "link": "https://www.thehindu.com/news/national/west-bengal/jadavpur-university-violence-abvp-and-sfi-supporters-clash/article71368039.ece",
+        "title": "Rahul\u2019s street politics signals a new Opposition playbook",
+        "link": "https://www.thehindu.com/news/national/rahuls-street-politics-signals-a-new-opposition-playbook/article71374667.ece",
         "source": "The Hindu",
-        "time_ago": "26m ago",
-        "summary": "The AVBP supporters tried to storm inside the university premises for the second consecutive day; Jadavpur BJP MLA said that \u201cnaxals, maoists and anti-nationals\u201d will not be allowed to perpetuate inside the university",
+        "time_ago": "2h ago",
+        "summary": "Mr. Gandhi appears to be seeking consistency in his politics and, in the process, addressing a criticism that he is an inconsistent politician.",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
-      }
-    ],
-    "world": [
+      },
       {
-        "title": "Watch: Fishermen rescued after five days adrift in cool box",
-        "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
+        "title": "Rashtrapati Bhavan hints at Bangladesh PM Tarique Rahman's visit, retracts",
+        "link": "https://timesofindia.indiatimes.com/india/rashtrapati-bhavan-hints-at-bangladesh-pm-visit-retracts/articleshow/133413585.cms",
+        "source": "Times of India",
         "time_ago": "2h ago",
-        "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
+        "summary": "",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Amputee children learn to swim after losing limbs in Israel\u2019s war on Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "48 teachers to be honoured by President on September 5",
+        "link": "https://www.thehindu.com/news/national/teachers-to-be-honoured-by-president-on-september-5/article71375223.ece",
+        "source": "The Hindu",
         "time_ago": "2h ago",
-        "summary": "Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.",
+        "summary": "This year, a total of 48 school teachers have been selected through a three-stage selection process at the district, State and national levels by the Department of School Education and Literacy",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "13m ago",
-        "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Premier League Power Rankings: Arsenal may be top, but City aren't the Gunners' biggest threat",
-        "link": "https://www.cbssports.com/soccer/news/premier-league-power-rankings-2026-27-kickoff/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "Here's how we rank the 20 Premier League teams ahead of action kicking off on Friday",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Everyone on NFL hot seat, plus the top 30 players 30 and over and predicting 2026's final undefeated team",
-        "link": "https://www.cbssports.com/nfl/news/everyone-on-nfl-hot-seat-plus-the-top-30-players-30-and-over-and-predicting-2026s-final-undefeated-team/",
-        "source": "CBS Sports",
-        "time_ago": "6h ago",
-        "summary": "Here's everything you need to know about the NFL for Aug. 20",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Brook shines as England take control against Pakistan",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
+        "title": "Arsenal start title defence with comfortable win over Coventry",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "WWatch highlights as Harry Brook shines in the Headingley gloom as England build a commanding 195-run lead over Pakistan on a shortened second day of the first Test.",
+        "time_ago": "1h ago",
+        "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
         "covered_by": [
-          "BBC Sport"
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "New owner deal values Timberwolves and Lynx at $4.5bn",
+        "link": "https://www.bbc.co.uk/sport/basketball/articles/c78g2xg69n2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "The Minnesota Timberwolves change owners in a deal which makes them the fourth-most expensive NBA franchise to be sold.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Best horse racing betting sites: Where to bet on 2026 horse racing",
+        "link": "https://www.cbssports.com/betting/news/horse-racing/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "Discover the best horse racing betting sites for 2026, plus how to bet on horse racing online, bet types, and expert tips.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
         ]
       }
     ],
-    "tech": [
+    "world": [
       {
-        "title": "Google Pixel 11 series review: Is the magic fading?",
-        "link": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
+        "title": "Two injured in stabbing attack at Canada Sikh temple",
+        "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "7m ago",
+        "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
         "covered_by": [
-          "Ars Technica",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-        "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-        "source": "TechCrunch",
-        "time_ago": "20m ago",
-        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+        "title": "One killed, three wounded in sword attack at Swedish high school",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Mark buys a castle",
-        "link": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
-        "source": "TechCrunch",
+        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
         "time_ago": "3h ago",
-        "summary": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta\u2019s international headquarters in Ireland.",
+        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ]
