@@ -1,107 +1,70 @@
 {
-  "generated_at": "2026-08-21T22:52:22.425957+00:00",
+  "generated_at": "2026-08-22T22:49:53.259009+00:00",
   "categories": {
-    "tech": [
+    "world": [
       {
-        "title": "Tesla\u2019s solar roof is dead \u2014 here\u2019s what went wrong",
-        "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-        "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-        "source": "TechCrunch",
+        "title": "Israeli army and settlers injure several Palestinians across West Bank",
+        "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+        "source": "Al Jazeera",
         "time_ago": "1h ago",
-        "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+        "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Walmart to finally start accepting Apple Pay and Google Pay",
-        "link": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Are pigs flying? Walmart has finally caved on its refusal to support Apple Pay and Google Pay.",
+        "title": "Robot horse and rider steal the spotlight at Chinese conference",
+        "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "12h ago",
+        "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
-        "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-        "source": "Ars Technica",
-        "time_ago": "11h ago",
-        "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-        "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-        "source": "TechCrunch",
-        "time_ago": "14m ago",
-        "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "BBC",
+          "CNN"
         ]
       }
     ],
     "india": [
       {
-        "title": "Rahul\u2019s street politics signals a new Opposition playbook",
-        "link": "https://www.thehindu.com/news/national/rahuls-street-politics-signals-a-new-opposition-playbook/article71374667.ece",
-        "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "Mr. Gandhi appears to be seeking consistency in his politics and, in the process, addressing a criticism that he is an inconsistent politician.",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Rashtrapati Bhavan hints at Bangladesh PM Tarique Rahman's visit, retracts",
-        "link": "https://timesofindia.indiatimes.com/india/rashtrapati-bhavan-hints-at-bangladesh-pm-visit-retracts/articleshow/133413585.cms",
+        "title": "Invoking Mahatma Gandhi, BJP to start nationwide Vande campaign against Congress",
+        "link": "https://timesofindia.indiatimes.com/india/invoking-mahatma-gandhi-bjp-to-start-nationwide-vande-campaign/articleshow/133431005.cms",
         "source": "Times of India",
         "time_ago": "2h ago",
-        "summary": "",
+        "summary": "Accuses Cong Of Communalising Nat'l Symbols",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "48 teachers to be honoured by President on September 5",
-        "link": "https://www.thehindu.com/news/national/teachers-to-be-honoured-by-president-on-september-5/article71375223.ece",
+        "title": "Supreme Court Relief For Art Of Living In Yamuna Floodplain Damage Case",
+        "link": "https://www.ndtv.com/india-news/supreme-court-relief-for-art-of-living-in-yamuna-floodplain-damage-case-11945969#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "5h ago",
+        "summary": "A bench of Justices Satish Chandra Sharma and N K Singh held that there is ample material on record to show that the event site was already in a dilapidated condition prior to its handing over to the Art of Living Founda",
+        "covered_by": [
+          "NDTV",
+          "The Hindu"
+        ]
+      },
+      {
+        "title": "FIR registered against Abhijeet Dipke for 'entering government school without permission, threatening teachers'",
+        "link": "https://www.thehindu.com/news/national/fir-registered-against-abhijeet-dipke-for-entering-government-school-without-permission-threatening-teachers/article71378705.ece",
         "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "This year, a total of 48 school teachers have been selected through a three-stage selection process at the district, State and national levels by the Department of School Education and Literacy",
+        "time_ago": "6h ago",
+        "summary": "CJP founder Abhijeet Dipke has been visiting schools in central Maharashtra's Latur district and highlighting their problems as part of the CJP's ongoing 'School Thik Karo' campaign",
         "covered_by": [
           "The Hindu",
           "Times of India"
@@ -110,71 +73,104 @@
     ],
     "sports": [
       {
-        "title": "Arsenal start title defence with comfortable win over Coventry",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "New owner deal values Timberwolves and Lynx at $4.5bn",
-        "link": "https://www.bbc.co.uk/sport/basketball/articles/c78g2xg69n2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "The Minnesota Timberwolves change owners in a deal which makes them the fourth-most expensive NBA franchise to be sold.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Best horse racing betting sites: Where to bet on 2026 horse racing",
-        "link": "https://www.cbssports.com/betting/news/horse-racing/",
+        "title": "Dodgers All-Star Andy Pages suffers broken hand: What it means as L.A. chases third straight World Series",
+        "link": "https://www.cbssports.com/mlb/news/andy-pages-injury-timeline-dodgers/",
         "source": "CBS Sports",
         "time_ago": "3h ago",
-        "summary": "Discover the best horse racing betting sites for 2026, plus how to bet on horse racing online, bet types, and expert tips.",
+        "summary": "Pages has emerged as the Dodgers' top right-handed hitter this season",
         "covered_by": [
           "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "UFC Fight Night odds, predictions, time: Anthony Hernandez vs. Gregory Rodrigues picks by elite MMA expert",
+        "link": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-lines-predictions-time-anthony-hernandez-vs-gregory-rodrigues-fight-card-picks-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "6m ago",
+        "summary": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: Hernandez vs. Rodrigues card Saturday at Sacramento, Calif., on Paramount+",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Teofimo Lopez vs. Rolly Romero fight predictions, undercard, odds, start time for title showdown in Las Vegas",
+        "link": "https://www.cbssports.com/boxing/news/teofimo-lopez-vs-rolly-romero-fight-predictions-odds-undercard-start-time-where-to-watch/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Lopez challenges Romero for the WBA welterweight title in the main event on Saturday night",
+        "covered_by": [
           "CBS Sports"
         ]
       }
     ],
-    "world": [
+    "ai": [
       {
-        "title": "Two injured in stabbing attack at Canada Sikh temple",
-        "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "7m ago",
-        "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+        "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
+        "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "One killed, three wounded in sword attack at Swedish high school",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-        "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
+        "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
+        "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "source": "TechCrunch",
         "time_ago": "3h ago",
-        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+        "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s solar roof is dead \u2014 here\u2019s what went wrong",
+        "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia.",
+        "covered_by": [
+          "TechCrunch"
         ]
       }
     ]
