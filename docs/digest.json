@@ -1,106 +1,38 @@
 {
-  "generated_at": "2026-08-22T22:49:53.259009+00:00",
+  "generated_at": "2026-08-23T22:49:34.761717+00:00",
   "categories": {
-    "world": [
-      {
-        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Israeli army and settlers injure several Palestinians across West Bank",
-        "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Robot horse and rider steal the spotlight at Chinese conference",
-        "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "12h ago",
-        "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
-        "covered_by": [
-          "BBC",
-          "CNN"
-        ]
-      }
-    ],
     "india": [
       {
-        "title": "Invoking Mahatma Gandhi, BJP to start nationwide Vande campaign against Congress",
-        "link": "https://timesofindia.indiatimes.com/india/invoking-mahatma-gandhi-bjp-to-start-nationwide-vande-campaign/articleshow/133431005.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "Accuses Cong Of Communalising Nat'l Symbols",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Supreme Court Relief For Art Of Living In Yamuna Floodplain Damage Case",
-        "link": "https://www.ndtv.com/india-news/supreme-court-relief-for-art-of-living-in-yamuna-floodplain-damage-case-11945969#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "5h ago",
-        "summary": "A bench of Justices Satish Chandra Sharma and N K Singh held that there is ample material on record to show that the event site was already in a dilapidated condition prior to its handing over to the Art of Living Founda",
-        "covered_by": [
-          "NDTV",
-          "The Hindu"
-        ]
-      },
-      {
-        "title": "FIR registered against Abhijeet Dipke for 'entering government school without permission, threatening teachers'",
-        "link": "https://www.thehindu.com/news/national/fir-registered-against-abhijeet-dipke-for-entering-government-school-without-permission-threatening-teachers/article71378705.ece",
+        "title": "KTR calls for State-wide protests from September 2 on \u2018govt. failures\u2019",
+        "link": "https://www.thehindu.com/news/national/telangana/ktr-calls-for-state-wide-protests-from-september-2-on-govt-failures/article71381828.ece",
         "source": "The Hindu",
         "time_ago": "6h ago",
-        "summary": "CJP founder Abhijeet Dipke has been visiting schools in central Maharashtra's Latur district and highlighting their problems as part of the CJP's ongoing 'School Thik Karo' campaign",
+        "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
-      }
-    ],
-    "sports": [
+      },
       {
-        "title": "Dodgers All-Star Andy Pages suffers broken hand: What it means as L.A. chases third straight World Series",
-        "link": "https://www.cbssports.com/mlb/news/andy-pages-injury-timeline-dodgers/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "Pages has emerged as the Dodgers' top right-handed hitter this season",
+        "title": "Monsoon session yet to be prorogued, BJP, Congress face off over women\u2019s bill",
+        "link": "https://timesofindia.indiatimes.com/india/monsoon-session-yet-to-be-prorogued-bjp-congress-face-off-over-womens-bill/articleshow/133448409.cms",
+        "source": "Times of India",
+        "time_ago": "26m ago",
+        "summary": "",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "UFC Fight Night odds, predictions, time: Anthony Hernandez vs. Gregory Rodrigues picks by elite MMA expert",
-        "link": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-lines-predictions-time-anthony-hernandez-vs-gregory-rodrigues-fight-card-picks-best-bets/",
-        "source": "CBS Sports",
-        "time_ago": "6m ago",
-        "summary": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: Hernandez vs. Rodrigues card Saturday at Sacramento, Calif., on Paramount+",
+        "title": "Tamil Nadu HR&CE Minister defends mandapam proposal at temple for devotees cured of chickenpox",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-defends-mandapam-proposal-at-temple-for-devotees-cured-of-chickenpox/article71381377.ece",
+        "source": "The Hindu",
+        "time_ago": "2h ago",
+        "summary": "",
         "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Teofimo Lopez vs. Rolly Romero fight predictions, undercard, odds, start time for title showdown in Las Vegas",
-        "link": "https://www.cbssports.com/boxing/news/teofimo-lopez-vs-rolly-romero-fight-predictions-odds-undercard-start-time-where-to-watch/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Lopez challenges Romero for the WBA welterweight title in the main event on Saturday night",
-        "covered_by": [
-          "CBS Sports"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
@@ -109,11 +41,10 @@
         "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
         "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
         "source": "Ars Technica",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
           "The Verge"
         ]
       },
@@ -121,7 +52,7 @@
         "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
         "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
         "covered_by": [
           "Ars Technica",
@@ -132,7 +63,7 @@
         "title": "Nvidia partners with data center developer Cloverleaf",
         "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia.",
         "covered_by": [
           "TechCrunch",
@@ -142,35 +73,101 @@
     ],
     "tech": [
       {
-        "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-        "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+        "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
+        "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
         "source": "TechCrunch",
         "time_ago": "1d ago",
-        "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Tesla\u2019s solar roof is dead \u2014 here\u2019s what went wrong",
-        "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
-        "covered_by": [
-          "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
         "source": "TechCrunch",
         "time_ago": "1d ago",
-        "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia.",
+        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
         "covered_by": [
           "TechCrunch"
+        ]
+      },
+      {
+        "title": "Pixel 11 Pro XL review: Snappier cameras can\u2019t hide an iterative upgrade",
+        "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Google\u2019s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Will Donald Trump\u2019s new sanctions against Iran work?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "The US president says he will impose 'crushing measures' on Tehran.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Landfill collapse kills 30 in Guinea\u2019s capital after heavy rains",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "A mound of waste collapsed at a landfill in Conakry, Guinea, after heavy overnight rains, engulfing nearby homes.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Is Israel about to split the occupied West Bank in half?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "Israel is moving forward with its \u2018E1\u2019 plan. What is it and why could it threaten the future of a Palestinian state?",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Clark holds off McIlroy fightback to win BMW Championship",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cdrvr8nkm5mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "19m ago",
+        "summary": "Wyndham Clark survives a Rory McIlroy fightback to win the BMW Championship in Missouri.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "3h ago",
+        "summary": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improv after below-par performance.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "NFL DFS, Seahawks vs. Titans: Week 2 NFL preseason daily fantasy picks, lineups for DraftKings, FanDuel",
+        "link": "https://www.cbssports.com/betting/news/nfl-dfs-seahawks-titans-week-2-nfl-preseason-daily-fantasy-picks-lineup-advice-draftkings-fanduel/",
+        "source": "CBS Sports",
+        "time_ago": "43m ago",
+        "summary": "R.J. White shares his top NFL DFS picks and lineups for the Titans vs. Seahawks on Sunday in Week 2 NFL preseason",
+        "covered_by": [
+          "CBS Sports"
         ]
       }
     ]
