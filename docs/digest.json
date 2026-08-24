@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-23T22:49:34.761717+00:00",
+  "generated_at": "2026-08-24T22:54:44.220194+00:00",
   "categories": {
     "india": [
       {
-        "title": "KTR calls for State-wide protests from September 2 on \u2018govt. failures\u2019",
-        "link": "https://www.thehindu.com/news/national/telangana/ktr-calls-for-state-wide-protests-from-september-2-on-govt-failures/article71381828.ece",
-        "source": "The Hindu",
-        "time_ago": "6h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Monsoon session yet to be prorogued, BJP, Congress face off over women\u2019s bill",
-        "link": "https://timesofindia.indiatimes.com/india/monsoon-session-yet-to-be-prorogued-bjp-congress-face-off-over-womens-bill/articleshow/133448409.cms",
+        "title": "Amit Shah focuses on new doctrine to fight terror & radicalisation",
+        "link": "https://timesofindia.indiatimes.com/india/amit-shah-focuses-on-new-doctrine-to-fight-terror-radicalisation/articleshow/133481496.cms",
         "source": "Times of India",
-        "time_ago": "26m ago",
+        "time_ago": "41m ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -25,149 +14,162 @@
         ]
       },
       {
-        "title": "Tamil Nadu HR&CE Minister defends mandapam proposal at temple for devotees cured of chickenpox",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-defends-mandapam-proposal-at-temple-for-devotees-cured-of-chickenpox/article71381377.ece",
+        "title": "\u20b938.25 lakh spent on Karnataka CM D.K. Shivakumar\u2019s swearing-in ceremony",
+        "link": "https://www.thehindu.com/news/national/karnataka/3825-lakh-spent-on-karnataka-cm-dk-shivakumars-swearing-in-ceremony/article71385774.ece",
         "source": "The Hindu",
-        "time_ago": "2h ago",
+        "time_ago": "3h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
-        "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
       },
       {
-        "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
-        "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "title": "Karnataka suspends food licences of Amazon, Swiggy Instamart, BigBasket over Datura sale",
+        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-suspends-food-licences-of-amazon-swiggy-instamart-bigbasket-over-datura-sale/article71386095.ece",
+        "source": "The Hindu",
+        "time_ago": "3h ago",
+        "summary": "",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
-        "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "OpenAI says California should strengthen its AI safety bill",
-        "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Pixel 11 Pro XL review: Snappier cameras can\u2019t hide an iterative upgrade",
-        "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Google\u2019s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Will Donald Trump\u2019s new sanctions against Iran work?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "The US president says he will impose 'crushing measures' on Tehran.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Landfill collapse kills 30 in Guinea\u2019s capital after heavy rains",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "A mound of waste collapsed at a landfill in Conakry, Guinea, after heavy overnight rains, engulfing nearby homes.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Is Israel about to split the occupied West Bank in half?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Israel is moving forward with its \u2018E1\u2019 plan. What is it and why could it threaten the future of a Palestinian state?",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "NDTV",
+          "The Hindu"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Clark holds off McIlroy fightback to win BMW Championship",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cdrvr8nkm5mo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "19m ago",
-        "summary": "Wyndham Clark survives a Rory McIlroy fightback to win the BMW Championship in Missouri.",
+        "title": "Premier League transfer storylines: Liverpool need help, while Arsenal's coveted striker may have to wait",
+        "link": "https://www.cbssports.com/soccer/news/premier-league-transfer-storylines-liverpool-arsenal-manchester-city/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "Here's what to keep an eye on as we approach the end of the transfer window",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improv after below-par performance.",
+        "title": "Enes Kanter Freedom ejected from courtside seat at WNBA game after altercation with Sky guard Natasha Cloud",
+        "link": "https://www.cbssports.com/wnba/news/enes-kanter-freedom-ejected-wnba-game-natasha-cloud-altercation/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "The former NBA player has requested eligibility for the WNBA Draft amid the row over transgender inclusion in the league",
         "covered_by": [
-          "BBC Sport"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "NFL DFS, Seahawks vs. Titans: Week 2 NFL preseason daily fantasy picks, lineups for DraftKings, FanDuel",
-        "link": "https://www.cbssports.com/betting/news/nfl-dfs-seahawks-titans-week-2-nfl-preseason-daily-fantasy-picks-lineup-advice-draftkings-fanduel/",
-        "source": "CBS Sports",
-        "time_ago": "43m ago",
-        "summary": "R.J. White shares his top NFL DFS picks and lineups for the Titans vs. Seahawks on Sunday in Week 2 NFL preseason",
+        "title": "Watkins' departure would cut deepest - and Villa did not see it coming",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "6h ago",
+        "summary": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
         "covered_by": [
-          "CBS Sports"
+          "BBC Sport"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Alabama launches investigation into OpenAI\u2019s hack of Hugging Face",
+        "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama\u2019s attorney general announced an investigation into the incident.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+        "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
+        "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+        "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+        "source": "Ars Technica",
+        "time_ago": "6h ago",
+        "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Inside the frontier lab\u2019s push to bring AI agents from software engineers to the masses.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
+        "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+        "source": "Ars Technica",
+        "time_ago": "3d ago",
+        "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "How US sanctions on Iran ripple through global markets and consumers",
+        "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "8m ago",
+        "summary": "New sanctions hit Iran's aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Video: Israel attacks desalination plant and mosque in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "US Supreme Court sides with Trump administration on mail voting",
+        "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "14m ago",
+        "summary": "Mail balloting has long been a\u00a0favourite target\u00a0of US President Donald Trump.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ]
