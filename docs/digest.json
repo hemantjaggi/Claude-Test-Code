@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-27T03:28:51.435803+00:00",
+  "generated_at": "2026-08-28T06:14:37.018909+00:00",
   "categories": {
     "india": [
       {
-        "title": "Nepal flash floods: Karnataka sets helpline desk to assist stranded people and their families",
-        "link": "https://www.thehindu.com/news/cities/bangalore/nepal-flash-floods-karnataka-sets-helpline-desk-to-assist-stranded-people-and-their-families/article71394858.ece",
-        "source": "The Hindu",
-        "time_ago": "24m ago",
-        "summary": "The Helpline number for those who are stranded is 1070 / 080-22253707 and individuals can write an email to seockarnataka@gmail.com",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Telangana helpline for Nepal flood victims",
-        "link": "https://www.thehindu.com/news/national/telangana/telangana-helpline-for-nepal-flood-victims/article71393857.ece",
-        "source": "The Hindu",
-        "time_ago": "8h ago",
+        "title": "\u2018Don\u2019t need help\u2019: Nepal declines foreign rescue teams as flood death toll nears 500",
+        "link": "https://timesofindia.indiatimes.com/world/south-asia/dont-need-help-nepal-declines-foreign-rescue-teams-as-flood-death-toll-nears-500/articleshow/133582577.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -25,79 +14,57 @@
         ]
       },
       {
-        "title": "India, China to push for \u2018early and substantial harvest\u2019 of border delimitation",
-        "link": "https://www.thehindu.com/news/national/india-china-to-push-for-early-and-substantial-harvest-of-border-delimitation/article71393272.ece",
-        "source": "The Hindu",
-        "time_ago": "25m ago",
-        "summary": "India and China agree to hold the next meeting of an expert-level mechanism on trans-border rivers in September, and to maintain communication on sharing hydrological data",
+        "title": "Nepal Flood Deaths Rise To 469, Over 170 Indians Missing Amid New Threat",
+        "link": "https://www.ndtv.com/world-news/nepal-flood-death-count-rises-to-469-amid-warning-of-catastrophy-from-tibet-11969448#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "1h ago",
+        "summary": "Chinese state media had earlier confirmed three dead, taking the total killed to at least 472. More than 1,400 people are missing, including hundreds of foreigners.",
         "covered_by": [
-          "The Hindu",
+          "NDTV",
+          "The Hindu"
+        ]
+      },
+      {
+        "title": "How Glacier Environment Is Shaping Disasters In Nepal",
+        "link": "https://www.ndtv.com/world-news/nepal-flash-floods-how-glacier-environment-is-shaping-disasters-in-nepal-11968366#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "2h ago",
+        "summary": "Nepal sits at the intersection of two massive planetary forces: the ongoing subduction of the Indian tectonic plate colliding with the Eurasian plate at around 20 mm per year, and accelerating atmospheric warming above i",
+        "covered_by": [
+          "NDTV",
           "Times of India"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "UEFA Champions League league phase draw live stream: Where to watch online, start time, matchups",
-        "link": "https://www.cbssports.com/soccer/news/uefa-champions-league-league-phase-draw-live-stream-where-to-watch-online/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "The opening round of league phase fixtures will begin on Tuesday, Sept. 8, with games also set for that Wednesday and Thursday",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Fearnley among Britons closing in on US Open place",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/czjz9g1g9v8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "4h ago",
-        "summary": "Jacob Fearnley is among the British players who stand one win away from a place in the US Open main draw in New York.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Will a Premier League club break record for transfer sales in one window?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "13h ago",
-        "summary": "Aston Villa, Manchester City and Newcastle are closing in on Monaco's record for transfer income generated in a single window.",
-        "covered_by": [
-          "BBC Sport"
         ]
       }
     ],
     "world": [
       {
-        "title": "At least 12 dead as wildfires sweep through northern Algeria",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
+        "title": "'High risk' of lake bursting and causing second flood, warns China",
+        "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
+        "time_ago": "23m ago",
+        "summary": "China says a lake formed after a recent landslide near the Nepal-Tibet border may burst in the coming days.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Qatar\u2019s prime minister to visit Tehran, seeking to revive US-Iran talks",
-        "link": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "34m ago",
-        "summary": "Sheikh Mohammed's visit comes as US-Israel war on Iran nears its sixth month with no diplomatic breakthrough in sight.",
+        "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+        "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
         "covered_by": [
-          "Al Jazeera"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "At least one dead after car crashes into crowd in northern France",
-        "link": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+        "title": "What we know about deadly Nepal-Tibet floods",
+        "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "46m ago",
-        "summary": "One suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
+        "time_ago": "26m ago",
+        "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
         "covered_by": [
           "BBC"
         ]
@@ -105,10 +72,22 @@
     ],
     "ai": [
       {
+        "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+        "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+        "source": "Ars Technica",
+        "time_ago": "10h ago",
+        "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
         "title": "Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",
         "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
         "covered_by": [
           "Ars Technica",
@@ -117,35 +96,24 @@
         ]
       },
       {
-        "title": "How do we explain OpenAI\u2019s executive exodus?",
-        "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+        "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
+        "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
         "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "Was Greg Brockman the right executive all along?",
+        "time_ago": "18h ago",
+        "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
-        ]
-      },
-      {
-        "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-        "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
         ]
       }
     ],
     "tech": [
       {
-        "title": "Google\u2019s Gemini has a branding problem, and so does the rest of AI",
-        "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+        "title": "Buried in Meta\u2019s $18B settlement is a legal pass on kids\u2019 data",
+        "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
         "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+        "time_ago": "10h ago",
+        "summary": "Meta\u2019s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -153,25 +121,58 @@
         ]
       },
       {
-        "title": "Meta\u2019s $18B child-safety deal hinges on age-verification tech that doesn\u2019t work well",
-        "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+        "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
+        "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",
-        "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+        "time_ago": "14h ago",
+        "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking proc",
         "covered_by": [
           "TechCrunch",
           "The Verge"
+        ]
+      },
+      {
+        "title": "AI\u2019s memory crunch is coming for Android apps",
+        "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+        "source": "TechCrunch",
+        "time_ago": "15h ago",
+        "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Champions League draw winners and losers: Real Madrid's Jose Mourinho to meet former clubs; Liverpool win big",
+        "link": "https://www.cbssports.com/soccer/news/champions-league-draw-winners-and-losers-real-madrid-jose-mourinho-liverpool/",
+        "source": "CBS Sports",
+        "time_ago": "10h ago",
+        "summary": "Who won and who lost Thursday's UCL league phase draw?",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Smith and Cox lead England fightback after tricky first day at Lord's",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyzvy3lw05o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "12h ago",
+        "summary": "Jamie Smith hits 61 and Jordan Cox adds 55 to help England fight back on day one of the second Test against Pakistan, as the hosts recover from 77-4 to close on 248-9 at Lord's.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "I'll send Itauma back to high school - Hrgovic",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/cgrvyen5dxyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "16h ago",
+        "summary": "Filip Hrgovic tells British heavyweight Moses Itauma he will \"send him back to high school\" when they fight for the vacant IBF heavyweight world title on Saturday.",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
