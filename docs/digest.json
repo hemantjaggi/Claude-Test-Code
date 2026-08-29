@@ -1,107 +1,109 @@
 {
-  "generated_at": "2026-08-28T06:14:37.018909+00:00",
+  "generated_at": "2026-08-29T03:48:54.928747+00:00",
   "categories": {
+    "world": [
+      {
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Before and after images show catastrophic impact of Nepal flash floods",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-nepal-b4-and-after-sv-mp4?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "6h ago",
+        "summary": "Before-and-after satellite images reveal the scale of destruction from Nepal\u2019s catastrophic flash floods.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+        "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
     "india": [
       {
-        "title": "\u2018Don\u2019t need help\u2019: Nepal declines foreign rescue teams as flood death toll nears 500",
-        "link": "https://timesofindia.indiatimes.com/world/south-asia/dont-need-help-nepal-declines-foreign-rescue-teams-as-flood-death-toll-nears-500/articleshow/133582577.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "",
+        "title": "Why the monsoon is one of the best times to explore India\u2019s forests",
+        "link": "https://www.thehindu.com/life-and-style/travel/why-the-monsoon-is-one-of-the-best-times-to-explore-indias-forests/article71221275.ece",
+        "source": "The Hindu",
+        "time_ago": "57m ago",
+        "summary": "At naturalist-led trails across Indian wildlife lodges, the monsoon is shifting attention away from the safari\u2019s celebrity animals towards breeding frogs, nesting birds, fruiting fungi and the smaller lives that become v",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Nepal Flood Deaths Rise To 469, Over 170 Indians Missing Amid New Threat",
-        "link": "https://www.ndtv.com/world-news/nepal-flood-death-count-rises-to-469-amid-warning-of-catastrophy-from-tibet-11969448#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "1h ago",
-        "summary": "Chinese state media had earlier confirmed three dead, taking the total killed to at least 472. More than 1,400 people are missing, including hundreds of foreigners.",
+        "title": "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+        "link": "https://www.thehindu.com/news/national/many-indians-are-missing-after-nepal-flash-floods/article71400459.ece",
+        "source": "The Hindu",
+        "time_ago": "2h ago",
+        "summary": "21 pilgrims from Tamil Nadu return safely; India sends third flight to Kathmandu with relief materials and a 11-member expert panel onboard",
         "covered_by": [
-          "NDTV",
-          "The Hindu"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "How Glacier Environment Is Shaping Disasters In Nepal",
-        "link": "https://www.ndtv.com/world-news/nepal-flash-floods-how-glacier-environment-is-shaping-disasters-in-nepal-11968366#publisher=newsstand",
+        "title": "Trump Announces \"Biggest Oil Deal In World History\" With Venezuela",
+        "link": "https://www.ndtv.com/world-news/donald-trump-announces-biggest-oil-deal-in-world-history-with-venezuela-11973190#publisher=newsstand",
         "source": "NDTV",
-        "time_ago": "2h ago",
-        "summary": "Nepal sits at the intersection of two massive planetary forces: the ongoing subduction of the Indian tectonic plate colliding with the Eurasian plate at around 20 mm per year, and accelerating atmospheric warming above i",
+        "time_ago": "1h ago",
+        "summary": "The announcement of the deal comes nearly nine months after the U.S. military at Trump's direction carried out an operation to capture Venezuela's president Nicolas Maduro and spirit him to the United States",
         "covered_by": [
           "NDTV",
           "Times of India"
         ]
       }
     ],
-    "world": [
-      {
-        "title": "'High risk' of lake bursting and causing second flood, warns China",
-        "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "23m ago",
-        "summary": "China says a lake formed after a recent landslide near the Nepal-Tibet border may burst in the coming days.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-        "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "What we know about deadly Nepal-Tibet floods",
-        "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "26m ago",
-        "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
-        "covered_by": [
-          "BBC"
-        ]
-      }
-    ],
     "ai": [
+      {
+        "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+        "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+        "source": "Ars Technica",
+        "time_ago": "12h ago",
+        "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
       {
         "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
         "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
         "source": "Ars Technica",
-        "time_ago": "10h ago",
+        "time_ago": "1d ago",
         "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",
-        "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
-        "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-        "source": "TechCrunch",
-        "time_ago": "18h ago",
-        "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-        "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
@@ -109,11 +111,11 @@
     ],
     "tech": [
       {
-        "title": "Buried in Meta\u2019s $18B settlement is a legal pass on kids\u2019 data",
-        "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-        "source": "TechCrunch",
+        "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
+        "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
+        "source": "Ars Technica",
         "time_ago": "10h ago",
-        "summary": "Meta\u2019s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
+        "summary": "Annual Apple TV subscriptions get the biggest bump.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -121,56 +123,54 @@
         ]
       },
       {
-        "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
-        "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-        "source": "TechCrunch",
-        "time_ago": "14h ago",
-        "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking proc",
+        "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+        "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+        "source": "Ars Technica",
+        "time_ago": "12h ago",
+        "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
-        "title": "AI\u2019s memory crunch is coming for Android apps",
-        "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+        "title": "Chinese automakers are following Tesla\u2019s bet that robots are the next big profit machine",
+        "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
         "source": "TechCrunch",
-        "time_ago": "15h ago",
-        "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+        "time_ago": "4h ago",
+        "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Champions League draw winners and losers: Real Madrid's Jose Mourinho to meet former clubs; Liverpool win big",
-        "link": "https://www.cbssports.com/soccer/news/champions-league-draw-winners-and-losers-real-madrid-jose-mourinho-liverpool/",
+        "title": "Jamey Eisenberg's Fantasy Football Tight End Tiers 3.0: What rounds to draft and target your TEs in 2026",
+        "link": "https://www.cbssports.com/fantasy/football/news/jamey-eisenberg-tight-end-rankings-te-tiers-2026/",
         "source": "CBS Sports",
-        "time_ago": "10h ago",
-        "summary": "Who won and who lost Thursday's UCL league phase draw?",
+        "time_ago": "6h ago",
+        "summary": "Tier-based rankings allow you to avoid missing out on position runs in your drafts",
         "covered_by": [
-          "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Smith and Cox lead England fightback after tricky first day at Lord's",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyzvy3lw05o?at_medium=RSS&at_campaign=rss",
+        "title": "How England are building an attack to trouble Australia",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "12h ago",
-        "summary": "Jamie Smith hits 61 and Jordan Cox adds 55 to help England fight back on day one of the second Test against Pakistan, as the hosts recover from 77-4 to close on 248-9 at Lord's.",
+        "time_ago": "8h ago",
+        "summary": "Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?",
         "covered_by": [
           "BBC Sport"
         ]
       },
       {
-        "title": "I'll send Itauma back to high school - Hrgovic",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/cgrvyen5dxyo?at_medium=RSS&at_campaign=rss",
+        "title": "A magician and a maverick - this could be Cherki's moment for Man City",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "16h ago",
-        "summary": "Filip Hrgovic tells British heavyweight Moses Itauma he will \"send him back to high school\" when they fight for the vacant IBF heavyweight world title on Saturday.",
+        "time_ago": "4h ago",
+        "summary": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
         "covered_by": [
           "BBC Sport"
         ]
