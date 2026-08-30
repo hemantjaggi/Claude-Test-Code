@@ -1,73 +1,107 @@
 {
-  "generated_at": "2026-08-29T03:48:54.928747+00:00",
+  "generated_at": "2026-08-30T00:35:27.061274+00:00",
   "categories": {
+    "india": [
+      {
+        "title": "Nepal flash flood: India sends tunnel rescue team to Nepal",
+        "link": "https://www.thehindu.com/news/national/nepal-flash-flood-india-sends-tunnel-rescue-team-to-nepal/article71405468.ece",
+        "source": "The Hindu",
+        "time_ago": "6h ago",
+        "summary": "The MEA says at least 287 Indians remain missing as on Saturday, August 29, and in addition, 128 persons of Indian origin are also missing following the disaster",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "August rainfall fails to reduce India's monsoon deficit",
+        "link": "https://timesofindia.indiatimes.com/india/august-rainfall-fails-to-reduce-indias-monsoon-deficit/articleshow/133619584.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "India's cumulative monsoon rainfall deficit remains despite August's better-than-expected rains.  This deficit has caused a significant acreage gap in kharif crop sowing.  Paddy and maize acreage have both reported notab",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Nepal floods: 4 at hydropower tunnel among 108 Indians rescued; toll 682",
+        "link": "https://timesofindia.indiatimes.com/world/south-asia/4-at-hydel-unit-among-108-indians-rescued-toll-682/articleshow/133619521.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "Nepal's Bhote Koshi-Trishuli disaster death toll reached 675, with 2,426 people still missing. Rescuers searched mud-filled valleys and tunnels three days after the catastrophic flood occurred. Chinese authorities report",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
     "world": [
       {
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Before and after images show catastrophic impact of Nepal flash floods",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-nepal-b4-and-after-sv-mp4?traffic_source=rss",
+        "title": "Israeli settlers attack international news team in occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "Before-and-after satellite images reveal the scale of destruction from Nepal\u2019s catastrophic flash floods.",
+        "time_ago": "47m ago",
+        "summary": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-        "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+        "title": "Voting closes in Iceland\u2019s knife-edge EU referendum",
+        "link": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Iceland's leadership has promised to honour whatever the country's people decide.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Canada installs large Lake Ontario sign in latest jab at US",
+        "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "3h ago",
-        "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
+        "time_ago": "18m ago",
+        "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       }
     ],
-    "india": [
+    "sports": [
       {
-        "title": "Why the monsoon is one of the best times to explore India\u2019s forests",
-        "link": "https://www.thehindu.com/life-and-style/travel/why-the-monsoon-is-one-of-the-best-times-to-explore-indias-forests/article71221275.ece",
-        "source": "The Hindu",
-        "time_ago": "57m ago",
-        "summary": "At naturalist-led trails across Indian wildlife lodges, the monsoon is shifting attention away from the safari\u2019s celebrity animals towards breeding frogs, nesting birds, fruiting fungi and the smaller lives that become v",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-        "link": "https://www.thehindu.com/news/national/many-indians-are-missing-after-nepal-flash-floods/article71400459.ece",
-        "source": "The Hindu",
+        "title": "Why Liverpool aren't getting the best out of Isak",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cx2zwrwg5d4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
         "time_ago": "2h ago",
-        "summary": "21 pilgrims from Tamil Nadu return safely; India sends third flight to Kathmandu with relief materials and a 11-member expert panel onboard",
+        "summary": "BBC Sport pundit Joe Hart believes Alexander Isak dropping deep to receive the ball instead of staying forward is a sign the striker is low in confidence.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Trump Announces \"Biggest Oil Deal In World History\" With Venezuela",
-        "link": "https://www.ndtv.com/world-news/donald-trump-announces-biggest-oil-deal-in-world-history-with-venezuela-11973190#publisher=newsstand",
-        "source": "NDTV",
+        "title": "Itauma punches himself out against Hrgovic in world-title fight",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
         "time_ago": "1h ago",
-        "summary": "The announcement of the deal comes nearly nine months after the U.S. military at Trump's direction carried out an operation to capture Venezuela's president Nicolas Maduro and spirit him to the United States",
+        "summary": "Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest in London.",
         "covered_by": [
-          "NDTV",
-          "Times of India"
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Virginia vs. NC State prediction, pick, odds, spread: Cavaliers, Wolfpack meet in rare Week 0 league battle",
+        "link": "https://www.cbssports.com/college-football/news/nc-state-virginia-prediction-pick-odds-spread-where-to-watch-live/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "It may be early in the season, but there's a lot on the line when NC State takes on a Virginia team coming off 11 wins in 2025",
+        "covered_by": [
+          "CBS Sports"
         ]
       }
     ],
@@ -76,7 +110,7 @@
         "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
         "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
         "source": "Ars Technica",
-        "time_ago": "12h ago",
+        "time_ago": "1d ago",
         "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
         "covered_by": [
           "Ars Technica",
@@ -85,11 +119,11 @@
         ]
       },
       {
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+        "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -100,7 +134,7 @@
         "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
         "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
         "source": "Ars Technica",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
         "covered_by": [
           "Ars Technica",
@@ -114,19 +148,18 @@
         "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
         "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
         "source": "Ars Technica",
-        "time_ago": "10h ago",
+        "time_ago": "1d ago",
         "summary": "Annual Apple TV subscriptions get the biggest bump.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       },
       {
         "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
         "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
         "source": "Ars Technica",
-        "time_ago": "12h ago",
+        "time_ago": "1d ago",
         "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
         "covered_by": [
           "Ars Technica",
@@ -134,45 +167,13 @@
         ]
       },
       {
-        "title": "Chinese automakers are following Tesla\u2019s bet that robots are the next big profit machine",
-        "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+        "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
+        "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+        "time_ago": "11h ago",
+        "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
         "covered_by": [
           "TechCrunch"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Jamey Eisenberg's Fantasy Football Tight End Tiers 3.0: What rounds to draft and target your TEs in 2026",
-        "link": "https://www.cbssports.com/fantasy/football/news/jamey-eisenberg-tight-end-rankings-te-tiers-2026/",
-        "source": "CBS Sports",
-        "time_ago": "6h ago",
-        "summary": "Tier-based rankings allow you to avoid missing out on position runs in your drafts",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "How England are building an attack to trouble Australia",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "8h ago",
-        "summary": "Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "A magician and a maverick - this could be Cherki's moment for Man City",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "4h ago",
-        "summary": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
-        "covered_by": [
-          "BBC Sport"
         ]
       }
     ]
