@@ -1,178 +1,178 @@
 {
-  "generated_at": "2026-09-01T01:21:51.846413+00:00",
+  "generated_at": "2026-09-02T00:25:46.979717+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "IMD predicts below-normal rainfall over India in September",
-        "link": "https://timesofindia.indiatimes.com/india/imd-predicts-below-normal-rainfall-over-country-in-september/articleshow/133662921.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "September rainfall across India is predicted to be below normal, concluding the monsoon season deficiently. August was the warmest on record, with several regions experiencing record high temperatures. Cumulative rainfal",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Economy grew 7.8% in Q1 despite Iran crisis and El Nino conditions",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/economy-grew-7-8-in-q1-despite-iran-crisis-and-el-nino-conditions/articleshow/133662895.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "India's economy recorded impressive growth of 7.8% during the April to June quarter, driven by a thriving manufacturing sector and a strong services industry. Domestic demand surged, bolstered by significant increases in",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "1 Dead After Stabbing At New York's Times Square; Attacker Killed",
-        "link": "https://www.ndtv.com/world-news/woman-shot-by-police-after-stabbing-two-people-at-new-yorks-times-square-report-11984362#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "37m ago",
-        "summary": "A knife-wielding woman stabbed two people in New York's Times Square on Monday before she was shot by police, according to authorities and US media.",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "\u2018Nothing is usable\u2019: Nepal residents return to flood-ravaged homes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "Residents in Nepal are returning to flood-ravaged homes, sifting through mud and debris to salvage whatever they can.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Iran war live: Trump vows to strike Iran \u2018hard\u2019 after first clash in month",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-        "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-        "source": "TechCrunch",
-        "time_ago": "3d ago",
-        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "\u201cZlibrary my beloved\u201d: Anthropic staff chats extolling piracy cited in Sony suit",
-        "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-        "source": "Ars Technica",
-        "time_ago": "7h ago",
-        "summary": "Lawsuit: Anthropic\u2019s torrenting totally screwed songwriters as AI songs top charts.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
-        "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-        "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Apple\u2019s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
-        "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
-        "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-        "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "FTC accuses Amazon of running a \u2018secret ad surcharge scheme\u2019 in new lawsuit",
-        "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
     "sports": [
       {
-        "title": "'Beautiful but difficult journey': The moments that defined Lionel Messi's Argentina career",
-        "link": "https://www.cbssports.com/soccer/news/moments-that-defined-lionel-messis-argentina-career/",
-        "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "Messi announced his international retirement on Monday after two decades with Argentina's national team, a tenure headlined by a World Cup title in 2022",
+        "title": "Balogun's Everton deal collapses after he walks away",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "44m ago",
+        "summary": "Everton's pursuit of Folarin Balogun from Monaco collapses after Balogun decides against move.",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "MOTD pundits debate controversial own goal in Man Utd victory",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cp93xrk5k5xo?at_medium=RSS&at_campaign=rss",
+        "title": "No repeat of Wimbledon heroics as Fery exits US Open",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cn8mrl4m5zzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "1d ago",
-        "summary": "Match of the Day pundits Ellen White and Shay Given discuss the refereeing controversy at Old Trafford whereby a loophole allowed a Harry Maguire handball to stand as a Jacob Greaves own goal.",
+        "time_ago": "1h ago",
+        "summary": "Arthur Fery is unable to produce a repeat of his Wimbledon heroics as his US Open debut ends in a first-round loss to Italian 13th seed Lorenzo Musetti.",
         "covered_by": [
           "BBC Sport"
         ]
       },
       {
-        "title": "Fantasy football rankings 2026: Top sleepers, breakouts, busts by model that hit Daniel Jones' big year",
-        "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-top-sleepers-breakouts-busts-from-model-that-hit-daniel-jones-big-year/",
-        "source": "CBS Sports",
+        "title": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
         "time_ago": "1h ago",
-        "summary": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
+        "summary": "The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.",
         "covered_by": [
-          "CBS Sports"
+          "BBC Sport"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "PM Modi repeats call to 'shun unnecessary gold buys, foreign weddings & holidays'",
+        "link": "https://timesofindia.indiatimes.com/india/pm-modi-repeats-call-to-shun-unnecessary-gold-buys-foreign-weddings-holidays/articleshow/133691767.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "No fresh evidence after 40 years, court sets aside FIR order in 1984 riots case",
+        "link": "https://timesofindia.indiatimes.com/city/delhi/no-fresh-evidence-after-40-years-court-sets-aside-fir-order-in-1984-riots-case/articleshow/133688929.cms",
+        "source": "Times of India",
+        "time_ago": "6h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "India on board, SCO reiterates condemnation of Iran attacks",
+        "link": "https://timesofindia.indiatimes.com/india/india-on-board-sco-reiterates-condemnation-of-iran-attacks/articleshow/133691621.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "What\u2019s driven the defence deal between Israel and Greece?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Two countries sign $3.5bn weapons agreement.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Nepal rescuers race to reach 900 missing hydropower workers",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-rescuers-race-to-reach-900-missing-hydropower-workers?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "6h ago",
+        "summary": "Rescuers in Nepal are prioritising the search for at least 900 workers missing from 12 hydropower projects.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "12m ago",
+        "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Apple follows Google in adopting Trump\u2019s \u2018Lake America\u2019 name",
+        "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google\u2019s Android update tackles motion sickness, accessibility, and more",
+        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "John Ternus hypes \u2018huge launch next week\u2019 in first memo as Apple CEO",
+        "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Anthropic\u2019s new Fable release is cheaper, less restrictive",
+        "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google\u2019s Android update tackles motion sickness, accessibility, and more",
+        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "OpenAI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
+        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ]
