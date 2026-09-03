@@ -1,45 +1,12 @@
 {
-  "generated_at": "2026-09-02T00:25:46.979717+00:00",
+  "generated_at": "2026-09-03T00:31:59.114239+00:00",
   "categories": {
-    "sports": [
-      {
-        "title": "Balogun's Everton deal collapses after he walks away",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "44m ago",
-        "summary": "Everton's pursuit of Folarin Balogun from Monaco collapses after Balogun decides against move.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "No repeat of Wimbledon heroics as Fery exits US Open",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cn8mrl4m5zzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Arthur Fery is unable to produce a repeat of his Wimbledon heroics as his US Open debut ends in a first-round loss to Italian 13th seed Lorenzo Musetti.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
     "india": [
       {
-        "title": "PM Modi repeats call to 'shun unnecessary gold buys, foreign weddings & holidays'",
-        "link": "https://timesofindia.indiatimes.com/india/pm-modi-repeats-call-to-shun-unnecessary-gold-buys-foreign-weddings-holidays/articleshow/133691767.cms",
+        "title": "2 Kuki-Zo MLAs set foot in Imphal for 1st time in 3 years",
+        "link": "https://timesofindia.indiatimes.com/india/2-kuki-zo-mlas-set-foot-in-imphal-for-1st-time-in-3-years/articleshow/133719773.cms",
         "source": "Times of India",
-        "time_ago": "3h ago",
+        "time_ago": "4h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -47,22 +14,22 @@
         ]
       },
       {
-        "title": "No fresh evidence after 40 years, court sets aside FIR order in 1984 riots case",
-        "link": "https://timesofindia.indiatimes.com/city/delhi/no-fresh-evidence-after-40-years-court-sets-aside-fir-order-in-1984-riots-case/articleshow/133688929.cms",
-        "source": "Times of India",
-        "time_ago": "6h ago",
-        "summary": "",
+        "title": "Ayodhya Ram Temple Gets Air Force Veteran As CEO, 3 New Members",
+        "link": "https://www.ndtv.com/india-news/retired-air-marshal-jitendra-mishra-to-be-ayodhya-ram-temples-new-ceo-11992100#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "5h ago",
+        "summary": "Air Marshal Mishra was commissioned in the Indian Air Force as a fighter pilot in December 1986. He retired in May 2026 after serving for over 38 years.",
         "covered_by": [
-          "The Hindu",
+          "NDTV",
           "Times of India"
         ]
       },
       {
-        "title": "India on board, SCO reiterates condemnation of Iran attacks",
-        "link": "https://timesofindia.indiatimes.com/india/india-on-board-sco-reiterates-condemnation-of-iran-attacks/articleshow/133691621.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "",
+        "title": "IAF successfully conducts trial of Indigenous Long-Range Glide Bomb Khagantak-243",
+        "link": "https://www.thehindu.com/news/national/iaf-successfully-conducts-trial-of-indigenous-long-range-glide-bomb-khagantak-243/article71421045.ece",
+        "source": "The Hindu",
+        "time_ago": "5h ago",
+        "summary": "The successful trial of Khagantak-243 is expected to provide a major boost to the development of long-range air-to-ground precision weapons by Indian industry.",
         "covered_by": [
           "The Hindu",
           "Times of India"
@@ -71,33 +38,33 @@
     ],
     "world": [
       {
-        "title": "What\u2019s driven the defence deal between Israel and Greece?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
+        "title": "Iran war live: Trump says renewed US-Iran clashes will not last \u2018too long\u2019",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Two countries sign $3.5bn weapons agreement.",
+        "time_ago": "31m ago",
+        "summary": "The US president says that renewed fighting with Iran will not last \u201ctoo long\u201d while claiming control over Hormuz.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Nepal rescuers race to reach 900 missing hydropower workers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-rescuers-race-to-reach-900-missing-hydropower-workers?traffic_source=rss",
+        "title": "US launches $1 coin featuring Trump\u2019s face: What to know",
+        "link": "https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "Rescuers in Nepal are prioritising the search for at least 900 workers missing from 12 hydropower projects.",
+        "time_ago": "4h ago",
+        "summary": "The coin marks the first time in nearly 200 years that a living person has been featured on the country's currency.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "12m ago",
-        "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+        "title": "Thousands protest in Spain as Ceuta\u2019s migration crisis festers a month on",
+        "link": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Spain faces unrest as residents protest, while migrants and asylum seekers search for shelter and resources in Ceuta.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -106,11 +73,11 @@
     ],
     "tech": [
       {
-        "title": "Apple follows Google in adopting Trump\u2019s \u2018Lake America\u2019 name",
-        "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+        "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+        "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
         "source": "TechCrunch",
         "time_ago": "2h ago",
-        "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+        "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -118,22 +85,23 @@
         ]
       },
       {
-        "title": "Google\u2019s Android update tackles motion sickness, accessibility, and more",
-        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "title": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
+        "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "time_ago": "9h ago",
+        "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
         "covered_by": [
+          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "John Ternus hypes \u2018huge launch next week\u2019 in first memo as Apple CEO",
-        "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+        "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+        "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
         "source": "TechCrunch",
         "time_ago": "4h ago",
-        "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+        "summary": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
@@ -142,10 +110,22 @@
     ],
     "ai": [
       {
+        "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+        "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+        "source": "Ars Technica",
+        "time_ago": "6h ago",
+        "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
         "title": "Anthropic\u2019s new Fable release is cheaper, less restrictive",
         "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
+        "time_ago": "1d ago",
         "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
         "covered_by": [
           "Ars Technica",
@@ -154,25 +134,48 @@
         ]
       },
       {
-        "title": "Google\u2019s Android update tackles motion sickness, accessibility, and more",
-        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+        "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "time_ago": "4h ago",
+        "summary": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "What's next after NBA's Clippers punishment? Five lingering questions about Kawhi Leonard trade, appeals, more",
+        "link": "https://www.cbssports.com/nba/news/whats-next-kawhi-leonard-clippers-five-lingering-questions/",
+        "source": "CBS Sports",
+        "time_ago": "20m ago",
+        "summary": "The Kawhi trade to the Raptors should go through, but the Clippers' appeals process is much less clear",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
       },
       {
-        "title": "OpenAI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
-        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+        "title": "Tiger Woods takes plea deal for reckless driving in DUI case, loses driver's license for five years",
+        "link": "https://www.cbssports.com/golf/news/tiger-woods-plea-deal-reckless-driving-dui-florida/",
+        "source": "CBS Sports",
+        "time_ago": "6h ago",
+        "summary": "Woods changed his plea to avoid jail time, though he will not escape penalty",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Man Utd sign Bernal from Washington Spirit",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "4h ago",
+        "summary": "Manchester United have completed the signing of Mexico international Rebeca Bernal from Washington Spirit.",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
