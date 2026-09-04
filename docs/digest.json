@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T00:31:59.114239+00:00",
+  "generated_at": "2026-09-04T00:17:16.216272+00:00",
   "categories": {
     "india": [
       {
-        "title": "2 Kuki-Zo MLAs set foot in Imphal for 1st time in 3 years",
-        "link": "https://timesofindia.indiatimes.com/india/2-kuki-zo-mlas-set-foot-in-imphal-for-1st-time-in-3-years/articleshow/133719773.cms",
+        "title": "SC: BCI writ runs only over lawyers, not law students",
+        "link": "https://timesofindia.indiatimes.com/india/sc-bci-writ-runs-only-over-lawyers-not-law-students/articleshow/133745936.cms",
         "source": "Times of India",
-        "time_ago": "4h ago",
+        "time_ago": "3h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -14,166 +14,163 @@
         ]
       },
       {
-        "title": "Ayodhya Ram Temple Gets Air Force Veteran As CEO, 3 New Members",
-        "link": "https://www.ndtv.com/india-news/retired-air-marshal-jitendra-mishra-to-be-ayodhya-ram-temples-new-ceo-11992100#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "5h ago",
-        "summary": "Air Marshal Mishra was commissioned in the Indian Air Force as a fighter pilot in December 1986. He retired in May 2026 after serving for over 38 years.",
+        "title": "ISRO successfully launches Earth observation satellite EOS-05",
+        "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece",
+        "source": "The Hindu",
+        "time_ago": "24m ago",
+        "summary": "The EOS-05 is India\u2019s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.",
         "covered_by": [
-          "NDTV",
+          "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "IAF successfully conducts trial of Indigenous Long-Range Glide Bomb Khagantak-243",
-        "link": "https://www.thehindu.com/news/national/iaf-successfully-conducts-trial-of-indigenous-long-range-glide-bomb-khagantak-243/article71421045.ece",
+        "title": "Akash Anand in need of more political maturity, won\u2019t give him key party roles, says BSP chief Mayawati",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/akash-anand-in-need-of-more-political-maturity-wont-give-him-key-party-roles-says-bsp-chief-mayawati/article71424916.ece",
         "source": "The Hindu",
-        "time_ago": "5h ago",
-        "summary": "The successful trial of Khagantak-243 is expected to provide a major boost to the development of long-range air-to-ground precision weapons by Indian industry.",
+        "time_ago": "4h ago",
+        "summary": "The former Uttar Pradesh Chief Minister also announces that her party will contest all elections across the country, however big or small, on its own",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "NDTV",
+          "The Hindu"
         ]
       }
     ],
     "world": [
       {
-        "title": "Iran war live: Trump says renewed US-Iran clashes will not last \u2018too long\u2019",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
+        "title": "Nepal flood victims to be identified through DNA",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "31m ago",
-        "summary": "The US president says that renewed fighting with Iran will not last \u201ctoo long\u201d while claiming control over Hormuz.",
+        "time_ago": "3h ago",
+        "summary": "Nepal flood victims to be identified through DNA",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "US launches $1 coin featuring Trump\u2019s face: What to know",
-        "link": "https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss",
+        "title": "Are Trump\u2019s AI videos just memes or psychological warfare?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "The coin marks the first time in nearly 200 years that a living person has been featured on the country's currency.",
+        "time_ago": "40m ago",
+        "summary": "Trump\u2019s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Thousands protest in Spain as Ceuta\u2019s migration crisis festers a month on",
-        "link": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "US investigating if missile hit Iran wedding, Vance says",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
         "time_ago": "1h ago",
-        "summary": "Spain faces unrest as residents protest, while migrants and asylum seekers search for shelter and resources in Ceuta.",
+        "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-        "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
-        "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
-        "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-        "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+        "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+        "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
         "source": "Ars Technica",
+        "time_ago": "10h ago",
+        "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
+        "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta is paying to peek at how you use their latest AI model",
+        "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing the",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+        "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+        "source": "TechCrunch",
         "time_ago": "6h ago",
-        "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+        "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
         "covered_by": [
-          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Anthropic\u2019s new Fable release is cheaper, less restrictive",
-        "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+        "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+        "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+        "source": "Ars Technica",
+        "time_ago": "10h ago",
+        "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       },
       {
-        "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
-        "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+        "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "time_ago": "1h ago",
+        "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       }
     ],
     "sports": [
       {
-        "title": "What's next after NBA's Clippers punishment? Five lingering questions about Kawhi Leonard trade, appeals, more",
-        "link": "https://www.cbssports.com/nba/news/whats-next-kawhi-leonard-clippers-five-lingering-questions/",
+        "title": "Where to watch Team USA at 2026 FIBA World Cup: TV channel, live stream, schedule, game times, roster",
+        "link": "https://www.cbssports.com/wnba/news/watch-team-usa-2026-fiba-world-cup-tv-channel-stream-schedule-roster/",
         "source": "CBS Sports",
-        "time_ago": "20m ago",
-        "summary": "The Kawhi trade to the Raptors should go through, but the Clippers' appeals process is much less clear",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Tiger Woods takes plea deal for reckless driving in DUI case, loses driver's license for five years",
-        "link": "https://www.cbssports.com/golf/news/tiger-woods-plea-deal-reckless-driving-dui-florida/",
-        "source": "CBS Sports",
-        "time_ago": "6h ago",
-        "summary": "Woods changed his plea to avoid jail time, though he will not escape penalty",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Man Utd sign Bernal from Washington Spirit",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
         "time_ago": "4h ago",
-        "summary": "Manchester United have completed the signing of Mexico international Rebeca Bernal from Washington Spirit.",
+        "summary": "Caitlin Clark, Napheesa Collier, Breanna Stewart and the Americans are going for gold in Germany this month",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Gabriel Martinelli transfer grades: Arsenal attacker moves to Al-Hilal in $81 million deal",
+        "link": "https://www.cbssports.com/soccer/news/gabriel-martinelli-transfer-grades-arsenal/",
+        "source": "CBS Sports",
+        "time_ago": "5h ago",
+        "summary": "The Gunners made quite a profit on the Brazilian, obliterating their previous record sale of Alex Oxlade-Chamberlain",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Obano to put England career on hold with Pau move",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8047p5em5lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1h ago",
+        "summary": "Beno Obano will become the latest England player to put his Test career on ice after agreeing to join French side Pau at the end of the forthcoming season.",
         "covered_by": [
           "BBC Sport"
         ]
