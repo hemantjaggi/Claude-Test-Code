@@ -1,70 +1,35 @@
 {
-  "generated_at": "2026-09-04T00:17:16.216272+00:00",
+  "generated_at": "2026-09-05T00:17:37.012709+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "SC: BCI writ runs only over lawyers, not law students",
-        "link": "https://timesofindia.indiatimes.com/india/sc-bci-writ-runs-only-over-lawyers-not-law-students/articleshow/133745936.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "ISRO successfully launches Earth observation satellite EOS-05",
-        "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece",
-        "source": "The Hindu",
-        "time_ago": "24m ago",
-        "summary": "The EOS-05 is India\u2019s first ever imaging satellite to monitor from Geosynchronous orbit about 36,000 km above the Earth.",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Akash Anand in need of more political maturity, won\u2019t give him key party roles, says BSP chief Mayawati",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/akash-anand-in-need-of-more-political-maturity-wont-give-him-key-party-roles-says-bsp-chief-mayawati/article71424916.ece",
-        "source": "The Hindu",
-        "time_ago": "4h ago",
-        "summary": "The former Uttar Pradesh Chief Minister also announces that her party will contest all elections across the country, however big or small, on its own",
-        "covered_by": [
-          "NDTV",
-          "The Hindu"
-        ]
-      }
-    ],
     "world": [
       {
-        "title": "Nepal flood victims to be identified through DNA",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss",
+        "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Sabalenka interrupts US Open match against Rakhimova over cannabis smell",
+        "link": "https://www.aljazeera.com/sports/2026/9/4/sabalenka-interrupts-us-open-match-against-rakhimova-over-cannabis-smell?traffic_source=rss",
         "source": "Al Jazeera",
         "time_ago": "3h ago",
-        "summary": "Nepal flood victims to be identified through DNA",
+        "summary": "World number one Aryna Sabalenka's straight-sets US Open win against Kamilla Rakhimova stopped by smell of cannabis.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Are Trump\u2019s AI videos just memes or psychological warfare?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
+        "title": "Will Europe pay the US to provide military aid to Ukraine?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "40m ago",
-        "summary": "Trump\u2019s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "US investigating if missile hit Iran wedding, Vance says",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+        "time_ago": "3h ago",
+        "summary": "US President Donald Trump laments past financial support for Ukraine's war effort and has vowed to claw the money back.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -73,23 +38,11 @@
     ],
     "ai": [
       {
-        "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-        "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-        "source": "Ars Technica",
-        "time_ago": "10h ago",
-        "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
-        "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+        "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+        "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
         "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+        "time_ago": "1h ago",
+        "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -100,43 +53,89 @@
         "title": "Meta is paying to peek at how you use their latest AI model",
         "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
+        "time_ago": "1d ago",
         "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing the",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-        "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
         ]
       },
       {
         "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
         "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
         "source": "Ars Technica",
-        "time_ago": "10h ago",
+        "time_ago": "1d ago",
         "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "\u2018Hunchha\u2019: 9 days on, a miracle rescue in Nepal",
+        "link": "https://timesofindia.indiatimes.com/world/south-asia/9-days-on-a-miracle-rescue-in-nepal/articleshow/133781004.cms",
+        "source": "Times of India",
+        "time_ago": "49m ago",
+        "summary": "2 Men Pulled Out Of Trishuli 3A Hydropower Tunnel; 41 Were Believed Trapped As Flood Buried Project",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "India in continuous touch with Ukraine and Russia to help end the conflict: Jaishankar",
+        "link": "https://www.thehindu.com/news/national/india-in-continuous-touch-with-ukraine-and-russia-to-help-end-the-conflict-jaishankar/article71429756.ece",
+        "source": "The Hindu",
+        "time_ago": "3h ago",
+        "summary": "Jaishankar, who arrived in Warsaw from Kyiv where he held talks with top Ukrainian leadership on Thursday, made the remarks after he met Poland's Deputy Prime Minister and Foreign Minister Rados\u0142aw Sikorski",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "IIT Madras incubated centre launches AI models in Indian languages",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/iitm-incubated-centre-launches-ai-models-in-indian-languages/article71428986.ece",
+        "source": "The Hindu",
+        "time_ago": "5h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+        "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-        "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+        "title": "What will Apple\u2019s John Ternus era look like?",
+        "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
         "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+        "time_ago": "6h ago",
+        "summary": "It\u2019s\u00a0officially the Ternus era at Apple.\u00a0\u00a0 Tim Cook stepped down\u00a0as CEO this week, handing the company to former hardware chief John Ternus, whose first memo\u00a0promised a \u201chuge launch next week\u201d\u00a0\u2014 timing that puts Apple\u2019s ",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "No little kids allowed, and other new info about Tesla\u2019s Cybercab",
+        "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
         "covered_by": [
           "TechCrunch"
         ]
@@ -144,35 +143,33 @@
     ],
     "sports": [
       {
-        "title": "Where to watch Team USA at 2026 FIBA World Cup: TV channel, live stream, schedule, game times, roster",
-        "link": "https://www.cbssports.com/wnba/news/watch-team-usa-2026-fiba-world-cup-tv-channel-stream-schedule-roster/",
-        "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "Caitlin Clark, Napheesa Collier, Breanna Stewart and the Americans are going for gold in Germany this month",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Gabriel Martinelli transfer grades: Arsenal attacker moves to Al-Hilal in $81 million deal",
-        "link": "https://www.cbssports.com/soccer/news/gabriel-martinelli-transfer-grades-arsenal/",
-        "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "The Gunners made quite a profit on the Brazilian, obliterating their previous record sale of Alex Oxlade-Chamberlain",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Obano to put England career on hold with Pau move",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c8047p5em5lo?at_medium=RSS&at_campaign=rss",
+        "title": "Donald and Crocombe get England white-ball call-ups",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c4g58y852kwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Beno Obano will become the latest England player to put his Test career on ice after agreeing to join French side Pau at the end of the forthcoming season.",
+        "time_ago": "8h ago",
+        "summary": "England name the uncapped Aneurin Donald and Henry Crocombe in their squads for the white-ball series against Sri Lanka.",
         "covered_by": [
           "BBC Sport"
+        ]
+      },
+      {
+        "title": "Miami vs. Stanford prediction, odds, time: 2026 Week 1 college football picks by proven model",
+        "link": "https://www.cbssports.com/betting/news/miami-stanford-prediction-odds-start-time-2026-week-1-college-football-friday-picks-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "7m ago",
+        "summary": "The SportsLine Projection Model has revealed its best bets for Stanford vs. Miami (Fla.) in an ACC matchup on Friday",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Use FanDuel promo code to get $350 bonus bets by targeting Miami-Stanford, Fresno State-USC, college football",
+        "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-miami-stanford-fresno-state-usc-college-football-on-friday/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "Sign up and bet with the latest FanDuel promo code on Friday to get your bonus bets",
+        "covered_by": [
+          "CBS Sports"
         ]
       }
     ]
