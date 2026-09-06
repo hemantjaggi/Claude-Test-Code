@@ -1,48 +1,84 @@
 {
-  "generated_at": "2026-09-05T00:17:37.012709+00:00",
+  "generated_at": "2026-09-06T00:09:15.266963+00:00",
   "categories": {
-    "world": [
+    "india": [
       {
-        "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
+        "title": "Sachin Pilot In. Bhupesh Baghel Out. Why Punjab Congress Change Was Imminent",
+        "link": "https://www.ndtv.com/india-news/sachin-pilot-in-bhupesh-baghel-out-why-punjab-congress-change-was-imminent-12007155#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "6h ago",
+        "summary": "Bhupesh Baghel was appointed Punjab Congress in-charge in Feb 2025; favoured retaining Raja Warring as state chief but became a target for other factions, such as Charanjit Channi's camp.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "NDTV",
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Sabalenka interrupts US Open match against Rakhimova over cannabis smell",
-        "link": "https://www.aljazeera.com/sports/2026/9/4/sabalenka-interrupts-us-open-match-against-rakhimova-over-cannabis-smell?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "World number one Aryna Sabalenka's straight-sets US Open win against Kamilla Rakhimova stopped by smell of cannabis.",
+        "title": "Census 2027 enumeration advanced in four poll-bound states",
+        "link": "https://timesofindia.indiatimes.com/india/census-2027-enumeration-advanced-in-four-poll-bound-states/articleshow/133814645.cms",
+        "source": "Times of India",
+        "time_ago": "4h ago",
+        "summary": "",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Will Europe pay the US to provide military aid to Ukraine?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "US President Donald Trump laments past financial support for Ukraine's war effort and has vowed to claw the money back.",
+        "title": "BJP MP Dinesh Sharma appointed Lt Governor of Andaman and Nicobar Islands",
+        "link": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/bjp-mp-dinesh-sharma-appointed-lt-governor-of-andaman-and-nicobar-islands/article71433503.ece",
+        "source": "The Hindu",
+        "time_ago": "17m ago",
+        "summary": "Mr. Sharma will succeed Admiral D K Joshi (retd), who took over as lieutenant governor of the Andaman and Nicobar Islands on October 8, 2017.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "NDTV",
+          "The Hindu"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Tesla\u2019s Cybercab has been deployed, and it\u2019s already under investigation",
+        "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+        "source": "Ars Technica",
+        "time_ago": "8h ago",
+        "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
+        "covered_by": [
+          "TechCrunch"
         ]
       }
     ],
     "ai": [
       {
-        "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
-        "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
         "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+        "time_ago": "6h ago",
+        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -53,7 +89,7 @@
         "title": "Meta is paying to peek at how you use their latest AI model",
         "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing the",
         "covered_by": [
           "Ars Technica",
@@ -61,113 +97,79 @@
         ]
       },
       {
-        "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-        "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       }
     ],
-    "india": [
+    "world": [
       {
-        "title": "\u2018Hunchha\u2019: 9 days on, a miracle rescue in Nepal",
-        "link": "https://timesofindia.indiatimes.com/world/south-asia/9-days-on-a-miracle-rescue-in-nepal/articleshow/133781004.cms",
-        "source": "Times of India",
-        "time_ago": "49m ago",
-        "summary": "2 Men Pulled Out Of Trishuli 3A Hydropower Tunnel; 41 Were Believed Trapped As Flood Buried Project",
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "India in continuous touch with Ukraine and Russia to help end the conflict: Jaishankar",
-        "link": "https://www.thehindu.com/news/national/india-in-continuous-touch-with-ukraine-and-russia-to-help-end-the-conflict-jaishankar/article71429756.ece",
-        "source": "The Hindu",
-        "time_ago": "3h ago",
-        "summary": "Jaishankar, who arrived in Warsaw from Kyiv where he held talks with top Ukrainian leadership on Thursday, made the remarks after he met Poland's Deputy Prime Minister and Foreign Minister Rados\u0142aw Sikorski",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "IIT Madras incubated centre launches AI models in Indian languages",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/iitm-incubated-centre-launches-ai-models-in-indian-languages/article71428986.ece",
-        "source": "The Hindu",
-        "time_ago": "5h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
-        "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-        "source": "TechCrunch",
+        "title": "Fuel tanker blast in western Iran kills at least 10",
+        "link": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
+        "source": "Al Jazeera",
         "time_ago": "1h ago",
-        "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+        "summary": "At least six other people were injured in the tanker blast on Iran's Hamedan-Sanandaj highway, officials say.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "What will Apple\u2019s John Ternus era look like?",
-        "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "It\u2019s\u00a0officially the Ternus era at Apple.\u00a0\u00a0 Tim Cook stepped down\u00a0as CEO this week, handing the company to former hardware chief John Ternus, whose first memo\u00a0promised a \u201chuge launch next week\u201d\u00a0\u2014 timing that puts Apple\u2019s ",
+        "title": "Why is Argentina reigniting the Falklands dispute?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "President Javier Milei says sovereignty over the islands remains a national objective.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "No little kids allowed, and other new info about Tesla\u2019s Cybercab",
-        "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
-        "covered_by": [
-          "TechCrunch"
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Donald and Crocombe get England white-ball call-ups",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/c4g58y852kwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "8h ago",
-        "summary": "England name the uncapped Aneurin Donald and Henry Crocombe in their squads for the white-ball series against Sri Lanka.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Miami vs. Stanford prediction, odds, time: 2026 Week 1 college football picks by proven model",
-        "link": "https://www.cbssports.com/betting/news/miami-stanford-prediction-odds-start-time-2026-week-1-college-football-friday-picks-best-bets/",
+        "title": "2026 Week 1 NFL score predictions, odds, best picks today: Expert reveals exact scores for every NFL game",
+        "link": "https://www.cbssports.com/betting/news/2026-week-1-nfl-score-predictions-odds-best-bets-picks-today/",
         "source": "CBS Sports",
-        "time_ago": "7m ago",
-        "summary": "The SportsLine Projection Model has revealed its best bets for Stanford vs. Miami (Fla.) in an ACC matchup on Friday",
+        "time_ago": "1h ago",
+        "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 1 NFL schedule",
         "covered_by": [
           "CBS Sports"
         ]
       },
       {
-        "title": "Use FanDuel promo code to get $350 bonus bets by targeting Miami-Stanford, Fresno State-USC, college football",
-        "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-miami-stanford-fresno-state-usc-college-football-on-friday/",
-        "source": "CBS Sports",
+        "title": "How Man Utd plan to compete at top with richer rivals",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
         "time_ago": "2h ago",
-        "summary": "Sign up and bet with the latest FanDuel promo code on Friday to get your bonus bets",
+        "summary": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat  Manchester United can be successful despite the club's relatively low summer spending.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Clemson vs. LSU college football betting: Odds, picks, prediction, betting preview, kickoff time for Week 1",
+        "link": "https://www.cbssports.com/betting/news/clemson-vs-lsu-college-football-betting-odds-picks-prediction-betting-preview-kickoff-time-for-week-1/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "LSU kicks off the Lane Kiffin era against a familiar foe in Clemson in each team's 2026 college football Week 1 opener",
         "covered_by": [
           "CBS Sports"
         ]
