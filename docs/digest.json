@@ -1,74 +1,36 @@
 {
-  "generated_at": "2026-09-06T00:09:15.266963+00:00",
+  "generated_at": "2026-09-07T00:13:45.486469+00:00",
   "categories": {
-    "india": [
+    "sports": [
       {
-        "title": "Sachin Pilot In. Bhupesh Baghel Out. Why Punjab Congress Change Was Imminent",
-        "link": "https://www.ndtv.com/india-news/sachin-pilot-in-bhupesh-baghel-out-why-punjab-congress-change-was-imminent-12007155#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "6h ago",
-        "summary": "Bhupesh Baghel was appointed Punjab Congress in-charge in Feb 2025; favoured retaining Raja Warring as state chief but became a target for other factions, such as Charanjit Channi's camp.",
+        "title": "Gabriel was 'extremely lucky' to avoid red - Rooney",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cgk531g8gr2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1h ago",
+        "summary": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
         "covered_by": [
-          "NDTV",
-          "The Hindu",
-          "Times of India"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Census 2027 enumeration advanced in four poll-bound states",
-        "link": "https://timesofindia.indiatimes.com/india/census-2027-enumeration-advanced-in-four-poll-bound-states/articleshow/133814645.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "",
+        "title": "Ole Miss vs. Louisville prediction, odds, time: 2026 Week 1 college football Sunday picks via proven model",
+        "link": "https://www.cbssports.com/betting/news/ole-miss-louisville-prediction-odds-time-2026-week-1-picks-college-football-sunday-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "48m ago",
+        "summary": "The SportsLine Projection Model has revealed its best bets for Louisville Cardinals vs. Ole Miss Rebels in Nashville on Sunday",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "CBS Sports"
         ]
       },
       {
-        "title": "BJP MP Dinesh Sharma appointed Lt Governor of Andaman and Nicobar Islands",
-        "link": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/bjp-mp-dinesh-sharma-appointed-lt-governor-of-andaman-and-nicobar-islands/article71433503.ece",
-        "source": "The Hindu",
-        "time_ago": "17m ago",
-        "summary": "Mr. Sharma will succeed Admiral D K Joshi (retd), who took over as lieutenant governor of the Andaman and Nicobar Islands on October 8, 2017.",
+        "title": "Notre Dame vs. Wisconsin prediction, odds, time: 2026 Week 1 college football picks by proven model",
+        "link": "https://www.cbssports.com/betting/news/notre-dame-wisconsin-prediction-odds-time-2026-week-1-picks-college-football-sunday-bets/",
+        "source": "CBS Sports",
+        "time_ago": "54m ago",
+        "summary": "The SportsLine Projection Model has revealed its best bets for Notre Dame Fighting Irish vs. Wisconsin Badgers on Sunday at Lambeau Field",
         "covered_by": [
-          "NDTV",
-          "The Hindu"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
-        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Tesla\u2019s Cybercab has been deployed, and it\u2019s already under investigation",
-        "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-        "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
-        "covered_by": [
-          "TechCrunch"
+          "CBS Sports"
         ]
       }
     ],
@@ -77,7 +39,7 @@
         "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
         "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
         "source": "TechCrunch",
-        "time_ago": "6h ago",
+        "time_ago": "1d ago",
         "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
         "covered_by": [
           "Ars Technica",
@@ -89,7 +51,7 @@
         "title": "Meta is paying to peek at how you use their latest AI model",
         "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
         "source": "TechCrunch",
-        "time_ago": "2d ago",
+        "time_ago": "3d ago",
         "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing the",
         "covered_by": [
           "Ars Technica",
@@ -100,7 +62,7 @@
         "title": "Hikers rescued after using Google Gemini for planning",
         "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
+        "time_ago": "1d ago",
         "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
         "covered_by": [
           "Ars Technica",
@@ -108,70 +70,108 @@
         ]
       }
     ],
+    "tech": [
+      {
+        "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "TechCrunch Mobility: Tesla Cybercab hits the road \u2014 and a snag",
+        "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
     "world": [
       {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "13m ago",
+        "summary": "Move comes as Iran's top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+        "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Fuel tanker blast in western Iran kills at least 10",
-        "link": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "At least six other people were injured in the tanker blast on Iran's Hamedan-Sanandaj highway, officials say.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Why is Argentina reigniting the Falklands dispute?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
-        "source": "Al Jazeera",
         "time_ago": "3h ago",
-        "summary": "President Javier Milei says sovereignty over the islands remains a national objective.",
+        "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "At least five killed in New Delhi building collapse",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "At least five people have been killed and nine rescued after a building housing mostly students collapsed in New Delhi.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       }
     ],
-    "sports": [
+    "india": [
       {
-        "title": "2026 Week 1 NFL score predictions, odds, best picks today: Expert reveals exact scores for every NFL game",
-        "link": "https://www.cbssports.com/betting/news/2026-week-1-nfl-score-predictions-odds-best-bets-picks-today/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 1 NFL schedule",
+        "title": "6 killed in Delhi building collapse; illegal buildings over 4 floors to face action",
+        "link": "https://timesofindia.indiatimes.com/india/6-killed-in-delhi-building-collapse-fir-against-owner-illegal-buildings-face-action/articleshow/133856825.cms",
+        "source": "Times of India",
+        "time_ago": "15m ago",
+        "summary": "",
         "covered_by": [
-          "CBS Sports"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "How Man Utd plan to compete at top with richer rivals",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat  Manchester United can be successful despite the club's relatively low summer spending.",
+        "title": "Agency won't be privatised or its role diminished: Isro",
+        "link": "https://timesofindia.indiatimes.com/india/isro-will-never-be-privatised-its-role-wont-be-diminished-space-agency-inspace-chief/articleshow/133851245.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "",
         "covered_by": [
-          "BBC Sport"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Clemson vs. LSU college football betting: Odds, picks, prediction, betting preview, kickoff time for Week 1",
-        "link": "https://www.cbssports.com/betting/news/clemson-vs-lsu-college-football-betting-odds-picks-prediction-betting-preview-kickoff-time-for-week-1/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "LSU kicks off the Lane Kiffin era against a familiar foe in Clemson in each team's 2026 college football Week 1 opener",
+        "title": "India, China Corps Commanders meet in Arunachal Pradesh",
+        "link": "https://timesofindia.indiatimes.com/india/india-china-corps-commanders-meet-in-arunachal-pradesh/articleshow/133851531.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "",
         "covered_by": [
-          "CBS Sports"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ]
