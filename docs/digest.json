@@ -1,36 +1,106 @@
 {
-  "generated_at": "2026-09-07T00:13:45.486469+00:00",
+  "generated_at": "2026-09-08T00:37:23.827702+00:00",
   "categories": {
+    "india": [
+      {
+        "title": "Delhi building collapse death toll up to 7; HC orders citywide PG inspection, flags student housing woes",
+        "link": "https://www.thehindu.com/news/cities/Delhi/delhi-building-collapse-death-toll-up-to-7-hc-orders-citywide-pg-inspection-flags-student-housing-woes/article71439955.ece",
+        "source": "The Hindu",
+        "time_ago": "7h ago",
+        "summary": "Building owner arrested, along with spouse and son; five MCD officials suspended; Delhi government mulling policy to govern buildings used for different purposes, including PG accommodations",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Trump threatens Bombardier ban unless Canadian firm shifts production to US",
+        "link": "https://timesofindia.indiatimes.com/world/us/stop-treating-america-like-a-piggybank-trump-threatens-to-block-canadas-bombardier-jets-in-us/articleshow/133901680.cms",
+        "source": "Times of India",
+        "time_ago": "24m ago",
+        "summary": "",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "U.K. recognises India's carbon credit scheme under its carbon tax mechanism: official",
+        "link": "https://www.thehindu.com/sci-tech/energy-and-environment/uk-recognises-indias-carbon-credit-scheme-under-its-carbon-tax-mechanism-official/article71440204.ece",
+        "source": "The Hindu",
+        "time_ago": "41m ago",
+        "summary": "With this recognition, U.K. importers of eligible Indian goods covered under CBAM will be able to seek carbon price relief",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
     "sports": [
       {
-        "title": "Gabriel was 'extremely lucky' to avoid red - Rooney",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cgk531g8gr2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
+        "title": "Champions League expert picks, predictions, best bets: Real Madrid vs. Inter battle on Matchday 1",
+        "link": "https://www.cbssports.com/soccer/news/champions-league-expert-picks-predictions-best-bets-real-madrid-inter-matchday-1/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "Check out all the picks from our experts as the Champions League league phase kicks off",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Ole Miss vs. Louisville prediction, odds, time: 2026 Week 1 college football Sunday picks via proven model",
-        "link": "https://www.cbssports.com/betting/news/ole-miss-louisville-prediction-odds-time-2026-week-1-picks-college-football-sunday-best-bets/",
+        "title": "Use FanDuel promo code to get $350 in bonus bets by targeting SMU vs. Florida State, college football Monday",
+        "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-smu-vs-florida-state-college-football-monday/",
         "source": "CBS Sports",
-        "time_ago": "48m ago",
-        "summary": "The SportsLine Projection Model has revealed its best bets for Louisville Cardinals vs. Ole Miss Rebels in Nashville on Sunday",
+        "time_ago": "1h ago",
+        "summary": "Sign up and bet with the latest FanDuel promo code on Monday to get your bonus bets",
         "covered_by": [
           "CBS Sports"
         ]
       },
       {
-        "title": "Notre Dame vs. Wisconsin prediction, odds, time: 2026 Week 1 college football picks by proven model",
-        "link": "https://www.cbssports.com/betting/news/notre-dame-wisconsin-prediction-odds-time-2026-week-1-picks-college-football-sunday-bets/",
-        "source": "CBS Sports",
-        "time_ago": "54m ago",
-        "summary": "The SportsLine Projection Model has revealed its best bets for Notre Dame Fighting Irish vs. Wisconsin Badgers on Sunday at Lambeau Field",
+        "title": "Is Antonelli a generational talent?",
+        "link": "https://www.bbc.co.uk/sport/formula1/videos/c3057ld9400o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1d ago",
+        "summary": "On The Chequered Flag Podcast, F1 journalist Rebecca Clancy and British racing driver Alex Lynn debate whether Kimi Antonelli is a generational talent, after the Mercedes prodigy became the first Italian to win on home s",
         "covered_by": [
-          "CBS Sports"
+          "BBC Sport"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "What are the implications of AfD\u2019s electoral rise for Germany and Europe?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "The far-right Alternative for Germany is just short of a majority in a regional election.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+        "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Moment shop worker dives into traffic to save child",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-shop-worker-dives-into-traffic-to-save-child?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "5h ago",
+        "summary": "A shop worker has been hailed a \u2018hero\u2019 after CCTV video showed him diving into traffic to save a child",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
@@ -39,7 +109,7 @@
         "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
         "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
         "covered_by": [
           "Ars Technica",
@@ -51,7 +121,7 @@
         "title": "Meta is paying to peek at how you use their latest AI model",
         "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
         "source": "TechCrunch",
-        "time_ago": "3d ago",
+        "time_ago": "4d ago",
         "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing the",
         "covered_by": [
           "Ars Technica",
@@ -62,7 +132,7 @@
         "title": "Hikers rescued after using Google Gemini for planning",
         "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
         "covered_by": [
           "Ars Technica",
@@ -75,7 +145,7 @@
         "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
         "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
         "covered_by": [
           "Ars Technica",
@@ -86,7 +156,7 @@
         "title": "TechCrunch Mobility: Tesla Cybercab hits the road \u2014 and a snag",
         "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
+        "time_ago": "1d ago",
         "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
         "covered_by": [
           "Ars Technica",
@@ -97,81 +167,11 @@
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "13m ago",
-        "summary": "Move comes as Iran's top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-        "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "3h ago",
-        "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "At least five killed in New Delhi building collapse",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "At least five people have been killed and nine rescued after a building housing mostly students collapsed in New Delhi.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "6 killed in Delhi building collapse; illegal buildings over 4 floors to face action",
-        "link": "https://timesofindia.indiatimes.com/india/6-killed-in-delhi-building-collapse-fir-against-owner-illegal-buildings-face-action/articleshow/133856825.cms",
-        "source": "Times of India",
-        "time_ago": "15m ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Agency won't be privatised or its role diminished: Isro",
-        "link": "https://timesofindia.indiatimes.com/india/isro-will-never-be-privatised-its-role-wont-be-diminished-space-agency-inspace-chief/articleshow/133851245.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "India, China Corps Commanders meet in Arunachal Pradesh",
-        "link": "https://timesofindia.indiatimes.com/india/india-china-corps-commanders-meet-in-arunachal-pradesh/articleshow/133851531.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
         ]
       }
     ]
