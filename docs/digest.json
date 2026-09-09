@@ -1,69 +1,35 @@
 {
-  "generated_at": "2026-09-08T00:37:23.827702+00:00",
+  "generated_at": "2026-09-09T00:28:09.114881+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "Delhi building collapse death toll up to 7; HC orders citywide PG inspection, flags student housing woes",
-        "link": "https://www.thehindu.com/news/cities/Delhi/delhi-building-collapse-death-toll-up-to-7-hc-orders-citywide-pg-inspection-flags-student-housing-woes/article71439955.ece",
-        "source": "The Hindu",
-        "time_ago": "7h ago",
-        "summary": "Building owner arrested, along with spouse and son; five MCD officials suspended; Delhi government mulling policy to govern buildings used for different purposes, including PG accommodations",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Trump threatens Bombardier ban unless Canadian firm shifts production to US",
-        "link": "https://timesofindia.indiatimes.com/world/us/stop-treating-america-like-a-piggybank-trump-threatens-to-block-canadas-bombardier-jets-in-us/articleshow/133901680.cms",
-        "source": "Times of India",
-        "time_ago": "24m ago",
-        "summary": "",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "U.K. recognises India's carbon credit scheme under its carbon tax mechanism: official",
-        "link": "https://www.thehindu.com/sci-tech/energy-and-environment/uk-recognises-indias-carbon-credit-scheme-under-its-carbon-tax-mechanism-official/article71440204.ece",
-        "source": "The Hindu",
-        "time_ago": "41m ago",
-        "summary": "With this recognition, U.K. importers of eligible Indian goods covered under CBAM will be able to seek carbon price relief",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
     "sports": [
       {
-        "title": "Champions League expert picks, predictions, best bets: Real Madrid vs. Inter battle on Matchday 1",
-        "link": "https://www.cbssports.com/soccer/news/champions-league-expert-picks-predictions-best-bets-real-madrid-inter-matchday-1/",
+        "title": "Riccardo Calafiori redefines fullback role as Arsenal defender returns to Italy for Champions League action",
+        "link": "https://www.cbssports.com/soccer/news/arsenal-napoli-champions-league-live-stream-riccardo-calafiori/",
         "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "Check out all the picks from our experts as the Champions League league phase kicks off",
+        "time_ago": "4h ago",
+        "summary": "The Italian defender returns to his homeland with Arsenal having evolved far beyond a traditional inverted left back under Mikel Arteta.",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Use FanDuel promo code to get $350 in bonus bets by targeting SMU vs. Florida State, college football Monday",
-        "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-smu-vs-florida-state-college-football-monday/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Sign up and bet with the latest FanDuel promo code on Monday to get your bonus bets",
+        "title": "Tiafoe consoles tearful Michelsen after remarkable US Open comeback",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c33k6zl5m87o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "15m ago",
+        "summary": "Frances Tiafoe comes from two sets and a break down to beat Alex Michelsen in a thrilling comeback to reach the US Open semi-finals.",
         "covered_by": [
+          "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Is Antonelli a generational talent?",
-        "link": "https://www.bbc.co.uk/sport/formula1/videos/c3057ld9400o?at_medium=RSS&at_campaign=rss",
+        "title": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "1d ago",
-        "summary": "On The Chequered Flag Podcast, F1 journalist Rebecca Clancy and British racing driver Alex Lynn debate whether Kimi Antonelli is a generational talent, after the Mercedes prodigy became the first Italian to win on home s",
+        "time_ago": "17h ago",
+        "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
         "covered_by": [
           "BBC Sport"
         ]
@@ -71,33 +37,33 @@
     ],
     "world": [
       {
-        "title": "What are the implications of AfD\u2019s electoral rise for Germany and Europe?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
+        "title": "What the UK ban on goods from illegal Israeli settlements really means",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "The far-right Alternative for Germany is just short of a majority in a regional election.",
+        "time_ago": "2h ago",
+        "summary": "Israel has announced that it\u2019s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-        "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
+        "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
+        "link": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss",
+        "source": "Al Jazeera",
         "time_ago": "1h ago",
-        "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+        "summary": "The New York City mayor said the document release shows victims were 'lied to' about health impacts from the attacks.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Moment shop worker dives into traffic to save child",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-shop-worker-dives-into-traffic-to-save-child?traffic_source=rss",
+        "title": "Police bodycam captures Russian missile strike on Kyiv",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "A shop worker has been hailed a \u2018hero\u2019 after CCTV video showed him diving into traffic to save a child",
+        "time_ago": "3h ago",
+        "summary": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine\u2019s capital Kiev",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -106,11 +72,11 @@
     ],
     "ai": [
       {
-        "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
-        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
         "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "time_ago": "6h ago",
+        "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -118,60 +84,97 @@
         ]
       },
       {
-        "title": "Meta is paying to peek at how you use their latest AI model",
-        "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
         "source": "TechCrunch",
-        "time_ago": "4d ago",
-        "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing the",
+        "time_ago": "5h ago",
+        "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
+        "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+        "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+        "source": "Ars Technica",
+        "time_ago": "6d ago",
+        "summary": "Trump\u2019s secret reviews of frontier AI models may hide corruption, lawsuit says.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
+          "The Verge"
         ]
       }
     ],
     "tech": [
       {
-        "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
-        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
         "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "time_ago": "5h ago",
+        "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Update to Google\u2019s AI weather model improves forecast accuracy",
+        "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+        "source": "Ars Technica",
+        "time_ago": "6h ago",
+        "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "TechCrunch Mobility: Tesla Cybercab hits the road \u2014 and a snag",
-        "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "time_ago": "6h ago",
+        "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "BJP got Rs 1,473 crore to fight Bengal, Assam, 3 other assembly polls",
+        "link": "https://timesofindia.indiatimes.com/india/bjp-got-rs-1473-crore-to-fight-bengal-assam-3-other-assembly-polls/articleshow/133945783.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Punjab leaders have assured me of working collectively under Rahul ji and Kharge ji\u2019s leadership, says Sachin Pilot",
+        "link": "https://www.thehindu.com/news/national/punjab-leaders-have-assured-me-of-working-collectively-under-rahul-ji-and-kharge-jis-leadership-says-sachin-pilot/article71443546.ece",
+        "source": "The Hindu",
+        "time_ago": "7h ago",
+        "summary": "The new Congress in-charge of Punjab talks of a blueprint for the State, says Charanjit Singh Channi has assured full support towards party\u2019s efforts",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Russia welcomes India\u2019s contribution to end Ukraine crisis: Kremlin spokesperson",
+        "link": "https://www.thehindu.com/news/international/russia-will-welcome-indias-efforts-toward-peaceful-resolution-of-ukraine-conflict-peskov/article71442448.ece",
+        "source": "The Hindu",
+        "time_ago": "7h ago",
+        "summary": "On the expectations and challenges before the BRICS Summit that will be chaired by India this time, Dmitry Peskov says that BRICS is not \u2018anti-Western\u2019, and that it is a grouping of countries who share an outlook",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ]
