@@ -1,82 +1,13 @@
 {
-  "generated_at": "2026-09-09T00:28:09.114881+00:00",
+  "generated_at": "2026-09-10T00:27:32.830834+00:00",
   "categories": {
-    "sports": [
-      {
-        "title": "Riccardo Calafiori redefines fullback role as Arsenal defender returns to Italy for Champions League action",
-        "link": "https://www.cbssports.com/soccer/news/arsenal-napoli-champions-league-live-stream-riccardo-calafiori/",
-        "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "The Italian defender returns to his homeland with Arsenal having evolved far beyond a traditional inverted left back under Mikel Arteta.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Tiafoe consoles tearful Michelsen after remarkable US Open comeback",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c33k6zl5m87o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "15m ago",
-        "summary": "Frances Tiafoe comes from two sets and a break down to beat Alex Michelsen in a thrilling comeback to reach the US Open semi-finals.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
-        "link": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "17h ago",
-        "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "What the UK ban on goods from illegal Israeli settlements really means",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Israel has announced that it\u2019s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
-        "link": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "The New York City mayor said the document release shows victims were 'lied to' about health impacts from the attacks.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Police bodycam captures Russian missile strike on Kyiv",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine\u2019s capital Kiev",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
     "ai": [
       {
-        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-        "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
         "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+        "time_ago": "2h ago",
+        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -84,36 +15,35 @@
         ]
       },
       {
-        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-        "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+        "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
+        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "The hinge for Apple\u2019s new foldable phone was built with AI",
+        "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
         "source": "TechCrunch",
         "time_ago": "5h ago",
-        "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their",
+        "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
         "covered_by": [
-          "Ars Technica",
           "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-        "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-        "source": "Ars Technica",
-        "time_ago": "6d ago",
-        "summary": "Trump\u2019s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-        "covered_by": [
-          "Ars Technica",
           "The Verge"
         ]
       }
     ],
     "tech": [
       {
-        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-        "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+        "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
+        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their",
+        "time_ago": "4h ago",
+        "summary": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -121,34 +51,35 @@
         ]
       },
       {
-        "title": "Update to Google\u2019s AI weather model improves forecast accuracy",
-        "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+        "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+        "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+        "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
         "source": "Ars Technica",
-        "time_ago": "6h ago",
-        "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
+        "time_ago": "5h ago",
+        "summary": "New Apple Intelligence features, too.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
-        ]
-      },
-      {
-        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-        "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
         ]
       }
     ],
     "india": [
       {
-        "title": "BJP got Rs 1,473 crore to fight Bengal, Assam, 3 other assembly polls",
-        "link": "https://timesofindia.indiatimes.com/india/bjp-got-rs-1473-crore-to-fight-bengal-assam-3-other-assembly-polls/articleshow/133945783.cms",
+        "title": "SC registry urged to list defamation case against Rahul Gandhi",
+        "link": "https://timesofindia.indiatimes.com/india/sc-registry-urged-to-list-defamation-case-against-rahul-gandhi/articleshow/133986378.cms",
         "source": "Times of India",
-        "time_ago": "1h ago",
+        "time_ago": "2h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -156,25 +87,93 @@
         ]
       },
       {
-        "title": "Punjab leaders have assured me of working collectively under Rahul ji and Kharge ji\u2019s leadership, says Sachin Pilot",
-        "link": "https://www.thehindu.com/news/national/punjab-leaders-have-assured-me-of-working-collectively-under-rahul-ji-and-kharge-jis-leadership-says-sachin-pilot/article71443546.ece",
+        "title": "Punjab govt. employees call off their strike after assurance",
+        "link": "https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece",
         "source": "The Hindu",
-        "time_ago": "7h ago",
-        "summary": "The new Congress in-charge of Punjab talks of a blueprint for the State, says Charanjit Singh Channi has assured full support towards party\u2019s efforts",
+        "time_ago": "2h ago",
+        "summary": "The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the government withdraw its letter branding their August 27 mass casual leave taken in protest as \u201cunauthorised leave\u201d.",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Russia welcomes India\u2019s contribution to end Ukraine crisis: Kremlin spokesperson",
-        "link": "https://www.thehindu.com/news/international/russia-will-welcome-indias-efforts-toward-peaceful-resolution-of-ukraine-conflict-peskov/article71442448.ece",
-        "source": "The Hindu",
-        "time_ago": "7h ago",
-        "summary": "On the expectations and challenges before the BRICS Summit that will be chaired by India this time, Dmitry Peskov says that BRICS is not \u2018anti-Western\u2019, and that it is a grouping of countries who share an outlook",
+        "title": "SC reiterates call to CBSE to exempt Class VI from its 3-language policy",
+        "link": "https://timesofindia.indiatimes.com/india/sc-reiterates-call-to-cbse-to-exempt-class-vi-from-its-3-language-policy/articleshow/133984276.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "'Whether English Native Or Foreign Language Will Need Full-Fledged Hearing'",
         "covered_by": [
           "The Hindu",
           "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "IAEA board refers Iran to UN Security Council over nuclear \u2018non-compliance\u2019",
+        "link": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "The symbolic escalation has been initiated by the United States, Germany, France and the United Kingdom.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+        "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+        "covered_by": [
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump says the US-Iran war will end right after midterms",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Seven months after launching the war on Iran, US President Donald Trump says it will end immediately after midterms.",
+        "covered_by": [
+          "Al Jazeera"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Seahawks vs. Patriots betting guide: Breaking down best bets, player props and anytime touchdown scorers",
+        "link": "https://www.cbssports.com/betting/news/seahawks-vs-patriots-betting-guide-breaking-down-best-bets-player-props-and-anytime-touchdown-scorers/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Here are all the best bets you need for the Week 1 NFL kickoff between the Seahawks and Patriots",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Liverpool's questions remain unanswered despite narrow win vs. Atletico Madrid in Champions League",
+        "link": "https://www.cbssports.com/soccer/news/liverpools-questions-remain-unanswered-win-vs-atletico-madrid-in-champions-league/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Atletico took an early lead at Anfield but faded quickly and eventually lost 2-1 to Liverpool in their Champions League opener",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Manchester United return to Champions League under Michael Carrick against Sabah",
+        "link": "https://www.cbssports.com/soccer/news/manchester-united-return-to-champions-league-under-michael-carrick-against-sabah/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "Michael Carrick faces pressure to deliver a dominant European return at Old Trafford before the Manchester Derby, with the Red Devils managing key injuries against Azerbaijani club Sabah.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
         ]
       }
     ]
