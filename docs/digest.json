@@ -1,108 +1,36 @@
 {
-  "generated_at": "2026-09-10T00:27:32.830834+00:00",
+  "generated_at": "2026-09-11T00:24:45.691964+00:00",
   "categories": {
-    "ai": [
-      {
-        "title": "OpenAI adds a prominent AI doomer to its board of directors",
-        "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
-        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "The hinge for Apple\u2019s new foldable phone was built with AI",
-        "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
-        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
-        "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-        "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
-        "source": "Ars Technica",
-        "time_ago": "5h ago",
-        "summary": "New Apple Intelligence features, too.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
     "india": [
       {
-        "title": "SC registry urged to list defamation case against Rahul Gandhi",
-        "link": "https://timesofindia.indiatimes.com/india/sc-registry-urged-to-list-defamation-case-against-rahul-gandhi/articleshow/133986378.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Punjab govt. employees call off their strike after assurance",
-        "link": "https://www.thehindu.com/news/national/punjab/punjab-govt-employees-call-off-their-strike-after-assurance/article71447845.ece",
+        "title": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
+        "link": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece",
         "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "The employees, who had on Tuesday, September 8, observed a day-long strike, were demanding that the government withdraw its letter branding their August 27 mass casual leave taken in protest as \u201cunauthorised leave\u201d.",
+        "time_ago": "1h ago",
+        "summary": "The summit in New Delhi is taking place against the backdrop of a global economy facing the adverse impacts of the Russia-Ukraine war, the West Asia crisis, especially the blockade of the Strait of Hormuz, and the Trump ",
+        "covered_by": [
+          "NDTV",
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Supreme Court declines pre-arrest relief to Abhishek Banerjee\u2019s PA",
+        "link": "https://www.thehindu.com/news/national/west-bengal/supreme-court-declines-pre-arrest-relief-to-abhishek-banerjees-pa/article71452952.ece",
+        "source": "The Hindu",
+        "time_ago": "1h ago",
+        "summary": "The West Bengal government, represented by Solicitor General Tushar Mehta, argued that Mr. Roy\u2019s answers were proving evasive and his custodial interrogation was necessary to the investigation.",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "SC reiterates call to CBSE to exempt Class VI from its 3-language policy",
-        "link": "https://timesofindia.indiatimes.com/india/sc-reiterates-call-to-cbse-to-exempt-class-vi-from-its-3-language-policy/articleshow/133984276.cms",
+        "title": "Centre ready to fulfil Ladakh's aspirations, asks for 'patience'",
+        "link": "https://timesofindia.indiatimes.com/india/centre-ready-to-fulfil-ladakhs-aspirations-asks-for-patience/articleshow/134028802.cms",
         "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "'Whether English Native Or Foreign Language Will Need Full-Fledged Hearing'",
+        "time_ago": "4h ago",
+        "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
@@ -111,69 +39,142 @@
     ],
     "world": [
       {
-        "title": "IAEA board refers Iran to UN Security Council over nuclear \u2018non-compliance\u2019",
-        "link": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
+        "title": "A year after Charlie Kirk\u2019s death, are young voters turning on Trump?",
+        "link": "https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "The symbolic escalation has been initiated by the United States, Germany, France and the United Kingdom.",
+        "time_ago": "1h ago",
+        "summary": "Turning Point USA has expanded its campus presence, even as Trump\u2019s support among young men has fallen.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-        "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+        "title": "Morocco denies involvement in migrant surge into Spain\u2019s Ceuta",
+        "link": "https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Over 70,000 migrants entered Ceuta, sparking a humanitarian crisis and political tensions between Spain and Morocco.",
         "covered_by": [
+          "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Trump says the US-Iran war will end right after midterms",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Seven months after launching the war on Iran, US President Donald Trump says it will end immediately after midterms.",
+        "title": "More than 20 children killed in DR Congo school fire",
+        "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "5h ago",
+        "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
         "covered_by": [
-          "Al Jazeera"
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Seahawks vs. Patriots betting guide: Breaking down best bets, player props and anytime touchdown scorers",
-        "link": "https://www.cbssports.com/betting/news/seahawks-vs-patriots-betting-guide-breaking-down-best-bets-player-props-and-anytime-touchdown-scorers/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Here are all the best bets you need for the Week 1 NFL kickoff between the Seahawks and Patriots",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Liverpool's questions remain unanswered despite narrow win vs. Atletico Madrid in Champions League",
-        "link": "https://www.cbssports.com/soccer/news/liverpools-questions-remain-unanswered-win-vs-atletico-madrid-in-champions-league/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Atletico took an early lead at Anfield but faded quickly and eventually lost 2-1 to Liverpool in their Champions League opener",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Manchester United return to Champions League under Michael Carrick against Sabah",
-        "link": "https://www.cbssports.com/soccer/news/manchester-united-return-to-champions-league-under-michael-carrick-against-sabah/",
-        "source": "CBS Sports",
+        "title": "Champions League new boys Como dominate Leipzig",
+        "link": "https://www.bbc.co.uk/sport/football/videos/czxzwwdz19zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
         "time_ago": "2h ago",
-        "summary": "Michael Carrick faces pressure to deliver a dominant European return at Old Trafford before the Manchester Derby, with the Red Devils managing key injuries against Azerbaijani club Sabah.",
+        "summary": "Como made an impressive Champions League debut by defeating visitors RB Leipzig 4-1 in their opening league-phase outing at Stadio Giuseppe Sinigaglia.",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
+        ]
+      },
+      {
+        "title": "Davies sinks world champion Wu at English Open",
+        "link": "https://www.bbc.co.uk/sport/snooker/articles/cr4vqqrwexeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1h ago",
+        "summary": "World champion Wu Yize is knocked out of the English Open in the third round as he loses 4-1 to Liam Davies, who faces fellow Welshman Mark Williams next.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Use DraftKings promo code to get $200 in bonus bets by targeting 49ers vs. Rams, 2026 NFL Australia Game",
+        "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-49ers-vs-rams-2026-nfl-australia-game/",
+        "source": "CBS Sports",
+        "time_ago": "25m ago",
+        "summary": "DraftKings offers $200 in bonus bets after your first $5 wager for 49ers vs. Rams betting in Australia on Thursday",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
+        "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
+        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they co",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+        "link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Apple's first foldable can be yours next month.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
+        "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Android can now securely migrate your logins between password managers",
+        "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+        "source": "Ars Technica",
+        "time_ago": "5h ago",
+        "summary": "App support is slim right now, but Google says more are coming.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ]
