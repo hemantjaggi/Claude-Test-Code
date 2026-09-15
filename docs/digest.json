@@ -1,12 +1,126 @@
 {
-  "generated_at": "2026-09-14T00:21:22.158147+00:00",
+  "generated_at": "2026-09-15T00:50:08.049371+00:00",
   "categories": {
+    "india": [
+      {
+        "title": "Ritabrata-led TMC camp names candidates for Bengal bypolls",
+        "link": "https://www.thehindu.com/news/national/west-bengal/ritabrata-led-tmc-camp-names-candidates-for-bengal-bypolls/article71466463.ece",
+        "source": "The Hindu",
+        "time_ago": "2h ago",
+        "summary": "Mohammad Eteshamul Haque will contest from Nandigram in Purba Medinipur district as the rebel TMC candidate, while Safiuzzaman Sheikh has been nominated from Rejinagar in Murshidabad",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "India to export 654MW of power to flood-hit Nepal daily till Dec 31",
+        "link": "https://timesofindia.indiatimes.com/india/india-to-export-654mw-of-power-to-nepal-daily-till-dec-31/articleshow/134247739.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "BJP single-largest party in Rajasthan urban polls, denied sweep by Independents",
+        "link": "https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-but-independents-rewrite-rajasthan-civic-poll-math/articleshow/134247421.cms",
+        "source": "Times of India",
+        "time_ago": "5h ago",
+        "summary": "The recent urban local body elections in Rajasthan showcased the significant influence of independent candidates on the outcome. Although the BJP secured the most seats, they did not dominate as expected, while Congress ",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Use DraftKings promo code to get $200 bonus bets by targeting Chiefs vs. Broncos on Monday Night Football",
+        "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-for-chiefs-vs-broncos-monday-night-football/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "DraftKings offers $200 in bonus bets after your first $5 wager for Kansas City vs. Denver betting on Monday Night Football",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "No weekend game for Manchester derby VAR officials",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "7h ago",
+        "summary": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Familiar questions for Man Utd, now Carrick must find answers",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cddv5mqjgvlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "13h ago",
+        "summary": "After one win in four Premier League games, the problems are mounting for Manchester United and manager Michael Carrick.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "What could stop the Houthis\u2019 advance across Yemen?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/14/what-could-stop-the-houthis-advance-across-yemen?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Iran-backed group seized areas on Red Sea coastline.",
+        "covered_by": [
+          "Al Jazeera",
+          "CNN"
+        ]
+      },
+      {
+        "title": "US blocks Iran nuclear chief from attending key Vienna conference",
+        "link": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Iran accuses US of pressuring Austria to revoke visa for Mohammad Eslami, calling it a violation of member state rights.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Multiple vehicle road crash in South Africa kills 21",
+        "link": "https://www.aljazeera.com/news/2026/9/14/multiple-vehicle-road-crash-in-south-africa-kills-21?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "Fatal traffic accidents are a recurring problem for South Africa.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
     "ai": [
+      {
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
       {
         "title": "Anthropic CEO outlines plan to slow AI development",
         "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
         "covered_by": [
           "Ars Technica",
@@ -15,165 +129,49 @@
         ]
       },
       {
-        "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
-        "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "title": "Microsoft\u2019s new AI \u2018code of conduct\u2019 tells models not to hack systems or trick humans",
+        "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "time_ago": "8h ago",
+        "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold \u2014 supporting humans rather than replacing them, for instance, and accelerating human flourishing \u2014 as well as specific safety constra",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
           "The Verge"
-        ]
-      },
-      {
-        "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
-        "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-        "source": "TechCrunch",
-        "time_ago": "3d ago",
-        "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
-        "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "49m ago",
-        "summary": "Trump downplays AI risks, saying he wants to maintain the US's lead over China in the emerging technology.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Swedish party blocs tied after Sunday vote, projections say",
-        "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "15h ago",
-        "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-        "covered_by": [
-          "BBC",
-          "CNN"
         ]
       }
     ],
     "tech": [
       {
-        "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
-        "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "title": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
+        "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "time_ago": "2h ago",
+        "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Apple is reportedly working on iPhone game controllers",
-        "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-        "source": "The Verge",
-        "time_ago": "",
-        "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some ti",
+        "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+        "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+        "source": "Ars Technica",
+        "time_ago": "5h ago",
+        "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
         "covered_by": [
+          "Ars Technica",
           "The Verge"
         ]
       },
       {
-        "title": "Insight Partners\u2019 Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-        "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
         "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why \u2014 even as everyone else piles into OpenAI and Anthropic \u2014 his $90 billion firm is de",
+        "time_ago": "4h ago",
+        "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
         "covered_by": [
           "TechCrunch"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "2026 Solheim Cup results: Europe edges United States, continuing dominance in biennial tournament",
-        "link": "https://www.cbssports.com/golf/news/solheim-2026-cup-results-europe-united-states/",
-        "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "Lottie Woad secured the decisive point, and Carlota Ciganda sealed the victory as the Europeans dominated Sunday singles",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "2026 Irish Open leaderboard: Shane Lowry makes history with 11-shot victory, shattering Jon Rahm's record",
-        "link": "https://www.cbssports.com/golf/news/irish-open-2026-leaderboard-shane-lowry/",
-        "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "Lowry shot a final-round 63 to finish at 23-under 257, double digits clear of Patrick Reed and Joaquin Niemann",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Zverev caps transformational year with US Open triumph",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Xi's 5-point action plan for Brics may see red flags go up in India",
-        "link": "https://timesofindia.indiatimes.com/india/xis-5-point-action-plan-for-brics-may-see-red-flags-go-up-in-india/articleshow/134225006.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "May Allow China To Cannibalise Markets, Pose AI Security Threat",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Asia Cup: Indian women's cricket team refuses to accept trophy from ACC head Mohsin Naqvi",
-        "link": "https://www.thehindu.com/sport/cricket/asia-cup-indian-womens-cricket-team-refuses-to-accept-trophy-from-acc-head-mohsin-naqvi/article71464494.ece",
-        "source": "The Hindu",
-        "time_ago": "4h ago",
-        "summary": "Harmanpreet Kaur-led India defeated Sri Lanka by 72 runs here to lift their record-extending eighth Asia Cup title, but the players did not come out on the field for post-tournament presentation ceremonies",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Brics 2026: Xi listening, PM Modi warns against weaponisation of minerals, tech",
-        "link": "https://timesofindia.indiatimes.com/india/brics-day-2-pm-flags-critical-minerals-tech-weaponisation-amid-global-tensions/articleshow/134220477.cms",
-        "source": "Times of India",
-        "time_ago": "5h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
         ]
       }
     ]
