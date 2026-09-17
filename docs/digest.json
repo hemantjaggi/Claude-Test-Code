@@ -1,176 +1,175 @@
 {
-  "generated_at": "2026-09-16T00:42:33.053184+00:00",
+  "generated_at": "2026-09-17T00:48:37.237550+00:00",
   "categories": {
-    "sports": [
+    "india": [
       {
-        "title": "Messi in Argentina squad for farewell friendly",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Argentina name Lionel Messi in their squad for a friendly against Benin in October in a match which is set to be the forward's farewell to international football.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Brook likened to Pietersen in SL win - how do they compare?",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
+        "title": "100% tariffs on India? Russia sanctions bill passed by US House; awaits Trump\u2019s assent",
+        "link": "https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms",
+        "source": "Times of India",
         "time_ago": "2h ago",
-        "summary": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
+        "summary": "The US House has successfully passed a sanctions bill aimed at Russian officials and the energy sector. This new legislation empowers President Trump to impose tariffs on significant buyers of Russian oil. India might en",
         "covered_by": [
-          "BBC Sport"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "2026 Week 2 NFL odds, start times, betting lines, spreads: Get Week 2 NFL picks, predictions for every game",
-        "link": "https://www.cbssports.com/betting/news/2026-week-2-nfl-odds-betting-lines-spreads-picks-predictions/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "SportsLine's model has analyzed the Week 2 NFL schedule and locked in its Week 2 NFL picks, predictions",
+        "title": "Govt. cuts windfall tax on export of petrol, diesel and ATF",
+        "link": "https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece",
+        "source": "The Hindu",
+        "time_ago": "55m ago",
+        "summary": "The duty \u200bon \u200cdiesel exports has been cut to \u20b920 \u200cper litre from \u200b25 earlier. The levy \u2060on export of petrol been \u200ccut to \u20b90.5 per litre from \u20b91.5 earlier",
         "covered_by": [
-          "CBS Sports"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
-        "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
-        "source": "Ars Technica",
-        "time_ago": "5h ago",
-        "summary": "Reaching orbit would mark a significant milestone.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-        "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+        "title": "Trump lauds India's crackdown on poppy farming; lists 23 major drug transit nations",
+        "link": "https://www.thehindu.com/news/national/trump-lauds-indias-crackdown-on-poppy-farming-lists-23-major-drug-transit-nations/article71474352.ece",
+        "source": "The Hindu",
+        "time_ago": "2h ago",
+        "summary": "He urged China to take stronger action to stem the flow of precursor chemicals used to produce fentanyl, methamphetamine and other synthetic drugs",
         "covered_by": [
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
-        "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-        "source": "TechCrunch",
-        "time_ago": "21m ago",
-        "summary": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-        "covered_by": [
-          "TechCrunch"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "ai": [
       {
-        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-        "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+        "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera",
+        "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+        "time_ago": "4h ago",
+        "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+        "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+        "source": "Ars Technica",
+        "time_ago": "2h ago",
+        "summary": "Planned 2029 debut could make this Apple\u2019s first enterprise server in decades.",
+        "covered_by": [
+          "Ars Technica",
           "The Verge"
         ]
       },
       {
-        "title": "Microsoft\u2019s new AI \u2018code of conduct\u2019 tells models not to hack systems or trick humans",
-        "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+        "title": "Your AI agents can now control your Google Home devices",
+        "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold \u2014 supporting humans rather than replacing them, for instance, and accelerating human flourishing \u2014 as well as specific safety constra",
+        "time_ago": "7h ago",
+        "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natura",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
-        "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-        "source": "TechCrunch",
-        "time_ago": "21m ago",
-        "summary": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       }
     ],
-    "india": [
+    "tech": [
       {
-        "title": "Ahead of central team visit, Bihar CM transfers \u20b9579 crore in flood relief",
-        "link": "https://www.thehindu.com/news/national/bihar/bihar-cm-transfers-579-crore-in-relief-to-flood-affected-people/article71467155.ece",
-        "source": "The Hindu",
-        "time_ago": "40m ago",
-        "summary": "A team led by Union Agriculture Minister Shivraj Singh Chouhan is scheduled to visit Bihar on September 16",
+        "title": "Your AI agents can now control your Google Home devices",
+        "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natura",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Free to fee: 0.4% on UPI payments over Rs 2,000",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/free-to-fee-0-4-on-upi-payments-over-rs-2000/articleshow/134275556.cms",
-        "source": "Times of India",
-        "time_ago": "52m ago",
-        "summary": "",
+        "title": "Musk\u2019s long-time backer is giving SpaceX stock to its investors",
+        "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+        "source": "TechCrunch",
+        "time_ago": "58m ago",
+        "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
-        "title": "Meta agrees to report child-safety matters directly to Indian authorities",
-        "link": "https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "Until Now, It Routed Such Reports Through US-Based Agency",
+        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+        "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+        "source": "Ars Technica",
+        "time_ago": "2h ago",
+        "summary": "Planned 2029 debut could make this Apple\u2019s first enterprise server in decades.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Ars Technica",
+          "The Verge"
         ]
       }
     ],
     "world": [
       {
-        "title": "Iran war increasing inflation, straining US munitions: congressional report",
-        "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4m ago",
-        "summary": "Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Ed Sheeran blames US tour promoter for dropping Macklemore",
-        "link": "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
+        "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
         "time_ago": "2h ago",
-        "summary": "The British musician said it was important to \"set out some facts\" after US rapper voiced support for Palestine.",
+        "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
+        "covered_by": [
+          "BBC",
+          "CNN"
+        ]
+      },
+      {
+        "title": "Rescue workers search for survivors after Gaza building collapse",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Rescue workers search for survivors after Gaza building collapse",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Why do some African leaders gamble with term limits?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss",
+        "title": "New video claims to show Saudi fighter jet Houthis say they shot down",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss",
         "source": "Al Jazeera",
         "time_ago": "4h ago",
-        "summary": "Protesters in the DRC denounce law that could extend president's term.",
+        "summary": "Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen\u2019s Marib.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Fantasy football Week 2 Start 'Em & Sit 'Em: Baker Mayfield eyes revenge against Browns in Bucs' home opener",
+        "link": "https://www.cbssports.com/fantasy/football/news/week-2-start-em-sit-em-mayfield-eyes-revenge/",
+        "source": "CBS Sports",
+        "time_ago": "25m ago",
+        "summary": "Jamey Eisenberg urges Fantasy managers not to overreact after Week 1, but injuries create concerns for several stars",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Seahawks rule out Sam Darnold for Week 2, but potential timetable for return emerges",
+        "link": "https://www.cbssports.com/nfl/news/seattle-seahawks-rule-out-sam-darnold-for-week-2/",
+        "source": "CBS Sports",
+        "time_ago": "45m ago",
+        "summary": "Seattle reportedly has no plans to place its starting quarterback on injured reserve",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Zverev wins US Open to earn second Grand Slam victory",
+        "link": "https://www.bbc.co.uk/sport/tennis/videos/c33km63dx8eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2d ago",
+        "summary": "Alexander Zverev wins the second Grand Slam of his career by beating Ben Shelton 6-3, 6-6 (7-6), 5-7, 6-2 in the final of the US Open.",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
