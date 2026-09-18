@@ -1,140 +1,69 @@
 {
-  "generated_at": "2026-09-17T00:48:37.237550+00:00",
+  "generated_at": "2026-09-18T00:41:40.248853+00:00",
   "categories": {
     "india": [
       {
-        "title": "100% tariffs on India? Russia sanctions bill passed by US House; awaits Trump\u2019s assent",
-        "link": "https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms",
+        "title": "Semicon India 2026: PM Modi pitches India as trusted chipmaking hub",
+        "link": "https://timesofindia.indiatimes.com/india/pm-modi-pitches-india-as-trusted-chipmaking-hub/articleshow/134322955.cms",
         "source": "Times of India",
         "time_ago": "2h ago",
-        "summary": "The US House has successfully passed a sanctions bill aimed at Russian officials and the energy sector. This new legislation empowers President Trump to impose tariffs on significant buyers of Russian oil. India might en",
+        "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Govt. cuts windfall tax on export of petrol, diesel and ATF",
-        "link": "https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece",
+        "title": "Bangladesh PM Rahman wishes PM Modi on birthday, wishes him good health & high spirit",
+        "link": "https://timesofindia.indiatimes.com/india/may-your-service-be-accompanied-by-good-health-bangladesh-pm-rahman-wishes-pm-modi-on-birthday/articleshow/134320743.cms",
+        "source": "Times of India",
+        "time_ago": "5h ago",
+        "summary": "Bangladesh's Prime Minister Tarique Rahman warmly wished Narendra Modi on his birthday, showcasing Dhaka\u2019s intent to improve its fraught relationship with India. The occasion was marked by messages from various world lea",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Man attacks wife with machete, suspected acid in Bengaluru\u2019s J.P. Nagar",
+        "link": "https://www.thehindu.com/news/cities/bangalore/man-attacks-wife-with-machete-suspected-acid-in-bengalurus-jp-nagar/article71476232.ece",
         "source": "The Hindu",
-        "time_ago": "55m ago",
-        "summary": "The duty \u200bon \u200cdiesel exports has been cut to \u20b920 \u200cper litre from \u200b25 earlier. The levy \u2060on export of petrol been \u200ccut to \u20b90.5 per litre from \u20b91.5 earlier",
+        "time_ago": "6h ago",
+        "summary": "",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Trump lauds India's crackdown on poppy farming; lists 23 major drug transit nations",
-        "link": "https://www.thehindu.com/news/national/trump-lauds-indias-crackdown-on-poppy-farming-lists-23-major-drug-transit-nations/article71474352.ece",
-        "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "He urged China to take stronger action to stem the flow of precursor chemicals used to produce fentanyl, methamphetamine and other synthetic drugs",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera",
-        "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-        "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-        "source": "Ars Technica",
-        "time_ago": "2h ago",
-        "summary": "Planned 2029 debut could make this Apple\u2019s first enterprise server in decades.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Your AI agents can now control your Google Home devices",
-        "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natura",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Your AI agents can now control your Google Home devices",
-        "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natura",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Musk\u2019s long-time backer is giving SpaceX stock to its investors",
-        "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
-        "source": "TechCrunch",
-        "time_ago": "58m ago",
-        "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-        "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-        "source": "Ars Technica",
-        "time_ago": "2h ago",
-        "summary": "Planned 2029 debut could make this Apple\u2019s first enterprise server in decades.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
+          "The Hindu"
         ]
       }
     ],
     "world": [
       {
-        "title": "Inside Singapore's 'Fort Knox' for city's $2bn dirty money auction",
-        "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
-        "covered_by": [
-          "BBC",
-          "CNN"
-        ]
-      },
-      {
-        "title": "Rescue workers search for survivors after Gaza building collapse",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
+        "title": "Iran expels Swedish diplomat in retaliatory move",
+        "link": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Rescue workers search for survivors after Gaza building collapse",
+        "time_ago": "32m ago",
+        "summary": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "New video claims to show Saudi fighter jet Houthis say they shot down",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss",
+        "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+        "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM",
+        "link": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen\u2019s Marib.",
+        "time_ago": "59m ago",
+        "summary": "More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -143,33 +72,107 @@
     ],
     "sports": [
       {
-        "title": "Fantasy football Week 2 Start 'Em & Sit 'Em: Baker Mayfield eyes revenge against Browns in Bucs' home opener",
-        "link": "https://www.cbssports.com/fantasy/football/news/week-2-start-em-sit-em-mayfield-eyes-revenge/",
+        "title": "Use FanDuel promo code to get $350 in bonus bets for Lions vs. Bills, NFL Thursday Night Football betting",
+        "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-bills-lions-nfl-thursday-night-football-betting/",
         "source": "CBS Sports",
-        "time_ago": "25m ago",
-        "summary": "Jamey Eisenberg urges Fantasy managers not to overreact after Week 1, but injuries create concerns for several stars",
+        "time_ago": "53m ago",
+        "summary": "Sign up and bet with the latest FanDuel promo code to get ready for Thursday Night Football",
         "covered_by": [
           "CBS Sports"
         ]
       },
       {
-        "title": "Seahawks rule out Sam Darnold for Week 2, but potential timetable for return emerges",
-        "link": "https://www.cbssports.com/nfl/news/seattle-seahawks-rule-out-sam-darnold-for-week-2/",
+        "title": "2026 Week 2 NFL odds, betting lines, spreads, start times: Get Week 2 NFL picks, predictions for every game",
+        "link": "https://www.cbssports.com/betting/news/2026-week-2-nfl-picks-predictions-odds-spreads-betting-lines/",
         "source": "CBS Sports",
-        "time_ago": "45m ago",
-        "summary": "Seattle reportedly has no plans to place its starting quarterback on injured reserve",
+        "time_ago": "1h ago",
+        "summary": "SportsLine's model has analyzed the Week 2 NFL schedule and locked in its Week 2 NFL picks, predictions",
         "covered_by": [
           "CBS Sports"
         ]
       },
       {
-        "title": "Zverev wins US Open to earn second Grand Slam victory",
-        "link": "https://www.bbc.co.uk/sport/tennis/videos/c33km63dx8eo?at_medium=RSS&at_campaign=rss",
+        "title": "England beat Sri Lanka by six wickets to take T20 series win",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cq70dnxrg79lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "2d ago",
-        "summary": "Alexander Zverev wins the second Grand Slam of his career by beating Ben Shelton 6-3, 6-6 (7-6), 5-7, 6-2 in the final of the US Open.",
+        "time_ago": "3h ago",
+        "summary": "England's impressive T20 form continues as they thrash Sri Lanka by six wickets in Cardiff to seal the series with a match to spare.",
         "covered_by": [
           "BBC Sport"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Google DeepMind launches institute to widen the AGI debate",
+        "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
+        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+        "source": "Ars Technica",
+        "time_ago": "4h ago",
+        "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to h",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
+        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+        "source": "Ars Technica",
+        "time_ago": "4h ago",
+        "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Apple will let EU apps use less-alarming tracking-consent screens",
+        "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for ",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google DeepMind launches institute to widen the AGI debate",
+        "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ]
