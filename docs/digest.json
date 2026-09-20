@@ -1,91 +1,47 @@
 {
-  "generated_at": "2026-09-19T00:31:06.361509+00:00",
+  "generated_at": "2026-09-20T00:17:38.292713+00:00",
   "categories": {
-    "sports": [
+    "world": [
       {
-        "title": "Udinese makes history as first team to test UEFA sustainability manual",
-        "link": "https://www.cbssports.com/soccer/news/udinese-makes-history-as-first-team-to-test-uefa-sustainability-manual/",
-        "source": "CBS Sports",
+        "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
+        "link": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "7h ago",
+        "summary": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump says he will create \u2018AI Force\u2019 with new \u2018AI czar\u2019",
+        "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
+        "source": "Al Jazeera",
         "time_ago": "4h ago",
-        "summary": "The Italian side will test UEFA's event sustainability manual against Cagliari, gathering data on green initiatives from locally sourced food to bike transit",
+        "summary": "The announcements come as AI faces mounting concerns from populations across the United States.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 3",
-        "link": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-games-week-3/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "A closer look at the top games in a loaded Week 3",
+        "title": "Journalists denied White House access after Trump banned some media outlets",
+        "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "5h ago",
+        "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
         "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Houston vs. Texas Tech prediction, odds, time: Week 3 college football Friday picks by proven model",
-        "link": "https://www.cbssports.com/betting/news/houston-texas-tech-prediction-odds-start-time-week-3-college-football-friday-picks-best-bets/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "The SportsLine Projection Model has revealed its best bets for the Big 12 opener between the Houston Cougars and Texas Tech Red Raiders on Friday",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Researchers used Claude to hack OpenAI",
-        "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-        "source": "Ars Technica",
-        "time_ago": "11h ago",
-        "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
-        "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
-        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "india": [
       {
-        "title": "New symbols: Mamata gets 'football player', 'envelope' for rebel TMC bloc",
-        "link": "https://timesofindia.indiatimes.com/india/new-symbols-mamata-gets-football-player-envelope-for-rebel-bloc/articleshow/134345839.cms",
+        "title": "System threatened by students as they ask questions: Rahul",
+        "link": "https://timesofindia.indiatimes.com/india/system-threatened-by-students-as-they-ask-questions-rahul/articleshow/134360327.cms",
         "source": "Times of India",
-        "time_ago": "30m ago",
-        "summary": "EC Also Allots New Names To TMC Factions",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Nitin Nabin donates 3 month's salary for flood relief in Bihar",
-        "link": "https://timesofindia.indiatimes.com/india/nitin-nabin-donates-3-months-salary-for-flood-relief/articleshow/134345820.cms",
-        "source": "Times of India",
-        "time_ago": "35m ago",
+        "time_ago": "3h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -93,11 +49,22 @@
         ]
       },
       {
-        "title": "Trump Signs Russia Sanctions Bill, Clears Way For 100% India Tariffs",
-        "link": "https://www.ndtv.com/world-news/donald-trump-signs-russia-sanctions-bill-into-law-12066943#publisher=newsstand",
+        "title": "In India\u2019s capital, Delhiites reduced to documents",
+        "link": "https://www.thehindu.com/news/cities/Delhi/in-indias-capital-delhiites-reduced-to-documents/article71484465.ece",
+        "source": "The Hindu",
+        "time_ago": "3h ago",
+        "summary": "Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years.\u00a0Ishita\u00a0Mishra\u00a0and Suruchi",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "After Slowdown Calls, Trump Says He Will Set Up 'AI Force', Name 'AI Czar'",
+        "link": "https://www.ndtv.com/world-news/after-slowdown-calls-trump-says-he-will-set-up-ai-force-name-ai-czar-12070075#publisher=newsstand",
         "source": "NDTV",
-        "time_ago": "1h ago",
-        "summary": "President Donald Trump on Friday signed into law a sweeping sanctions package targeting Russian officials and key pillars of its economy that is meant to punish and pressure Moscow for its ongoing war against Ukraine.",
+        "time_ago": "5h ago",
+        "summary": "In a post on Truth Social, the 80-year-old president lashed out at critics of AI and data centres and said that he would not allow the \"destruction\" of the industry like liberals want.",
         "covered_by": [
           "NDTV",
           "Times of India"
@@ -106,72 +73,104 @@
     ],
     "ai": [
       {
-        "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
-        "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-        "source": "TechCrunch",
-        "time_ago": "10h ago",
-        "summary": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Anthropic is operating a lab that conducts biology experiments",
-        "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-        "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
-        "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+        "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
+        "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
         "source": "TechCrunch",
         "time_ago": "6h ago",
-        "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+        "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Researchers used Claude to hack OpenAI",
+        "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
+        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+        "source": "Ars Technica",
+        "time_ago": "2d ago",
+        "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
         ]
       }
     ],
-    "world": [
+    "sports": [
       {
-        "title": "Trump says Denmark deal gives US security \u2018control\u2019 over Greenland",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "34m ago",
-        "summary": "Trump says the US will gain \u2018permanent control\u2019 over security in Greenland under a deal with Denmark.",
+        "title": "'Brave' Brighton put in 'complete' performance to beat Arsenal - Murphy",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cqe8xjjw8ed8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "Match of the Day pundit Danny Murphy praises Brighton's \"incredible\" performance in their 3-0 win over Arsenal, predicting they will cause problems for Premier League teams this season.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "BBC Sport"
         ]
       },
       {
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+        "title": "LSU vs. Ole Miss prediction, picks, preview: Lane Kiffin's return to Oxford headlines top-10 showdown",
+        "link": "https://www.cbssports.com/college-football/news/lsu-ole-miss-prediction-picks-odds-spread-where-to-watch-live-lane-kiffin/",
+        "source": "CBS Sports",
+        "time_ago": "57m ago",
+        "summary": "A bitter SEC breakup takes center stage in Oxford as the winner of this top-10 clash gains early inside positioning for the College Football Playoff",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "CBS Sports"
         ]
       },
       {
-        "title": "Houthis accuse Saudi Arabia of launching 26 strikes in 24 hours",
-        "link": "https://www.aljazeera.com/news/2026/9/18/houthis-accuse-saudi-arabia-of-launching-26-strikes-in-24-hours?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "NFL picks today, odds, lines, bets: Week 2, 2026 expert predictions against the spread, parlays, prop bets",
+        "link": "https://www.cbssports.com/betting/news/nfl-picks-today-odds-lines-best-bets-week-2-2026-expert-predictions-spreads-parlays-player-props/",
+        "source": "CBS Sports",
         "time_ago": "1h ago",
-        "summary": "The war in Yemen intensifies with mounting clashes and reciprocal attacks between Saudi forces and the Houthis.",
+        "summary": "SportsLine's top NFL experts reveal their picks, predictions, betting tips and best bets for Week 2",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "CBS Sports"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
+        "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
+        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+        "source": "Ars Technica",
+        "time_ago": "2d ago",
+        "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Researchers used Claude to hack OpenAI",
+        "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+        "covered_by": [
+          "Ars Technica"
         ]
       }
     ]
