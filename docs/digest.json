@@ -1,47 +1,115 @@
 {
-  "generated_at": "2026-09-20T00:17:38.292713+00:00",
+  "generated_at": "2026-09-21T00:25:14.087760+00:00",
   "categories": {
+    "ai": [
+      {
+        "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
+        "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force",
+        "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
+        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+        "source": "Ars Technica",
+        "time_ago": "3d ago",
+        "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+        "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "source": "Ars Technica",
+        "time_ago": "13h ago",
+        "summary": "Google\u2019s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Researchers used Claude to hack OpenAI",
+        "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+        "source": "Ars Technica",
+        "time_ago": "2d ago",
+        "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+        "covered_by": [
+          "Ars Technica"
+        ]
+      },
+      {
+        "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
+        "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
+        "source": "Ars Technica",
+        "time_ago": "2d ago",
+        "summary": "\u201cI can tell you SpaceX has already gone captive.\"",
+        "covered_by": [
+          "Ars Technica"
+        ]
+      }
+    ],
     "world": [
       {
-        "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
-        "link": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
+        "title": "Trump tariffs hit Canada\u2019s dairy farmers as US sales stall",
+        "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "7h ago",
-        "summary": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue.",
+        "time_ago": "6h ago",
+        "summary": "A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Trump says he will create \u2018AI Force\u2019 with new \u2018AI czar\u2019",
-        "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
+        "title": "How will Saudi Arabia deal with the Houthis?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "The announcements come as AI faces mounting concerns from populations across the United States.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Journalists denied White House access after Trump banned some media outlets",
-        "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
         "time_ago": "5h ago",
-        "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+        "summary": "Yemeni group warns of further attacks on the kingdom.",
         "covered_by": [
           "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show",
+        "link": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "19h ago",
+        "summary": "Ed Sheeran told the crowd he had made mistakes after Macklemore was dropped from his tour for making pro-Palestinian remarks.",
+        "covered_by": [
           "BBC"
         ]
       }
     ],
     "india": [
       {
-        "title": "System threatened by students as they ask questions: Rahul",
-        "link": "https://timesofindia.indiatimes.com/india/system-threatened-by-students-as-they-ask-questions-rahul/articleshow/134360327.cms",
+        "title": "US prepares sweeping sanctions on International Criminal Court",
+        "link": "https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms",
         "source": "Times of India",
-        "time_ago": "3h ago",
+        "time_ago": "4h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -49,128 +117,60 @@
         ]
       },
       {
-        "title": "In India\u2019s capital, Delhiites reduced to documents",
-        "link": "https://www.thehindu.com/news/cities/Delhi/in-indias-capital-delhiites-reduced-to-documents/article71484465.ece",
+        "title": "Overnight rain brings temperatures down in Bengaluru; KIA weather station records 94.2 mm",
+        "link": "https://www.thehindu.com/news/cities/bangalore/overnight-rain-bring-temperatures-down-in-bengaluru-kia-records-942-mm/article71487287.ece",
         "source": "The Hindu",
-        "time_ago": "3h ago",
-        "summary": "Across SIR hearing centres in the national capital, people are making repeated trips, producing documents, and waiting for hours to prove their eligibility, often despite having voted for years.\u00a0Ishita\u00a0Mishra\u00a0and Suruchi",
+        "time_ago": "5h ago",
+        "summary": "The rainfall brought down the temperature by a few degrees Celsius which had been hovering above 30\u00b0C for the last couple of weeks.",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "After Slowdown Calls, Trump Says He Will Set Up 'AI Force', Name 'AI Czar'",
-        "link": "https://www.ndtv.com/world-news/after-slowdown-calls-trump-says-he-will-set-up-ai-force-name-ai-czar-12070075#publisher=newsstand",
+        "title": "Chennai Tourist Dies In Kerala Landslide, Friend Injured",
+        "link": "https://www.ndtv.com/india-news/chennai-tourist-dies-in-kerala-landslide-friend-injured-12073431#publisher=newsstand",
         "source": "NDTV",
-        "time_ago": "5h ago",
-        "summary": "In a post on Truth Social, the 80-year-old president lashed out at critics of AI and data centres and said that he would not allow the \"destruction\" of the industry like liberals want.",
+        "time_ago": "6h ago",
+        "summary": "Mud fell onto the road, trapping Sangeetha, who was riding a scooter. Her friend managed to escape with injuries.",
         "covered_by": [
           "NDTV",
           "Times of India"
         ]
       }
     ],
-    "ai": [
-      {
-        "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
-        "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Researchers used Claude to hack OpenAI",
-        "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
-        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
     "sports": [
       {
-        "title": "'Brave' Brighton put in 'complete' performance to beat Arsenal - Murphy",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cqe8xjjw8ed8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Match of the Day pundit Danny Murphy praises Brighton's \"incredible\" performance in their 3-0 win over Arsenal, predicting they will cause problems for Premier League teams this season.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "LSU vs. Ole Miss prediction, picks, preview: Lane Kiffin's return to Oxford headlines top-10 showdown",
-        "link": "https://www.cbssports.com/college-football/news/lsu-ole-miss-prediction-picks-odds-spread-where-to-watch-live-lane-kiffin/",
+        "title": "LOOK: Ja'Marr Chase makes absurd TD catch that could be best grab you'll see all season",
+        "link": "https://www.cbssports.com/nfl/news/look-jamarr-chase-makes-absurd-td-catch-vs-texans/",
         "source": "CBS Sports",
-        "time_ago": "57m ago",
-        "summary": "A bitter SEC breakup takes center stage in Oxford as the winner of this top-10 clash gains early inside positioning for the College Football Playoff",
+        "time_ago": "3h ago",
+        "summary": "The Bengals wideout adjusted in mid-air against former LSU teammate Derek Stingley Jr. and dragged his toes in bounds to break a scoreless tie in Houston",
         "covered_by": [
+          "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "NFL picks today, odds, lines, bets: Week 2, 2026 expert predictions against the spread, parlays, prop bets",
-        "link": "https://www.cbssports.com/betting/news/nfl-picks-today-odds-lines-best-bets-week-2-2026-expert-predictions-spreads-parlays-player-props/",
+        "title": "J.J. Spaun becomes 3rd American to win BMW PGA Championship as Rory McIlroy falls short",
+        "link": "https://www.cbssports.com/golf/news/bmw-pga-championship-2026-leaderboard-jj-spaun-rory-milroy/",
         "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "SportsLine's top NFL experts reveal their picks, predictions, betting tips and best bets for Week 2",
+        "time_ago": "5h ago",
+        "summary": "Spaun's triumph comes after being passed over for the U.S. Presidents Cup team a couple of weeks ago",
         "covered_by": [
+          "BBC Sport",
           "CBS Sports"
         ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
-        "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
       },
       {
-        "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
-        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
+        "title": "Ex-England international Andros Townsend run over by pitch roller, avoids serious injury",
+        "link": "https://www.cbssports.com/soccer/news/andros-townsend-run-over-by-pitch-roller-injury/",
+        "source": "CBS Sports",
+        "time_ago": "5h ago",
+        "summary": "Townsend, who plays for Thai League 1 side PT Prachuap, came off the bench in their 3-0 win on Saturday despite the incident",
         "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Researchers used Claude to hack OpenAI",
-        "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-        "covered_by": [
-          "Ars Technica"
+          "BBC Sport",
+          "CBS Sports"
         ]
       }
     ]
