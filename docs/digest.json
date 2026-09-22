@@ -1,115 +1,23 @@
 {
-  "generated_at": "2026-09-21T00:25:14.087760+00:00",
+  "generated_at": "2026-09-22T01:03:10.442969+00:00",
   "categories": {
-    "ai": [
-      {
-        "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
-        "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force",
-        "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
-        "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-        "source": "Ars Technica",
-        "time_ago": "3d ago",
-        "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-        "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-        "source": "Ars Technica",
-        "time_ago": "13h ago",
-        "summary": "Google\u2019s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Researchers used Claude to hack OpenAI",
-        "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-        "covered_by": [
-          "Ars Technica"
-        ]
-      },
-      {
-        "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
-        "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "\u201cI can tell you SpaceX has already gone captive.\"",
-        "covered_by": [
-          "Ars Technica"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Trump tariffs hit Canada\u2019s dairy farmers as US sales stall",
-        "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "How will Saudi Arabia deal with the Houthis?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "Yemeni group warns of further attacks on the kingdom.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Watch: Fans react as Ed Sheeran speaks out over Macklemore controversy at show",
-        "link": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "19h ago",
-        "summary": "Ed Sheeran told the crowd he had made mistakes after Macklemore was dropped from his tour for making pro-Palestinian remarks.",
-        "covered_by": [
-          "BBC"
-        ]
-      }
-    ],
     "india": [
       {
-        "title": "US prepares sweeping sanctions on International Criminal Court",
-        "link": "https://timesofindia.indiatimes.com/world/us/us-prepares-sweeping-sanctions-on-international-criminal-court/articleshow/134375029.cms",
+        "title": "Amid Trump\u2019s clash with CNN, Politico, MS NOW, White House launches \u2018Trump TV\u2019",
+        "link": "https://timesofindia.indiatimes.com/world/us/amid-trumps-clash-with-cnn-politico-ms-now-white-house-launches-trump-tv/articleshow/134399824.cms",
         "source": "Times of India",
-        "time_ago": "4h ago",
+        "time_ago": "34m ago",
+        "summary": "",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Grounds in writing a must during arrests even in UAPA: Supreme Court",
+        "link": "https://timesofindia.indiatimes.com/india/grounds-in-writing-a-must-during-arrests-even-in-uapa-supreme-court/articleshow/134399539.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -117,60 +25,153 @@
         ]
       },
       {
-        "title": "Overnight rain brings temperatures down in Bengaluru; KIA weather station records 94.2 mm",
-        "link": "https://www.thehindu.com/news/cities/bangalore/overnight-rain-bring-temperatures-down-in-bengaluru-kia-records-942-mm/article71487287.ece",
+        "title": "Plea in M.P. High Court seeks closure of Ladli Behna scheme over its financial cost; notice issued to government",
+        "link": "https://www.thehindu.com/news/national/madhya-pradesh/plea-in-mp-high-court-seeks-closure-of-ladli-behna-scheme-over-its-financial-cost-notice-issued-to-government/article71492485.ece",
         "source": "The Hindu",
-        "time_ago": "5h ago",
-        "summary": "The rainfall brought down the temperature by a few degrees Celsius which had been hovering above 30\u00b0C for the last couple of weeks.",
+        "time_ago": "4h ago",
+        "summary": "\u20b91,500 is not enough to run a household, and there is no study to show that it is helping women create long-term financial opportunities, said Sudha Dubey",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo",
+        "link": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "53m ago",
+        "summary": "Storm is moving northeast away from Japan's eastern coast into the Pacific, leaving a path of destruction behind.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
       },
       {
-        "title": "Chennai Tourist Dies In Kerala Landslide, Friend Injured",
-        "link": "https://www.ndtv.com/india-news/chennai-tourist-dies-in-kerala-landslide-friend-injured-12073431#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "6h ago",
-        "summary": "Mud fell onto the road, trapping Sangeetha, who was riding a scooter. Her friend managed to escape with injuries.",
+        "title": "UK to refuel Saudi jets to help counter Houthi attacks",
+        "link": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "33m ago",
+        "summary": "British Prime Minister Andy Burnham says he has agreed to a request for 'defensive' air-to-air refuelling of Saudi jets.",
         "covered_by": [
-          "NDTV",
-          "Times of India"
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "UK prosecutors charge first person for Rwanda genocide",
+        "link": "https://www.aljazeera.com/news/2026/9/21/uk-prosecutors-charge-first-person-for-rwanda-genocide?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "5h ago",
+        "summary": "Vincent Brown is 'alleged to have directed and incited acts of murder and genocide carried out by others'.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Google confirms Gemini models hacked three companies in May 2026",
+        "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+        "source": "Ars Technica",
+        "time_ago": "8h ago",
+        "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+        "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+        "source": "Ars Technica",
+        "time_ago": "9h ago",
+        "summary": "The president offered few details on what his proposed new AI Force would do.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+        "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "The man who built Apple\u2019s stores doesn\u2019t buy Silicon Valley\u2019s bet on AI shopping",
+        "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+        "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+        "source": "Ars Technica",
+        "time_ago": "2h ago",
+        "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+        "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ],
     "sports": [
       {
-        "title": "LOOK: Ja'Marr Chase makes absurd TD catch that could be best grab you'll see all season",
-        "link": "https://www.cbssports.com/nfl/news/look-jamarr-chase-makes-absurd-td-catch-vs-texans/",
+        "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Rams vs. Giants, NFL Monday Night Football",
+        "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-rams-vs-giants-nfl-monday-night-football/",
         "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for Rams vs. Giants betting on Monday Night Football",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
         "time_ago": "3h ago",
-        "summary": "The Bengals wideout adjusted in mid-air against former LSU teammate Derek Stingley Jr. and dragged his toes in bounds to break a scoreless tie in Houston",
+        "summary": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "BBC Sport"
         ]
       },
       {
-        "title": "J.J. Spaun becomes 3rd American to win BMW PGA Championship as Rory McIlroy falls short",
-        "link": "https://www.cbssports.com/golf/news/bmw-pga-championship-2026-leaderboard-jj-spaun-rory-milroy/",
-        "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "Spaun's triumph comes after being passed over for the U.S. Presidents Cup team a couple of weeks ago",
+        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "9h ago",
+        "summary": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Ex-England international Andros Townsend run over by pitch roller, avoids serious injury",
-        "link": "https://www.cbssports.com/soccer/news/andros-townsend-run-over-by-pitch-roller-injury/",
-        "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "Townsend, who plays for Thai League 1 side PT Prachuap, came off the bench in their 3-0 win on Saturday despite the incident",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "BBC Sport"
         ]
       }
     ]
