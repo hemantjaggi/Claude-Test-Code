@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-22T01:03:10.442969+00:00",
+  "generated_at": "2026-09-23T00:51:32.765269+00:00",
   "categories": {
     "india": [
       {
-        "title": "Amid Trump\u2019s clash with CNN, Politico, MS NOW, White House launches \u2018Trump TV\u2019",
-        "link": "https://timesofindia.indiatimes.com/world/us/amid-trumps-clash-with-cnn-politico-ms-now-white-house-launches-trump-tv/articleshow/134399824.cms",
+        "title": "No rule stops airport companies from having airlines: Govt",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/no-rule-stops-airport-companies-from-having-airlines-govt/articleshow/134423179.cms",
         "source": "Times of India",
-        "time_ago": "34m ago",
-        "summary": "",
+        "time_ago": "1h ago",
+        "summary": "Weighing pros & cons, no decision is taken yet: Civil aviation minister Ram Mohan Naidu",
         "covered_by": [
-          "NDTV",
+          "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Grounds in writing a must during arrests even in UAPA: Supreme Court",
-        "link": "https://timesofindia.indiatimes.com/india/grounds-in-writing-a-must-during-arrests-even-in-uapa-supreme-court/articleshow/134399539.cms",
+        "title": "Exorbitant pricing of drugs is \u2018extortion': Supreme Court",
+        "link": "https://timesofindia.indiatimes.com/india/exorbitant-pricing-of-drugs-is-extortion-supreme-court/articleshow/134423165.cms",
         "source": "Times of India",
         "time_ago": "1h ago",
         "summary": "",
@@ -25,151 +25,152 @@
         ]
       },
       {
-        "title": "Plea in M.P. High Court seeks closure of Ladli Behna scheme over its financial cost; notice issued to government",
-        "link": "https://www.thehindu.com/news/national/madhya-pradesh/plea-in-mp-high-court-seeks-closure-of-ladli-behna-scheme-over-its-financial-cost-notice-issued-to-government/article71492485.ece",
-        "source": "The Hindu",
-        "time_ago": "4h ago",
-        "summary": "\u20b91,500 is not enough to run a household, and there is no study to show that it is helping women create long-term financial opportunities, said Sudha Dubey",
+        "title": "History refuses to leave J&K as assembly debates Hari Singh, Sheikh Abdullah anniv holidays",
+        "link": "https://timesofindia.indiatimes.com/india/history-refuses-to-leave-jk-as-assembly-debates-hari-singh-sheikh-abdullah-anniv-holidays/articleshow/134420161.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Typhoon Dujuan kills two in Japan, causes travel chaos near Tokyo",
-        "link": "https://www.aljazeera.com/news/2026/9/22/typhoon-dujuan-hits-japan-with-deadly-floods-travel-chaos-near-tokyo?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "53m ago",
-        "summary": "Storm is moving northeast away from Japan's eastern coast into the Pacific, leaving a path of destruction behind.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "UK to refuel Saudi jets to help counter Houthi attacks",
-        "link": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "33m ago",
-        "summary": "British Prime Minister Andy Burnham says he has agreed to a request for 'defensive' air-to-air refuelling of Saudi jets.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "UK prosecutors charge first person for Rwanda genocide",
-        "link": "https://www.aljazeera.com/news/2026/9/21/uk-prosecutors-charge-first-person-for-rwanda-genocide?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "Vincent Brown is 'alleged to have directed and incited acts of murder and genocide carried out by others'.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Google confirms Gemini models hacked three companies in May 2026",
-        "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-        "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-        "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-        "source": "Ars Technica",
-        "time_ago": "9h ago",
-        "summary": "The president offered few details on what his proposed new AI Force would do.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-        "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
         ]
       }
     ],
     "tech": [
       {
-        "title": "The man who built Apple\u2019s stores doesn\u2019t buy Silicon Valley\u2019s bet on AI shopping",
-        "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-        "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-        "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+        "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+        "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
         "source": "Ars Technica",
-        "time_ago": "2h ago",
-        "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+        "time_ago": "3h ago",
+        "summary": "The frontier AI model race has entered its comparison shopping phase.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
+        "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw \u2014 down to some of its workspace filenames and content.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-        "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
+        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+        "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+        "source": "Ars Technica",
+        "time_ago": "5h ago",
+        "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+        "covered_by": [
+          "Ars Technica"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+        "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+        "source": "Ars Technica",
+        "time_ago": "3h ago",
+        "summary": "The frontier AI model race has entered its comparison shopping phase.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
+        "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw \u2014 down to some of its workspace filenames and content.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+        "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Iran war live: Trump confirms \u2018very good\u2019 meeting with Iran at UN",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "51m ago",
+        "summary": "President Trump says US officials held a 'very good' meeting on Tuesday with the Iranian delegation at UN.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "US to build two military bases in Greenland under new deal with Denmark",
+        "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Macron: France won\u2019t \u2018yield an inch\u2019 on Ukraine support",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "French President Emmanuel Macron says the \u201ccoalition of the willing\" will not back down in its support of Ukraine.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Rams vs. Giants, NFL Monday Night Football",
-        "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-rams-vs-giants-nfl-monday-night-football/",
+        "title": "Resetting expectations for these six NFL teams with injured quarterbacks: Giants eyeing draft again",
+        "link": "https://www.cbssports.com/nfl/news/resetting-expectations-nfl-teams-injured-quarterbacks/",
         "source": "CBS Sports",
         "time_ago": "1h ago",
-        "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for Rams vs. Giants betting on Monday Night Football",
+        "summary": "Success looks different for each of the squads that saw their starters go down early in the season",
         "covered_by": [
+          "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
+        "title": "Arsenal start UEFA Women's Champions League campaign with a win, but where are the goals going to come from?",
+        "link": "https://www.cbssports.com/soccer/news/arsenal-uefa-womens-champions-league-campaign-scoring-problems/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "A stoppage-time penalty spared Renee Slegers' side, but managing only three goals across five matches this season shows an attack sorely missing Beth Mead",
         "covered_by": [
-          "BBC Sport"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+        "title": "O'Neill receives Celtic backing after 'painful' week",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmlyq01pzdy8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "9h ago",
-        "summary": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
+        "time_ago": "4h ago",
+        "summary": "Celtic will \"come together and support\" manager Martin O'Neill after a \"painful\" week for the club, says chief executive Michael Nicholson.",
         "covered_by": [
           "BBC Sport"
         ]
