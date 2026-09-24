@@ -1,94 +1,13 @@
 {
-  "generated_at": "2026-09-23T00:51:32.765269+00:00",
+  "generated_at": "2026-09-24T00:46:10.171120+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "No rule stops airport companies from having airlines: Govt",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/no-rule-stops-airport-companies-from-having-airlines-govt/articleshow/134423179.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "Weighing pros & cons, no decision is taken yet: Civil aviation minister Ram Mohan Naidu",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Exorbitant pricing of drugs is \u2018extortion': Supreme Court",
-        "link": "https://timesofindia.indiatimes.com/india/exorbitant-pricing-of-drugs-is-extortion-supreme-court/articleshow/134423165.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "History refuses to leave J&K as assembly debates Hari Singh, Sheikh Abdullah anniv holidays",
-        "link": "https://timesofindia.indiatimes.com/india/history-refuses-to-leave-jk-as-assembly-debates-hari-singh-sheikh-abdullah-anniv-holidays/articleshow/134420161.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-        "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-        "source": "Ars Technica",
-        "time_ago": "3h ago",
-        "summary": "The frontier AI model race has entered its comparison shopping phase.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
-        "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw \u2014 down to some of its workspace filenames and content.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-        "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-        "source": "Ars Technica",
-        "time_ago": "5h ago",
-        "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-        "covered_by": [
-          "Ars Technica"
-        ]
-      }
-    ],
     "ai": [
       {
-        "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-        "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+        "title": "YouTube promises custom feeds and a lot more AI later this year",
+        "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
         "source": "Ars Technica",
-        "time_ago": "3h ago",
-        "summary": "The frontier AI model race has entered its comparison shopping phase.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
-        "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-        "source": "TechCrunch",
         "time_ago": "5h ago",
-        "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw \u2014 down to some of its workspace filenames and content.",
+        "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -96,46 +15,94 @@
         ]
       },
       {
-        "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-        "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+        "title": "Meta introduces camera-free AI glasses",
+        "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+        "time_ago": "1h ago",
+        "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
         "covered_by": [
+          "Ars Technica",
           "TechCrunch",
           "The Verge"
+        ]
+      },
+      {
+        "title": "Anthropic says its biology lab has already found something big",
+        "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "She trained disguised as a man, fled the Taliban and won Asian Games silver",
+        "link": "https://timesofindia.indiatimes.com/life-style/people/who-is-fariba-hashimi-meet-the-afghan-cyclist-who-trained-disguised-as-a-man-wins-asian-games-silver-after-fleeing-taliban/articleshow/134448577.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "Fariba Hashimi and her sister Yulduz encountered significant challenges while training to become cyclists in Afghanistan. Their talent was recognized after they excelled in local competitions, earning them a chance to jo",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Cong-led oppn demands Gyanesh ouster, Supreme Court probe",
+        "link": "https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Germany ready to sign $8bn submarine deal with India: Envoy",
+        "link": "https://timesofindia.indiatimes.com/india/germany-ready-to-sign-8bn-submarine-deal-with-india-envoy/articleshow/134448710.cms",
+        "source": "Times of India",
+        "time_ago": "46m ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "world": [
       {
-        "title": "Iran war live: Trump confirms \u2018very good\u2019 meeting with Iran at UN",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
+        "title": "China\u2019s Xi arrives to Trump welcome on state visit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "51m ago",
-        "summary": "President Trump says US officials held a 'very good' meeting on Tuesday with the Iranian delegation at UN.",
+        "time_ago": "1h ago",
+        "summary": "China's President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "US to build two military bases in Greenland under new deal with Denmark",
-        "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "3h ago",
-        "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+        "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
+        "link": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "The ruling seals six years of legal battles after Weinstein\u2019s initial conviction for sexually assaulting TV assistant.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Macron: France won\u2019t \u2018yield an inch\u2019 on Ukraine support",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss",
+        "title": "Gaza flotilla activist on hunger strike in Tunisia jail \u2018on verge of death\u2019",
+        "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
         "source": "Al Jazeera",
         "time_ago": "3h ago",
-        "summary": "French President Emmanuel Macron says the \u201ccoalition of the willing\" will not back down in its support of Ukraine.",
+        "summary": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -144,35 +111,67 @@
     ],
     "sports": [
       {
-        "title": "Resetting expectations for these six NFL teams with injured quarterbacks: Giants eyeing draft again",
-        "link": "https://www.cbssports.com/nfl/news/resetting-expectations-nfl-teams-injured-quarterbacks/",
+        "title": "UWCL Star Power Index: Linda Dallmann runs the show for Bayern against Man City",
+        "link": "https://www.cbssports.com/soccer/news/uwcl-star-power-index-linda-dallmann-bayern-munich/",
         "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Success looks different for each of the squads that saw their starters go down early in the season",
+        "time_ago": "3h ago",
+        "summary": "Matchday 1 delivered plenty of upsets and drama in UWCL, but which players really stood out, for better or worse?",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Arsenal start UEFA Women's Champions League campaign with a win, but where are the goals going to come from?",
-        "link": "https://www.cbssports.com/soccer/news/arsenal-uefa-womens-champions-league-campaign-scoring-problems/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "A stoppage-time penalty spared Renee Slegers' side, but managing only three goals across five matches this season shows an attack sorely missing Beth Mead",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "O'Neill receives Celtic backing after 'painful' week",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmlyq01pzdy8o?at_medium=RSS&at_campaign=rss",
+        "title": "The footballer who had a heart transplant - then became a World Cup winner",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmgjqx96nxdeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "4h ago",
-        "summary": "Celtic will \"come together and support\" manager Martin O'Neill after a \"painful\" week for the club, says chief executive Michael Nicholson.",
+        "time_ago": "7h ago",
+        "summary": "Martyn Jackson never thought he'd play football again when he had a heart transplant in 2024. Less than two years later, he was a World Cup winner with England.",
         "covered_by": [
           "BBC Sport"
+        ]
+      },
+      {
+        "title": "Man Utd still \u00a31bn in debt with \u00a363.5m spent on new stadium",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5evwlmdmy00o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "10h ago",
+        "summary": "Manchester United's overall debt remains over \u00a31bn despite Sir Jim Ratcliffe's extensive cost-cutting measures, with the club also confirming it has spent \u00a363.5m buying land for their new stadium.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Meta is trying VR glasses (again), this time with more IMAX",
+        "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+        "source": "TechCrunch",
+        "time_ago": "58m ago",
+        "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm\u2019s X2 Plus",
+        "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+        "source": "The Verge",
+        "time_ago": "",
+        "summary": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year,",
+        "covered_by": [
+          "The Verge"
+        ]
+      },
+      {
+        "title": "If Amazon doesn\u2019t know how to eliminate carbon emissions, then who does?",
+        "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
+        "covered_by": [
+          "TechCrunch"
         ]
       }
     ]
