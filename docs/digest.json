@@ -1,108 +1,141 @@
 {
-  "generated_at": "2026-09-24T00:46:10.171120+00:00",
+  "generated_at": "2026-09-25T00:42:42.739715+00:00",
   "categories": {
+    "india": [
+      {
+        "title": "Centre moves SC for 2-year window to implement OBC creamy layer verdict",
+        "link": "https://timesofindia.indiatimes.com/india/centre-pleads-for-prospective-effect-of-sc-creamy-layer-ruling/articleshow/134472256.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Veeramani POCSO case: Two senior IPS officers removed from posts",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/senior-ips-officer-transferred-placed-in-vacancy-reserve-amid-veeramani-pocso-case/article71504642.ece",
+        "source": "The Hindu",
+        "time_ago": "6h ago",
+        "summary": "ADGP of Tamil Nadu Police Academy A. Arun and Coimbatore Commissioner of Police N. Kannan were being transferred from their posts with immediate effect and placed on compulsory wait",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Rahul Gandhi a master of deception, allegations of vote theft lack evidence: BJP",
+        "link": "https://www.thehindu.com/news/national/rahul-gandhi-a-master-of-deception-allegations-of-vote-theft-lack-evidence-bjp/article71505389.ece",
+        "source": "The Hindu",
+        "time_ago": "7h ago",
+        "summary": "BJP leader Sudhanshu Trivedi asked whether there was any evidence that decisions by the Election Commission of India had not been taken unanimously",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
     "ai": [
       {
-        "title": "YouTube promises custom feeds and a lot more AI later this year",
-        "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-        "source": "Ars Technica",
-        "time_ago": "5h ago",
-        "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+        "title": "Google tests letting Gemini call businesses for you",
+        "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
           "The Verge"
+        ]
+      },
+      {
+        "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
+        "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
         "title": "Meta introduces camera-free AI glasses",
         "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
         "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+        "time_ago": "1d ago",
+        "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Anthropic says its biology lab has already found something big",
-        "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-        "covered_by": [
-          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
       }
     ],
-    "india": [
+    "tech": [
       {
-        "title": "She trained disguised as a man, fled the Taliban and won Asian Games silver",
-        "link": "https://timesofindia.indiatimes.com/life-style/people/who-is-fariba-hashimi-meet-the-afghan-cyclist-who-trained-disguised-as-a-man-wins-asian-games-silver-after-fleeing-taliban/articleshow/134448577.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "Fariba Hashimi and her sister Yulduz encountered significant challenges while training to become cyclists in Afghanistan. Their talent was recognized after they excelled in local competitions, earning them a chance to jo",
+        "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
+        "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
-        "title": "Cong-led oppn demands Gyanesh ouster, Supreme Court probe",
-        "link": "https://timesofindia.indiatimes.com/india/with-vote-chori-bjp-rss-ec-committed-act-of-treason-rahul/articleshow/134445981.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "",
+        "title": "OpenAI agent \u201cdidn\u2019t accept no for an answer\u201d in Australian government breach",
+        "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+        "source": "Ars Technica",
+        "time_ago": "8h ago",
+        "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
-        "title": "Germany ready to sign $8bn submarine deal with India: Envoy",
-        "link": "https://timesofindia.indiatimes.com/india/germany-ready-to-sign-8bn-submarine-deal-with-india-envoy/articleshow/134448710.cms",
-        "source": "Times of India",
-        "time_ago": "46m ago",
-        "summary": "",
+        "title": "Google tests letting Gemini call businesses for you",
+        "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
     "world": [
       {
-        "title": "China\u2019s Xi arrives to Trump welcome on state visit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "China's President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
-        "link": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "The ruling seals six years of legal battles after Weinstein\u2019s initial conviction for sexually assaulting TV assistant.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Gaza flotilla activist on hunger strike in Tunisia jail \u2018on verge of death\u2019",
-        "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+        "title": "Trump and Xi hold critical talks at White House summit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
         "source": "Al Jazeera",
         "time_ago": "3h ago",
-        "summary": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
+        "summary": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "US and China presidents discuss cooperation, trade and AI risks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "6h ago",
+        "summary": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -111,67 +144,34 @@
     ],
     "sports": [
       {
-        "title": "UWCL Star Power Index: Linda Dallmann runs the show for Bayern against Man City",
-        "link": "https://www.cbssports.com/soccer/news/uwcl-star-power-index-linda-dallmann-bayern-munich/",
+        "title": "Ja'Marr Chase plans to appeal NFL celebration fine, calls for NFLPA to fight for players' money",
+        "link": "https://www.cbssports.com/nfl/news/bengals-jamarr-chase-nfl-celebration-fine-2026/",
         "source": "CBS Sports",
         "time_ago": "3h ago",
-        "summary": "Matchday 1 delivered plenty of upsets and drama in UWCL, but which players really stood out, for better or worse?",
+        "summary": "Chase and Bengals teammate Tee Higgins were among several players punished for celebrations in Week 2",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "The footballer who had a heart transplant - then became a World Cup winner",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmgjqx96nxdeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "7h ago",
-        "summary": "Martyn Jackson never thought he'd play football again when he had a heart transplant in 2024. Less than two years later, he was a World Cup winner with England.",
+        "title": "Packers vs. Falcons odds, picks: Analysis, predictions, player props for Thursday Night Football in Week 3",
+        "link": "https://www.cbssports.com/betting/news/packers-vs-falcons-odds-picks-analysis-predictions-player-props-for-thursday-night-football-in-week-3/",
+        "source": "CBS Sports",
+        "time_ago": "43m ago",
+        "summary": "Michael Penix Jr. returns under center to revive Atlanta's offense, creating prime betting value on the spread, and Drake London player props against an injury-hit Green Bay squad",
         "covered_by": [
-          "BBC Sport"
+          "CBS Sports"
         ]
       },
       {
-        "title": "Man Utd still \u00a31bn in debt with \u00a363.5m spent on new stadium",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5evwlmdmy00o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "10h ago",
-        "summary": "Manchester United's overall debt remains over \u00a31bn despite Sir Jim Ratcliffe's extensive cost-cutting measures, with the club also confirming it has spent \u00a363.5m buying land for their new stadium.",
+        "title": "Week 3 NFL betting guide, props, spreads: Model, expert, parlay, DFS and season-long fantasy picks unveiled",
+        "link": "https://www.cbssports.com/betting/news/week-3-nfl-betting-guide-props-spreads-parlay-predictions-dfs-fantasy-picks/",
+        "source": "CBS Sports",
+        "time_ago": "55m ago",
+        "summary": "SportsLine's team of Vegas experts and its proven model and experts to get you ready for Week 3 NFL betting",
         "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Meta is trying VR glasses (again), this time with more IMAX",
-        "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-        "source": "TechCrunch",
-        "time_ago": "58m ago",
-        "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm\u2019s X2 Plus",
-        "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
-        "source": "The Verge",
-        "time_ago": "",
-        "summary": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year,",
-        "covered_by": [
-          "The Verge"
-        ]
-      },
-      {
-        "title": "If Amazon doesn\u2019t know how to eliminate carbon emissions, then who does?",
-        "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
-        "covered_by": [
-          "TechCrunch"
+          "CBS Sports"
         ]
       }
     ]
