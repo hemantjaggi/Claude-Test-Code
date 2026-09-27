@@ -1,49 +1,58 @@
 {
-  "generated_at": "2026-09-26T00:47:37.154623+00:00",
+  "generated_at": "2026-09-27T00:48:12.973609+00:00",
   "categories": {
-    "india": [
+    "tech": [
       {
-        "title": "Trump gets Supreme Court nod for voter citizenship checks weeks before midterms",
-        "link": "https://timesofindia.indiatimes.com/world/us/supreme-court-allows-trump-administration-to-use-controversial-voter-citizenship-database-before-midterms/articleshow/134495290.cms",
-        "source": "Times of India",
-        "time_ago": "23m ago",
-        "summary": "",
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
+        "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
         "covered_by": [
-          "NDTV",
-          "The Hindu",
-          "Times of India"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "BJP wins mayor elections at three municipal corporations in Rajasthan",
-        "link": "https://www.thehindu.com/news/national/rajasthan/bjp-wins-mayor-elections-at-three-municipal-corporations-in-rajasthan/article71509004.ece",
-        "source": "The Hindu",
-        "time_ago": "1h ago",
-        "summary": "Prasanna Chand Mehta was elected Mayor of Jodhpur, while Anusuiya Goswami was elected to the position in Kota",
+        "title": "Meta opens early access program for new Muse features",
+        "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "TechCrunch"
         ]
       },
       {
-        "title": "Trump mocks Biden\u2019s autopen use while showing Xi presidential portraits",
-        "link": "https://timesofindia.indiatimes.com/world/us/this-is-the-autopen-trump-mocks-biden-while-showing-xi-presidential-portraits/articleshow/134492460.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "",
+        "title": "Meta and YouTube say they will run ads for \u2018Musk\u2019 documentary after all",
+        "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Two companies now say they will accept advertising for director Alex Gibney\u2019s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
         "covered_by": [
-          "NDTV",
-          "Times of India"
+          "TechCrunch"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Meta opens early access program for new Muse features",
-        "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+        "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
+        "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+        "time_ago": "23h ago",
+        "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
+        "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -54,90 +63,79 @@
         "title": "Meta\u2019s AI Tamagotchi bet is\u2026working?",
         "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
+        "time_ago": "1d ago",
         "summary": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d\u00a0maybe someone\u00a0should have asked: what pace?\u00a0Now\u00a0it\u2019s\u00a0turned into model drop week for both companies as\u00a0Anthropic rolled out Opus 5.5, f",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
-      },
-      {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
-        "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
       }
     ],
-    "tech": [
+    "india": [
       {
-        "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-        "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-        "source": "Ars Technica",
+        "title": "\u2018SIR decisions unanimous\u2019: EC backs decision-making process",
+        "link": "https://timesofindia.indiatimes.com/india/all-sir-rollout-decisions-unanimous-ec-says-meeting-agendas-for-all-meetings-to-be-circulated-in-advance/articleshow/134513112.cms",
+        "source": "Times of India",
+        "time_ago": "30m ago",
+        "summary": "Agenda in advance, P 15",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "BJP allies back EC, say opposition attacks undermine democracy",
+        "link": "https://timesofindia.indiatimes.com/india/bjp-allies-close-ranks-flay-oppn-for-undermining-democracy/articleshow/134510147.cms",
+        "source": "Times of India",
         "time_ago": "3h ago",
-        "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+        "summary": "",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Meta opens early access program for new Muse features",
-        "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
-        "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "source": "TechCrunch",
+        "title": "Jaishankar at UNGA: Pakistan serial practitioner of terror, must face outcome",
+        "link": "https://timesofindia.indiatimes.com/india/indias-right-to-defend-itself-from-terrorism-will-be-exercised-eam/articleshow/134510292.cms",
+        "source": "Times of India",
         "time_ago": "2h ago",
-        "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+        "summary": "",
         "covered_by": [
-          "TechCrunch"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "world": [
       {
-        "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+        "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "47m ago",
-        "summary": "Iran's FM says the \"choice rests with the US\" to approve the proposed seven-day proposal to reopen Hormuz.",
+        "time_ago": "48m ago",
+        "summary": "US president rejects Iran's seven-day plan to reopen the Strait of Hormuz, saying the deal is not 'acceptable'.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "UN expands list of firms involved in illegal Israeli settlement activities",
-        "link": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "With addition of 61 more companies, the list now includes 214 businesses in 11 countries, most of them Israeli.",
+        "title": "Republic of Ireland to wear black armbands for Israel game",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "4h ago",
+        "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
-        "link": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+        "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace.",
+        "time_ago": "6h ago",
+        "summary": "Cuba\u2019s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -146,33 +144,35 @@
     ],
     "sports": [
       {
-        "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Rodri believes in Man City's 'innocence'",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Indiana vs. Northwestern betting preview: Odds, picks, predictions, spread for Week 4 college football Friday",
-        "link": "https://www.cbssports.com/betting/news/indiana-northwestern-betting-preview-odds-picks-predictions-spread-week-4-college-football-friday/",
+        "title": "What's next for Manchester City? Appeal process and penalties following major Premier League financial ruling",
+        "link": "https://www.cbssports.com/soccer/news/manchester-city-appeal-process-penalties-premier-league-financial-ruling/",
         "source": "CBS Sports",
         "time_ago": "2h ago",
-        "summary": "Northwestern travels to Indiana on Friday for a Week 4 college football matchup",
+        "summary": "With potential sanctions ranging from heavy points deductions to expulsion and stripped titles, an expected appeal could drag English soccer into another fierce legal battle",
         "covered_by": [
+          "BBC Sport",
           "CBS Sports"
+        ]
+      },
+      {
+        "title": "Packers signing former first-round OL off Cowboys practice squad amid struggles, per report",
+        "link": "https://www.cbssports.com/nfl/news/packers-signing-cowboys-offensive-lineman/",
+        "source": "CBS Sports",
+        "time_ago": "5h ago",
+        "summary": "Laken Tomlinson is heading to Green Bay",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
