@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-27T00:48:12.973609+00:00",
+  "generated_at": "2026-09-28T01:03:57.148893+00:00",
   "categories": {
     "tech": [
       {
         "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
         "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
         "covered_by": [
           "TechCrunch",
@@ -14,33 +14,33 @@
         ]
       },
       {
-        "title": "Meta opens early access program for new Muse features",
-        "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+        "title": "Can Muse overcome Meta\u2019s trust issues?",
+        "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+        "time_ago": "5h ago",
+        "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
         "covered_by": [
           "TechCrunch"
         ]
       },
       {
-        "title": "Meta and YouTube say they will run ads for \u2018Musk\u2019 documentary after all",
-        "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "Two companies now say they will accept advertising for director Alex Gibney\u2019s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+        "title": "Tesla\u2019s big electric truck faces an even bigger infrastructure challenge",
+        "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
         "covered_by": [
-          "TechCrunch"
+          "Ars Technica"
         ]
       }
     ],
     "ai": [
       {
-        "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
-        "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+        "title": "Can Muse overcome Meta\u2019s trust issues?",
+        "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
         "source": "TechCrunch",
-        "time_ago": "23h ago",
-        "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+        "time_ago": "5h ago",
+        "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -51,7 +51,7 @@
         "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
         "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
         "covered_by": [
           "Ars Technica",
@@ -60,33 +60,67 @@
         ]
       },
       {
-        "title": "Meta\u2019s AI Tamagotchi bet is\u2026working?",
-        "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d\u00a0maybe someone\u00a0should have asked: what pace?\u00a0Now\u00a0it\u2019s\u00a0turned into model drop week for both companies as\u00a0Anthropic rolled out Opus 5.5, f",
+        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+        "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+        "source": "Ars Technica",
+        "time_ago": "2d ago",
+        "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
           "The Verge"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
+        "link": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "34m ago",
+        "summary": "Refugees in Durban say they have nowhere safe to return to after being forced from a makeshift camp.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Iran war live: Tehran says it\u2019s fully prepared for war amid Hormuz tensions",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Abbas Araghchi's warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Pope pledges action on clergy child abuse in meeting with French survivors",
+        "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Head of the Roman Catholic Church holds 'emotional' two-hour meeting with seven survivors in French town of Lourdes.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "india": [
       {
-        "title": "\u2018SIR decisions unanimous\u2019: EC backs decision-making process",
-        "link": "https://timesofindia.indiatimes.com/india/all-sir-rollout-decisions-unanimous-ec-says-meeting-agendas-for-all-meetings-to-be-circulated-in-advance/articleshow/134513112.cms",
+        "title": "LPU protests: Over 2,000 police deployed after stone-pelting, vehicles set ablaze",
+        "link": "https://timesofindia.indiatimes.com/india/lpu-unrest-over-2000-police-deployed-after-stone-pelting-vehicles-set-ablaze/articleshow/134528785.cms",
         "source": "Times of India",
-        "time_ago": "30m ago",
-        "summary": "Agenda in advance, P 15",
+        "time_ago": "2h ago",
+        "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "BJP allies back EC, say opposition attacks undermine democracy",
-        "link": "https://timesofindia.indiatimes.com/india/bjp-allies-close-ranks-flay-oppn-for-undermining-democracy/articleshow/134510147.cms",
+        "title": "Bank unions call off 3-day strike after assurances, IBA to study demands",
+        "link": "https://timesofindia.indiatimes.com/india/bank-unions-call-off-3-day-strike-after-assurances-iba-to-study-demands/articleshow/134526239.cms",
         "source": "Times of India",
         "time_ago": "3h ago",
         "summary": "",
@@ -96,10 +130,10 @@
         ]
       },
       {
-        "title": "Jaishankar at UNGA: Pakistan serial practitioner of terror, must face outcome",
-        "link": "https://timesofindia.indiatimes.com/india/indias-right-to-defend-itself-from-terrorism-will-be-exercised-eam/articleshow/134510292.cms",
+        "title": "SIR tweaks proof of 'disaster', says Congress",
+        "link": "https://timesofindia.indiatimes.com/india/akhilesh-to-skip-india-bloc-meet-on-sept-30-sir-tweaks-proof-of-disaster-says-congress/articleshow/134526193.cms",
         "source": "Times of India",
-        "time_ago": "2h ago",
+        "time_ago": "4h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -107,70 +141,33 @@
         ]
       }
     ],
-    "world": [
-      {
-        "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "48m ago",
-        "summary": "US president rejects Iran's seven-day plan to reopen the Strait of Hormuz, saying the deal is not 'acceptable'.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Republic of Ireland to wear black armbands for Israel game",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "4h ago",
-        "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "Cuba\u2019s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
     "sports": [
       {
-        "title": "What's next for Manchester City? Appeal process and penalties following major Premier League financial ruling",
-        "link": "https://www.cbssports.com/soccer/news/manchester-city-appeal-process-penalties-premier-league-financial-ruling/",
+        "title": "Broncos vs. Rams picks, prediction, player props: Expert's best bets for Sunday Night Football in NFL Week 3",
+        "link": "https://www.cbssports.com/betting/news/broncos-vs-rams-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-in-nfl-week-3/",
         "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "With potential sanctions ranging from heavy points deductions to expulsion and stripped titles, an expected appeal could drag English soccer into another fierce legal battle",
+        "time_ago": "56m ago",
+        "summary": "Mile High altitude and a stout Denver defense give the underdog hosts a distinct edge against Los Angeles in a tight prime-time battle",
         "covered_by": [
-          "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Packers signing former first-round OL off Cowboys practice squad amid struggles, per report",
-        "link": "https://www.cbssports.com/nfl/news/packers-signing-cowboys-offensive-lineman/",
-        "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "Laken Tomlinson is heading to Green Bay",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Tuchel rues 'big mistakes' - did Man City charges have impact?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6j4jjg5qxero?at_medium=RSS&at_campaign=rss",
+        "title": "Banton stars as England win Sri Lanka ODI series",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "England's loss to Spain was decided by uncharacteristic mistakes, with two Man City players making errors - so did club news affect performances for country?",
+        "time_ago": "8h ago",
+        "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri Lanka.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "10h ago",
+        "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
         "covered_by": [
           "BBC Sport"
         ]
