@@ -1,173 +1,177 @@
 {
-  "generated_at": "2026-09-28T01:03:57.148893+00:00",
+  "generated_at": "2026-09-29T02:12:42.484431+00:00",
   "categories": {
-    "tech": [
+    "india": [
       {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
-        "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+        "title": "Supreme Court asks Centre to consider exempting Class 6 students from CBSE three-language policy this year",
+        "link": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-consider-exempting-class-6-students-from-cbse-three-language-policy-this-year/article71520259.ece",
+        "source": "The Hindu",
+        "time_ago": "1h ago",
+        "summary": "According to CBSE's June 29 statement, the current batches studying in Classes 7, 8 and 9 would not be required to give the board examination in third language when they progress to Class 10",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Can Muse overcome Meta\u2019s trust issues?",
-        "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+        "title": "'Olympics sapna hai': Yashvir after ticking off Asian Games and CWG medal boxes",
+        "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/exclusive-olympics-sapna-hai-yashvir-singh-after-ticking-off-asian-games-and-cwg-medal-boxes/articleshow/134553472.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "Yashvir Singh secured his second major international medal of the year after winning silver in the men's javelin throw at the Asian Games in Nagoya, Japan. The Indian athlete produced a personal best of 85.72m with his f",
         "covered_by": [
-          "TechCrunch"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Tesla\u2019s big electric truck faces an even bigger infrastructure challenge",
-        "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+        "title": "Modi government brought back 288 fugitives from 36 countries since 2019: HM Amit Shah",
+        "link": "https://timesofindia.indiatimes.com/india/288-fugitives-brought-back-since-2019-hm-amit-shah/articleshow/134553377.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "",
         "covered_by": [
-          "Ars Technica"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Can Muse overcome Meta\u2019s trust issues?",
-        "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
-        "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-        "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "world": [
       {
-        "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
-        "link": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
+        "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
+        "link": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
+        "covered_by": [
+          "BBC",
+          "CNN"
+        ]
+      },
+      {
+        "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "34m ago",
-        "summary": "Refugees in Durban say they have nowhere safe to return to after being forced from a makeshift camp.",
+        "time_ago": "2h ago",
+        "summary": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Iran war live: Tehran says it\u2019s fully prepared for war amid Hormuz tensions",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Abbas Araghchi's warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Pope pledges action on clergy child abuse in meeting with French survivors",
-        "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Head of the Roman Catholic Church holds 'emotional' two-hour meeting with seven survivors in French town of Lourdes.",
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "21m ago",
+        "summary": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       }
     ],
-    "india": [
+    "ai": [
       {
-        "title": "LPU protests: Over 2,000 police deployed after stone-pelting, vehicles set ablaze",
-        "link": "https://timesofindia.indiatimes.com/india/lpu-unrest-over-2000-police-deployed-after-stone-pelting-vehicles-set-ablaze/articleshow/134528785.cms",
-        "source": "Times of India",
+        "title": "OpenAI reportedly ditches model over safety concerns",
+        "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+        "source": "TechCrunch",
         "time_ago": "2h ago",
-        "summary": "",
+        "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Bank unions call off 3-day strike after assurances, IBA to study demands",
-        "link": "https://timesofindia.indiatimes.com/india/bank-unions-call-off-3-day-strike-after-assurances-iba-to-study-demands/articleshow/134526239.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "",
+        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+        "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "SIR tweaks proof of 'disaster', says Congress",
-        "link": "https://timesofindia.indiatimes.com/india/akhilesh-to-skip-india-bloc-meet-on-sept-30-sir-tweaks-proof-of-disaster-says-congress/articleshow/134526193.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "",
+        "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
+        "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "OpenAI reportedly ditches model over safety concerns",
+        "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Tesla delays Roadster 2 event again due to bad weather",
+        "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+        "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+        "source": "Ars Technica",
+        "time_ago": "8h ago",
+        "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Broncos vs. Rams picks, prediction, player props: Expert's best bets for Sunday Night Football in NFL Week 3",
-        "link": "https://www.cbssports.com/betting/news/broncos-vs-rams-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-in-nfl-week-3/",
+        "title": "NFL Week 3 panic meter: Chargers in crisis, Patriots unraveling, Packers fading, but Rams will be fine",
+        "link": "https://www.cbssports.com/nfl/news/nfl-week-3-panic-meter-chargers-patriots-packers-rams/",
         "source": "CBS Sports",
-        "time_ago": "56m ago",
-        "summary": "Mile High altitude and a stout Denver defense give the underdog hosts a distinct edge against Los Angeles in a tight prime-time battle",
+        "time_ago": "6h ago",
+        "summary": "We revisited four preseason contenders after Week 3, and the concern level has flipped",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Eagles vs. Bears picks, player props: Expert's best bets for Monday Night Football in NFL Week 3",
+        "link": "https://www.cbssports.com/betting/news/eagles-vs-bears-picks-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-3/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "Philadelphia heads to Chicago on Monday Night Football with the Bears starting Case Keenum at quarterback",
         "covered_by": [
           "CBS Sports"
         ]
       },
       {
-        "title": "Banton stars as England win Sri Lanka ODI series",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cr780peezw8do?at_medium=RSS&at_campaign=rss",
+        "title": "Hart trusts Man City chair Al Mubarak over ruling",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "8h ago",
-        "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrap up their summer with an ODI series win over Sri Lanka.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "10h ago",
-        "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
+        "time_ago": "6h ago",
+        "summary": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
         "covered_by": [
           "BBC Sport"
         ]
