@@ -1,32 +1,117 @@
 {
-  "generated_at": "2026-09-29T02:12:42.484431+00:00",
+  "generated_at": "2026-09-30T01:27:06.372719+00:00",
   "categories": {
+    "ai": [
+      {
+        "title": "Anthropic\u2019s IPO pitch includes a warning about human extinction",
+        "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+        "source": "Ars Technica",
+        "time_ago": "11h ago",
+        "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta is expanding its AI agent Muse to small businesses",
+        "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+        "source": "TechCrunch",
+        "time_ago": "11h ago",
+        "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+        "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+        "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Protests against OpenAI get increasingly creative",
+        "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+        "source": "Ars Technica",
+        "time_ago": "3h ago",
+        "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
+        "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+        "source": "Ars Technica",
+        "time_ago": "7h ago",
+        "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Trump rules out joint US-China venture to develop AI",
+        "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Yamal stars as Spain thrash Croatia",
+        "link": "https://www.aljazeera.com/sports/2026/9/29/yamal-stars-as-spain-thrash-croatia?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Lamine Yamal scores twice and assists another as Spain beat Croatia 4-1 in UEFA Nations League Group A3",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "French students clash with police as protests over education cuts spread",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "French school students have blocked schools across France, demanding better learning conditions.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
     "india": [
       {
-        "title": "Supreme Court asks Centre to consider exempting Class 6 students from CBSE three-language policy this year",
-        "link": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-consider-exempting-class-6-students-from-cbse-three-language-policy-this-year/article71520259.ece",
-        "source": "The Hindu",
-        "time_ago": "1h ago",
-        "summary": "According to CBSE's June 29 statement, the current batches studying in Classes 7, 8 and 9 would not be required to give the board examination in third language when they progress to Class 10",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "'Olympics sapna hai': Yashvir after ticking off Asian Games and CWG medal boxes",
-        "link": "https://timesofindia.indiatimes.com/sports/asian-games-2026/exclusive-olympics-sapna-hai-yashvir-singh-after-ticking-off-asian-games-and-cwg-medal-boxes/articleshow/134553472.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "Yashvir Singh secured his second major international medal of the year after winning silver in the men's javelin throw at the Asian Games in Nagoya, Japan. The Indian athlete produced a personal best of 85.72m with his f",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Modi government brought back 288 fugitives from 36 countries since 2019: HM Amit Shah",
-        "link": "https://timesofindia.indiatimes.com/india/288-fugitives-brought-back-since-2019-hm-amit-shah/articleshow/134553377.cms",
+        "title": "Supreme Court to hear plea for CEC\u2019s suspension, voiding SIR next week",
+        "link": "https://timesofindia.indiatimes.com/india/supreme-court-to-hear-plea-for-cecs-suspension-voiding-sir-next-week/articleshow/134576542.cms",
         "source": "Times of India",
         "time_ago": "1h ago",
         "summary": "",
@@ -34,146 +119,62 @@
           "The Hindu",
           "Times of India"
         ]
-      }
-    ],
-    "world": [
+      },
       {
-        "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
-        "link": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
+        "title": "Not just CEC, PM Modi and Shah should also resign for 'vote chori', says CWC",
+        "link": "https://timesofindia.indiatimes.com/india/not-just-cec-pm-modi-and-shah-should-also-resign-for-vote-chori-says-cwc/articleshow/134576710.cms",
+        "source": "Times of India",
         "time_ago": "1h ago",
-        "summary": "A new anti-conversion law in Maharashtra is raising questions about faith, choice and freedom.",
+        "summary": "The Congress Working Committee has called for the resignations of Prime Minister Narendra Modi and Amit Shah. Rahul Gandhi highlighted concerns about electoral roll integrity and alleged vote manipulation during election",
         "covered_by": [
-          "BBC",
-          "CNN"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.",
+        "title": "INDIA bloc to meet today to finalise plan for anti-SIR agitation",
+        "link": "https://timesofindia.indiatimes.com/india/india-bloc-to-meet-today-to-finalise-plan-for-anti-sir-agitation/articleshow/134576666.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "The INDIA bloc's opposition members are set to meet to formulate a plan of action against the Election Commission, centering on the resignation of Chief Election Commissioner Gyanesh Kumar. Notable leaders from Congress ",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "OpenAI scraps rollout of new model over safety concerns",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "21m ago",
-        "summary": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "OpenAI reportedly ditches model over safety concerns",
-        "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-        "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
-        "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "OpenAI reportedly ditches model over safety concerns",
-        "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Tesla delays Roadster 2 event again due to bad weather",
-        "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-        "link": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
-        "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "sports": [
       {
-        "title": "NFL Week 3 panic meter: Chargers in crisis, Patriots unraveling, Packers fading, but Rams will be fine",
-        "link": "https://www.cbssports.com/nfl/news/nfl-week-3-panic-meter-chargers-patriots-packers-rams/",
+        "title": "USWNT roster: Ashley Sanchez joins 'triple espresso' ahead of October friendlies as World Cup looms",
+        "link": "https://www.cbssports.com/soccer/news/uswnt-roster-ashley-sanchez-world-cup-prep/",
         "source": "CBS Sports",
         "time_ago": "6h ago",
-        "summary": "We revisited four preseason contenders after Week 3, and the concern level has flipped",
+        "summary": "Here are all the players named to the October roster",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Eagles vs. Bears picks, player props: Expert's best bets for Monday Night Football in NFL Week 3",
-        "link": "https://www.cbssports.com/betting/news/eagles-vs-bears-picks-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-3/",
+        "title": "Former Auburn football staffer arrested on felony charges tied to recruiting documents",
+        "link": "https://www.cbssports.com/college-football/news/former-auburn-football-staffer-arrested-felony-recruiting-documents/",
         "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "Philadelphia heads to Chicago on Monday Night Football with the Bears starting Case Keenum at quarterback",
+        "time_ago": "1h ago",
+        "summary": "David Rudolph Jenrath was arrested this week on felony charges after allegedly sharing Auburn recruiting information with dozens of rival schools",
         "covered_by": [
+          "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Hart trusts Man City chair Al Mubarak over ruling",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
+        "title": "Case Keenum's performance vs. Eagles shows Bears shouldn't rush Caleb Williams' return from injury",
+        "link": "https://www.cbssports.com/nfl/news/case-keenums-performance-vs-eagles-bears-dont-rush-caleb-williams/",
+        "source": "CBS Sports",
         "time_ago": "6h ago",
-        "summary": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
+        "summary": "Keenum surprised everyone with his primetime performance, and he should give Chicago time to get Williams back to full strength",
         "covered_by": [
-          "BBC Sport"
+          "BBC Sport",
+          "CBS Sports"
         ]
       }
     ]
