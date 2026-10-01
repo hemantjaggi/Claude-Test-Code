@@ -1,107 +1,140 @@
 {
-  "generated_at": "2026-09-30T01:27:06.372719+00:00",
+  "generated_at": "2026-10-01T01:26:16.044318+00:00",
   "categories": {
-    "ai": [
+    "sports": [
       {
-        "title": "Anthropic\u2019s IPO pitch includes a warning about human extinction",
-        "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-        "source": "Ars Technica",
-        "time_ago": "11h ago",
-        "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+        "title": "Bizarre Leah Williamson handball penalty for Arsenal gifts Paris FC late draw in Women's Champions League",
+        "link": "https://www.cbssports.com/soccer/news/leah-williamson-handball-penalty-arsenal-paris-fc-draw-womens-champions-league/",
+        "source": "CBS Sports",
+        "time_ago": "5h ago",
+        "summary": "A handball against Leah Williamson in the 87th minute erased a two-goal lead and left the Gunners with just two wins in their first six matches across all competitions",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Meta is expanding its AI agent Muse to small businesses",
-        "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-        "source": "TechCrunch",
-        "time_ago": "11h ago",
-        "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+        "title": "Ronaldo leaves Portugal camp after coach denies rift",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "5h ago",
+        "summary": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
-        "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "title": "Punish Man City this season, say other club chiefs",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "4h ago",
+        "summary": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "BBC Sport"
         ]
       }
     ],
     "tech": [
       {
-        "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
-        "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "time_ago": "1h ago",
+        "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
         "covered_by": [
+          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Protests against OpenAI get increasingly creative",
-        "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-        "source": "Ars Technica",
-        "time_ago": "3h ago",
-        "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+        "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+        "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
-        "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
-        "source": "Ars Technica",
-        "time_ago": "7h ago",
-        "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
+        "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+        "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was turned off.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
         "covered_by": [
           "Ars Technica",
+          "TechCrunch",
           "The Verge"
+        ]
+      },
+      {
+        "title": "OpenAI delays IPO over AI safety concerns",
+        "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+        "source": "Ars Technica",
+        "time_ago": "11h ago",
+        "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+        "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ],
     "world": [
       {
-        "title": "Trump rules out joint US-China venture to develop AI",
-        "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+        "title": "Passengers tell of \u2018nightmare\u2019 onboard diverted Flydubai flight",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "32m ago",
+        "summary": "Israeli passengers tell of the horror onboard the Flydubai flight that was diverted after a pilot was stabbed.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Russian drone crashes into Kyiv playground without exploding",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "A Russian attack drone crashed into a children\u2019s playground in Kyiv, Ukraine without exploding.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "What we know about stabbing on Flydubai flight to Israel",
+        "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "time_ago": "3h ago",
-        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Yamal stars as Spain thrash Croatia",
-        "link": "https://www.aljazeera.com/sports/2026/9/29/yamal-stars-as-spain-thrash-croatia?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Lamine Yamal scores twice and assists another as Spain beat Croatia 4-1 in UEFA Nations League Group A3",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "French students clash with police as protests over education cuts spread",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/french-students-clash-with-police-as-protests-over-education-cuts-spread?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "French school students have blocked schools across France, demanding better learning conditions.",
+        "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -110,10 +143,10 @@
     ],
     "india": [
       {
-        "title": "Supreme Court to hear plea for CEC\u2019s suspension, voiding SIR next week",
-        "link": "https://timesofindia.indiatimes.com/india/supreme-court-to-hear-plea-for-cecs-suspension-voiding-sir-next-week/articleshow/134576542.cms",
+        "title": "Second full EC meet in 5 days, SIR extended again in Andhra Pradesh, Meghalaya",
+        "link": "https://timesofindia.indiatimes.com/india/second-full-ec-meet-in-5-days-sir-extended-again-in-andhra-pradesh-meghalaya/articleshow/134605368.cms",
         "source": "Times of India",
-        "time_ago": "1h ago",
+        "time_ago": "2h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
@@ -121,60 +154,25 @@
         ]
       },
       {
-        "title": "Not just CEC, PM Modi and Shah should also resign for 'vote chori', says CWC",
-        "link": "https://timesofindia.indiatimes.com/india/not-just-cec-pm-modi-and-shah-should-also-resign-for-vote-chori-says-cwc/articleshow/134576710.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "The Congress Working Committee has called for the resignations of Prime Minister Narendra Modi and Amit Shah. Rahul Gandhi highlighted concerns about electoral roll integrity and alleged vote manipulation during election",
+        "title": "Israeli PM hails Indian pilot wounded in diverted flydubai flight",
+        "link": "https://www.thehindu.com/news/international/israeli-pm-hails-indian-pilot-wounded-in-diverted-flydubai-flight/article71530244.ece",
+        "source": "The Hindu",
+        "time_ago": "5h ago",
+        "summary": "Netanyahu said Mr. Machchhar saved the lives of 174 people, including Israeli citizens and other nationals",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "INDIA bloc to meet today to finalise plan for anti-SIR agitation",
-        "link": "https://timesofindia.indiatimes.com/india/india-bloc-to-meet-today-to-finalise-plan-for-anti-sir-agitation/articleshow/134576666.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "The INDIA bloc's opposition members are set to meet to formulate a plan of action against the Election Commission, centering on the resignation of Chief Election Commissioner Gyanesh Kumar. Notable leaders from Congress ",
+        "title": "Punjab Congress chief Warring set to quit, Vijay Inder Singla frontrunner for post",
+        "link": "https://www.thehindu.com/news/national/punjab/punjab-congress-chief-resignation/article71531181.ece",
+        "source": "The Hindu",
+        "time_ago": "6m ago",
+        "summary": "The announcement of a new Punjab Congress chief is expected soon, party sources said",
         "covered_by": [
           "The Hindu",
           "Times of India"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "USWNT roster: Ashley Sanchez joins 'triple espresso' ahead of October friendlies as World Cup looms",
-        "link": "https://www.cbssports.com/soccer/news/uswnt-roster-ashley-sanchez-world-cup-prep/",
-        "source": "CBS Sports",
-        "time_ago": "6h ago",
-        "summary": "Here are all the players named to the October roster",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Former Auburn football staffer arrested on felony charges tied to recruiting documents",
-        "link": "https://www.cbssports.com/college-football/news/former-auburn-football-staffer-arrested-felony-recruiting-documents/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "David Rudolph Jenrath was arrested this week on felony charges after allegedly sharing Auburn recruiting information with dozens of rival schools",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Case Keenum's performance vs. Eagles shows Bears shouldn't rush Caleb Williams' return from injury",
-        "link": "https://www.cbssports.com/nfl/news/case-keenums-performance-vs-eagles-bears-dont-rush-caleb-williams/",
-        "source": "CBS Sports",
-        "time_ago": "6h ago",
-        "summary": "Keenum surprised everyone with his primetime performance, and he should give Chicago time to get Williams back to full strength",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
         ]
       }
     ]
