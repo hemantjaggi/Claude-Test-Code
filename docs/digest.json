@@ -1,116 +1,130 @@
 {
-  "generated_at": "2026-10-03T01:20:02.632404+00:00",
+  "generated_at": "2026-10-04T01:55:03.194246+00:00",
   "categories": {
-    "india": [
+    "world": [
       {
-        "title": "Under fire, EC orders special drive to add genuine electors 'left out' during SIR",
-        "link": "https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms",
-        "source": "Times of India",
-        "time_ago": "5h ago",
-        "summary": "BLOs to visit homes of missing pre-SIR voters, enrol via form 6",
+        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+        "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "8h ago",
+        "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Woman bought 94 acres in 1973, then state restricted 10 acres for 20 years",
-        "link": "https://timesofindia.indiatimes.com/world/us/elizabeth-mata-bought-94-acres-in-north-carolina-in-1973-an-i-540-corridor-later-restricted-9-93-acres-for-nearly-20-years-before-the-state-supreme-court-sent-her-compensation-case-back-for-valuation/articleshow/134644881.cms",
-        "source": "Times of India",
-        "time_ago": "6h ago",
-        "summary": "In a landmark decision, the North Carolina Supreme Court has resolved a crucial land dispute involving landowner Elizabeth Mata. The court ruled that the state\u2019s long-standing restrictions on her property, stemming from ",
+        "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted \u2018terrorist\u2019 attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "9h ago",
+        "summary": "Jerusalem Daily: UAE says Flydubai co-pilot attempted \u2018terrorist\u2019 attack",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Hockey Legend Pargat Singh Named Punjab Congress Chief After Raja Warring Quits",
-        "link": "https://www.ndtv.com/india-news/hockey-legend-pargat-singh-named-punjab-congress-chief-months-ahead-of-polls-12131223#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "7h ago",
-        "summary": "This change comes after the party last month replaced its central in-charge, appointing Sachin Pilot in place of Bhupesh Baghel, as the latter was seen as partisan in a battle largely between camps led by Raja Warring an",
+        "title": "Cornell president vows transparency amid outrage over fraternity rape case",
+        "link": "https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "39m ago",
+        "summary": "Michael Kotlikoff expresses deep sorrow over the case, calling it one of the most challenging periods for Cornell.",
         "covered_by": [
-          "NDTV",
-          "The Hindu"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "UFC 332 fight card: King Green vs. Esteban Ribovics, Anthony Wint's return among undercard fights to watch",
-        "link": "https://www.cbssports.com/ufc/news/ufc-332-fight-card-king-green-vs-esteban-ribovics-anthony-wint-roberto-soldic/",
-        "source": "CBS Sports",
-        "time_ago": "49m ago",
-        "summary": "Payton Talbott is getting a lot of attention, but there's more under the hood of UFC 332",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Ohio State vs. Iowa prediction, odds, time: Week 5 college football picks by proven model",
-        "link": "https://www.cbssports.com/betting/news/ohio-state-iowa-prediction-odds-time-2026-week-5-college-football-picks/",
-        "source": "CBS Sports",
-        "time_ago": "57m ago",
-        "summary": "The SportsLine Projection Model has revealed its best bets for the Saturday matchup between the Ohio State Buckeyes vs. Iowa Hawkeyes on CBS and Paramount+",
-        "covered_by": [
-          "CBS Sports"
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "tech": [
       {
-        "title": "Meta wants your next gadget to be Muse-infused",
-        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+        "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+        "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
         "source": "TechCrunch",
-        "time_ago": "34m ago",
-        "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "time_ago": "9h ago",
+        "summary": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-        "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-        "source": "Ars Technica",
-        "time_ago": "2h ago",
-        "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
-        "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
-        "source": "Ars Technica",
-        "time_ago": "9h ago",
-        "summary": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Insulting people\u2019s mandate is Congress\u2019 old habit: BJP",
+        "link": "https://www.thehindu.com/news/national/insulting-peoples-mandate-is-congress-old-habit-bjp/article71541566.ece",
+        "source": "The Hindu",
+        "time_ago": "56m ago",
+        "summary": "Shivraj Chouhan accuses Kharge of attacking constitutional institutions; defends appointment process of Election Commissioners and reliability of EVMs",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Russia vows massive hits on Kyiv, urges diplomats to leave",
+        "link": "https://timesofindia.indiatimes.com/world/europe/russia-vows-massive-hits-on-kyiv-urges-diplomats-to-leave/articleshow/134668415.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "Ukraine ready to consider India\u2019s ceasefire proposal: Finance minister",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Bitchat removed from Apple\u2019s India App Store following govt's demand: Jack Dorsey",
+        "link": "https://www.thehindu.com/sci-tech/technology/bitchat-removed-from-apples-india-app-store-following-govts-demand-jack-dorsey/article71541755.ece",
+        "source": "The Hindu",
+        "time_ago": "29m ago",
+        "summary": "Bitchat, built by Mr. Dorsey, had come under government scrutiny in July this year as well",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Amazon\u2019s $1B plan to combat data center backlash draws more backlash",
-        "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-        "source": "Ars Technica",
-        "time_ago": "4h ago",
-        "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+        "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -121,57 +135,43 @@
         "title": "Meta wants your next gadget to be Muse-infused",
         "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
         "source": "TechCrunch",
-        "time_ago": "34m ago",
+        "time_ago": "1d ago",
         "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
-      },
-      {
-        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-        "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-        "source": "Ars Technica",
-        "time_ago": "2h ago",
-        "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
       }
     ],
-    "world": [
+    "sports": [
       {
-        "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+        "title": "UFC 332 -- Natalia Silva vs. Wang Cong: Fight card, odds, date, location and more for Salt Lake City",
+        "link": "https://www.cbssports.com/ufc/news/ufc-332-fight-card-natalia-silva-wang-cong-date-odds-location/",
+        "source": "CBS Sports",
+        "time_ago": "44m ago",
+        "summary": "All the news, information, complete fight card and more for this weekend's festivities in Utah",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "CBS Sports"
         ]
       },
       {
-        "title": "Could El Ni\u00f1o mean there are no Atlantic hurricanes this year?",
-        "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+        "title": "Week 4 NFL score predictions, best picks today: Expert reveals exact scores for every NFL game",
+        "link": "https://www.cbssports.com/betting/news/nfl-score-predictions-picks-expert-best-bets-for-week-4-2026/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 4 NFL schedule",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "CBS Sports"
         ]
       },
       {
-        "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
-        "link": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv.",
+        "title": "Two going on four, five or six on good night for new Scotland era",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "3h ago",
+        "summary": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "BBC Sport"
         ]
       }
     ]
