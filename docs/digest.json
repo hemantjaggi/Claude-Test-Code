@@ -1,58 +1,79 @@
 {
-  "generated_at": "2026-10-04T01:55:03.194246+00:00",
+  "generated_at": "2026-10-05T01:08:44.319477+00:00",
   "categories": {
-    "world": [
+    "india": [
       {
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-        "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "8h ago",
-        "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+        "title": "Asian Games 2026: Karnataka athletes return with a haul of four gold, three silver and two bronze medals",
+        "link": "https://www.thehindu.com/news/national/karnataka/asian-games-2026-karnataka-athletes-return-with-a-haul-of-four-gold-three-silver-and-two-bronze-medals/article71544182.ece",
+        "source": "The Hindu",
+        "time_ago": "5h ago",
+        "summary": "The four golds mark an improvement from the 2022 edition in Hangzhou, China, where sportspersons from the State helped India secure three gold medals",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted \u2018terrorist\u2019 attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "9h ago",
-        "summary": "Jerusalem Daily: UAE says Flydubai co-pilot attempted \u2018terrorist\u2019 attack",
+        "title": "Next-generation GST aimed at boosting India's next phase of growth",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/next-generation-gst-aimed-at-boosting-indias-next-phase-of-growth/articleshow/134682266.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Cornell president vows transparency amid outrage over fraternity rape case",
-        "link": "https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "39m ago",
-        "summary": "Michael Kotlikoff expresses deep sorrow over the case, calling it one of the most challenging periods for Cornell.",
+        "title": "EAM Jaishankar says US has chosen to become 'lonelier power'",
+        "link": "https://timesofindia.indiatimes.com/india/external-affairs-minister-s-jaishankar-says-us-has-chosen-to-become-lonelier-power/articleshow/134680336.cms",
+        "source": "Times of India",
+        "time_ago": "4h ago",
+        "summary": "S Jaishankar stated that India aims to mediate in the Russia-Ukraine conflict through dialogue and diplomacy. India has recently proposed ideas addressing issues like grain and energy exports to both nations. Jaishankar ",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Lions vs. Panthers odds, predictions, betting preview, start time: Sunday Night Football picks, best bets",
+        "link": "https://www.cbssports.com/betting/news/lions-vs-panthers-odds-predictions-betting-preview-start-time-sunday-night-football-picks-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Best bets and betting preview for Lions vs. Panthers on Sunday Night Football",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Man City fight back to beat struggling Arsenal",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "3h ago",
+        "summary": "Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and increase the pressure on Gunners manager Renee Slegers.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "NLDS Game 2 winners and losers: Brewers magic strikes again in walk-off win; Mason Miller implodes",
+        "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoffs-nlds-game-2-winners-losers/",
+        "source": "CBS Sports",
+        "time_ago": "2m ago",
+        "summary": "Milwaukee worked three walks against the Padres closer in the ninth inning before Jackson Chourio called game",
+        "covered_by": [
+          "CBS Sports"
         ]
       }
     ],
     "tech": [
       {
-        "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
-        "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
         "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
         "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
         "source": "TechCrunch",
-        "time_ago": "7h ago",
+        "time_ago": "1d ago",
         "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
         "covered_by": [
           "Ars Technica",
@@ -60,62 +81,36 @@
         ]
       },
       {
-        "title": "Meta wants your next gadget to be Muse-infused",
-        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+        "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+        "source": "Ars Technica",
+        "time_ago": "2d ago",
+        "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Insulting people\u2019s mandate is Congress\u2019 old habit: BJP",
-        "link": "https://www.thehindu.com/news/national/insulting-peoples-mandate-is-congress-old-habit-bjp/article71541566.ece",
-        "source": "The Hindu",
-        "time_ago": "56m ago",
-        "summary": "Shivraj Chouhan accuses Kharge of attacking constitutional institutions; defends appointment process of Election Commissioners and reliability of EVMs",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
-        "title": "Russia vows massive hits on Kyiv, urges diplomats to leave",
-        "link": "https://timesofindia.indiatimes.com/world/europe/russia-vows-massive-hits-on-kyiv-urges-diplomats-to-leave/articleshow/134668415.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "Ukraine ready to consider India\u2019s ceasefire proposal: Finance minister",
+        "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+        "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+        "source": "Ars Technica",
+        "time_ago": "2d ago",
+        "summary": "Nvidia\u2019s chip-smuggling problem won\u2019t go away as arrests continue.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Bitchat removed from Apple\u2019s India App Store following govt's demand: Jack Dorsey",
-        "link": "https://www.thehindu.com/sci-tech/technology/bitchat-removed-from-apples-india-app-store-following-govts-demand-jack-dorsey/article71541755.ece",
-        "source": "The Hindu",
-        "time_ago": "29m ago",
-        "summary": "Bitchat, built by Mr. Dorsey, had come under government scrutiny in July this year as well",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Ars Technica"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-        "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+        "title": "Protests against OpenAI get increasingly creative",
+        "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+        "source": "Ars Technica",
+        "time_ago": "5d ago",
+        "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
           "The Verge"
         ]
       },
@@ -123,55 +118,57 @@
         "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
         "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
         "source": "TechCrunch",
-        "time_ago": "9h ago",
+        "time_ago": "1d ago",
         "summary": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       },
       {
-        "title": "Meta wants your next gadget to be Muse-infused",
-        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+        "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
+        "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "time_ago": "4h ago",
+        "summary": "AI slop seems to be overwhelming bug bounty programs.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ],
-    "sports": [
+    "world": [
       {
-        "title": "UFC 332 -- Natalia Silva vs. Wang Cong: Fight card, odds, date, location and more for Salt Lake City",
-        "link": "https://www.cbssports.com/ufc/news/ufc-332-fight-card-natalia-silva-wang-cong-date-odds-location/",
-        "source": "CBS Sports",
-        "time_ago": "44m ago",
-        "summary": "All the news, information, complete fight card and more for this weekend's festivities in Utah",
+        "title": "Brazil election goes to run-off as right-wing Fl\u00e1vio Bolsonaro wins first round",
+        "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "41m ago",
+        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
         "covered_by": [
-          "CBS Sports"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Week 4 NFL score predictions, best picks today: Expert reveals exact scores for every NFL game",
-        "link": "https://www.cbssports.com/betting/news/nfl-score-predictions-picks-expert-best-bets-for-week-4-2026/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 4 NFL schedule",
+        "title": "Manchester City must be relegated, says Canada\u2019s ex-Leeds manager",
+        "link": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Jesse Marsch alleges Man City's financial wrongdoing was widely known in the Premier League, and relegation must follow.",
         "covered_by": [
-          "CBS Sports"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Two going on four, five or six on good night for new Scotland era",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
+        "title": "Cornell case puts New York\u2019s progressive image at odds with its rape laws",
+        "link": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss",
+        "source": "Al Jazeera",
         "time_ago": "3h ago",
-        "summary": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in Skopje, writes Tom English.",
+        "summary": "New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.",
         "covered_by": [
-          "BBC Sport"
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ]
