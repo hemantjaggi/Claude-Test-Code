@@ -1,154 +1,48 @@
 {
-  "generated_at": "2026-10-07T01:44:45.618848+00:00",
+  "generated_at": "2026-10-08T02:12:21.316551+00:00",
   "categories": {
-    "sports": [
-      {
-        "title": "Ronaldo wants Portugal 'punishment' but not retiring",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal after head coach Jorge Jesus \"broke his word to me\".",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "NFL Referees Association to challenge officials' suspensions for Week 4 conduct",
-        "link": "https://www.cbssports.com/nfl/news/nfl-referees-association-challenge-suspensions-week-4-conduct/",
-        "source": "CBS Sports",
-        "time_ago": "6h ago",
-        "summary": "Referee Adrian Hill and line judge Jeff Seeman both face suspensions for 'unprofessional conduct'",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Midfield options and a fab front four - what we've learned about England",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cq62y431dj8vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned during this international window.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Rahul\u2019s protest a political drama, claims made by Congress are lies: BJP",
-        "link": "https://www.thehindu.com/news/national/rahuls-protest-a-political-drama-claims-made-by-congress-are-lies-bjp/article71553057.ece",
-        "source": "The Hindu",
-        "time_ago": "1h ago",
-        "summary": "Sudhanshu Trivedi cited the ECI statement to assert that the poll panel did not receive any request from either the Congress party or any other constituent of the INDIA bloc for a meeting",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand\u2019s Chamoli",
-        "link": "https://www.thehindu.com/news/national/tremors-felt-across-delhi-ncr-as-49-magnitude-quake-hits-uttarakhands-chamoli/article71553036.ece",
-        "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "According to the National Centre for Seismology the epicentre was located at a depth of 13 km in Chamoli.",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Cabinet adopts resolution hailing achievements of PM Modi",
-        "link": "https://timesofindia.indiatimes.com/india/cabinet-adopts-resolution-hailing-achievements-of-pm-modi/articleshow/134749886.cms",
-        "source": "Times of India",
-        "time_ago": "5h ago",
-        "summary": "Cabinet has adopted a resolution recognizing Narendra Modi's 25 years of public service as Chief Minister and Prime Minister. This resolution highlights various policies that benefited the common man, showcasing Modi's g",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
     "world": [
       {
-        "title": "Politicians slam Trump\u2019s suggestion that Iran \u2018take\u2019 San Diego, Los Angeles",
-        "link": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+        "title": "Christa Pike was nearly taken off life support before waking, lawyers say",
+        "link": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "37m ago",
-        "summary": "Both Democrats and Republicans have expressed outrage at Trump's remarks that cities could be sacrificed in Iran war.",
+        "time_ago": "2h ago",
+        "summary": "Death row inmate who survived execution by lethal injection is said to be 'angry and confused' about what happened.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-        "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "47m ago",
-        "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Cornell names Sally Yates to review university\u2019s response to rape case",
-        "link": "https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss",
+        "title": "Russia dismisses reports of second plague case as \u2018false information\u2019",
+        "link": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "Yates will examine Cornell\u2019s sexual assault investigations, disciplinary process and campus police response.",
+        "time_ago": "1h ago",
+        "summary": "Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "OpenAI will watermark ChatGPT outputs by default\u2014but only in the EU",
-        "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-        "source": "Ars Technica",
-        "time_ago": "4h ago",
-        "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
       },
       {
-        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-        "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+        "title": "Democrats sue US President Trump over taxpayer-funded ad campaign",
+        "link": "https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "50m ago",
+        "summary": "Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-        "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-        "source": "Ars Technica",
-        "time_ago": "6d ago",
-        "summary": "So much for Gemini 3.5 Pro.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "tech": [
       {
-        "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-        "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-        "source": "TechCrunch",
+        "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+        "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+        "source": "Ars Technica",
         "time_ago": "2h ago",
-        "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+        "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -156,25 +50,131 @@
         ]
       },
       {
-        "title": "OpenAI will watermark ChatGPT outputs by default\u2014but only in the EU",
-        "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-        "source": "Ars Technica",
-        "time_ago": "4h ago",
-        "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+        "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+        "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
         "covered_by": [
           "Ars Technica",
+          "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "How to find out if Amazon thinks you have \u2018flat buttocks\u2019",
-        "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+        "title": "Google experiments with an AI-powered gaming platform",
+        "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
         "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I\u2019m literally speechless,\" one shopper wrote on Threads.",
+        "time_ago": "11h ago",
+        "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+        "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+        "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+        "source": "Ars Technica",
+        "time_ago": "2h ago",
+        "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
+        "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Make a good film, repay your debts: Supreme Court to Rajpal Yadav",
+        "link": "https://timesofindia.indiatimes.com/india/make-a-good-film-repay-your-debts-supreme-court-to-rajpal-yadav/articleshow/134776939.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "Supreme Court has maintained the condition for Rajpal Yadav to deposit Rs 2 crore for his appeal. Yadav took a loan of Rs 5 crore in 2010 for a film that never completed, which has accrued interest. His counsel mentioned",
+        "covered_by": [
+          "NDTV",
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Karnataka High Court orders using \u2018parenting time\u2019 instead of \u2018visitation\u2019 in all child custody cases",
+        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-orders-using-parenting-time-instead-of-visitation-in-all-child-custody-cases/article71555498.ece",
+        "source": "The Hindu",
+        "time_ago": "1h ago",
+        "summary": "\u201cCalling it \u2018parenting time\u2019 recognises a simple truth that no parent is a \u2018visitor\u2019 in the life of a child\u201d",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "SC pulls up Delhi civic body, ASI over \u2018lackadaisical approach\u2019 to preservation of heritage sites",
+        "link": "https://www.thehindu.com/news/national/sc-pulls-up-delhi-civic-body-asi-over-lackadaisical-approach-to-preservation-of-heritage-sites/article71556190.ece",
+        "source": "The Hindu",
+        "time_ago": "6h ago",
+        "summary": "The observations came while the top court was hearing a petition filed by Delhi resident Rajeev Suri concerning the preservation and restoration of heritage sites across the national capital",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "'Amazing' Kane targets 100 international goals",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "5h ago",
+        "summary": "Striker Harry Kane says he could reach 100 goals for England after equalling his country's appearance record of 125, drawing praise from team-mates Morgan Rogers and Jude Bellingham.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Is it too early to look at Premier League table?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ck1l3gjpzz0qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "8h ago",
+        "summary": "Just five games in, it might seem a bit early to pay much attention to the Premier League table - but it's probably more settled than you think. BBC Sport takes a look at the statistics behind the early season standings.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Rice close to agreeing new Arsenal deal",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "3h ago",
+        "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport.",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
