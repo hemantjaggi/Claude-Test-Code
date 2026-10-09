@@ -1,122 +1,45 @@
 {
-  "generated_at": "2026-10-08T02:12:21.316551+00:00",
+  "generated_at": "2026-10-09T02:26:55.488519+00:00",
   "categories": {
-    "world": [
+    "sports": [
       {
-        "title": "Christa Pike was nearly taken off life support before waking, lawyers say",
-        "link": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Death row inmate who survived execution by lethal injection is said to be 'angry and confused' about what happened.",
+        "title": "Use FanDuel promo code to get $250 bonus bets by targeting Cowboys vs. Buccaneers on Thursday Night Football",
+        "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-by-targeting-cowboys-vs-buccaneers-on-thursday-night-football/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "Sign up and bet with the latest FanDuel promo code on Thursday to get your bonus bets",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "CBS Sports"
         ]
       },
       {
-        "title": "Russia dismisses reports of second plague case as \u2018false information\u2019",
-        "link": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Democrats sue US President Trump over taxpayer-funded ad campaign",
-        "link": "https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "50m ago",
-        "summary": "Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-        "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-        "source": "Ars Technica",
-        "time_ago": "2h ago",
-        "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-        "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google experiments with an AI-powered gaming platform",
-        "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-        "source": "TechCrunch",
+        "title": "Wales target clean sheet in World Cup play-off first leg",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwr7yv4yl59do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
         "time_ago": "11h ago",
-        "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+        "summary": "Rhian Wilkinson makes a clean sheet the first target for Wales in Friday's Women's World Cup play-off semi-final first leg against Albania.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-        "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "BBC Sport"
         ]
       },
       {
-        "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-        "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-        "source": "Ars Technica",
-        "time_ago": "2h ago",
-        "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+        "title": "Maresca says 'feeling is fantastic' among Man City squad",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6n4ex2lgg2ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "5h ago",
+        "summary": "Enzo Maresca says his players \"don't care too much about the noise\" surrounding Manchester City over the 115 Premier League charges.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
-        "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "BBC Sport"
         ]
       }
     ],
     "india": [
       {
-        "title": "Make a good film, repay your debts: Supreme Court to Rajpal Yadav",
-        "link": "https://timesofindia.indiatimes.com/india/make-a-good-film-repay-your-debts-supreme-court-to-rajpal-yadav/articleshow/134776939.cms",
+        "title": "Starlink entry row: Is Ambani the real boss of India, asks Elon Musk",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/stralinks-india-entry-row-is-ambani-the-real-boss-of-india-asks-elon-musk/articleshow/134800745.cms",
         "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "Supreme Court has maintained the condition for Rajpal Yadav to deposit Rs 2 crore for his appeal. Yadav took a loan of Rs 5 crore in 2010 for a film that never completed, which has accrued interest. His counsel mentioned",
+        "time_ago": "4h ago",
+        "summary": "Elon Musk has raised concerns about regulatory obstacles facing Starlink's introduction in India. He claimed influential figures might be hindering the process and questioned if Ambani controls the situation. In response",
         "covered_by": [
           "NDTV",
           "The Hindu",
@@ -124,57 +47,131 @@
         ]
       },
       {
-        "title": "Karnataka High Court orders using \u2018parenting time\u2019 instead of \u2018visitation\u2019 in all child custody cases",
-        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-orders-using-parenting-time-instead-of-visitation-in-all-child-custody-cases/article71555498.ece",
+        "title": "Nana Patekar\u2019s last rites conducted at his Pune farmhouse with full State honours",
+        "link": "https://www.thehindu.com/entertainment/nana-patekars-last-rites-conducted-at-his-pune-farmhouse-with-full-state-honours/article71561625.ece",
         "source": "The Hindu",
-        "time_ago": "1h ago",
-        "summary": "\u201cCalling it \u2018parenting time\u2019 recognises a simple truth that no parent is a \u2018visitor\u2019 in the life of a child\u201d",
+        "time_ago": "2h ago",
+        "summary": "Patekar, known for earthy performances across diverse films such as \u201cKrantiveer\u201d and \u201cKhamoshi: The Musical\u201d, died at his Goa home in the early hours of Thursday (October 8, 2026)",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "SC pulls up Delhi civic body, ASI over \u2018lackadaisical approach\u2019 to preservation of heritage sites",
-        "link": "https://www.thehindu.com/news/national/sc-pulls-up-delhi-civic-body-asi-over-lackadaisical-approach-to-preservation-of-heritage-sites/article71556190.ece",
+        "title": "Akhilesh dares CM Yogi to contest from Ayodhya in assembly election",
+        "link": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-dares-cm-yogi-to-contest-from-ayodhya-in-assembly-election/article71560356.ece",
         "source": "The Hindu",
         "time_ago": "6h ago",
-        "summary": "The observations came while the top court was hearing a petition filed by Delhi resident Rajeev Suri concerning the preservation and restoration of heritage sites across the national capital",
+        "summary": "Promising to accelerate the growth of Ayodhya, the SP leader alleged rampant demolition under BJP\u2019s watch in the name of development",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       }
     ],
-    "sports": [
+    "world": [
       {
-        "title": "'Amazing' Kane targets 100 international goals",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
+        "title": "A father\u2019s agony after an Israeli air strike hits Gaza apartment",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "An Israeli air strike hit a building in Gaza City\u2019s al-Sabra neighbourhood, killing several people, including children.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Israel shuts down British consulate in occupied East Jerusalem",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
+        "source": "Al Jazeera",
         "time_ago": "5h ago",
-        "summary": "Striker Harry Kane says he could reach 100 goals for England after equalling his country's appearance record of 125, drawing praise from team-mates Morgan Rogers and Jude Bellingham.",
+        "summary": "The British government says it will retain its presence in occupied East Jerusalem after Israel removed its consulate.",
         "covered_by": [
-          "BBC Sport"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Is it too early to look at Premier League table?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ck1l3gjpzz0qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
+        "title": "Christa Pike case underscores prevalence of botched executions in US",
+        "link": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "21m ago",
+        "summary": "Experts say methods such as lethal injection promise a more humane form of execution but are frequently marred by mishap",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+        "source": "TechCrunch",
         "time_ago": "8h ago",
-        "summary": "Just five games in, it might seem a bit early to pay much attention to the Premier League table - but it's probably more settled than you think. BBC Sport takes a look at the statistics behind the early season standings.",
+        "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identit",
         "covered_by": [
-          "BBC Sport"
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Rice close to agreeing new Arsenal deal",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport.",
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safety culture.",
         "covered_by": [
-          "BBC Sport"
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Anthropic changes usage policy to ban model abuse and election interference",
+        "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, ",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+        "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+        "source": "TechCrunch",
+        "time_ago": "10h ago",
+        "summary": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+        "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+        "source": "Ars Technica",
+        "time_ago": "4h ago",
+        "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safety culture.",
+        "covered_by": [
+          "TechCrunch"
         ]
       }
     ]
