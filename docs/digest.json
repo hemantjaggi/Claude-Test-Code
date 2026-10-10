@@ -1,118 +1,48 @@
 {
-  "generated_at": "2026-10-09T02:26:55.488519+00:00",
+  "generated_at": "2026-10-10T01:52:26.525169+00:00",
   "categories": {
-    "sports": [
+    "tech": [
       {
-        "title": "Use FanDuel promo code to get $250 bonus bets by targeting Cowboys vs. Buccaneers on Thursday Night Football",
-        "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-by-targeting-cowboys-vs-buccaneers-on-thursday-night-football/",
-        "source": "CBS Sports",
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against AI infrastructure, w",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Microsoft barred from sponsoring foreign workers for US residency",
+        "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+        "source": "Ars Technica",
+        "time_ago": "12h ago",
+        "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
+        "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+        "source": "Ars Technica",
         "time_ago": "3h ago",
-        "summary": "Sign up and bet with the latest FanDuel promo code on Thursday to get your bonus bets",
+        "summary": "One damaged data center has supercomputers used for training Yandex\u2019s AI model.",
         "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Wales target clean sheet in World Cup play-off first leg",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwr7yv4yl59do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "11h ago",
-        "summary": "Rhian Wilkinson makes a clean sheet the first target for Wales in Friday's Women's World Cup play-off semi-final first leg against Albania.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Maresca says 'feeling is fantastic' among Man City squad",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6n4ex2lgg2ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "5h ago",
-        "summary": "Enzo Maresca says his players \"don't care too much about the noise\" surrounding Manchester City over the 115 Premier League charges.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Starlink entry row: Is Ambani the real boss of India, asks Elon Musk",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/stralinks-india-entry-row-is-ambani-the-real-boss-of-india-asks-elon-musk/articleshow/134800745.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "Elon Musk has raised concerns about regulatory obstacles facing Starlink's introduction in India. He claimed influential figures might be hindering the process and questioned if Ambani controls the situation. In response",
-        "covered_by": [
-          "NDTV",
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Nana Patekar\u2019s last rites conducted at his Pune farmhouse with full State honours",
-        "link": "https://www.thehindu.com/entertainment/nana-patekars-last-rites-conducted-at-his-pune-farmhouse-with-full-state-honours/article71561625.ece",
-        "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "Patekar, known for earthy performances across diverse films such as \u201cKrantiveer\u201d and \u201cKhamoshi: The Musical\u201d, died at his Goa home in the early hours of Thursday (October 8, 2026)",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Akhilesh dares CM Yogi to contest from Ayodhya in assembly election",
-        "link": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-dares-cm-yogi-to-contest-from-ayodhya-in-assembly-election/article71560356.ece",
-        "source": "The Hindu",
-        "time_ago": "6h ago",
-        "summary": "Promising to accelerate the growth of Ayodhya, the SP leader alleged rampant demolition under BJP\u2019s watch in the name of development",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "A father\u2019s agony after an Israeli air strike hits Gaza apartment",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "An Israeli air strike hit a building in Gaza City\u2019s al-Sabra neighbourhood, killing several people, including children.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Israel shuts down British consulate in occupied East Jerusalem",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "The British government says it will retain its presence in occupied East Jerusalem after Israel removed its consulate.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Christa Pike case underscores prevalence of botched executions in US",
-        "link": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "21m ago",
-        "summary": "Experts say methods such as lethal injection promise a more humane form of execution but are frequently marred by mishap",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "Ars Technica"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Google brings agentic AI to Gemini, starting with businesses",
-        "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+        "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+        "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identit",
+        "time_ago": "1h ago",
+        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
         "covered_by": [
-          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
@@ -121,7 +51,7 @@
         "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
         "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
         "source": "TechCrunch",
-        "time_ago": "6h ago",
+        "time_ago": "1d ago",
         "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safety culture.",
         "covered_by": [
           "Ars Technica",
@@ -129,49 +59,117 @@
         ]
       },
       {
-        "title": "Anthropic changes usage policy to ban model abuse and election interference",
-        "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
         "source": "TechCrunch",
         "time_ago": "8h ago",
-        "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, ",
+        "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against AI infrastructure, w",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ],
-    "tech": [
+    "sports": [
       {
-        "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
-        "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
-        "source": "TechCrunch",
-        "time_ago": "10h ago",
-        "summary": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-        "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
-        "source": "Ars Technica",
+        "title": "NI World Cup hopes gone from 'improbable to impossible'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
         "time_ago": "4h ago",
-        "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+        "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat.",
         "covered_by": [
-          "Ars Technica",
-          "The Verge"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safety culture.",
+        "title": "Iowa State vs. BYU odds, picks, predictions, best bets, start time for Week 6 college football Friday",
+        "link": "https://www.cbssports.com/betting/news/iowa-state-vs-byu-odds-picks-predictions-best-bets-start-time-for-week-6-college-football-friday/",
+        "source": "CBS Sports",
+        "time_ago": "41m ago",
+        "summary": "A pair of Big 12 squads clash Friday night with the undefeated Cougars hosting the Cyclones",
         "covered_by": [
-          "TechCrunch"
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Man City whistleblower to remain in witness protection",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+        "link": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "29m ago",
+        "summary": "The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Dual quakes devastate southern Panama",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "59m ago",
+        "summary": "Panama\u2019s president has declared a major disaster after two earthquakes struck the country\u2019s south.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump confirms Fort Hood shooter\u2019s execution will be by firing squad",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Delhi protest LIVE updates: CJP's call for 'Jantar Mantar 2.0' turns capital into a fortress",
+        "link": "https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece",
+        "source": "The Hindu",
+        "time_ago": "22m ago",
+        "summary": "Authorities have taken several measures ahead of the protest, including internet curbs in parts of Delhi, the shutting down of markets and Metro stations, and the cancelling dozens of trains bound for the capital.",
+        "covered_by": [
+          "NDTV",
+          "The Hindu"
+        ]
+      },
+      {
+        "title": "Before CJP protest, Delhi bandh: Mobile net, metro, roads blocked in heart of city",
+        "link": "https://timesofindia.indiatimes.com/india/before-cjp-protest-delhi-bandh/articleshow/134845750.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "CEC row updates: CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says   Dipke",
+        "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-controversy-live-updates-india-bloc-congress-jantar-mantar-cjp-protest-live-updates-october-9-2026/article71562437.ece",
+        "source": "The Hindu",
+        "time_ago": "2h ago",
+        "summary": "The Ministry of Home Affairs has approved the temporary suspension of internet services. Internet services will remain suspended within a 4-kilometre radius around the Janpath\u2013Kartavya Path crossing from 10 p.m. on Octob",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ]
