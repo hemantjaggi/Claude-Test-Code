@@ -1,34 +1,105 @@
 {
-  "generated_at": "2026-10-10T01:52:26.525169+00:00",
+  "generated_at": "2026-10-11T01:10:25.064604+00:00",
   "categories": {
+    "india": [
+      {
+        "title": "Leaders In Custody, CJP Announces Another Jantar Mantar Protest At 10 am",
+        "link": "https://www.ndtv.com/india-news/will-march-to-jantar-mantar-every-day-until-gyanesh-kumar-is-sacked-cjp-after-mass-detentions-12167087#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "6h ago",
+        "summary": "CJP leader Ajinkya Shinde, who was designated to lead the protest by Dipke in his absence, declared, \"Every day, there will be marches to Jantar Mantar from now on, until Gyanesh Kumar is sacked as CEC.\"",
+        "covered_by": [
+          "NDTV",
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Mass detention of Delhi protesters draws scrutiny from legal experts",
+        "link": "https://www.thehindu.com/news/cities/Delhi/mass-detention-of-delhi-protesters-draws-scrutiny-from-legal-experts/article71568974.ece",
+        "source": "The Hindu",
+        "time_ago": "2h ago",
+        "summary": "Several instances of protesters being picked up and taken away in buses were reported through the day, with some alleging that they were not informed of the grounds for their detention",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "BJP slams Rahul Gandhi for claiming Murmu accepted 'vote chori'",
+        "link": "https://timesofindia.indiatimes.com/india/bjp-slams-rahul-gandhi-for-claiming-murmu-accepted-vote-chori/articleshow/134861147.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Why is the Trump administration trying to dismantle the ICC?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "5h ago",
+        "summary": "The US has imposed sweeping new sanctions on the International Criminal Court.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+        "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "48m ago",
+        "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+        "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "46m ago",
+        "summary": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
     "tech": [
       {
-        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-        "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+        "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against AI infrastructure, w",
+        "time_ago": "3h ago",
+        "summary": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI.",
         "covered_by": [
+          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Microsoft barred from sponsoring foreign workers for US residency",
-        "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-        "source": "Ars Technica",
-        "time_ago": "12h ago",
-        "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Is Apple hoping to get into the AI-generated podcast business?",
         "covered_by": [
-          "Ars Technica",
-          "The Verge"
+          "TechCrunch"
         ]
       },
       {
         "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
         "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
         "source": "Ars Technica",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "One damaged data center has supercomputers used for training Yandex\u2019s AI model.",
         "covered_by": [
           "Ars Technica"
@@ -40,7 +111,7 @@
         "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
         "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
         "source": "TechCrunch",
-        "time_ago": "1h ago",
+        "time_ago": "1d ago",
         "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
         "covered_by": [
           "TechCrunch",
@@ -51,7 +122,7 @@
         "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
         "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safety culture.",
         "covered_by": [
           "Ars Technica",
@@ -59,11 +130,11 @@
         ]
       },
       {
-        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-        "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against AI infrastructure, w",
+        "time_ago": "5h ago",
+        "summary": "Is Apple hoping to get into the AI-generated podcast business?",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
@@ -72,104 +143,34 @@
     ],
     "sports": [
       {
-        "title": "NI World Cup hopes gone from 'improbable to impossible'",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "4h ago",
-        "summary": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have \"gone from improbable to impossible\" after a 4-0 first leg defeat.",
+        "title": "Three huge questions as Man City face hostile Anfield reception vs. Liverpool following Premier League ruling",
+        "link": "https://www.cbssports.com/soccer/news/man-city-anfield-liverpool-premier-league-ruling/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "An already hostile trip to Anfield gets turned up another level as Enzo Maresca and his squad face the music from the Kop following the Premier League's guilty verdict",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Iowa State vs. BYU odds, picks, predictions, best bets, start time for Week 6 college football Friday",
-        "link": "https://www.cbssports.com/betting/news/iowa-state-vs-byu-odds-picks-predictions-best-bets-start-time-for-week-6-college-football-friday/",
-        "source": "CBS Sports",
-        "time_ago": "41m ago",
-        "summary": "A pair of Big 12 squads clash Friday night with the undefeated Cougars hosting the Cyclones",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Man City whistleblower to remain in witness protection",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
+        "title": "Man Utd midfield can't control games - Murphy",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
         "time_ago": "2h ago",
-        "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
+        "summary": "Match of the Day pundit Danny Murphy looks at Manchester United's problems in midfield in their 1-1 draw against 10-man Tottenham.",
         "covered_by": [
           "BBC Sport"
         ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Two Renoir paintings recovered after France museum heist, mayor says",
-        "link": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "29m ago",
-        "summary": "The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
       },
       {
-        "title": "Dual quakes devastate southern Panama",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "59m ago",
-        "summary": "Panama\u2019s president has declared a major disaster after two earthquakes struck the country\u2019s south.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Trump confirms Fort Hood shooter\u2019s execution will be by firing squad",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Delhi protest LIVE updates: CJP's call for 'Jantar Mantar 2.0' turns capital into a fortress",
-        "link": "https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece",
-        "source": "The Hindu",
-        "time_ago": "22m ago",
-        "summary": "Authorities have taken several measures ahead of the protest, including internet curbs in parts of Delhi, the shutting down of markets and Metro stations, and the cancelling dozens of trains bound for the capital.",
-        "covered_by": [
-          "NDTV",
-          "The Hindu"
-        ]
-      },
-      {
-        "title": "Before CJP protest, Delhi bandh: Mobile net, metro, roads blocked in heart of city",
-        "link": "https://timesofindia.indiatimes.com/india/before-cjp-protest-delhi-bandh/articleshow/134845750.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "CEC row updates: CJP leaders accuse govt. of imposing Emergency, 'Even if I am detained, the protest should not end', says   Dipke",
-        "link": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-controversy-live-updates-india-bloc-congress-jantar-mantar-cjp-protest-live-updates-october-9-2026/article71562437.ece",
-        "source": "The Hindu",
+        "title": "Fantasy football rankings, projections, lineups, sleepers for NFL Week 5, 2026 from proven model",
+        "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-projections-lineup-advice-sleepers-picks-nfl-week-5-2026/",
+        "source": "CBS Sports",
         "time_ago": "2h ago",
-        "summary": "The Ministry of Home Affairs has approved the temporary suspension of internet services. Internet services will remain suspended within a 4-kilometre radius around the Janpath\u2013Kartavya Path crossing from 10 p.m. on Octob",
+        "summary": "SportsLine's model reveals its Week 5 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "CBS Sports"
         ]
       }
     ]
