@@ -1,105 +1,35 @@
 {
-  "generated_at": "2026-10-13T03:07:23.544798+00:00",
+  "generated_at": "2026-10-14T01:20:27.977807+00:00",
   "categories": {
-    "tech": [
-      {
-        "title": "Fitbit Edge is Google\u2019s middle ground between Fitbit Air and Pixel Watch",
-        "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-        "source": "TechCrunch",
-        "time_ago": "11h ago",
-        "summary": "Google\u2019s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Meta releases its first frontier model, Muse Wonder",
-        "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Microsoft president says UK is best placed to drive AI regulation",
-        "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-        "source": "TechCrunch",
-        "time_ago": "11h ago",
-        "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-        "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-        "source": "Ars Technica",
-        "time_ago": "14h ago",
-        "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Anthropic can\u2019t reliably control its AI agents \u2014 it\u2019s cutting off its internal evals from the live internet instead",
-        "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-        "source": "TechCrunch",
-        "time_ago": "3d ago",
-        "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle ",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Microsoft president says UK is best placed to drive AI regulation",
-        "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-        "source": "TechCrunch",
-        "time_ago": "11h ago",
-        "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
     "sports": [
       {
-        "title": "USWNT aim to prove they are 'side-by-side' with World Cup champs Spain",
-        "link": "https://www.cbssports.com/soccer/news/uswnt-aim-to-prove-status-vs-spain-world-cup/",
+        "title": "Lisandro Martinez just said what every Man United fan is thinking after embarrassing UCL loss at Atletico",
+        "link": "https://www.cbssports.com/soccer/news/lisandro-martinez-man-united-loss-atletico-reaction-champions-league-2026/",
         "source": "CBS Sports",
         "time_ago": "2h ago",
-        "summary": "The USWNT lost 2-0 to Spain on Saturday, two early defensive errors proving costly despite their ability to grow into the game as it progressed",
+        "summary": "United lost 2-0 at Atletico Madrid on Tuesday, and their Argentine defender did not hold back as their horrible start to the season continues",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Cowboys hire former NFL head coach, Packers' DC to help fix struggling defense",
-        "link": "https://www.cbssports.com/nfl/news/cowboys-hire-mike-pettine-to-help-defense-christian-parker/",
+        "title": "Could Man City lose 2023 UCL crown as they await appeal and potential PL punishments? Here's why it's unlikely",
+        "link": "https://www.cbssports.com/soccer/news/could-man-city-lose-2023-champions-league-crown-pl-punishments/",
         "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "Brian Schottenheimer is calling in reinforcements after Thursday night's loss against the Bucs",
+        "time_ago": "3h ago",
+        "summary": "The Citizens will play their first home game since the charges as potentially massive punishments could come their way",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Rams-Bills, NFL betting promos: Pocket more than $3,000 in bonuses from top online betting apps, sportsbooks",
-        "link": "https://www.cbssports.com/betting/news/rams-bills-nfl-betting-promos-pocket-more-than-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+        "title": "NFL trade deadline buyers and sellers: Cowboys looking to add, possible Chargers fire sale?",
+        "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-buyers-sellers-cowboys-bucs-chargers/",
         "source": "CBS Sports",
         "time_ago": "5h ago",
-        "summary": "Top Week 5 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+        "summary": "These are the teams and names to monitor as trade season heats up in the weeks to come",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
@@ -108,33 +38,34 @@
     ],
     "india": [
       {
-        "title": "'Mar gaya, mar gaya tera bhai': How row over metro seat turned deadly in Delhi",
-        "link": "https://timesofindia.indiatimes.com/city/delhi/mar-gayamar-gaya-tera-bhai-punched-in-chest-how-row-over-metro-seat-turned-deadly-in-delhi/articleshow/134905766.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "A tragic altercation on a Delhi Metro train claimed the life of Pawan Sharma, the sole breadwinner of his family, on October 8. His death has left his wife and two children in deep sorrow. Authorities have taken action, ",
+        "title": "BJP Launches Statewide Protests Against Rahul Gandhi, Congress",
+        "link": "https://www.ndtv.com/india-news/bjp-launches-statewide-protests-against-rahul-gandhi-congress-12181704#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "2h ago",
+        "summary": "The rally drew a large number of young men and women and was attended by Assam Cabinet Minister and Nalbari MLA Jayanta Malla Baruah, Assam BJP president Dilip Saikia, state BJP organising secretary Ravindra Raju and oth",
         "covered_by": [
+          "NDTV",
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "As Jantar Mantar loses protest site tag, CJP plans get disrupted",
-        "link": "https://timesofindia.indiatimes.com/india/as-jantar-mantar-loses-protest-site-tag-cjp-plans-get-disrupted/articleshow/134905123.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "The Cockroach Janta Party recently approached the Delhi Police to organize a protest addressing issues with the electoral roll. In a surprising move, the police removed Jantar Mantar from the list of protest sites, leadi",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Display rates of healthcare services prominently, Centre tells States",
-        "link": "https://www.thehindu.com/news/national/display-rates-of-healthcare-services-prominently-centre-tells-states/article71574327.ece",
+        "title": "ECI\u2019s credibility\u00a0under\u00a0question: Former CEC Ashok Lavasa",
+        "link": "https://www.thehindu.com/news/national/ecis-credibilityunderquestion-former-cec-ashok-lavasa/article71580066.ece",
         "source": "The Hindu",
-        "time_ago": "39m ago",
-        "summary": "Clearly visible display will enable patients to take informed decisions, build trust, prevent billing-related disputes; Health Ministry also urges clinical establishments to display package rates for international patien",
+        "time_ago": "1h ago",
+        "summary": "Former CEC flags unprecedented voter anxiety over SIR, says institutional response to voting rights has been deeply upsetting",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Opposition's plea in SC: INDIA bloc challenges SIR process but not its validity",
+        "link": "https://timesofindia.indiatimes.com/india/india-bloc-challenges-sir-process-but-not-its-validity/articleshow/134929176.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
@@ -143,36 +74,106 @@
     ],
     "world": [
       {
-        "title": "\u2018Unprecedented\u2019 cyberattack hits French supermarkets, causing food losses",
-        "link": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "30m ago",
-        "summary": "Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in 'large-scale' cyberattack.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-        "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+        "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "time_ago": "1h ago",
-        "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+        "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Iran war live: Trump says Houthis \u2018misbehaving\u2019 as Riyadh flights halted",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+        "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur\u2019s 1996 murder",
+        "link": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "US President Trump condemns Yemen's Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
+        "time_ago": "1h ago",
+        "summary": "A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
+        ]
+      },
+      {
+        "title": "OpenAI engineer charged after listening device found in meeting room",
+        "link": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Russia was not ready for the data center war it started with Ukraine",
+        "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Russian bloggers warn Russia\u2019s hyper-centralized digital economy is vulnerable.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+        "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Disney offers $20M for Character.AI\u2019s scandal-plagued chatbot tech",
+        "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+        "source": "Ars Technica",
+        "time_ago": "6h ago",
+        "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+        "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company\u2019s super intelligence technology.\"",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Apple\u2019s first smart display is the 7-inch HomeView for $299",
+        "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+        "source": "Ars Technica",
+        "time_ago": "9h ago",
+        "summary": "It can recognize up to six users with its camera.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Rivian\u2019s startup Mind Robotics hires former Ford EV chief Doug Field",
+        "link": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ]
