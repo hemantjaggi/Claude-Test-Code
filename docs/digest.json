@@ -1,121 +1,127 @@
 {
-  "generated_at": "2026-10-14T01:20:27.977807+00:00",
+  "generated_at": "2026-10-15T00:45:24.731281+00:00",
   "categories": {
-    "sports": [
+    "world": [
       {
-        "title": "Lisandro Martinez just said what every Man United fan is thinking after embarrassing UCL loss at Atletico",
-        "link": "https://www.cbssports.com/soccer/news/lisandro-martinez-man-united-loss-atletico-reaction-champions-league-2026/",
-        "source": "CBS Sports",
+        "title": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
+        "link": "https://www.aljazeera.com/sports/2026/10/14/infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "Gianni Infantino faces FIFA rebels after failed World Cup sale, while members to be offered $6.35bn development fund.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+        "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+        "source": "Al Jazeera",
         "time_ago": "2h ago",
-        "summary": "United lost 2-0 at Atletico Madrid on Tuesday, and their Argentine defender did not hold back as their horrible start to the season continues",
+        "summary": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "Al Jazeera"
         ]
       },
       {
-        "title": "Could Man City lose 2023 UCL crown as they await appeal and potential PL punishments? Here's why it's unlikely",
-        "link": "https://www.cbssports.com/soccer/news/could-man-city-lose-2023-champions-league-crown-pl-punishments/",
-        "source": "CBS Sports",
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+        "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
         "time_ago": "3h ago",
-        "summary": "The Citizens will play their first home game since the charges as potentially massive punishments could come their way",
+        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "NFL trade deadline buyers and sellers: Cowboys looking to add, possible Chargers fire sale?",
-        "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-buyers-sellers-cowboys-bucs-chargers/",
-        "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "These are the teams and names to monitor as trade season heats up in the weeks to come",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
+          "BBC"
         ]
       }
     ],
     "india": [
       {
-        "title": "BJP Launches Statewide Protests Against Rahul Gandhi, Congress",
-        "link": "https://www.ndtv.com/india-news/bjp-launches-statewide-protests-against-rahul-gandhi-congress-12181704#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "2h ago",
-        "summary": "The rally drew a large number of young men and women and was attended by Assam Cabinet Minister and Nalbari MLA Jayanta Malla Baruah, Assam BJP president Dilip Saikia, state BJP organising secretary Ravindra Raju and oth",
-        "covered_by": [
-          "NDTV",
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "ECI\u2019s credibility\u00a0under\u00a0question: Former CEC Ashok Lavasa",
-        "link": "https://www.thehindu.com/news/national/ecis-credibilityunderquestion-former-cec-ashok-lavasa/article71580066.ece",
-        "source": "The Hindu",
-        "time_ago": "1h ago",
-        "summary": "Former CEC flags unprecedented voter anxiety over SIR, says institutional response to voting rights has been deeply upsetting",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Opposition's plea in SC: INDIA bloc challenges SIR process but not its validity",
-        "link": "https://timesofindia.indiatimes.com/india/india-bloc-challenges-sir-process-but-not-its-validity/articleshow/134929176.cms",
+        "title": "Mumbai ATC software glitch behind Air India false hijack scare? Probe on",
+        "link": "https://timesofindia.indiatimes.com/india/atc-software-glitch-behind-ai-false-hijack-scare-probe-on/articleshow/134950766.cms",
         "source": "Times of India",
-        "time_ago": "2h ago",
+        "time_ago": "5h ago",
         "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
+      },
+      {
+        "title": "BJP to take SIR counter-offensive to masses before polls",
+        "link": "https://timesofindia.indiatimes.com/india/bjp-to-take-sir-counter-offensive-to-masses-before-polls/articleshow/134954757.cms",
+        "source": "Times of India",
+        "time_ago": "25m ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Delhi Police detains Ankita Bhandari's parents, oppn leaders from India Gate",
+        "link": "https://timesofindia.indiatimes.com/india/delhi-police-detains-ankita-bhandaris-parents-oppn-leaders-from-india-gate/articleshow/134954780.cms",
+        "source": "Times of India",
+        "time_ago": "17m ago",
+        "summary": "",
+        "covered_by": [
+          "Times of India"
+        ]
       }
     ],
-    "world": [
+    "sports": [
       {
-        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+        "title": "No place like Rome: Jose Mourinho showered with love, gets UCL comeback win for Real Madrid and the last laugh",
+        "link": "https://www.cbssports.com/soccer/news/no-place-like-rome-jose-mourinho-champions-league-2026/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "The Portuguese boss faced off with his former employers and broke hearts with a wild comeback win",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur\u2019s 1996 murder",
-        "link": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.",
+        "title": "Brewers vs. Dodgers NLCS Game 3 picks: L.A. looks to Blake Snell, struggling Shohei Ohtani won't sit out",
+        "link": "https://www.cbssports.com/betting/news/brewers-vs-dodgers-nlcs-game-3-picks-l-a-looks-to-blake-snell-struggling-shohei-ohtani-wont-sit-out/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "The Dodgers face an almost must-win home game as they're in a 2-0 hole vs. the Brewers in the NLCS",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "CBS Sports"
         ]
       },
       {
-        "title": "OpenAI engineer charged after listening device found in meeting room",
-        "link": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.",
+        "title": "Week 6 NFL picks, best bets from proven model: This 5-leg parlay returns more than 25-1",
+        "link": "https://www.cbssports.com/betting/news/nfl-parlay-picks-predictions-best-bets-today-week-6-2026/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "After 10,000 simulations, SportsLine's model reveals its top Week 6 NFL parlay",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "CBS Sports"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Russia was not ready for the data center war it started with Ukraine",
-        "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+        "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+        "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
         "source": "Ars Technica",
         "time_ago": "1d ago",
-        "summary": "Russian bloggers warn Russia\u2019s hyper-centralized digital economy is vulnerable.",
+        "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
         "covered_by": [
           "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+        "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+        "covered_by": [
+          "TechCrunch",
           "The Verge"
         ]
       },
@@ -123,57 +129,43 @@
         "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
         "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
+        "time_ago": "1d ago",
         "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Disney offers $20M for Character.AI\u2019s scandal-plagued chatbot tech",
-        "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-        "source": "Ars Technica",
-        "time_ago": "6h ago",
-        "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
     "tech": [
       {
-        "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-        "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company\u2019s super intelligence technology.\"",
+        "title": "The best feature of Apple\u2019s HomeView might be its simplicity",
+        "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+        "source": "The Verge",
+        "time_ago": "",
+        "summary": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart d",
         "covered_by": [
-          "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Apple\u2019s first smart display is the 7-inch HomeView for $299",
-        "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+        "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+        "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
         "source": "Ars Technica",
-        "time_ago": "9h ago",
-        "summary": "It can recognize up to six users with its camera.",
+        "time_ago": "8h ago",
+        "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
         "covered_by": [
-          "Ars Technica",
-          "The Verge"
+          "Ars Technica"
         ]
       },
       {
-        "title": "Rivian\u2019s startup Mind Robotics hires former Ford EV chief Doug Field",
-        "link": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+        "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+        "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
         "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
+        "time_ago": "5h ago",
+        "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       }
     ]
