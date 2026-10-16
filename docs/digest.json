@@ -1,171 +1,172 @@
 {
-  "generated_at": "2026-10-15T00:45:24.731281+00:00",
+  "generated_at": "2026-10-16T00:38:05.003088+00:00",
   "categories": {
     "world": [
       {
-        "title": "Infantino faces FIFA rebels in Zurich after failed World Cup stake sale",
-        "link": "https://www.aljazeera.com/sports/2026/10/14/infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale?traffic_source=rss",
+        "title": "ICE tactics spark debate before pivotal US midterm elections",
+        "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "Gianni Infantino faces FIFA rebels after failed World Cup sale, while members to be offered $6.35bn development fund.",
+        "time_ago": "3h ago",
+        "summary": "Polls have found that Trump's hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
+        "covered_by": [
+          "Al Jazeera",
+          "CNN"
+        ]
+      },
+      {
+        "title": "Iran war live: Saudi blasts Houthi \u2018war crimes\u2019; US warns on Saudi airports",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "35m ago",
+        "summary": "Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns of possible attacks on Saudi airports.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
-        "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+        "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
+        "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.",
+        "time_ago": "1h ago",
+        "summary": "Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.",
         "covered_by": [
-          "Al Jazeera"
-        ]
-      },
-      {
-        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-        "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "3h ago",
-        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-        "covered_by": [
+          "Al Jazeera",
           "BBC"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Mumbai ATC software glitch behind Air India false hijack scare? Probe on",
-        "link": "https://timesofindia.indiatimes.com/india/atc-software-glitch-behind-ai-false-hijack-scare-probe-on/articleshow/134950766.cms",
-        "source": "Times of India",
-        "time_ago": "5h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "BJP to take SIR counter-offensive to masses before polls",
-        "link": "https://timesofindia.indiatimes.com/india/bjp-to-take-sir-counter-offensive-to-masses-before-polls/articleshow/134954757.cms",
-        "source": "Times of India",
-        "time_ago": "25m ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Delhi Police detains Ankita Bhandari's parents, oppn leaders from India Gate",
-        "link": "https://timesofindia.indiatimes.com/india/delhi-police-detains-ankita-bhandaris-parents-oppn-leaders-from-india-gate/articleshow/134954780.cms",
-        "source": "Times of India",
-        "time_ago": "17m ago",
-        "summary": "",
-        "covered_by": [
-          "Times of India"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "No place like Rome: Jose Mourinho showered with love, gets UCL comeback win for Real Madrid and the last laugh",
-        "link": "https://www.cbssports.com/soccer/news/no-place-like-rome-jose-mourinho-champions-league-2026/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "The Portuguese boss faced off with his former employers and broke hearts with a wild comeback win",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Brewers vs. Dodgers NLCS Game 3 picks: L.A. looks to Blake Snell, struggling Shohei Ohtani won't sit out",
-        "link": "https://www.cbssports.com/betting/news/brewers-vs-dodgers-nlcs-game-3-picks-l-a-looks-to-blake-snell-struggling-shohei-ohtani-wont-sit-out/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "The Dodgers face an almost must-win home game as they're in a 2-0 hole vs. the Brewers in the NLCS",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Week 6 NFL picks, best bets from proven model: This 5-leg parlay returns more than 25-1",
-        "link": "https://www.cbssports.com/betting/news/nfl-parlay-picks-predictions-best-bets-today-week-6-2026/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "After 10,000 simulations, SportsLine's model reveals its top Week 6 NFL parlay",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-        "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-        "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-        "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-        "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
         ]
       }
     ],
     "tech": [
       {
-        "title": "The best feature of Apple\u2019s HomeView might be its simplicity",
-        "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
-        "source": "The Verge",
-        "time_ago": "",
-        "summary": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart d",
+        "title": "Meta launches an open-weight AI model that runs on Macs",
+        "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
         "covered_by": [
+          "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-        "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-        "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+        "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+        "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
         "covered_by": [
-          "Ars Technica"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Hiyd is a health tracker that attaches to the watch you already wear",
-        "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+        "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+        "time_ago": "3h ago",
+        "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
         "covered_by": [
           "TechCrunch"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Meta launches an open-weight AI model that runs on Macs",
+        "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+        "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "METR will publish its own assessments of Anthropic\u2019s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Use BetMGM bonus code CBSSPORTS to land $1,500 bonus bets for Broncos vs. Seahawks on Thursday Night Football",
+        "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-land-1500-bonus-bets-for-broncos-vs-seahawks-thursday-night-football/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Broncos vs. Seahawks on Thursday Night Football",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Independent regulator waiting for Man City appeal",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cmze418n8ke9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2d ago",
+        "summary": "David Kogan, chair of football's independent regulator, says the body has to \"go on the evidence\" before making any decision in the case against Manchester City.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Martinez apologises for outburst and fined by Man Utd",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "6h ago",
+        "summary": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "\"Rahul Gandhi Thinks Mobocracy Is The Way\": Smriti Irani To NDTV",
+        "link": "https://www.ndtv.com/india-news/rahul-gandhi-thinks-mobocracy-is-the-way-smriti-irani-to-ndtv-12192153#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "5h ago",
+        "summary": "\"Who ensures a vibrant democracy in our country? The Election Commission of India. Who does Rahul Gandhi incessantly attack? The Election Commission of India,\" she said.",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Central teams continue visits to drought-hit areas",
+        "link": "https://www.thehindu.com/news/national/karnataka/central-teams-continue-visits-to-drought-hit-areas/article71544446.ece",
+        "source": "The Hindu",
+        "time_ago": "13m ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu"
+        ]
+      },
+      {
+        "title": "Youth held for allegedly raping transwoman in Kochi",
+        "link": "https://www.thehindu.com/news/national/kerala/youth-held-for-allegedly-raping-transwoman-in-kochi/article71544635.ece",
+        "source": "The Hindu",
+        "time_ago": "18m ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu"
         ]
       }
     ]
