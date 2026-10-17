@@ -1,170 +1,175 @@
 {
-  "generated_at": "2026-10-16T00:38:05.003088+00:00",
+  "generated_at": "2026-10-17T00:42:00.858895+00:00",
   "categories": {
-    "world": [
-      {
-        "title": "ICE tactics spark debate before pivotal US midterm elections",
-        "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Polls have found that Trump's hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
-        "covered_by": [
-          "Al Jazeera",
-          "CNN"
-        ]
-      },
-      {
-        "title": "Iran war live: Saudi blasts Houthi \u2018war crimes\u2019; US warns on Saudi airports",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "35m ago",
-        "summary": "Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns of possible attacks on Saudi airports.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-        "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Meta launches an open-weight AI model that runs on Macs",
-        "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-        "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
     "ai": [
+      {
+        "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+        "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+        "source": "Ars Technica",
+        "time_ago": "9h ago",
+        "summary": "Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+        "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, an",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
       {
         "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
         "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
+        "time_ago": "1d ago",
         "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+        "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+        "source": "Ars Technica",
+        "time_ago": "10h ago",
+        "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
       },
       {
-        "title": "Meta launches an open-weight AI model that runs on Macs",
-        "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+        "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+        "time_ago": "8h ago",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, an",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-        "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "METR will publish its own assessments of Anthropic\u2019s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+        "title": "Apple\u2019s updated App Store rules go after \u2018nudify\u2019 AI apps",
+        "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "source": "The Verge",
+        "time_ago": "",
+        "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X use",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "The Verge"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Use BetMGM bonus code CBSSPORTS to land $1,500 bonus bets for Broncos vs. Seahawks on Thursday Night Football",
-        "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-land-1500-bonus-bets-for-broncos-vs-seahawks-thursday-night-football/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Broncos vs. Seahawks on Thursday Night Football",
+        "title": "Dubois and Wardley at career-heaviest for rematch",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/cm4g1e65y3d0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "5h ago",
+        "summary": "Britons Daniel Dubois and Fabio Wardley both weigh in at their career-heaviest for Saturday's heavyweight world-title rematch in London.",
         "covered_by": [
+          "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Independent regulator waiting for Man City appeal",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cmze418n8ke9o?at_medium=RSS&at_campaign=rss",
+        "title": "Do Manchester City have any grounds to win their appeal?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "2d ago",
-        "summary": "David Kogan, chair of football's independent regulator, says the body has to \"go on the evidence\" before making any decision in the case against Manchester City.",
+        "time_ago": "8h ago",
+        "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport",
         "covered_by": [
           "BBC Sport"
         ]
       },
       {
-        "title": "Martinez apologises for outburst and fined by Man Utd",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "6h ago",
-        "summary": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy.",
+        "title": "Purdue vs. Washington betting: Odds, preview, picks, kickoff time for Week 7 college football on Friday",
+        "link": "https://www.cbssports.com/betting/news/purdue-vs-washington-betting-odds-preview-picks-kickoff-time-for-week-7-college-football-on-friday/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "The Big Ten returns to action Friday with the Boilermakers hosting the Huskies, and here's what bettors need to know about the game",
         "covered_by": [
-          "BBC Sport"
+          "CBS Sports"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+        "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC",
+          "CNN"
+        ]
+      },
+      {
+        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "47m ago",
+        "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Albanian PM blames \u2018foreign hands\u2019 for unrest as student protests intensify",
+        "link": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "india": [
       {
-        "title": "\"Rahul Gandhi Thinks Mobocracy Is The Way\": Smriti Irani To NDTV",
-        "link": "https://www.ndtv.com/india-news/rahul-gandhi-thinks-mobocracy-is-the-way-smriti-irani-to-ndtv-12192153#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "5h ago",
-        "summary": "\"Who ensures a vibrant democracy in our country? The Election Commission of India. Who does Rahul Gandhi incessantly attack? The Election Commission of India,\" she said.",
+        "title": "Zam-2.0: North Korea tests high-speed AI-guided torpedo; what we know",
+        "link": "https://timesofindia.indiatimes.com/defence/international/north-korea-tests-high-speed-ai-guided-torpedo-what-we-know/articleshow/135005352.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "",
         "covered_by": [
           "NDTV",
           "Times of India"
         ]
       },
       {
-        "title": "Central teams continue visits to drought-hit areas",
-        "link": "https://www.thehindu.com/news/national/karnataka/central-teams-continue-visits-to-drought-hit-areas/article71544446.ece",
-        "source": "The Hindu",
-        "time_ago": "13m ago",
-        "summary": "",
+        "title": "Trump Fires Press Secretary Katie Zacharia After  5 Days On The Job: Report",
+        "link": "https://www.ndtv.com/world-news/trump-fires-press-secretary-katie-zacharia-after-5-days-on-the-job-report-12196998#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "5h ago",
+        "summary": "Trump told reporters that he had asked Zacharia to \"reconsider\" the job. He said that he told Zacharia that she did not have to do this job and that if he were her, he would reconsider the position.",
         "covered_by": [
-          "The Hindu"
+          "NDTV",
+          "Times of India"
         ]
       },
       {
-        "title": "Youth held for allegedly raping transwoman in Kochi",
-        "link": "https://www.thehindu.com/news/national/kerala/youth-held-for-allegedly-raping-transwoman-in-kochi/article71544635.ece",
+        "title": "Andhra Cabinet adopts resolution hailing Prime Minister Narendra Modi\u2019s 25 years in public service",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-cabinet-adopts-resolution-hailing-prime-minister-narendra-modis-25-years-in-public-service/article71555227.ece",
         "source": "The Hindu",
-        "time_ago": "18m ago",
-        "summary": "",
+        "time_ago": "49m ago",
+        "summary": "It lauds the Prime Minister\u2019s efforts to make the country proud at the global level; Chief Minister Chandrababu Naidu terms it as a remarkable milestone",
         "covered_by": [
           "The Hindu"
         ]
