@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-10-17T00:42:00.858895+00:00",
+  "generated_at": "2026-10-18T00:11:39.362328+00:00",
   "categories": {
+    "india": [
+      {
+        "title": "Man held on charge of cheating women through matrimonial sites",
+        "link": "https://www.thehindu.com/news/national/kerala/man-held-on-charge-of-cheating-women-through-matrimonial-sites/article71587765.ece",
+        "source": "The Hindu",
+        "time_ago": "34m ago",
+        "summary": "He was arrested following a complaint by a schoolteacher from Kodiyathur, who alleged that he cheated her of \u20b94.85 lakh",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Congress questions MEA\u2019s silence on proposed Rubio-Jaishankar meeting",
+        "link": "https://www.thehindu.com/news/national/congress-questions-meas-silence-on-proposed-rubio-jaishankar-meeting/article71588279.ece",
+        "source": "The Hindu",
+        "time_ago": "39m ago",
+        "summary": "The Opposition party\u2019s dig at the government follows remarks by U.S. Ambassador to India Sergio Gor during an interactive session at the Bloomberg New Economy Forum",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice",
+        "link": "https://www.ndtv.com/india-news/imran-khans-curiosity-counter-to-leave-india-notice-for-being-at-mumbai-protest-against-election-fraud-12199865#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "5h ago",
+        "summary": "Actor Imran Khan's central argument is that an OCI cardholder is \"not an ordinary foreigner\" and that his status cannot be curtailed without a reasonable opportunity of being heard.",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "How day of protests unfolded as disorder breaks out across France",
+        "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "4h ago",
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Pope Leo returns to Vatican after lung cancer surgery",
+        "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "6h ago",
+        "summary": "Doctors say they are seeing 'continued improvement' after the US-born pope had a lump removed from his lung on Tuesday.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
     "ai": [
       {
-        "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-        "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-        "source": "Ars Technica",
-        "time_ago": "9h ago",
-        "summary": "Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab.",
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -15,163 +85,95 @@
         ]
       },
       {
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
         "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
         "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
+        "time_ago": "1d ago",
         "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, an",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
       },
       {
-        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
         "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+        "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+        "source": "Ars Technica",
         "time_ago": "1d ago",
-        "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+        "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       }
     ],
-    "tech": [
-      {
-        "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
-        "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
-        "source": "Ars Technica",
-        "time_ago": "10h ago",
-        "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-        "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, an",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple\u2019s updated App Store rules go after \u2018nudify\u2019 AI apps",
-        "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-        "source": "The Verge",
-        "time_ago": "",
-        "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X use",
-        "covered_by": [
-          "The Verge"
-        ]
-      }
-    ],
     "sports": [
       {
-        "title": "Dubois and Wardley at career-heaviest for rematch",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/cm4g1e65y3d0o?at_medium=RSS&at_campaign=rss",
+        "title": "Dubois destroys Wardley in two rounds to retain title",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "5h ago",
-        "summary": "Britons Daniel Dubois and Fabio Wardley both weigh in at their career-heaviest for Saturday's heavyweight world-title rematch in London.",
+        "time_ago": "1h ago",
+        "summary": "WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Do Manchester City have any grounds to win their appeal?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "8h ago",
-        "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Purdue vs. Washington betting: Odds, preview, picks, kickoff time for Week 7 college football on Friday",
-        "link": "https://www.cbssports.com/betting/news/purdue-vs-washington-betting-odds-preview-picks-kickoff-time-for-week-7-college-football-on-friday/",
+        "title": "How good can Barcelona be? After an 11th straight win to start the season, is something historic brewing?",
+        "link": "https://www.cbssports.com/soccer/news/barcelona-11th-straight-season-historic/",
         "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "The Big Ten returns to action Friday with the Boilermakers hosting the Huskies, and here's what bettors need to know about the game",
+        "time_ago": "3h ago",
+        "summary": "With 39 goals in nine league games and Lamine Yamal ascending to another level, Hansi Flick's squad has built an unstoppable juggernaut",
         "covered_by": [
+          "BBC Sport",
           "CBS Sports"
         ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-        "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC",
-          "CNN"
-        ]
       },
       {
-        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "47m ago",
-        "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+        "title": "Tonga stun England in World Cup opener",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cm70prd68l5jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "6h ago",
+        "summary": "Tonga put England's Rugby League World Cup campaign under jeopardy by beating them in their opening match at HBF Park.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Albanian PM blames \u2018foreign hands\u2019 for unrest as student protests intensify",
-        "link": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Zam-2.0: North Korea tests high-speed AI-guided torpedo; what we know",
-        "link": "https://timesofindia.indiatimes.com/defence/international/north-korea-tests-high-speed-ai-guided-torpedo-what-we-know/articleshow/135005352.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Trump Fires Press Secretary Katie Zacharia After  5 Days On The Job: Report",
-        "link": "https://www.ndtv.com/world-news/trump-fires-press-secretary-katie-zacharia-after-5-days-on-the-job-report-12196998#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "5h ago",
-        "summary": "Trump told reporters that he had asked Zacharia to \"reconsider\" the job. He said that he told Zacharia that she did not have to do this job and that if he were her, he would reconsider the position.",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Andhra Cabinet adopts resolution hailing Prime Minister Narendra Modi\u2019s 25 years in public service",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-cabinet-adopts-resolution-hailing-prime-minister-narendra-modis-25-years-in-public-service/article71555227.ece",
-        "source": "The Hindu",
-        "time_ago": "49m ago",
-        "summary": "It lauds the Prime Minister\u2019s efforts to make the country proud at the global level; Chief Minister Chandrababu Naidu terms it as a remarkable milestone",
-        "covered_by": [
-          "The Hindu"
+          "BBC Sport"
         ]
       }
     ]
