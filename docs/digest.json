@@ -1,70 +1,35 @@
 {
-  "generated_at": "2026-10-18T00:11:39.362328+00:00",
+  "generated_at": "2026-10-19T00:23:17.926927+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "Man held on charge of cheating women through matrimonial sites",
-        "link": "https://www.thehindu.com/news/national/kerala/man-held-on-charge-of-cheating-women-through-matrimonial-sites/article71587765.ece",
-        "source": "The Hindu",
-        "time_ago": "34m ago",
-        "summary": "He was arrested following a complaint by a schoolteacher from Kodiyathur, who alleged that he cheated her of \u20b94.85 lakh",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Congress questions MEA\u2019s silence on proposed Rubio-Jaishankar meeting",
-        "link": "https://www.thehindu.com/news/national/congress-questions-meas-silence-on-proposed-rubio-jaishankar-meeting/article71588279.ece",
-        "source": "The Hindu",
-        "time_ago": "39m ago",
-        "summary": "The Opposition party\u2019s dig at the government follows remarks by U.S. Ambassador to India Sergio Gor during an interactive session at the Bloomberg New Economy Forum",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice",
-        "link": "https://www.ndtv.com/india-news/imran-khans-curiosity-counter-to-leave-india-notice-for-being-at-mumbai-protest-against-election-fraud-12199865#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "5h ago",
-        "summary": "Actor Imran Khan's central argument is that an OCI cardholder is \"not an ordinary foreigner\" and that his status cannot be curtailed without a reasonable opportunity of being heard.",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      }
-    ],
     "world": [
       {
-        "title": "How day of protests unfolded as disorder breaks out across France",
-        "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "4h ago",
-        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Pope Leo returns to Vatican after lung cancer surgery",
-        "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
+        "title": "Macron condemns violence after riots lead to looting and mass arrests",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "Doctors say they are seeing 'continued improvement' after the US-born pope had a lump removed from his lung on Tuesday.",
+        "time_ago": "3h ago",
+        "summary": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "covered_by": [
+          "BBC",
+          "CNN"
+        ]
+      },
+      {
+        "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "7h ago",
+        "summary": "Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -76,7 +41,7 @@
         "title": "Meta removes language that raised scraping and AI training concerns",
         "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
         "source": "TechCrunch",
-        "time_ago": "2h ago",
+        "time_ago": "1d ago",
         "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
         "covered_by": [
           "Ars Technica",
@@ -85,11 +50,11 @@
         ]
       },
       {
-        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-        "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+        "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+        "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
         "source": "TechCrunch",
         "time_ago": "3h ago",
-        "summary": "The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year.",
+        "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
@@ -99,7 +64,7 @@
         "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
         "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, an",
         "covered_by": [
           "TechCrunch",
@@ -112,19 +77,18 @@
         "title": "Meta removes language that raised scraping and AI training concerns",
         "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
         "source": "TechCrunch",
-        "time_ago": "2h ago",
+        "time_ago": "1d ago",
         "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       },
       {
         "title": "Replit makes OpenAI its default over Anthropic, CEO says",
         "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
+        "time_ago": "1d ago",
         "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
         "covered_by": [
           "Ars Technica",
@@ -132,46 +96,79 @@
         ]
       },
       {
-        "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
-        "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+        "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+        "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "source": "TechCrunch",
+        "time_ago": "2d ago",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, an",
         "covered_by": [
-          "Ars Technica",
           "TechCrunch"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Shinde meets Tiger Shroff after firing incident; pics show actor with bandages",
+        "link": "https://timesofindia.indiatimes.com/india/shinde-meets-tiger-shroff-after-firing-incident-pics-show-actor-with-bandages/articleshow/135036939.cms",
+        "source": "Times of India",
+        "time_ago": "57m ago",
+        "summary": "",
+        "covered_by": [
+          "NDTV",
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Delhi SIR: Public audit in two booths finds over 100 voters wrongly marked absent, shifted, or dead",
+        "link": "https://www.thehindu.com/news/cities/Delhi/delhi-sir-public-audit-in-two-booths-find-over-100-voters-wrongly-marked-absent-shifted-or-dead/article71600683.ece",
+        "source": "The Hindu",
+        "time_ago": "16m ago",
+        "summary": "Voters residing at the same address for multiple decades express anger that they were marked \u2018untraceable\u2019, \u2018absent\u2019, and permanently shifted, and their only option is to enrol afresh using Form 6",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Durga Puja 2026: All set for the beat of the dhak",
+        "link": "https://www.thehindu.com/society/history-and-culture/durga-puja-2026-stories-on-pandals-idols-food-festival/article71591166.ece",
+        "source": "The Hindu",
+        "time_ago": "26m ago",
+        "summary": "As India gears up for Durga Puja 2026, the air will once again thrum with the beat of the dhak. In this special package, we bring you stories from pandals across cities, meet the artisans shaping this year\u2019s idols, and t",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Dubois destroys Wardley in two rounds to retain title",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "How good can Barcelona be? After an 11th straight win to start the season, is something historic brewing?",
-        "link": "https://www.cbssports.com/soccer/news/barcelona-11th-straight-season-historic/",
+        "title": "Best Kalshi promo code CBSSPORTS55: Get $55 bonus for Cowboys vs. Packers, Sunday Night Football predictions",
+        "link": "https://www.cbssports.com/prediction/news/best-kalshi-promo-code-cbssports55-get-55-bonus-for-cowboys-packers-sunday-night-football-predictions/",
         "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "With 39 goals in nine league games and Lamine Yamal ascending to another level, Hansi Flick's squad has built an unstoppable juggernaut",
+        "time_ago": "34m ago",
+        "summary": "The best Kalshi promo code CBSSPORTS55 gives new users a $55 bonus, perfect for NFL predictions",
         "covered_by": [
-          "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Tonga stun England in World Cup opener",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cm70prd68l5jo?at_medium=RSS&at_campaign=rss",
+        "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "4h ago",
+        "summary": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
         "time_ago": "6h ago",
-        "summary": "Tonga put England's Rugby League World Cup campaign under jeopardy by beating them in their opening match at HBF Park.",
+        "summary": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
         "covered_by": [
           "BBC Sport"
         ]
