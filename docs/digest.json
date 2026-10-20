@@ -1,38 +1,142 @@
 {
-  "generated_at": "2026-10-19T00:23:17.926927+00:00",
+  "generated_at": "2026-10-20T01:09:58.395823+00:00",
   "categories": {
+    "india": [
+      {
+        "title": "Why students are on strike at 3 universities in Delhi",
+        "link": "https://timesofindia.indiatimes.com/city/delhi/escalating-unrest-at-delhi-univs-as-students-turn-to-hunger-strikes/articleshow/135054990.cms",
+        "source": "Times of India",
+        "time_ago": "6h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Kuki group announces shutdown of key Manipur highway after attacks on villages",
+        "link": "https://www.thehindu.com/news/national/manipur/kuki-group-announces-shutdown-of-key-manipur-highway-after-attacks-on-villages/article71600255.ece",
+        "source": "The Hindu",
+        "time_ago": "7h ago",
+        "summary": "State government transfers Superintendent of Police in charge of Kamjong district",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "'Paris is going to be a Muslim city very soon': Trump slams Macron as riots spiral",
+        "link": "https://timesofindia.indiatimes.com/world/us/paris-is-going-to-be-a-muslim-city-very-soon-trump-slams-macron-as-riots-spiral/articleshow/135056496.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      }
+    ],
     "world": [
       {
-        "title": "Macron condemns violence after riots lead to looting and mass arrests",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+        "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+        "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
         "source": "Al Jazeera",
         "time_ago": "3h ago",
-        "summary": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+        "summary": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-        "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "3h ago",
-        "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
-        "covered_by": [
-          "BBC",
-          "CNN"
-        ]
-      },
-      {
-        "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
+        "title": "Children among six killed in Russian drone strike on Ukraine park",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "7h ago",
-        "summary": "Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.",
+        "time_ago": "1h ago",
+        "summary": "Children among six killed in Russian drone strike on Ukraine park",
         "covered_by": [
           "Al Jazeera",
           "BBC"
+        ]
+      },
+      {
+        "title": "Exiled critic of Rwandan president found beheaded in Uganda",
+        "link": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Ugandan police say a male body has been found in a village near Kampala, and his head has yet to be located.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Best horse racing betting sites: Where to bet on 2026 horse racing",
+        "link": "https://www.cbssports.com/betting/news/horse-racing/",
+        "source": "CBS Sports",
+        "time_ago": "5h ago",
+        "summary": "Discover the best horse racing betting sites for 2026, plus how to bet on horse racing online, bet types, and expert tips.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "NFL betting promos, Commanders-49ers: Claim over $3,000 in bonuses from top online betting apps, sportsbooks",
+        "link": "https://www.cbssports.com/betting/news/nfl-betting-promos-commanders-49ers-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "Top Week 6 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "'Monday Night Football' prediction, odds, time: 49ers vs. Commanders picks by expert who's on 19-5 roll",
+        "link": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-spread-time-49ers-commanders-expert-picks-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Micah Roberts reveals his picks for Washington Commanders vs. San Francisco 49ers in the 2026 Week 6 'Monday Night Football' matchup with Mike Evans active",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+        "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+        "source": "TechCrunch",
+        "time_ago": "12h ago",
+        "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Musk pledges to give \u2018every kid in America\u2019 one of his SpaceX shares",
+        "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+        "source": "TechCrunch",
+        "time_ago": "12h ago",
+        "summary": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to s",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
@@ -41,7 +145,7 @@
         "title": "Meta removes language that raised scraping and AI training concerns",
         "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
         "covered_by": [
           "Ars Technica",
@@ -50,127 +154,25 @@
         ]
       },
       {
-        "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
-        "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+        "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+        "time_ago": "1h ago",
+        "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-        "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, an",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+        "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+        "source": "Ars Technica",
+        "time_ago": "10h ago",
+        "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
-        ]
-      },
-      {
-        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-        "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-        "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, an",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Shinde meets Tiger Shroff after firing incident; pics show actor with bandages",
-        "link": "https://timesofindia.indiatimes.com/india/shinde-meets-tiger-shroff-after-firing-incident-pics-show-actor-with-bandages/articleshow/135036939.cms",
-        "source": "Times of India",
-        "time_ago": "57m ago",
-        "summary": "",
-        "covered_by": [
-          "NDTV",
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Delhi SIR: Public audit in two booths finds over 100 voters wrongly marked absent, shifted, or dead",
-        "link": "https://www.thehindu.com/news/cities/Delhi/delhi-sir-public-audit-in-two-booths-find-over-100-voters-wrongly-marked-absent-shifted-or-dead/article71600683.ece",
-        "source": "The Hindu",
-        "time_ago": "16m ago",
-        "summary": "Voters residing at the same address for multiple decades express anger that they were marked \u2018untraceable\u2019, \u2018absent\u2019, and permanently shifted, and their only option is to enrol afresh using Form 6",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Durga Puja 2026: All set for the beat of the dhak",
-        "link": "https://www.thehindu.com/society/history-and-culture/durga-puja-2026-stories-on-pandals-idols-food-festival/article71591166.ece",
-        "source": "The Hindu",
-        "time_ago": "26m ago",
-        "summary": "As India gears up for Durga Puja 2026, the air will once again thrum with the beat of the dhak. In this special package, we bring you stories from pandals across cities, meet the artisans shaping this year\u2019s idols, and t",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Best Kalshi promo code CBSSPORTS55: Get $55 bonus for Cowboys vs. Packers, Sunday Night Football predictions",
-        "link": "https://www.cbssports.com/prediction/news/best-kalshi-promo-code-cbssports55-get-55-bonus-for-cowboys-packers-sunday-night-football-predictions/",
-        "source": "CBS Sports",
-        "time_ago": "34m ago",
-        "summary": "The best Kalshi promo code CBSSPORTS55 gives new users a $55 bonus, perfect for NFL predictions",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "4h ago",
-        "summary": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "6h ago",
-        "summary": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
-        "covered_by": [
-          "BBC Sport"
         ]
       }
     ]
