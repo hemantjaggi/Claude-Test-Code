@@ -1,177 +1,173 @@
 {
-  "generated_at": "2026-10-24T00:58:00.227795+00:00",
+  "generated_at": "2026-10-25T00:28:16.807060+00:00",
   "categories": {
     "india": [
       {
-        "title": "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
-        "link": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece",
-        "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "Organised by the Disha Students\u2019 Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Karnataka braces for 21,000 MW power demand in summer next year",
-        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-braces-for-21000-mw-power-demand-in-summer-next-year/article71612483.ece",
-        "source": "The Hindu",
-        "time_ago": "5h ago",
-        "summary": "According to Energy Department data, Karnataka\u2019s power demand peaked at 18,650 MW during the summer of 2025. It subsequently touched 20,000 MW in September 2026.",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Two critical PHP flaws trigger global alert; millions of services face cyber risk",
-        "link": "https://timesofindia.indiatimes.com/business/international-business/two-critical-php-flaws-trigger-global-alert-millions-of-services-face-cyber-risk/articleshow/135155574.cms",
+        "title": "\u2018Prioritise welfare over military directives\u2019: India raps Pak on minority rights",
+        "link": "https://timesofindia.indiatimes.com/india/prioritise-welfare-over-military-directives-india-raps-pak-on-minority-rights-at-un/articleshow/135180093.cms",
         "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "PHP advised users on Oct 23 to temporarily disable its session upload progress feature until the next regular bugfix release. The warning followed an earlier advisory on Oct 21 about a related vulnerability. The latest i",
+        "time_ago": "25m ago",
+        "summary": "Speaking at an interactive dialogue with the Special Rapporteur on Minority Issues at the UN General Assembly's Third Committee, India's First Secretary at the Permanent Mission to the UN, Raghoo Puri, called out Pakista",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
-      }
-    ],
-    "ai": [
+      },
       {
-        "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-        "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+        "title": "Christian families in West Bengal get police protection after alleged attacks to renounce religion",
+        "link": "https://www.thehindu.com/news/national/west-bengal/christian-families-in-west-bengal-get-police-protection-after-alleged-attacks-to-renounce-religion/article71620988.ece",
+        "source": "The Hindu",
+        "time_ago": "7h ago",
+        "summary": "An FIR was registered at the Chandrakona police station based on a complainant which accused 13 persons connected with the Bajrang Dal of attacking Christian families and pressured them to return to Hinduism",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "title": "Police showcase weapons, security measures at Open House for students",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-showcase-weapons-security-measures-at-open-house-for-students/article71620580.ece",
+        "source": "The Hindu",
+        "time_ago": "7h ago",
+        "summary": "",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-        "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-        "source": "Ars Technica",
-        "time_ago": "4h ago",
-        "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-        "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-        "source": "Ars Technica",
-        "time_ago": "4h ago",
-        "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-        "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "President Trump says it was First Lady Melania Trump\u2019s initiative that led to a ceasefire in Oleshky.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-        "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1d ago",
-        "summary": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
-        "covered_by": [
-          "BBC",
-          "CNN"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Tyrrell Hatton, Ian Poulter among latest group of players to announce departure from LIV Golf 2.0",
-        "link": "https://www.cbssports.com/golf/news/liv-golf-2-departures-tyrrell-hatton-ian-poulter/",
-        "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "The deadline for players to commit to LIV Golf 2.0 is Oct. 25",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "World Series 2026 odds, picks, prediction: Fall Classic preview for Brewers vs. Rays series beginning Friday",
-        "link": "https://www.cbssports.com/betting/news/world-series-2026-odds-picks-prediction-fall-classic-preview-for-brewers-vs-rays-series-beginning-friday/",
-        "source": "CBS Sports",
+        "title": "How 'special talent' Jackson inspired Villa to victory over Man City",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cmzxj1r8j7p2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
         "time_ago": "1h ago",
-        "summary": "The Milwaukee Brewers face the Tampa Bay Rays in the 2026 World Series and here's everything bettors need to know",
+        "summary": "Match of the Day pundits Martin Keown and Steph Houghton look at the impact Aston Villa forward Nicolas Jackson had with his two goals in their 2-1 victory over Manchester City, with Keown describing him as a \"special ta",
         "covered_by": [
-          "CBS Sports"
+          "BBC Sport"
         ]
       },
       {
-        "title": "NC State vs. Stanford prediction, odds: Week 8 college football Friday picks by proven model",
-        "link": "https://www.cbssports.com/betting/news/nc-state-stanford-prediction-odds-week-8-college-football-friday-picks-best-bets/",
-        "source": "CBS Sports",
-        "time_ago": "56m ago",
-        "summary": "SportsLine's model revealed its best bets for Friday's ACC matchup of the NC State Wolfpack vs. Stanford Cardinal",
+        "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "3h ago",
+        "summary": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
         "covered_by": [
-          "CBS Sports"
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "England thrashed 78-0 in World Cup defeat by Australia",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cwg7xvlnx7g4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "7h ago",
+        "summary": "Australia score 15 tries as they thrash England 78-0 at the 2026 Women's Rugby League World Cup in Perth.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "28m ago",
+        "summary": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump says he may move White House press corps to new location",
+        "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "7h ago",
+        "summary": "Trump\u2019s remarks come amid a fractious moment between the US president and the journalists who cover him.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "What to expect from Apple\u2019s \u2018Pro and tell\u2019 event",
+        "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+        "source": "The Verge",
+        "time_ago": "",
+        "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it look",
+        "covered_by": [
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Starlink seems to be working normally again in Ukraine",
+        "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+        "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+        "source": "Ars Technica",
+        "time_ago": "4d ago",
+        "summary": "Meta changes AI scraping policy but won\u2019t add language respecting robots.txt.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Block\u2019s new voice model sounds eerily human",
+        "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ]
