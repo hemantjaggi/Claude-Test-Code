@@ -1,33 +1,139 @@
 {
-  "generated_at": "2026-10-26T00:35:55.588961+00:00",
+  "generated_at": "2026-10-27T01:35:01.687154+00:00",
   "categories": {
+    "ai": [
+      {
+        "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u2018significant risks\u2019",
+        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "source": "TechCrunch",
+        "time_ago": "3d ago",
+        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+        "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+        "source": "Ars Technica",
+        "time_ago": "3d ago",
+        "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
+        "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Microsoft offers to buy out a quarter of its workforce",
+        "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+        "source": "Ars Technica",
+        "time_ago": "2h ago",
+        "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+        "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+        "source": "Ars Technica",
+        "time_ago": "6h ago",
+        "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Bolsonaro says police demand passports after Brazil election defeat",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Serbia\u2019s \u2018students\u2019 celebrate for a second night after election victory",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "28m ago",
+        "summary": "Thousands gathered on the streets of Belgrade for a second night to celebrate the student-led movement's victory.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Former FBI director James Comey hit with third set of charges under Trump",
+        "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
     "india": [
       {
-        "title": "BJP to hold nationwide protest on October 26 against Kharge\u2019s remark on Modi",
-        "link": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
+        "title": "CEC can be removed only like a Supreme Court judge, ECI tells top court",
+        "link": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece",
         "source": "The Hindu",
-        "time_ago": "3h ago",
-        "summary": "Mr. Kharge\u2019s remarks at a Patna event on Sunday, October 25, in which he dragged Prime Minister Narendra Modi\u2019s late father, triggered a sharp reaction from senior BJP leaders",
+        "time_ago": "17m ago",
+        "summary": "A common affidavit filed for the EC, CEC Kumar and Election Commissioners Sandhu and Joshi say that any attempt to restrain the CEC\u2019s functioning is contrary to the 2023 Act; asserts that Form 6 was not amended; West Ben",
         "covered_by": [
-          "NDTV",
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Jamia student protest intensifies amid restrictions, heavy police deployment",
-        "link": "https://www.thehindu.com/news/cities/Delhi/jamia-students-climb-gates-join-protest-amid-heavy-police-deployment/article71623802.ece",
-        "source": "The Hindu",
+        "title": "BJP targets Congress, set to ramp up campaign against opposition",
+        "link": "https://timesofindia.indiatimes.com/india/bjp-targets-congress-set-to-ramp-up-campaign-against-opposition/articleshow/135219441.cms",
+        "source": "Times of India",
         "time_ago": "4h ago",
-        "summary": "With classes suspended, water facilities on the campus were cut off and no entry or exit was allowed",
+        "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Nobel laureate, Venezuela opposition leader Machado returns after exile",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms",
+        "title": "'Looked so corrupt\u2019: Trump questions Brazil election after Lula defeats his ally",
+        "link": "https://timesofindia.indiatimes.com/world/us/looked-so-corrupt-trump-questions-brazil-election-after-lula-defeats-his-ally/articleshow/135219425.cms",
         "source": "Times of India",
         "time_ago": "4h ago",
         "summary": "",
@@ -39,139 +145,34 @@
     ],
     "sports": [
       {
-        "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "28m ago",
-        "summary": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+        "title": "NFL trade deadline matchmaker: Vikings add Jonathan Taylor to boost offense, Chiefs nab WR",
+        "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-matchmaker-vikings-jonathan-taylor-chiefs/",
+        "source": "CBS Sports",
+        "time_ago": "6h ago",
+        "summary": "Moves for several contenders who could look to buy",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Chiefs vs. Seahawks picks, prediction, player props: Expert's best bets for Sunday Night Football NFL Week 7",
-        "link": "https://www.cbssports.com/betting/news/chiefs-vs-seahawks-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-nfl-week-7/",
+        "title": "Eagles vs. Cowboys SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
+        "link": "https://www.cbssports.com/betting/news/eagles-cowboys-sgp-monday-night-football-same-game-parlay-picks-best-bets-player-props/",
         "source": "CBS Sports",
-        "time_ago": "28m ago",
-        "summary": "Backing Patrick Mahomes as a road underdog leads Sunday night's top betting plays, along with props on Kenneth Walker and Jaxson Smith-Njigba",
+        "time_ago": "2h ago",
+        "summary": "SportsLine's machine-learning AI reveals its 'Monday Night Football' SGP for Dallas vs. Philadelphia",
         "covered_by": [
           "CBS Sports"
         ]
       },
       {
-        "title": "Man City's perfect start over after draw at rivals Man Utd",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cj3vq1ggw247o?at_medium=RSS&at_campaign=rss",
+        "title": "Why is Wilcox in line of fire from Man Utd fans?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "43m ago",
-        "summary": "Manchester City's perfect record in the Women's Super League is ended by rivals Manchester United after Elisabeth Terland scores a late equaliser to snatch a 1-1 draw.",
+        "time_ago": "10h ago",
+        "summary": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox.",
         "covered_by": [
           "BBC Sport"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-        "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-        "source": "Ars Technica",
-        "time_ago": "5d ago",
-        "summary": "Meta changes AI scraping policy but won\u2019t add language respecting robots.txt.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-        "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "These clever apps show off the iPhone Duo\u2019s potential",
-        "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-        "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Starlink seems to be working normally again in Ukraine",
-        "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
-        "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicol\u00e1s Maduro.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Deeply divided Israel braces for pivotal election",
-        "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
-        "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Church mourners die on Kenya\u2019s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
         ]
       }
     ]
