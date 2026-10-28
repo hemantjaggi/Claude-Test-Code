@@ -1,178 +1,178 @@
 {
-  "generated_at": "2026-10-27T01:35:01.687154+00:00",
+  "generated_at": "2026-10-28T01:33:56.091563+00:00",
   "categories": {
-    "ai": [
-      {
-        "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
-        "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u2018significant risks\u2019",
-        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "source": "TechCrunch",
-        "time_ago": "3d ago",
-        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-        "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-        "source": "Ars Technica",
-        "time_ago": "3d ago",
-        "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
     "tech": [
       {
-        "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
-        "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
         "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+        "time_ago": "1h ago",
+        "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
         "covered_by": [
-          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Microsoft offers to buy out a quarter of its workforce",
-        "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+        "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+        "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
         "source": "Ars Technica",
         "time_ago": "2h ago",
-        "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+        "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-        "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
-        "source": "Ars Technica",
-        "time_ago": "6h ago",
-        "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
+        "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Bolsonaro says police demand passports after Brazil election defeat",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Serbia\u2019s \u2018students\u2019 celebrate for a second night after election victory",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "28m ago",
-        "summary": "Thousands gathered on the streets of Belgrade for a second night to celebrate the student-led movement's victory.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Former FBI director James Comey hit with third set of charges under Trump",
-        "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
         ]
       }
     ],
     "india": [
       {
-        "title": "CEC can be removed only like a Supreme Court judge, ECI tells top court",
-        "link": "https://www.thehindu.com/news/national/cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells-top-court/article71628290.ece",
+        "title": "Cyclone Arnab landfall continues along Andhra Pradesh coast | LIVE",
+        "link": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
         "source": "The Hindu",
-        "time_ago": "17m ago",
-        "summary": "A common affidavit filed for the EC, CEC Kumar and Election Commissioners Sandhu and Joshi say that any attempt to restrain the CEC\u2019s functioning is contrary to the 2023 Act; asserts that Form 6 was not amended; West Ben",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "BJP targets Congress, set to ramp up campaign against opposition",
-        "link": "https://timesofindia.indiatimes.com/india/bjp-targets-congress-set-to-ramp-up-campaign-against-opposition/articleshow/135219441.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "'Looked so corrupt\u2019: Trump questions Brazil election after Lula defeats his ally",
-        "link": "https://timesofindia.indiatimes.com/world/us/looked-so-corrupt-trump-questions-brazil-election-after-lula-defeats-his-ally/articleshow/135219425.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "",
+        "time_ago": "8m ago",
+        "summary": "Traffic on Ennore Expressway and other coastal roads in north Chennai and Tiruvallur districts of Tamil Nadu witnessed\u00a0high waves lashing onto the land as a result of the cyclone",
         "covered_by": [
           "NDTV",
+          "The Hindu"
+        ]
+      },
+      {
+        "title": "Cyclone Arnab: Civil Aviation Ministry reviews situation to ensure safety of flight operations",
+        "link": "https://www.thehindu.com/news/national/cyclone-arnab-civil-aviation-ministry-reviews-situation-to-ensure-safety-of-flight-operations/article71633204.ece",
+        "source": "The Hindu",
+        "time_ago": "6h ago",
+        "summary": "Cyclone' Arnab' is forecast to intensify into a very severe cyclone and make landfall on the Andhra Pradesh coast on Wednesday (October 28, 2026), with wind speeds of 125\u2013135 km/h",
+        "covered_by": [
+          "The Hindu",
           "Times of India"
+        ]
+      },
+      {
+        "title": "Need to balance right to free speech, privacy: Supreme Court",
+        "link": "https://timesofindia.indiatimes.com/india/need-to-balance-right-to-free-speech-privacy-supreme-court/articleshow/135248091.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Arab parties could win 18 seats in Israeli elections, exit polls suggest",
+        "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "50m ago",
+        "summary": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Gaza\u2019s women filmmakers turn pain into cinema as new academy launches",
+        "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Gaza film festival highlights women's resilience through stories of war, loss and survival.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+        "link": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "US president seeks to highlight Venezuela operation as Iran war makes affordability a key midterm issue.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+        "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "source": "TechCrunch",
+        "time_ago": "18m ago",
+        "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
     "sports": [
       {
-        "title": "NFL trade deadline matchmaker: Vikings add Jonathan Taylor to boost offense, Chiefs nab WR",
-        "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-matchmaker-vikings-jonathan-taylor-chiefs/",
+        "title": "NFL trade deadline: Four Eagles, a star Colt and two starting QBs included among top 25 candidates",
+        "link": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
         "source": "CBS Sports",
-        "time_ago": "6h ago",
-        "summary": "Moves for several contenders who could look to buy",
+        "time_ago": "4h ago",
+        "summary": "Saquon Barkley, Jonathan Taylor, Kirk Cousins and more could fetch returns at the trade deadline",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Eagles vs. Cowboys SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
-        "link": "https://www.cbssports.com/betting/news/eagles-cowboys-sgp-monday-night-football-same-game-parlay-picks-best-bets-player-props/",
+        "title": "Week 8 NFL picks, best bets from proven model: This 5-leg parlay returns nearly 25-1",
+        "link": "https://www.cbssports.com/betting/news/nfl-picks-parlay-picks-predictions-week-8-2026/",
         "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "SportsLine's machine-learning AI reveals its 'Monday Night Football' SGP for Dallas vs. Philadelphia",
+        "time_ago": "6h ago",
+        "summary": "After 10,000 simulations, SportsLine's model reveals its top Week 8 NFL parlay",
         "covered_by": [
+          "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Why is Wilcox in line of fire from Man Utd fans?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "10h ago",
-        "summary": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox.",
+        "title": "Brewers vs. Rays prediction, odds, time: 2026 World Series Game 4 picks by proven model",
+        "link": "https://www.cbssports.com/betting/news/brewers-rays-prediction-odds-line-time-2026-world-series-game-4-picks-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "SportsLine's model simulated Tuesday's Milwaukee Brewers vs. Tampa Bay Rays World Series Game 4 matchup 10,000 times",
         "covered_by": [
-          "BBC Sport"
+          "CBS Sports"
         ]
       }
     ]
