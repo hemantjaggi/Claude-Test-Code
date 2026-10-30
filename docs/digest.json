@@ -1,26 +1,118 @@
 {
-  "generated_at": "2026-10-29T01:55:08.751513+00:00",
+  "generated_at": "2026-10-30T02:06:02.419893+00:00",
   "categories": {
-    "ai": [
+    "sports": [
       {
-        "title": "Google expands AI Search ads globally as core ad growth slows",
-        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-        "source": "TechCrunch",
+        "title": "Dream ride energy of sold-out Atlanta crowd to rediscover their swagger, force first Game 7 in WNBA history",
+        "link": "https://www.cbssports.com/wnba/news/wnba-finals-game-6-dream-valkyries-atlanta-crowd/",
+        "source": "CBS Sports",
         "time_ago": "4h ago",
-        "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+        "summary": "The circumstances of a Thursday afternoon game weren't ideal, but the Dream -- and the Atlanta crowd -- rose to the occasion",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+        "title": "Use FanDuel promo code to claim $150 bonus bets by targeting Panthers vs. Packers on Thursday Night Football",
+        "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-claim-150-bonus-bets-panthers-vs-packers-thursday-night-football/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "Sign up with the latest FanDuel promo code to get your bonus bets when you wager on Thursday Night Football",
         "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "'Fully committed' Fernandes to remain Man Utd captain",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "11h ago",
+        "summary": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+        "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Fighting over disputed land and water in Ethiopia\u2019s Moyale border region has driven thousands of people into Kenya.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+        "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "5h ago",
+        "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+        "link": "https://www.thehindu.com/news/cities/Delhi/in-delhi-bjp-booth-agents-file-deletion-forms-against-muslim-voters-living-at-their-addresses/article71641353.ece",
+        "source": "The Hindu",
+        "time_ago": "7m ago",
+        "summary": "BJP BLAs submit nearly 68% of Form 7s seeking deletions as \u2018objector\u2019 in Mustafabad, all against Muslim electors citing \u2018absent/permanently shifted\u2019 or \u2018death\u2019",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Bar bodies foiled plan to rope in ex-judges: Supreme Court",
+        "link": "https://timesofindia.indiatimes.com/india/bar-bodies-foiled-plan-to-rope-in-ex-judges-supreme-court/articleshow/135332290.cms",
+        "source": "Times of India",
+        "time_ago": "4h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "ECI extends SIR timelines in Maharashtra, Delhi, Andhra, Haryana, Telangana, Nagaland",
+        "link": "https://www.thehindu.com/news/national/eci-extends-sir-timelines-in-maharashtra-delhi-andhra-haryana-telangana-nagaland/article71642254.ece",
+        "source": "The Hindu",
+        "time_ago": "7h ago",
+        "summary": "The revisions follow requests from the Chief Electoral Officers of the concerned States",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+        "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+        "source": "Ars Technica",
+        "time_ago": "9h ago",
+        "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+        "covered_by": [
+          "Ars Technica",
           "TechCrunch",
           "The Verge"
         ]
@@ -29,68 +121,8 @@
         "title": "Anthropic just launched tools to show companies what their AI spending is buying",
         "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
         "source": "TechCrunch",
-        "time_ago": "6h ago",
+        "time_ago": "1d ago",
         "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
-        "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "High-speed train crash kills at least 68 people in Spain",
-        "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "4h ago",
-        "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Fl\u00e1vio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "41m ago",
-        "summary": "The defeated Brazilian candidate claims to be the victim of a coup d\u2019\u00e9tat and political persecution, recycling unsubstantiated allegations of \u201celectoral fraud\u201d.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Google expands AI Search ads globally as core ad growth slows",
-        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple\u2019s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-        "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -101,7 +133,7 @@
         "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
         "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
         "covered_by": [
           "TechCrunch",
@@ -109,70 +141,37 @@
         ]
       }
     ],
-    "sports": [
+    "tech": [
       {
-        "title": "2026 MLB playoff bracket: Schedule and scores as Brewers take second shot at first World Series title",
-        "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
-        "source": "CBS Sports",
+        "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+        "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+        "source": "Ars Technica",
+        "time_ago": "9h ago",
+        "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+        "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Andy Jassy says Prime Video is on track to earn \u2018tens of billions of dollars\u2019",
+        "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+        "source": "TechCrunch",
         "time_ago": "2h ago",
-        "summary": "The Rays walked off the Brewers in extra innings in Game 4 to avoid the sweep",
+        "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
         "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "2026 NBA odds, picks, predictions, best bets, player props: Experts, model backing 76ers on Wednesday",
-        "link": "https://www.cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-76ers-on-wednesday/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "SportsLine's experts and the SportsLine Projection Model have revealed NBA picks and best bets for Wednesday, October 28",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
-        "link": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece",
-        "source": "The Hindu",
-        "time_ago": "10m ago",
-        "summary": "At least 17 districts of southern Odisha affected by heavy rainfall due to cyclonic storm Arnab; Andhra Pradesh records five deaths as CM Naidu announces relief measures",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "In setback to BJP, Congress wins Nagpur MLC seat",
-        "link": "https://www.thehindu.com/news/national/maharashtra/in-setback-to-bjp-congress-wins-nagpur-mlc-seat/article71638769.ece",
-        "source": "The Hindu",
-        "time_ago": "37m ago",
-        "summary": "The Congress fielded sitting MLC Abhijeet Wanjari, who secured 67,231 votes, while the BJP fielded former MLA Sudhakar Kohale, who secured 63,960 votes",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Karnataka SIR: 64.5 lakh voters potentially missing in rolls, majority of them young",
-        "link": "https://www.thehindu.com/data/karnataka-sir-645-lakh-voters-potentially-missing-in-rolls-majority-of-them-young/article71638758.ece",
-        "source": "The Hindu",
-        "time_ago": "23m ago",
-        "summary": "Elector-to-population ratio released officially by Karnataka CEO shows under-enrolment of about 64.5 lakh electors, of whom roughly 38.41 lakh are in the 18 to 29 age group.",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "TechCrunch"
         ]
       }
     ]
