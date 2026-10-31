@@ -1,177 +1,175 @@
 {
-  "generated_at": "2026-10-30T02:06:02.419893+00:00",
+  "generated_at": "2026-10-31T01:44:32.807959+00:00",
   "categories": {
+    "tech": [
+      {
+        "title": "Google\u2019s first data center satellite is online and writing poetry",
+        "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+        "source": "The Verge",
+        "time_ago": "",
+        "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta th",
+        "covered_by": [
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
+        "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "source": "TechCrunch",
+        "time_ago": "24m ago",
+        "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Google\u2019s first data center satellite is online and writing poetry",
+        "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
+        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its busin",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+        "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "4 killed, 2 injured in fire at Delhi shoe factory; owner summoned",
+        "link": "https://timesofindia.indiatimes.com/city/delhi/4-killed-2-injured-in-fire-at-delhi-shoe-factory-owner-summoned/articleshow/135383061.cms",
+        "source": "Times of India",
+        "time_ago": "37m ago",
+        "summary": "A fire broke out at a shoe manufacturing factory in Delhi's Mangolpuri Industrial Area, which killed four individuals. Firefighters responded quickly and managed to rescue six people trapped inside the building. Two inju",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "India slams global energy disruptions through sanctions, chokepoints",
+        "link": "https://www.thehindu.com/news/national/india-slams-global-energy-disruptions-through-sanctions-chokepoints/article71648072.ece",
+        "source": "The Hindu",
+        "time_ago": "39m ago",
+        "summary": "The Minister emphasised that continuous distortions of energy markets through obstacles, sanctions and chokepoints were happening with increasing frequency, greater complexity and wider impact",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Can amend privacy act, revoke law if needed: Government",
+        "link": "https://timesofindia.indiatimes.com/india/can-amend-privacy-act-revoke-law-if-needed-government/articleshow/135378659.cms",
+        "source": "Times of India",
+        "time_ago": "3h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+        "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "US appeals court again rejects Trump bid to set aside California ballots",
+        "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "5h ago",
+        "summary": "The 9th Circuit Court calls the petition to remove 20,000 ballots from California's vote count unconstitutional.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Pope Leo becomes first pontiff to vote in US general election",
+        "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "12m ago",
+        "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
     "sports": [
       {
-        "title": "Dream ride energy of sold-out Atlanta crowd to rediscover their swagger, force first Game 7 in WNBA history",
-        "link": "https://www.cbssports.com/wnba/news/wnba-finals-game-6-dream-valkyries-atlanta-crowd/",
+        "title": "Islam Makhachev says his next fight will be 'one of the last' in his UFC career",
+        "link": "https://www.cbssports.com/ufc/news/islam-makhachev-retirement-next-fight/",
         "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "The circumstances of a Thursday afternoon game weren't ideal, but the Dream -- and the Atlanta crowd -- rose to the occasion",
+        "time_ago": "3h ago",
+        "summary": "Makhachev doesn't see himself hanging around long after unifying welterweight titles with Carlos Prates or Michael Morales",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Use FanDuel promo code to claim $150 bonus bets by targeting Panthers vs. Packers on Thursday Night Football",
-        "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-claim-150-bonus-bets-panthers-vs-packers-thursday-night-football/",
+        "title": "Kent State vs. Sacramento State prediction, odds, time: Week 9 college football Friday picks by proven model",
+        "link": "https://www.cbssports.com/betting/news/kent-state-sacramento-state-prediction-odds-time-week-9-college-football-friday-picks-best-bets/",
         "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "Sign up with the latest FanDuel promo code to get your bonus bets when you wager on Thursday Night Football",
+        "time_ago": "1h ago",
+        "summary": "SportsLine's model revealed its best bets for Friday's MAC contest featuring the Kent State Golden Flashes vs. Sacramento State Hornets",
         "covered_by": [
           "CBS Sports"
         ]
       },
       {
-        "title": "'Fully committed' Fernandes to remain Man Utd captain",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "11h ago",
-        "summary": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
+        "title": "Use BetMGM bonus code CBSSPORTS to land $1,500 bonus bets for 76ers-Knicks, NBA, Baylor-UCF, college football",
+        "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-land-1500-bonus-bets-for-76ers-knicks-nba-baylor-ucf-college-football/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college football and NFL betting",
         "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-        "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Fighting over disputed land and water in Ethiopia\u2019s Moyale border region has driven thousands of people into Kenya.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-        "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "5h ago",
-        "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
-        "link": "https://www.thehindu.com/news/cities/Delhi/in-delhi-bjp-booth-agents-file-deletion-forms-against-muslim-voters-living-at-their-addresses/article71641353.ece",
-        "source": "The Hindu",
-        "time_ago": "7m ago",
-        "summary": "BJP BLAs submit nearly 68% of Form 7s seeking deletions as \u2018objector\u2019 in Mustafabad, all against Muslim electors citing \u2018absent/permanently shifted\u2019 or \u2018death\u2019",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Bar bodies foiled plan to rope in ex-judges: Supreme Court",
-        "link": "https://timesofindia.indiatimes.com/india/bar-bodies-foiled-plan-to-rope-in-ex-judges-supreme-court/articleshow/135332290.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "ECI extends SIR timelines in Maharashtra, Delhi, Andhra, Haryana, Telangana, Nagaland",
-        "link": "https://www.thehindu.com/news/national/eci-extends-sir-timelines-in-maharashtra-delhi-andhra-haryana-telangana-nagaland/article71642254.ece",
-        "source": "The Hindu",
-        "time_ago": "7h ago",
-        "summary": "The revisions follow requests from the Chief Electoral Officers of the concerned States",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-        "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-        "source": "Ars Technica",
-        "time_ago": "9h ago",
-        "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-        "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-        "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-        "source": "Ars Technica",
-        "time_ago": "9h ago",
-        "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-        "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Andy Jassy says Prime Video is on track to earn \u2018tens of billions of dollars\u2019",
-        "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
-        "covered_by": [
-          "TechCrunch"
+          "CBS Sports"
         ]
       }
     ]
