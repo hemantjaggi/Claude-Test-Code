@@ -1,34 +1,136 @@
 {
-  "generated_at": "2026-10-31T01:44:32.807959+00:00",
+  "generated_at": "2026-11-01T01:22:36.478232+00:00",
   "categories": {
+    "india": [
+      {
+        "title": "Opposition into politics of obstruction, must see anti-India pattern: PM Modi",
+        "link": "https://timesofindia.indiatimes.com/india/opposition-into-politics-of-obstruction-must-see-anti-india-pattern-pm-modi/articleshow/135411721.cms",
+        "source": "Times of India",
+        "time_ago": "4h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "From Mallikarjun Kharge's lawn, 250 opposition MPs 'impeach' CEC Gyanesh Kumar",
+        "link": "https://timesofindia.indiatimes.com/india/from-mallikarjun-kharges-lawn-250-opposition-mps-impeach-cec-gyanesh-kumar/articleshow/135411674.cms",
+        "source": "Times of India",
+        "time_ago": "4h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Rahul Gandhi appeals to Delhi rally goers to do festival shopping from local traders",
+        "link": "https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
+        "source": "The Hindu",
+        "time_ago": "5h ago",
+        "summary": "The Congress leader\u2019s request comes after a traders body in central Delhi urged him to postpone the rally until Deepavali as they expressed concern over its impact on their business.",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Canelo Alvarez vs. Christian Mbilli fight stream: Where to watch live online, start time, card and PPV price",
+        "link": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-christian-mbilli-start-time-where-to-watch-fight-stream-live-start-time-card/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Complete viewing information for the WBC super middleweight title bout on Saturday in Saudi Arabia",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Moore wins Breeders' Cup Turf for record sixth time",
+        "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c6x2vdmv1zx7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "Jockey Ryan Moore and trainer Aidan O'Brien both made history as they won the Breeders' Cup Turf with Benvenuto Cellini.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Has Martinez become a liability for Man Utd?",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1h ago",
+        "summary": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Legal filing questions Trump\u2019s claims of non-citizen voting in California",
+        "link": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "6h ago",
+        "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+        "covered_by": [
+          "BBC"
+        ]
+      }
+    ],
     "tech": [
       {
-        "title": "Google\u2019s first data center satellite is online and writing poetry",
-        "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+        "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+        "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+        "time_ago": "3h ago",
+        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ]
       },
       {
-        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-        "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-        "source": "The Verge",
-        "time_ago": "",
-        "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta th",
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
         "covered_by": [
-          "The Verge"
+          "TechCrunch"
         ]
       },
       {
-        "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
-        "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
         "source": "TechCrunch",
-        "time_ago": "24m ago",
-        "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "time_ago": "9h ago",
+        "summary": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations.",
         "covered_by": [
           "TechCrunch"
         ]
@@ -39,7 +141,7 @@
         "title": "Google\u2019s first data center satellite is online and writing poetry",
         "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
+        "time_ago": "1d ago",
         "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
         "covered_by": [
           "Ars Technica",
@@ -51,7 +153,7 @@
         "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
         "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its busin",
         "covered_by": [
           "Ars Technica",
@@ -59,117 +161,14 @@
         ]
       },
       {
-        "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
-        "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+        "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
         "source": "TechCrunch",
         "time_ago": "3h ago",
-        "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "4 killed, 2 injured in fire at Delhi shoe factory; owner summoned",
-        "link": "https://timesofindia.indiatimes.com/city/delhi/4-killed-2-injured-in-fire-at-delhi-shoe-factory-owner-summoned/articleshow/135383061.cms",
-        "source": "Times of India",
-        "time_ago": "37m ago",
-        "summary": "A fire broke out at a shoe manufacturing factory in Delhi's Mangolpuri Industrial Area, which killed four individuals. Firefighters responded quickly and managed to rescue six people trapped inside the building. Two inju",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "India slams global energy disruptions through sanctions, chokepoints",
-        "link": "https://www.thehindu.com/news/national/india-slams-global-energy-disruptions-through-sanctions-chokepoints/article71648072.ece",
-        "source": "The Hindu",
-        "time_ago": "39m ago",
-        "summary": "The Minister emphasised that continuous distortions of energy markets through obstacles, sanctions and chokepoints were happening with increasing frequency, greater complexity and wider impact",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Can amend privacy act, revoke law if needed: Government",
-        "link": "https://timesofindia.indiatimes.com/india/can-amend-privacy-act-revoke-law-if-needed-government/articleshow/135378659.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-        "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "3h ago",
-        "summary": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "US appeals court again rejects Trump bid to set aside California ballots",
-        "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "The 9th Circuit Court calls the petition to remove 20,000 ballots from California's vote count unconstitutional.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Pope Leo becomes first pontiff to vote in US general election",
-        "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "12m ago",
-        "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Islam Makhachev says his next fight will be 'one of the last' in his UFC career",
-        "link": "https://www.cbssports.com/ufc/news/islam-makhachev-retirement-next-fight/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "Makhachev doesn't see himself hanging around long after unifying welterweight titles with Carlos Prates or Michael Morales",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Kent State vs. Sacramento State prediction, odds, time: Week 9 college football Friday picks by proven model",
-        "link": "https://www.cbssports.com/betting/news/kent-state-sacramento-state-prediction-odds-time-week-9-college-football-friday-picks-best-bets/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "SportsLine's model revealed its best bets for Friday's MAC contest featuring the Kent State Golden Flashes vs. Sacramento State Hornets",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Use BetMGM bonus code CBSSPORTS to land $1,500 bonus bets for 76ers-Knicks, NBA, Baylor-UCF, college football",
-        "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-land-1500-bonus-bets-for-76ers-knicks-nba-baylor-ucf-college-football/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college football and NFL betting",
-        "covered_by": [
-          "CBS Sports"
         ]
       }
     ]
