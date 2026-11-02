@@ -1,138 +1,71 @@
 {
-  "generated_at": "2026-11-01T01:22:36.478232+00:00",
+  "generated_at": "2026-11-02T01:42:55.164147+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "Opposition into politics of obstruction, must see anti-India pattern: PM Modi",
-        "link": "https://timesofindia.indiatimes.com/india/opposition-into-politics-of-obstruction-must-see-anti-india-pattern-pm-modi/articleshow/135411721.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "From Mallikarjun Kharge's lawn, 250 opposition MPs 'impeach' CEC Gyanesh Kumar",
-        "link": "https://timesofindia.indiatimes.com/india/from-mallikarjun-kharges-lawn-250-opposition-mps-impeach-cec-gyanesh-kumar/articleshow/135411674.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Rahul Gandhi appeals to Delhi rally goers to do festival shopping from local traders",
-        "link": "https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
-        "source": "The Hindu",
-        "time_ago": "5h ago",
-        "summary": "The Congress leader\u2019s request comes after a traders body in central Delhi urged him to postpone the rally until Deepavali as they expressed concern over its impact on their business.",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Canelo Alvarez vs. Christian Mbilli fight stream: Where to watch live online, start time, card and PPV price",
-        "link": "https://www.cbssports.com/boxing/news/canelo-alvarez-vs-christian-mbilli-start-time-where-to-watch-fight-stream-live-start-time-card/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Complete viewing information for the WBC super middleweight title bout on Saturday in Saudi Arabia",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Moore wins Breeders' Cup Turf for record sixth time",
-        "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c6x2vdmv1zx7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Jockey Ryan Moore and trainer Aidan O'Brien both made history as they won the Breeders' Cup Turf with Benvenuto Cellini.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Has Martinez become a liability for Man Utd?",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Legal filing questions Trump\u2019s claims of non-citizen voting in California",
-        "link": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Evacuees of Russian-occupied Oleshky reunited with families",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "3h ago",
-        "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-        "covered_by": [
-          "BBC"
-        ]
-      }
-    ],
     "tech": [
       {
         "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
         "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
         "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+        "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+        "covered_by": [
           "TechCrunch"
         ]
       },
       {
-        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-        "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+        "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
         "source": "TechCrunch",
+        "time_ago": "10h ago",
+        "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "400 and counting: Why India are ahead of the curve in six-hitting",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/400-and-counting-why-india-are-ahead-of-the-curve-in-six-hitting/articleshow/135441512.cms",
+        "source": "Times of India",
+        "time_ago": "21m ago",
+        "summary": "India have smashed 400 sixes in 40 T20Is in 2026, becoming the first team to reach the landmark in a calendar year. From Abhishek Sharma's six-hitting at the top to a fearless approach across the batting order, India are",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "\u2018Remove Modi to save democracy\u2019: Congress chief Kharge attacks PM at INDIA bloc rally",
+        "link": "https://www.thehindu.com/news/national/india-bloc-rally-congress-on-modi-sir-gyanesh-kumar/article71652720.ece",
+        "source": "The Hindu",
+        "time_ago": "30m ago",
+        "summary": "Addressing INDIA bloc's rally at Ramlila Maidan on the \"vote chori\" charge, Mr. Kharge also accused Prime Minister Modi and Home Minister Amit Shah of shielding Chief Election Commissioner (CEC) Gyanesh Kumar",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Gyanesh has to go, PM & Shah next, says Rahul Gandhi at anti-CEC rally",
+        "link": "https://timesofindia.indiatimes.com/india/gyanesh-has-to-go-pm-shah-next-says-rahul-gandhi-at-anti-cec-rally/articleshow/135437683.cms",
+        "source": "Times of India",
         "time_ago": "4h ago",
-        "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "summary": "",
         "covered_by": [
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "OpenAI reportedly lowers funding target for new round",
-        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations.",
-        "covered_by": [
-          "TechCrunch"
+          "NDTV",
+          "Times of India"
         ]
       }
     ],
@@ -141,7 +74,7 @@
         "title": "Google\u2019s first data center satellite is online and writing poetry",
         "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
         "covered_by": [
           "Ars Technica",
@@ -153,7 +86,7 @@
         "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
         "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its busin",
         "covered_by": [
           "Ars Technica",
@@ -164,11 +97,79 @@
         "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
         "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+        "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Israeli officials say results stand as Netanyahu claims election \u2018stolen\u2019",
+        "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Election body says deadlocked result won't be undermined even if foreign interference claims are found to be true.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Detroit linebacker Campbell taken to hospital with neck injury",
+        "link": "https://www.bbc.co.uk/sport/american-football/articles/ck9qz29w2p90o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "Jack Campbell was placed on a stretcher and carted off the pitch during the Detroit Lions' game on Sunday, before being taken to hospital.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Eagles vs. Commanders odds, NFL Week 8 first touchdown scorer picks, predictions for Sunday Night Football",
+        "link": "https://www.cbssports.com/prediction/news/eagles-vs-commanders-odds-nfl-week-8-first-touchdown-scorer-picks-predictions-for-sunday-night-football/",
+        "source": "CBS Sports",
+        "time_ago": "51m ago",
+        "summary": "Here's a look at the prediction markets at Kalshi for the first touchdown scorer in Eagles vs. Commanders on Sunday Night Football",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1h ago",
+        "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
