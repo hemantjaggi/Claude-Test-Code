@@ -1,139 +1,35 @@
 {
-  "generated_at": "2026-11-02T01:42:55.164147+00:00",
+  "generated_at": "2026-11-03T03:38:42.696237+00:00",
   "categories": {
-    "tech": [
-      {
-        "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
-        "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
-        "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-        "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-        "source": "TechCrunch",
-        "time_ago": "10h ago",
-        "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "400 and counting: Why India are ahead of the curve in six-hitting",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/400-and-counting-why-india-are-ahead-of-the-curve-in-six-hitting/articleshow/135441512.cms",
-        "source": "Times of India",
-        "time_ago": "21m ago",
-        "summary": "India have smashed 400 sixes in 40 T20Is in 2026, becoming the first team to reach the landmark in a calendar year. From Abhishek Sharma's six-hitting at the top to a fearless approach across the batting order, India are",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "\u2018Remove Modi to save democracy\u2019: Congress chief Kharge attacks PM at INDIA bloc rally",
-        "link": "https://www.thehindu.com/news/national/india-bloc-rally-congress-on-modi-sir-gyanesh-kumar/article71652720.ece",
-        "source": "The Hindu",
-        "time_ago": "30m ago",
-        "summary": "Addressing INDIA bloc's rally at Ramlila Maidan on the \"vote chori\" charge, Mr. Kharge also accused Prime Minister Modi and Home Minister Amit Shah of shielding Chief Election Commissioner (CEC) Gyanesh Kumar",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Gyanesh has to go, PM & Shah next, says Rahul Gandhi at anti-CEC rally",
-        "link": "https://timesofindia.indiatimes.com/india/gyanesh-has-to-go-pm-shah-next-says-rahul-gandhi-at-anti-cec-rally/articleshow/135437683.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Google\u2019s first data center satellite is online and writing poetry",
-        "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
-        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its busin",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
-        "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
     "world": [
       {
-        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-        "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+        "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+        "time_ago": "3h ago",
+        "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Israeli officials say results stand as Netanyahu claims election \u2018stolen\u2019",
-        "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Election body says deadlocked result won't be undermined even if foreign interference claims are found to be true.",
+        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "6m ago",
+        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump to remove Rwanda and South Africa from US trade deal",
+        "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+        "time_ago": "38m ago",
+        "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -142,34 +38,139 @@
     ],
     "sports": [
       {
-        "title": "Detroit linebacker Campbell taken to hospital with neck injury",
-        "link": "https://www.bbc.co.uk/sport/american-football/articles/ck9qz29w2p90o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Jack Campbell was placed on a stretcher and carted off the pitch during the Detroit Lions' game on Sunday, before being taken to hospital.",
+        "title": "UEFA Champions League scores, schedule: League phase reaches halfway point with Matchday 4",
+        "link": "https://www.cbssports.com/soccer/news/uefa-champions-league-schedule-matchday-4/",
+        "source": "CBS Sports",
+        "time_ago": "5h ago",
+        "summary": "UCL action rolls on with a jampacked schedule across Tuesday and Wednesday",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Eagles vs. Commanders odds, NFL Week 8 first touchdown scorer picks, predictions for Sunday Night Football",
-        "link": "https://www.cbssports.com/prediction/news/eagles-vs-commanders-odds-nfl-week-8-first-touchdown-scorer-picks-predictions-for-sunday-night-football/",
-        "source": "CBS Sports",
-        "time_ago": "51m ago",
-        "summary": "Here's a look at the prediction markets at Kalshi for the first touchdown scorer in Eagles vs. Commanders on Sunday Night Football",
+        "title": "A world champion but 'one of us' - a city's pride in Antonelli",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/cj3vq29y10qyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "16h ago",
+        "summary": "As Kimi Antonelli becomes F1 world champion, the people of Bologna hail their hometown hero.",
         "covered_by": [
-          "CBS Sports"
+          "BBC Sport"
         ]
       },
       {
-        "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+        "title": "Bears vs. Seahawks SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
+        "link": "https://www.cbssports.com/betting/news/bears-seahawks-sgp-monday-night-football-same-game-parlay-picks-best-bets-player-props/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "SportsLine's machine-learning AI reveals its 'Monday Night Football' SGP for Seattle vs. Chicago",
         "covered_by": [
-          "BBC Sport"
+          "CBS Sports"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
+        "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+        "source": "TechCrunch",
+        "time_ago": "13h ago",
+        "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+        "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+        "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Cyclone Murasu LIVE updates: Cyclone wreaks havoc in coastal A.P.; no power disruptions reported so far",
+        "link": "https://www.thehindu.com/news/national/cyclone-murasu-landfall-live-updates-november-3-2026-rain-andhra-pradesh-telangana-odisha-weather/article71659195.ece",
+        "source": "The Hindu",
+        "time_ago": "10m ago",
+        "summary": "A.P. CM Chandrababu Naidu directed officials to ensure that people in cyclone-affected areas did not venture onto roads and to take all necessary precautions to prevent loss of life and minimise property damage",
+        "covered_by": [
+          "NDTV",
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "US midterms: Trump's approval stuck at 32% in latest polling",
+        "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/us-midterms-trumps-approval-stuck-at-32-in-latest-polling/articleshow/135478814.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "",
+        "covered_by": [
+          "NDTV",
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Oil prices edge higher after reported US strike on Iran, reviving supply concerns",
+        "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-edge-higher-after-reported-us-strike-on-irans-qeshm-island-reviving-supply-concerns/articleshow/135478627.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "In the wake of a US military strike on Qeshm Island, oil prices have seen a modest increase. This development raises alarms about potential conflict escalation, even as diplomatic dialogues persist. Both the US and Iran ",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+        "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+        "source": "TechCrunch",
+        "time_ago": "1h ago",
+        "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+        "source": "TechCrunch",
+        "time_ago": "8m ago",
+        "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Germany says lawmakers\u2019 iPhones may have been hacked with spyware",
+        "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+        "covered_by": [
+          "TechCrunch"
         ]
       }
     ]
