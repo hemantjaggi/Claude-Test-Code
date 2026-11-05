@@ -1,119 +1,151 @@
 {
-  "generated_at": "2026-11-04T02:35:36.872241+00:00",
+  "generated_at": "2026-11-05T02:41:24.002575+00:00",
   "categories": {
+    "world": [
+      {
+        "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+        "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Africa\u2019s richest man launches mega oil tank farm in Namibia",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa's supply.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Ohio\u2019s voters tell Republicans: don\u2019t take us for granted",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "Democrats flipped a Senate seat and recaptured the governor\u2019s mansion in Ohio.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
     "india": [
       {
-        "title": "Ladakh administration asks activist Sonam Wangchuk\u2019s wife to stop \u2018unauthorised activities\u2019 at their Leh school",
-        "link": "https://www.thehindu.com/news/national/ladakh/ladakh-administration-asks-activist-sonam-wangchuks-wife-to-stop-unauthorised-activities-at-their-leh-school/article71661914.ece",
+        "title": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
+        "link": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
         "source": "The Hindu",
-        "time_ago": "6h ago",
-        "summary": "On September 22, Gitanjali Angmo, wife of Mr. Wangchuk, requested the Deputy Commissioner, Leh, for the issuance of a No Objection Certificate and clearance for the proposed members of the Managing Committee of the schoo",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "\u2018I'll be the fielding coach\u2019: Ex-cricketer mocks India as BCCI invites applications",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-will-be-the-fielding-coach-ex-england-captains-dig-at-india-as-bcci-invites-applications/articleshow/135517351.cms",
-        "source": "Times of India",
         "time_ago": "1h ago",
-        "summary": "Michael Vaughan has spotlighted India's ongoing struggles with fielding as the BCCI seeks a new fielding coach. Recent matches, particularly during the Women's T20 World Cup, have revealed troubling catching mistakes, in",
+        "summary": "\u2018The foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades\u2019, says Bench",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Trump Says US Has No Immediate Plan To Strike Iran",
-        "link": "https://www.ndtv.com/world-news/us-has-no-immediate-plan-to-strike-iran-trump-tells-ft-12279349#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "2h ago",
-        "summary": "In an interview with the FT on Tuesday, Trump suggested he was content with the state of the stand-off with Iran.",
+        "title": "Nine rescue personnel feared missing as boats capsize in Telangana\u2019s swollen Peddacheruvu",
+        "link": "https://www.thehindu.com/news/national/telangana/nine-rescue-personnel-feared-missing-as-boats-capsize-in-swollen-peddacheruvu-in-khammam-district/article71667132.ece",
+        "source": "The Hindu",
+        "time_ago": "46m ago",
+        "summary": "According to sources, the incident occurred when the rescue teams, comprising SDRF and Fire Services personnel, ventured into the swollen rivulet to rescue the stranded fishermen",
         "covered_by": [
-          "NDTV",
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Mahadev app co-promoter Ravi Uppal arrested in UAE, India moves for his extradition",
+        "link": "https://www.thehindu.com/news/national/mahadev-app-co-promoter-ravi-uppal-arrested-in-uae-india-moves-for-his-extradition/article71668416.ece",
+        "source": "The Hindu",
+        "time_ago": "47m ago",
+        "summary": "Authorities in Dubai arrested a 46-year-old Ravi Uppal based on an Interpol Red Notice issued by Indian probe agencies, officials told PTI",
+        "covered_by": [
+          "The Hindu",
           "Times of India"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Man United fans throw tennis balls in protest before stunning comeback",
-        "link": "https://www.espn.com/soccer/story/_/id/50371927/man-united-fans-throw-tennis-balls-field-show-discontent",
-        "source": "ESPN",
-        "time_ago": "19m ago",
-        "summary": "Manchester United fans attempted to disrupt the Champions League match against AS Roma on Tuesday by throwing tennis balls onto the pitch at Old Trafford.",
+        "title": "Champions League Power Rankings: PSG hold top spot as Como surge under Cesc Fabregas",
+        "link": "https://www.cbssports.com/soccer/news/champions-league-power-rankings-psg-como-real-madrid-manchester-united/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "PSG lead the pack through four matchdays as Como surge behind a nine-goal explosion and Liverpool stumble during a chaotic week",
         "covered_by": [
           "BBC Sport",
-          "CBS Sports",
-          "ESPN"
+          "CBS Sports"
         ]
       },
       {
-        "title": "If Man City get relegated but win the Champions League, what would happen to star players?",
-        "link": "https://www.espn.com/soccer/story/_/id/50362560/man-city-relegated-premier-league-win-champions-league-how-play-out",
-        "source": "ESPN",
-        "time_ago": "32m ago",
-        "summary": "What would happen to Man City's superstar players if they get relegated from the Premier League but qualify for Champions League?",
+        "title": "LIV to wind down after backers withdraw support",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "4h ago",
+        "summary": "LIV Golf is set to announce on Thursday it will wind down after a financing firm retracted its support.",
         "covered_by": [
-          "CBS Sports",
-          "ESPN"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Bills release Gardner-Johnson after he served one-game spitting suspension",
-        "link": "https://www.espn.com/nfl/story/_/id/50372292/bills-release-safety-cj-gardner-johnson",
-        "source": "ESPN",
-        "time_ago": "19m ago",
-        "summary": "The Bills have released safety C.J. Gardner-Johnson, the team announced Tuesday.",
+        "title": "Use DraftKings promo code to claim $200 bonus + free NBA League Pass for Pistons-76ers, NBA, college football",
+        "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-200-bonus-free-nba-league-pass-pistons-76ers-nba-college-football-wednesday/",
+        "source": "CBS Sports",
+        "time_ago": "4h ago",
+        "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NBA, college football, NFL betting on Wednesday",
         "covered_by": [
-          "CBS Sports",
-          "ESPN"
+          "CBS Sports"
         ]
       }
     ],
-    "world": [
+    "tech": [
       {
-        "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
-        "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
+        "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "source": "TechCrunch",
         "time_ago": "1h ago",
-        "summary": "At least seven flights and an Israel-bound cruise ship received threats, but officials say searches found no explosives.",
+        "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "US midterm election results live: Democrats up as vote count under way",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "Results are coming in from across the US as polls close in the midterm elections, with control of Congress at stake.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Kyiv protest raises suspicions of possible Russian orchestration",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+        "source": "TechCrunch",
         "time_ago": "5h ago",
-        "summary": "Ukraine is investigating clashes between protesters and authorities at a military dormitory near Kyiv.",
+        "summary": "OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant\u2019s own business interests.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "TechCrunch"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Google will let schools skip AI tools, but they have to give up search, too",
-        "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-        "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+        "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
+        "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -124,7 +156,7 @@
         "title": "Anthropic is working on a system to prove AI models\u2019 identity",
         "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
         "covered_by": [
           "Ars Technica",
@@ -132,52 +164,20 @@
         ]
       },
       {
-        "title": "Apple restricts dating apps and AI companions to users 18 and up",
-        "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
         "source": "TechCrunch",
-        "time_ago": "10h ago",
-        "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+        "time_ago": "1h ago",
+        "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Google will let schools skip AI tools, but they have to give up search, too",
-        "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-        "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Apple restricts dating apps and AI companions to users 18 and up",
-        "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-        "source": "TechCrunch",
-        "time_ago": "10h ago",
-        "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-        "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-        "covered_by": [
           "TechCrunch"
         ]
       }
     ]
   },
   "custom_topic": null,
-  "errors": []
+  "errors": [
+    "ESPN: no element found: line 1, column 0"
+  ]
 }
