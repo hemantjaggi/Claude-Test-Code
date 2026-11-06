@@ -1,176 +1,174 @@
 {
-  "generated_at": "2026-11-05T02:41:24.002575+00:00",
+  "generated_at": "2026-11-06T02:44:37.904146+00:00",
   "categories": {
-    "world": [
+    "ai": [
       {
-        "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-        "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "3h ago",
-        "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+        "title": "Claude can now analyze your spending with its new Personal Finance tool",
+        "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Africa\u2019s richest man launches mega oil tank farm in Namibia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa's supply.",
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Ohio\u2019s voters tell Republicans: don\u2019t take us for granted",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Democrats flipped a Senate seat and recaptured the governor\u2019s mansion in Ohio.",
+        "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
+        "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
     "india": [
       {
-        "title": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
-        "link": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece",
-        "source": "The Hindu",
+        "title": "Bengaluru woman clears Rs 43 lakh loan, teaches son money lesson",
+        "link": "https://timesofindia.indiatimes.com/life-style/people/bengaluru-woman-clears-rs-43-lakh-education-loan-after-8-years-takes-3-year-old-son-to-bank-to-teach-him-financial-independence/articleshow/135572019.cms",
+        "source": "Times of India",
         "time_ago": "1h ago",
-        "summary": "\u2018The foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades\u2019, says Bench",
+        "summary": "After eight years filled with challenges, Arpitha Rao celebrated a significant milestone by repaying her Rs 43 lakh education loan. Balancing career shifts, financial responsibilities, and motherhood, she made a trip to ",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Nine rescue personnel feared missing as boats capsize in Telangana\u2019s swollen Peddacheruvu",
-        "link": "https://www.thehindu.com/news/national/telangana/nine-rescue-personnel-feared-missing-as-boats-capsize-in-swollen-peddacheruvu-in-khammam-district/article71667132.ece",
-        "source": "The Hindu",
-        "time_ago": "46m ago",
-        "summary": "According to sources, the incident occurred when the rescue teams, comprising SDRF and Fire Services personnel, ventured into the swollen rivulet to rescue the stranded fishermen",
+        "title": "'Ramayana' scores Rs 64.85 net opening in India",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collection-day-1-ranbir-kapoor-and-yash-starrer-opens-at-rs-64-85-crore-net-in-india-north-america-collections-trail-behind-initial-projections/articleshow/135589331.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "Nitesh Tiwari\u2019s film \u2018Ramayana: Rise of a Legend\u2019 began its run with Rs 64.85 crore net on Day 1. Although strong pre-sales were reported, the figures did not meet the anticipated Rs 100 crore opening. The collections va",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Mahadev app co-promoter Ravi Uppal arrested in UAE, India moves for his extradition",
-        "link": "https://www.thehindu.com/news/national/mahadev-app-co-promoter-ravi-uppal-arrested-in-uae-india-moves-for-his-extradition/article71668416.ece",
-        "source": "The Hindu",
-        "time_ago": "47m ago",
-        "summary": "Authorities in Dubai arrested a 46-year-old Ravi Uppal based on an Interpol Red Notice issued by Indian probe agencies, officials told PTI",
+        "title": "Fire Erupts At Delhi's Karol Bagh Days Before Diwali, 22 Fire Engines Rushed To Spot",
+        "link": "https://www.ndtv.com/delhi-news/fire-erupts-in-delhis-karol-bagh-gaffar-market-days-before-diwali-22-fire-engines-rushed-to-spot-12290478#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "9m ago",
+        "summary": "The Delhi Fire Service said additional water bowsers and lighting equipment had also been sent to the spot to support the firefighting operation.",
         "covered_by": [
-          "The Hindu",
+          "NDTV",
           "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+        "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "The order comes after Trump made a series of big changes the Oval Office  decor and launched landmark construction projects across Washington.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "California governor commutes sentences of more than 500 people on death row",
+        "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Champions League Power Rankings: PSG hold top spot as Como surge under Cesc Fabregas",
-        "link": "https://www.cbssports.com/soccer/news/champions-league-power-rankings-psg-como-real-madrid-manchester-united/",
+        "title": "Baylor football coaching search 2026: Candidates, hot board, names to watch from Bears experts",
+        "link": "https://www.cbssports.com/college-football/news/baylor-football-coaching-search-2026-candidates-hot-board-biggest-names-to-watch/",
         "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "PSG lead the pack through four matchdays as Como surge behind a nine-goal explosion and Liverpool stumble during a chaotic week",
+        "time_ago": "3h ago",
+        "summary": "The Bears Illustrated team just revealed their top Baylor coaching candidates after Dave Aranda was fired on Sunday, Oct. 25",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "LIV to wind down after backers withdraw support",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&at_campaign=rss",
+        "title": "Best Kalshi promo code CBSSPORTS55: Secure $55 bonus for Jaguars vs. Ravens, Thursday Night Football picks",
+        "link": "https://www.cbssports.com/nfl/news/best-kalshi-promo-code-cbssports55-secure-55-bonus-jaguars-vs-ravens-thursday-night-football-picks/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on the NFL Week 9 Jaguars vs. Ravens TNF matchup",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Antonelli says 2027 preparation starts now",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "4h ago",
-        "summary": "LIV Golf is set to announce on Thursday it will wind down after a financing firm retracted its support.",
+        "time_ago": "5h ago",
+        "summary": "New world champion Kimi Antonelli says he is treating the final races of the season as the beginnings of his campaign to retain the title next year.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Use DraftKings promo code to claim $200 bonus + free NBA League Pass for Pistons-76ers, NBA, college football",
-        "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-200-bonus-free-nba-league-pass-pistons-76ers-nba-college-football-wednesday/",
-        "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NBA, college football, NFL betting on Wednesday",
-        "covered_by": [
-          "CBS Sports"
+          "BBC Sport"
         ]
       }
     ],
     "tech": [
       {
-        "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
-        "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
         "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Apple is reportedly cutting budgets for its internal AI usage",
-        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-        "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+        "time_ago": "6h ago",
+        "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "OpenAI is already trying to shape the 2028 election",
-        "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant\u2019s own business interests.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
-        "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+        "title": "OpenAI released a new cybersecurity model. Is that enough?",
+        "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
         "source": "TechCrunch",
         "time_ago": "7h ago",
-        "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+        "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Anthropic is working on a system to prove AI models\u2019 identity",
-        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-        "covered_by": [
-          "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "Apple is reportedly cutting budgets for its internal AI usage",
-        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+        "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
         "source": "TechCrunch",
-        "time_ago": "1h ago",
-        "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+        "time_ago": "2h ago",
+        "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
         "covered_by": [
-          "Ars Technica",
           "TechCrunch"
         ]
       }
