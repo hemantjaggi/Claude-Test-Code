@@ -1,117 +1,25 @@
 {
-  "generated_at": "2026-11-07T02:14:29.045057+00:00",
+  "generated_at": "2026-11-08T01:43:49.242231+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "Karnataka woman's seed-saving spans 30 villages, wins Rs 10 lakh award",
-        "link": "https://timesofindia.indiatimes.com/life-style/people/in-2018-a-karnataka-woman-brought-14-others-together-to-save-disappearing-traditional-crop-seeds-eight-years-later-their-work-spans-30-villages-and-they-have-been-selected-for-a-national-award-worth-rs-10-lakh/articleshow/135601913.cms",
-        "source": "Times of India",
-        "time_ago": "19m ago",
-        "summary": "The Bibi Fatima Women's Self-Help Group, spearheaded by Bibijaan Maulasaab Halemani, has successfully revitalized millet agriculture in Karnataka. Spanning 30 villages, this collective empowers local farmers to preserve ",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Venezuelan Man Arrested Near White House Over Alleged Plot To Kill Trump",
-        "link": "https://www.ndtv.com/world-news/venezuela-man-ronny-yordrix-guanipa-chrinos-arrested-near-white-house-over-alleged-plot-to-kill-trump-12295257#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "35m ago",
-        "summary": "The arrest Thursday night happened after Secret Service officers approached a man \"acting suspicious\" in a parked car, according to a Homeland Security statement.",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Who is Stephen Miller? Trump hardliner gets top White House job",
-        "link": "https://timesofindia.indiatimes.com/world/us/stephen-miller-key-architect-of-trumps-immigration-crackdown-appointed-white-house-chief-of-staff/articleshow/135623862.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "In a significant shift, Donald Trump named Stephen Miller as the new White House chief of staff, a decision that has generated alarm among Democratic lawmakers. Known for his contentious stance on immigration, Miller's r",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Brandon Aiyuk returns to 49ers offices to seek NFL reinstatement as $13 million problem looms",
-        "link": "https://www.cbssports.com/nfl/news/brandon-aiyuk-returns-49ers-offices-13-million-problem-looms/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "The wide receiver says he is 100% healthy and filing for NFL reinstatement, though a $13 million financial dispute remains",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "UConn vs. Michigan prediction, odds, betting preview: College basketball picks, best bets for Friday, Nov. 6",
-        "link": "https://www.cbssports.com/betting/news/uconn-vs-michigan-prediction-odds-betting-preview-college-basketball-picks-best-bets-friday-nov-6/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "College basketball best bets and betting preview for UConn vs. Michigan on Friday",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Illinois vs. Nebraska betting preview: Odds picks, start time, spread for Friday college football Week 10",
-        "link": "https://www.cbssports.com/betting/news/illinois-vs-nebraska-betting-preview-odds-picks-start-time-spread-friday-college-football-week-10/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "The Cornhuskers will try and get back on track when they visit the Fighting Illini on Friday",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-        "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-        "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-        "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-        "source": "Ars Technica",
-        "time_ago": "12h ago",
-        "summary": "Lawmakers want answers about Jensen Huang\u2019s ties to an alleged Chinese intelligence asset.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
     "ai": [
       {
         "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
         "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
         "source": "TechCrunch",
-        "time_ago": "7h ago",
+        "time_ago": "1d ago",
         "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -122,8 +30,21 @@
         "title": "Crusoe sells troubled Wyoming data center project to Google",
         "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
         "source": "TechCrunch",
-        "time_ago": "34m ago",
+        "time_ago": "1d ago",
         "summary": "The deal highlights the challenges of developing massive AI data centers.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
@@ -133,43 +54,122 @@
         "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
         "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
         "source": "TechCrunch",
-        "time_ago": "3h ago",
+        "time_ago": "1d ago",
         "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
+      },
+      {
+        "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+        "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Congress donations plunge 75% to Rs 131 cr, lowest in 3 years",
+        "link": "https://timesofindia.indiatimes.com/india/congress-donations-plunge-75-to-rs-131-cr-lowest-in-3years/articleshow/135648682.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Elephant calf airlifted from Keralam to Vantara for life-saving treatment",
+        "link": "https://timesofindia.indiatimes.com/india/elephant-calf-airlifted-from-keralam-to-vantara-for-life-saving-treatment/articleshow/135648643.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece",
+        "source": "The Hindu",
+        "time_ago": "4h ago",
+        "summary": "As of 9 p.m., the TDP wins 229 ZPTCs and 4,823 MPTCs, JSP 36 and 644, BJP eight and 130, and YSRCP 20 and 1,050;  TDP upsets YSRCP by wresting Pulivendula ZPTC; fruit of good governance, says Lokesh",
+        "covered_by": [
+          "The Hindu"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Billam-Smith stopped as Clarke repeats amateur win",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/c6ly3mr522vpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "48m ago",
+        "summary": "Former cruiserweight world champion Chris Billam-Smith is knocked down and stopped for the first time in his professional career as Chev Clarke wins their non-title bout.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1h ago",
+        "summary": "It was unclear whether the president's public job offer was genuine, although White said later on Saturday: \"I got a lot of jobs already.\"",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Week 9 NFL odds, picks, predictions: Computer model backs Chiefs and Commanders",
+        "link": "https://www.cbssports.com/betting/news/nfl-odds-lines-picks-game-predictions-best-bets-for-week-9-2026/",
+        "source": "CBS Sports",
+        "time_ago": "58m ago",
+        "summary": "SportsLine's advanced model has simulated every game in the Week 9 NFL schedule 10,000 times and locked in its NFL best bets today",
+        "covered_by": [
+          "CBS Sports"
+        ]
       }
     ],
     "world": [
       {
-        "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+        "title": "Eisenkot chosen over Netanyahu to form Israel\u2019s next government",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
         "source": "Al Jazeera",
         "time_ago": "1h ago",
-        "summary": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+        "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+        "title": "Polish PM calls deadly Krakow shooting an act of \u2018terrorism\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
+        "time_ago": "53m ago",
+        "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of \u2018terrorism\u2019.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Paraguay\u2019s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-        "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+        "title": "Ukraine\u2019s Zaporizhzhia faces threat as Russian drones close in",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+        "time_ago": "5h ago",
+        "summary": "Ukraine\u2019s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
