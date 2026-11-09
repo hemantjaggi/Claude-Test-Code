@@ -1,13 +1,48 @@
 {
-  "generated_at": "2026-11-08T01:43:49.242231+00:00",
+  "generated_at": "2026-11-09T01:51:40.295308+00:00",
   "categories": {
-    "ai": [
+    "india": [
       {
-        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-        "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+        "title": "Karnataka tests petrol samples at 67 locations over ethanol blending complaints: CM Shivakumar",
+        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-tests-petrol-samples-at-67-locations-over-ethanol-blending-complaints-cm-shivakumar/article71681265.ece",
+        "source": "The Hindu",
+        "time_ago": "24m ago",
+        "summary": "According to the CM, inspections had been carried out not only at petrol pumps but also at the stages of ethanol blending and distribution",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Nvidia Launches Probe Into CEO Jensen Huang's Affair With Suspected Chinese Spy",
+        "link": "https://www.ndtv.com/world-news/nvidia-launches-probe-into-ceo-jensen-huangs-affair-with-suspected-chinese-spy-12301484#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "24m ago",
+        "summary": "The announcement came after Huang acknowledged to the board that he had been intimate with a business executive whom US intelligence determined was gathering information for China.",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "'Dimagi Naxal' remark a brazen assault: Congress",
+        "link": "https://timesofindia.indiatimes.com/india/dimagi-naxal-remark-a-brazen-assault-congress/articleshow/135667692.cms",
+        "source": "Times of India",
+        "time_ago": "32m ago",
+        "summary": "",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+        "time_ago": "4h ago",
+        "summary": "In a memo to the company, Huang admitted that he had an affair.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -15,10 +50,101 @@
         ]
       },
       {
+        "title": "The Duo apps are coming, says Apple",
+        "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+        "source": "TechCrunch",
+        "time_ago": "2d ago",
+        "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+        "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+        "source": "TechCrunch",
+        "time_ago": "6h ago",
+        "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "India\u2019s night lights up for Diwali",
+        "link": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Iran waiting to resume talks after US midterms \u2018shock\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "5h ago",
+        "summary": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Deadly sand cliff collapses on displaced families in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "Deadly sand cliff collapses on displaced families in Gaza",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Jon Rahm beats Rory McIlroy to win Abu Dhabi Championship in first start since LIV Golf exit",
+        "link": "https://www.cbssports.com/golf/news/jon-rahm-abu-dhabi-championship-2026-rory-mcilroy-tyrrell-hatton/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "A back-nine surge carried the Spaniard to a two-shot victory over Tyrrell Hatton at Yas Links",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Buccaneers vs. Bears odds: NFL Week 9 Sunday Night Football first touchdown scorer picks, predictions",
+        "link": "https://www.cbssports.com/betting/news/buccaneers-vs-bears-odds-nfl-week-9-sunday-night-football-first-touchdown-scorer-picks-predictions/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Here are our top picks for first touchdown prediction markets on Sunday Night Football between the Bears and Buccaneers",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "11h ago",
+        "summary": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage \u2013 for better or worse.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "ai": [
+      {
         "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
         "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
         "covered_by": [
           "Ars Technica",
@@ -27,152 +153,25 @@
         ]
       },
       {
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "The deal highlights the challenges of developing massive AI data centers.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
         "source": "TechCrunch",
         "time_ago": "4h ago",
-        "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-        "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "summary": "In a memo to the company, Huang admitted that he had an affair.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-        "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "source": "TechCrunch",
+        "time_ago": "2d ago",
+        "summary": "The deal highlights the challenges of developing massive AI data centers.",
         "covered_by": [
           "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Congress donations plunge 75% to Rs 131 cr, lowest in 3 years",
-        "link": "https://timesofindia.indiatimes.com/india/congress-donations-plunge-75-to-rs-131-cr-lowest-in-3years/articleshow/135648682.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Elephant calf airlifted from Keralam to Vantara for life-saving treatment",
-        "link": "https://timesofindia.indiatimes.com/india/elephant-calf-airlifted-from-keralam-to-vantara-for-life-saving-treatment/articleshow/135648643.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "NDA extends winning streak, set to crush YSRCP in ZPTC and MPTC elections as well",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/nda-continues-its-winning-streak-set-to-crush-ysrcp-in-zptc-and-mptc-elections-as-well/article71678807.ece",
-        "source": "The Hindu",
-        "time_ago": "4h ago",
-        "summary": "As of 9 p.m., the TDP wins 229 ZPTCs and 4,823 MPTCs, JSP 36 and 644, BJP eight and 130, and YSRCP 20 and 1,050;  TDP upsets YSRCP by wresting Pulivendula ZPTC; fruit of good governance, says Lokesh",
-        "covered_by": [
-          "The Hindu"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Billam-Smith stopped as Clarke repeats amateur win",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/c6ly3mr522vpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "48m ago",
-        "summary": "Former cruiserweight world champion Chris Billam-Smith is knocked down and stopped for the first time in his professional career as Chev Clarke wins their non-title bout.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-        "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "1h ago",
-        "summary": "It was unclear whether the president's public job offer was genuine, although White said later on Saturday: \"I got a lot of jobs already.\"",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Week 9 NFL odds, picks, predictions: Computer model backs Chiefs and Commanders",
-        "link": "https://www.cbssports.com/betting/news/nfl-odds-lines-picks-game-predictions-best-bets-for-week-9-2026/",
-        "source": "CBS Sports",
-        "time_ago": "58m ago",
-        "summary": "SportsLine's advanced model has simulated every game in the Week 9 NFL schedule 10,000 times and locked in its NFL best bets today",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Eisenkot chosen over Netanyahu to form Israel\u2019s next government",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Polish PM calls deadly Krakow shooting an act of \u2018terrorism\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "53m ago",
-        "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of \u2018terrorism\u2019.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Ukraine\u2019s Zaporizhzhia faces threat as Russian drones close in",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "Ukraine\u2019s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "TechCrunch"
         ]
       }
     ]
