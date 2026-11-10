@@ -1,48 +1,13 @@
 {
-  "generated_at": "2026-11-09T01:51:40.295308+00:00",
+  "generated_at": "2026-11-10T04:15:30.647203+00:00",
   "categories": {
-    "india": [
+    "ai": [
       {
-        "title": "Karnataka tests petrol samples at 67 locations over ethanol blending complaints: CM Shivakumar",
-        "link": "https://www.thehindu.com/news/national/karnataka/karnataka-tests-petrol-samples-at-67-locations-over-ethanol-blending-complaints-cm-shivakumar/article71681265.ece",
-        "source": "The Hindu",
-        "time_ago": "24m ago",
-        "summary": "According to the CM, inspections had been carried out not only at petrol pumps but also at the stages of ethanol blending and distribution",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Nvidia Launches Probe Into CEO Jensen Huang's Affair With Suspected Chinese Spy",
-        "link": "https://www.ndtv.com/world-news/nvidia-launches-probe-into-ceo-jensen-huangs-affair-with-suspected-chinese-spy-12301484#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "24m ago",
-        "summary": "The announcement came after Huang acknowledged to the board that he had been intimate with a business executive whom US intelligence determined was gathering information for China.",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "'Dimagi Naxal' remark a brazen assault: Congress",
-        "link": "https://timesofindia.indiatimes.com/india/dimagi-naxal-remark-a-brazen-assault-congress/articleshow/135667692.cms",
-        "source": "Times of India",
-        "time_ago": "32m ago",
-        "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
-        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
+        "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "In a memo to the company, Huang admitted that he had an affair.",
+        "time_ago": "2d ago",
+        "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communit",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -50,128 +15,163 @@
         ]
       },
       {
-        "title": "The Duo apps are coming, says Apple",
-        "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
         "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+        "time_ago": "4h ago",
+        "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-        "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+        "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+        "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
         "source": "TechCrunch",
-        "time_ago": "6h ago",
-        "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+        "time_ago": "5h ago",
+        "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+        "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+        "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+        "source": "TechCrunch",
+        "time_ago": "10h ago",
+        "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
         "covered_by": [
           "TechCrunch"
         ]
       }
     ],
-    "world": [
-      {
-        "title": "India\u2019s night lights up for Diwali",
-        "link": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Iran waiting to resume talks after US midterms \u2018shock\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Deadly sand cliff collapses on displaced families in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "Deadly sand cliff collapses on displaced families in Gaza",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
     "sports": [
       {
-        "title": "Jon Rahm beats Rory McIlroy to win Abu Dhabi Championship in first start since LIV Golf exit",
-        "link": "https://www.cbssports.com/golf/news/jon-rahm-abu-dhabi-championship-2026-rory-mcilroy-tyrrell-hatton/",
+        "title": "Why NFL trade deadline evolved from afterthought to hectic: In-season transaction boom is league's new normal",
+        "link": "https://www.cbssports.com/nfl/news/why-nfl-trade-deadline-evolved-from-afterthought-to-hectic-new-normal/",
         "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "A back-nine surge carried the Spaniard to a two-shot victory over Tyrrell Hatton at Yas Links",
+        "time_ago": "5h ago",
+        "summary": "After a record-breaking trade deadline in 2025 and with an active transaction wire in 2026, the times are a-changin' in the NFL",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Buccaneers vs. Bears odds: NFL Week 9 Sunday Night Football first touchdown scorer picks, predictions",
-        "link": "https://www.cbssports.com/betting/news/buccaneers-vs-bears-odds-nfl-week-9-sunday-night-football-first-touchdown-scorer-picks-predictions/",
+        "title": "Best Kalshi promo code CBSSPORTS55: Get $55 bonus for Bills vs. Vikings, Monday Night Football predictions",
+        "link": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-get-55-bonus-bills-vs-vikings-monday-night-football-predictions/",
         "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Here are our top picks for first touchdown prediction markets on Sunday Night Football between the Bears and Buccaneers",
+        "time_ago": "4h ago",
+        "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on the NFL Week 9 Bills vs. Vikings MNF matchup",
         "covered_by": [
           "CBS Sports"
         ]
       },
       {
-        "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "11h ago",
-        "summary": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage \u2013 for better or worse.",
+        "title": "Use DraftKings promo code to get $200 bonus + free NBA League Pass for Bills-Vikings, Monday Night Football",
+        "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-bills-vs-vikings-monday-night-football/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Bills vs. Vikings on Monday Night Football",
         "covered_by": [
-          "BBC Sport"
+          "CBS Sports"
         ]
       }
     ],
-    "ai": [
+    "world": [
       {
-        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-        "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+        "title": "Trump says more US attacks on Iran 'highly unlikely'",
+        "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "6m ago",
+        "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation in the Middle East change.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
-        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "In a memo to the company, Huang admitted that he had an affair.",
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "17m ago",
+        "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "The deal highlights the challenges of developing massive AI data centers.",
+        "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+        "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Deputy CM Pawan Kalyan to part ways with wife, Anna Lezhneva",
+        "link": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-to-part-ways-with-wife-anna-lezhneva/article71684784.ece",
+        "source": "The Hindu",
+        "time_ago": "1h ago",
+        "summary": "In a joint statement, the couple said that, after sharing a significant part of their lives together, they had decided to separate",
+        "covered_by": [
+          "NDTV",
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang loses $7.4bn in 30 minutes, drops 2 spots in Forbes rich list",
+        "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-ceo-jensen-huang-loses-7-4-billion-in-30-minutes-drops-2-spots-in-forbes-rich-list/articleshow/135698220.cms",
+        "source": "Times of India",
+        "time_ago": "22m ago",
+        "summary": "Nvidia's CEO Jensen Huang faced a notable drop in net worth, tumbling from $162.2 billion to $154.7 billion, following revelations of an ongoing investigation into his supposed involvement with a Chinese spy. The resulti",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Stock market today: Check if NSE, BSE are open or closed for Diwali-Balipratipada",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-nse-bse-open-or-closed-on-november-10-for-diwali-balipratipada-check-details/articleshow/135697978.cms",
+        "source": "Times of India",
+        "time_ago": "40m ago",
+        "summary": "With the festive season bringing changes to the regular trading calendar, investors may be wondering whether the stock market will remain open or closed today, Tuesday, November 10. Following a special Muhurat trading se",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
         ]
       }
     ]
