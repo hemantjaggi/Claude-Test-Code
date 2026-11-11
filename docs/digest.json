@@ -1,104 +1,105 @@
 {
-  "generated_at": "2026-11-10T04:15:30.647203+00:00",
+  "generated_at": "2026-11-11T02:07:31.912010+00:00",
   "categories": {
-    "ai": [
+    "india": [
       {
-        "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
-        "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communit",
+        "title": "Pranab Mukherjee hinted at desire to become PM, \u2018shocked\u2019 me, writes Sonia Gandhi",
+        "link": "https://www.thehindu.com/news/national/pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-writes-sonia-gandhi/article71686777.ece",
+        "source": "The Hindu",
+        "time_ago": "40m ago",
+        "summary": "In her memoir, former Congress president recalls 2010 conversation; Pranab Mukherjee\u2019s daughter Sharmistha asks what there was to be shocked about, says it is not a crime to be ambitious",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-        "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+        "title": "US House Rejects Effort To Impeach Defence Chief Pete Hegseth",
+        "link": "https://www.ndtv.com/world-news/us-house-rejects-effort-to-impeach-defence-chief-pete-hegseth-12310329#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "1h ago",
+        "summary": "Republicans in the US House of Representatives on Tuesday blocked an effort to impeach Defense Secretary Pete Hegseth over the Iran war, handing President Donald Trump a victory days after his party's crushing midterm el",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "NDTV",
+          "Times of India"
         ]
       },
       {
-        "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
-        "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "title": "Woman, son die after being found injured at home in Mattannur",
+        "link": "https://www.thehindu.com/news/national/kerala/woman-son-die-after-being-found-injured-at-home-in-mattannur/article71686225.ece",
+        "source": "The Hindu",
+        "time_ago": "8h ago",
+        "summary": "",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
-    "tech": [
+    "ai": [
       {
-        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-        "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+        "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+        "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+        "source": "Ars Technica",
+        "time_ago": "3h ago",
+        "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+        "time_ago": "6h ago",
+        "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
-        "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+        "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
+        "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "time_ago": "9h ago",
+        "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-        "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-        "source": "TechCrunch",
-        "time_ago": "10h ago",
-        "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-        "covered_by": [
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Why NFL trade deadline evolved from afterthought to hectic: In-season transaction boom is league's new normal",
-        "link": "https://www.cbssports.com/nfl/news/why-nfl-trade-deadline-evolved-from-afterthought-to-hectic-new-normal/",
+        "title": "NFL trade deadline aftermath: Which teams improved, which teams should have made moves",
+        "link": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-aftermath-vikings-chiefs-improve/",
         "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "After a record-breaking trade deadline in 2025 and with an active transaction wire in 2026, the times are a-changin' in the NFL",
+        "time_ago": "1h ago",
+        "summary": "The Vikings and Chiefs were among the teams that got better, but the Chargers really dropped the ball on Tuesday",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Best Kalshi promo code CBSSPORTS55: Get $55 bonus for Bills vs. Vikings, Monday Night Football predictions",
-        "link": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-get-55-bonus-bills-vs-vikings-monday-night-football-predictions/",
-        "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on the NFL Week 9 Bills vs. Vikings MNF matchup",
+        "title": "England hammer Australia to reach final",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cm5ynyez127xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "9h ago",
+        "summary": "Rob Hawkins scores five tries as England hammer Australia 86-18 to reach the Wheelchair Rugby League World Cup final.",
         "covered_by": [
-          "CBS Sports"
+          "BBC Sport"
         ]
       },
       {
-        "title": "Use DraftKings promo code to get $200 bonus + free NBA League Pass for Bills-Vikings, Monday Night Football",
-        "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-bills-vs-vikings-monday-night-football/",
+        "title": "Thunder vs. Blazers prediction, odds, time: 2026 NBA picks for Tuesday, Nov. 10 from proven model",
+        "link": "https://www.cbssports.com/betting/news/thunder-blazers-prediction-odds-time-2026-nba-picks-best-bets-for-tuesday-november-10/",
         "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Bills vs. Vikings on Monday Night Football",
+        "time_ago": "56m ago",
+        "summary": "SportsLine's model reveals its Portland Trail Blazers vs. Oklahoma City Thunder best bets for Tuesday's matchup",
         "covered_by": [
           "CBS Sports"
         ]
@@ -106,72 +107,72 @@
     ],
     "world": [
       {
-        "title": "Trump says more US attacks on Iran 'highly unlikely'",
-        "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "6m ago",
-        "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation in the Middle East change.",
+        "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+        "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "17m ago",
-        "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+        "time_ago": "52m ago",
+        "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-        "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+        "title": "Spain holds state funeral for 69 victims of deadly train crash",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Spain\u2019s King and Queen have joined families of the 69 victims from a deadly train collision at a state funeral.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       }
     ],
-    "india": [
+    "tech": [
       {
-        "title": "Deputy CM Pawan Kalyan to part ways with wife, Anna Lezhneva",
-        "link": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-to-part-ways-with-wife-anna-lezhneva/article71684784.ece",
-        "source": "The Hindu",
-        "time_ago": "1h ago",
-        "summary": "In a joint statement, the couple said that, after sharing a significant part of their lives together, they had decided to separate",
+        "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
+        "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
         "covered_by": [
-          "NDTV",
-          "The Hindu",
-          "Times of India"
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Nvidia CEO Jensen Huang loses $7.4bn in 30 minutes, drops 2 spots in Forbes rich list",
-        "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-ceo-jensen-huang-loses-7-4-billion-in-30-minutes-drops-2-spots-in-forbes-rich-list/articleshow/135698220.cms",
-        "source": "Times of India",
-        "time_ago": "22m ago",
-        "summary": "Nvidia's CEO Jensen Huang faced a notable drop in net worth, tumbling from $162.2 billion to $154.7 billion, following revelations of an ongoing investigation into his supposed involvement with a Chinese spy. The resulti",
+        "title": "Google Fi adds support for a second 5G network, won't say which one",
+        "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+        "source": "Ars Technica",
+        "time_ago": "6h ago",
+        "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
         "covered_by": [
-          "NDTV",
-          "Times of India"
+          "Ars Technica",
+          "TechCrunch"
         ]
       },
       {
-        "title": "Stock market today: Check if NSE, BSE are open or closed for Diwali-Balipratipada",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-nse-bse-open-or-closed-on-november-10-for-diwali-balipratipada-check-details/articleshow/135697978.cms",
-        "source": "Times of India",
-        "time_ago": "40m ago",
-        "summary": "With the festive season bringing changes to the regular trading calendar, investors may be wondering whether the stock market will remain open or closed today, Tuesday, November 10. Following a special Muhurat trading se",
+        "title": "Pixel Tag, Google\u2019s $30 Android-ready answer to Apple\u2019s AirTag, is now available",
+        "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
         "covered_by": [
-          "NDTV",
-          "Times of India"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ]
