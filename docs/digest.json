@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-11-12T03:16:02.875929+00:00",
+  "generated_at": "2026-11-13T02:49:51.178808+00:00",
   "categories": {
     "ai": [
       {
-        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-        "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
         "source": "TechCrunch",
-        "time_ago": "2m ago",
-        "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
+        "time_ago": "5h ago",
+        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Taiwan\u2019s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-        "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+        "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+        "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
         "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "Latest example of the AI boom\u2019s circular financing comes as AI trade wobbles.",
+        "time_ago": "7h ago",
+        "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
+          "The Verge"
         ]
       },
       {
-        "title": "Google DeepMind just mathematically verified key parts of Signal",
-        "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-        "source": "Ars Technica",
-        "time_ago": "13h ago",
-        "summary": "The four-week project hints that AI could make formal verification far more practical.",
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+        "source": "TechCrunch",
+        "time_ago": "23h ago",
+        "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
         "covered_by": [
-          "Ars Technica",
+          "TechCrunch",
           "The Verge"
         ]
       }
     ],
     "tech": [
       {
-        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-        "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
         "source": "TechCrunch",
-        "time_ago": "2m ago",
-        "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
+        "time_ago": "5h ago",
+        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -50,22 +50,22 @@
         ]
       },
       {
-        "title": "Taiwan\u2019s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-        "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-        "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "Latest example of the AI boom\u2019s circular financing comes as AI trade wobbles.",
+        "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+        "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "Google DeepMind just mathematically verified key parts of Signal",
-        "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+        "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+        "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
         "source": "Ars Technica",
-        "time_ago": "13h ago",
-        "summary": "The four-week project hints that AI could make formal verification far more practical.",
+        "time_ago": "7h ago",
+        "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
         "covered_by": [
           "Ars Technica",
           "The Verge"
@@ -74,68 +74,67 @@
     ],
     "india": [
       {
-        "title": "Jensen Huang had another affair with Nvidia VP who reported to him: Report",
-        "link": "https://timesofindia.indiatimes.com/world/us/jensen-huang-had-another-affair-with-nvidia-vp-who-reported-to-him-report/articleshow/135752375.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Nvidia Working With Outside Firm To Find CEO Jensen Huang's Replacement: Report",
-        "link": "https://www.ndtv.com/world-news/nvidia-working-with-outside-firm-to-find-ceo-jensen-huangs-replacement-report-12314932#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "1h ago",
-        "summary": "The crisis escalated late Wednesday, when the Times reported that Jensen Huang also had a relationship with Kimberly Powell, Nvidia's vice president of healthcare.",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Two SPOs go missing in J&K's Kishtwar; massive search operation launched",
-        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-spos-go-missing-in-jks-kishtwar-massive-search-operation-launched/article71692139.ece",
+        "title": "Restrictions on me arbitrary, vague: Sonam Wangchuk",
+        "link": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece",
         "source": "The Hindu",
-        "time_ago": "1h ago",
-        "summary": "The officials said the two SPOs were travelling from Kiyar camp to an Army post at Dharna-Marwah when they failed to reach their destination",
+        "time_ago": "38m ago",
+        "summary": "The Ladakh administration shifted the activist from a protest venue to his residence in Leh and has been allegedly restrained from leaving his residence",
         "covered_by": [
           "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Nvidia sheds $1 trillion in a month; Huang slips to 13th on Forbes rich list",
+        "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-loses-over-1-trillion-in-a-month-amid-spy-scandal-jensen-huang-slips-to-13th-on-forbes-rich-list/articleshow/135786177.cms",
+        "source": "Times of India",
+        "time_ago": "47m ago",
+        "summary": "Nvidia faced a sharp decline in stock value following CEO Jensen Huang's surprising resignation, igniting fears about its leadership stability. In just one week, the company's market value plummeted by nearly $500 billio",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Nvidia scandal: White House weighs 'ouster' of top Trump aide over China chip exports",
+        "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-scandal-white-house-weighs-ouster-of-top-trump-aide-over-china-chip-exports/articleshow/135786410.cms",
+        "source": "Times of India",
+        "time_ago": "38m ago",
+        "summary": "",
+        "covered_by": [
           "Times of India"
         ]
       }
     ],
     "world": [
       {
-        "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-        "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+        "time_ago": "10m ago",
+        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Argentina\u2019s Milei cries as he bids farewell to the Pope",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Barcelona erupts in violence after general strike",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
+        "title": "Russian court jails rights lawyer for 12 years on treason charge",
+        "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
         "source": "Al Jazeera",
         "time_ago": "3h ago",
-        "summary": "Protesters hurled fireworks at police and set rubbish bins ablaze in Barcelona after Spain\u2019s general strike.",
+        "summary": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+        "link": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "6h ago",
+        "summary": "The baby's father said he died of hypothermia overnight in their family's tent in southern Gaza.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
@@ -144,33 +143,33 @@
     ],
     "sports": [
       {
-        "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "11h ago",
-        "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Bethell out of Australia trip and doubt for SA",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/ckvg25q0n61jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "17h ago",
-        "summary": "Jacob Bethell is ruled out of England\u2019s white-ball tour of Australia and is a huge doubt for the Test tour of South Africa following the recurrence of a knee injury.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "Buffalo vs. Ball State picks, odds, prediction, start time: College football betting preview for Wednesday",
-        "link": "https://www.cbssports.com/betting/news/buffalo-vs-ball-state-picks-odds-prediction-start-time-college-football-betting-preview-for-wednesday/",
+        "title": "Best Kalshi promo code CBSSPORTS55: Secure $55 bonus for Commanders vs. Giants, Thursday Night Football picks",
+        "link": "https://www.cbssports.com/prediction/news/best-kalshi-promo-code-cbssports55-secure-55-bonus-commanders-vs-giants-thursday-night-football-picks/",
         "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "Ball State faces Buffalo on Wednesday for a Week 11 college football matchup",
+        "time_ago": "2h ago",
+        "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on the NFL Week 10 Commander vs. Giants TNF matchup",
         "covered_by": [
           "CBS Sports"
+        ]
+      },
+      {
+        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "10h ago",
+        "summary": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "'A lie' - Palmer committed to England, says Rogers",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "3h ago",
+        "summary": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
