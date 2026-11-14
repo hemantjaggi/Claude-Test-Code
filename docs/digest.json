@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-11-13T02:49:51.178808+00:00",
+  "generated_at": "2026-11-14T02:37:29.107317+00:00",
   "categories": {
-    "ai": [
+    "sports": [
       {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "title": "College football teams scrambling to find alternate travel plans after FAA lifts ground-stop order",
+        "link": "https://www.cbssports.com/college-football/news/faa-ground-stoppage-college-football-teams-travel-plans/",
+        "source": "CBS Sports",
+        "time_ago": "7m ago",
+        "summary": "The nationwide ground stoppage could have a major impact on Week 11 in college football",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "CBS Sports",
+          "ESPN"
         ]
       },
       {
-        "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-        "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-        "source": "Ars Technica",
-        "time_ago": "7h ago",
-        "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+        "title": "First Cousins: QB to get start vs. Packers in Vikings return",
+        "link": "https://www.espn.com/nfl/story/_/id/50474753/vikings-start-reacquired-qb-kirk-cousins-vs-packers",
+        "source": "ESPN",
+        "time_ago": "58m ago",
+        "summary": "Coach Kevin O'Connell called Kirk Cousins' ability to get reacquainted with the Vikings' offense \"impressive.\"",
         "covered_by": [
-          "Ars Technica",
-          "The Verge"
+          "CBS Sports",
+          "ESPN"
         ]
       },
       {
-        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-        "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-        "source": "TechCrunch",
-        "time_ago": "23h ago",
-        "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
+        "title": "Murray wants trade from Pelicans; both sides working on resolution",
+        "link": "https://www.espn.com/nba/story/_/id/50473732/sources-dejounte-murray-wants-trade-pelicans",
+        "source": "ESPN",
+        "time_ago": "58m ago",
+        "summary": "Pelicans guard Dejounte Murray wants a trade from the franchise, and his agent, Klutch Sports CEO Rich Paul, and team officials have started working on a resolution.",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "CBS Sports",
+          "ESPN"
         ]
       }
     ],
     "tech": [
       {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "title": "Microsoft\u2019s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+        "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+        "source": "Ars Technica",
+        "time_ago": "11h ago",
+        "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -50,132 +50,134 @@
         ]
       },
       {
-        "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
-        "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+        "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+        "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
         "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+        "time_ago": "3h ago",
+        "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
+        "title": "Amazon\u2019s new Kindle Colorsoft is a premium e-reader with a premium price",
+        "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there\u2019s little reason to upgrade.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "ai": [
+      {
         "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
         "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
         "source": "Ars Technica",
-        "time_ago": "7h ago",
+        "time_ago": "1d ago",
         "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
         "covered_by": [
           "Ars Technica",
           "The Verge"
         ]
+      },
+      {
+        "title": "Jensen Huang agrees to testify before Congress",
+        "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+        "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "source": "TechCrunch",
+        "time_ago": "10h ago",
+        "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Microsoft services begin recovering after global outage",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Pope Leo cheered on return to Peru city where he served as bishop",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "5h ago",
+        "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "6h ago",
+        "summary": "Scott Bessent suggests Howard Lutnick\u2019s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
       }
     ],
     "india": [
       {
-        "title": "Restrictions on me arbitrary, vague: Sonam Wangchuk",
-        "link": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece",
+        "title": "Microsoft outage hits businesses worldwide; India feels impact",
+        "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-hits-businesses-worldwide-india-feels-impact/article71698919.ece",
         "source": "The Hindu",
-        "time_ago": "38m ago",
-        "summary": "The Ladakh administration shifted the activist from a protest venue to his residence in Leh and has been allegedly restrained from leaving his residence",
+        "time_ago": "46m ago",
+        "summary": "Disruption to Microsoft\u2019s cloud-based email service affects business operations and airline customer support in India; public services in several countries also report problems",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Nvidia sheds $1 trillion in a month; Huang slips to 13th on Forbes rich list",
-        "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-loses-over-1-trillion-in-a-month-amid-spy-scandal-jensen-huang-slips-to-13th-on-forbes-rich-list/articleshow/135786177.cms",
+        "title": "Congress launches website to help voters check SIR deletions, seek restoration",
+        "link": "https://www.thehindu.com/news/national/congress-launches-website-to-help-voters-check-sir-deletions-seek-restoration/article71699249.ece",
+        "source": "The Hindu",
+        "time_ago": "55m ago",
+        "summary": "Announcing the initiative, Congress general secretary (organisation) K.C. Venugopal said the website,\u00a0Iamvoterakshak.in, would allow citizens to verify their names and formally protest against deletions by applying for r",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Trump, Xi and Putin set for unprecedented trilateral meeting in China",
+        "link": "https://timesofindia.indiatimes.com/world/us/trump-xi-and-putin-set-for-unprecedented-trilateral-meeting-in-china/articleshow/135819647.cms",
         "source": "Times of India",
-        "time_ago": "47m ago",
-        "summary": "Nvidia faced a sharp decline in stock value following CEO Jensen Huang's surprising resignation, igniting fears about its leadership stability. In just one week, the company's market value plummeted by nearly $500 billio",
+        "time_ago": "2h ago",
+        "summary": "",
         "covered_by": [
           "NDTV",
           "Times of India"
-        ]
-      },
-      {
-        "title": "Nvidia scandal: White House weighs 'ouster' of top Trump aide over China chip exports",
-        "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-scandal-white-house-weighs-ouster-of-top-trump-aide-over-china-chip-exports/articleshow/135786410.cms",
-        "source": "Times of India",
-        "time_ago": "38m ago",
-        "summary": "",
-        "covered_by": [
-          "Times of India"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-        "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "10m ago",
-        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Russian court jails rights lawyer for 12 years on treason charge",
-        "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
-        "link": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "The baby's father said he died of hypothermia overnight in their family's tent in southern Gaza.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Best Kalshi promo code CBSSPORTS55: Secure $55 bonus for Commanders vs. Giants, Thursday Night Football picks",
-        "link": "https://www.cbssports.com/prediction/news/best-kalshi-promo-code-cbssports55-secure-55-bonus-commanders-vs-giants-thursday-night-football-picks/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on the NFL Week 10 Commander vs. Giants TNF matchup",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "10h ago",
-        "summary": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      },
-      {
-        "title": "'A lie' - Palmer committed to England, says Rogers",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
-        "covered_by": [
-          "BBC Sport"
         ]
       }
     ]
   },
   "custom_topic": null,
-  "errors": [
-    "ESPN: no element found: line 1, column 0"
-  ]
+  "errors": []
 }
