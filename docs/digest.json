@@ -1,83 +1,160 @@
 {
-  "generated_at": "2026-11-14T02:37:29.107317+00:00",
+  "generated_at": "2026-11-15T02:03:33.649704+00:00",
   "categories": {
-    "sports": [
+    "tech": [
       {
-        "title": "College football teams scrambling to find alternate travel plans after FAA lifts ground-stop order",
-        "link": "https://www.cbssports.com/college-football/news/faa-ground-stoppage-college-football-teams-travel-plans/",
-        "source": "CBS Sports",
-        "time_ago": "7m ago",
-        "summary": "The nationwide ground stoppage could have a major impact on Week 11 in college football",
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
         "covered_by": [
-          "CBS Sports",
-          "ESPN"
+          "TechCrunch",
+          "The Verge"
         ]
       },
       {
-        "title": "First Cousins: QB to get start vs. Packers in Vikings return",
-        "link": "https://www.espn.com/nfl/story/_/id/50474753/vikings-start-reacquired-qb-kirk-cousins-vs-packers",
-        "source": "ESPN",
-        "time_ago": "58m ago",
-        "summary": "Coach Kevin O'Connell called Kirk Cousins' ability to get reacquainted with the Vikings' offense \"impressive.\"",
+        "title": "SpaceX returned its Starship rocket on Saturday\u2014but there's a catch",
+        "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+        "source": "Ars Technica",
+        "time_ago": "1h ago",
+        "summary": "It felt like stepping into the future.",
         "covered_by": [
-          "CBS Sports",
-          "ESPN"
+          "Ars Technica",
+          "The Verge"
         ]
       },
       {
-        "title": "Murray wants trade from Pelicans; both sides working on resolution",
-        "link": "https://www.espn.com/nba/story/_/id/50473732/sources-dejounte-murray-wants-trade-pelicans",
-        "source": "ESPN",
-        "time_ago": "58m ago",
-        "summary": "Pelicans guard Dejounte Murray wants a trade from the franchise, and his agent, Klutch Sports CEO Rich Paul, and team officials have started working on a resolution.",
+        "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
+        "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
         "covered_by": [
-          "CBS Sports",
-          "ESPN"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
-    "tech": [
+    "india": [
       {
-        "title": "Microsoft\u2019s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-        "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-        "source": "Ars Technica",
-        "time_ago": "11h ago",
-        "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+        "title": "Prince William, Kate to arrive in India in first joint overseas tour since 2022",
+        "link": "https://timesofindia.indiatimes.com/world/uk/prince-william-kate-middleton-to-attend-earthshot-prize-in-mumbai-in-first-joint-overseas-tour-since-2022/articleshow/135845243.cms",
+        "source": "Times of India",
+        "time_ago": "19m ago",
+        "summary": "Kate Middleton will join Prince William in Mumbai for the 2026 Earthshot Prize awards event. This visit marks their first overseas engagement together since her cancer diagnosis in 2024. The awards will bring together no",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
-        "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+        "title": "Indian student in UK jailed for 30 years for grooming 70 girls online",
+        "link": "https://timesofindia.indiatimes.com/world/uk/indian-student-in-uk-jailed-for-30-years-for-grooming-70-girls-online/articleshow/135844557.cms",
+        "source": "Times of India",
+        "time_ago": "2h ago",
+        "summary": "",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "Amazon\u2019s new Kindle Colorsoft is a premium e-reader with a premium price",
-        "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there\u2019s little reason to upgrade.",
+        "title": "Man held for conducting \u2018reconnaissance\u2019 of sensitive locations in Mumbai",
+        "link": "https://www.thehindu.com/news/national/maharashtra/man-held-for-conducting-reconnaissance-of-sensitive-locations-in-mumbai/article71702932.ece",
+        "source": "The Hindu",
+        "time_ago": "5h ago",
+        "summary": "Yash Singh told the police that he was tasked by social media handlers linked to mafia gangs and subversive elements to carry out a recce of sensitive areas of South Mumbai, particularly around Colaba",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "The Hindu",
+          "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "SpaceX\u2019s Starship nails a smooth return with historic catch",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "41m ago",
+        "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical \u2018chopsticks\u2019.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+        "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2d ago",
+        "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+        "covered_by": [
+          "BBC",
+          "CNN"
+        ]
+      },
+      {
+        "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+        "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "8m ago",
+        "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
+        "covered_by": [
+          "Al Jazeera"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Zuffa Boxing 13 results, highlights: Carlos Adames picks up win over Gerome Warburton in promotional debut",
+        "link": "https://www.cbssports.com/boxing/news/zuffa-boxing-13-results-highlights-carlos-adames-winner/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "Adames took the decision in his first super middleweight fight under the Zuffa Boxing banner",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "UFC 334: Fight card, date, odds and complete guide as Ciryl Gane takes on Josh Hokit in main event",
+        "link": "https://www.cbssports.com/ufc/news/ufc-334-fight-card-date-odds-location-guide/",
+        "source": "CBS Sports",
+        "time_ago": "7m ago",
+        "summary": "A pair of title fights are set to headline at Madison Square Garden in New York City",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "FAA ground stop forces NFL to reshuffle officiating crews for Week 10",
+        "link": "https://www.cbssports.com/nfl/news/nfl-major-officiating-changes-week-10-faa-ground-stop/",
+        "source": "CBS Sports",
+        "time_ago": "44m ago",
+        "summary": "The changes include one referee pulling double-duty on Sunday",
+        "covered_by": [
+          "CBS Sports"
         ]
       }
     ],
     "ai": [
       {
+        "title": "Jensen Huang was having a third affair, Reuters reports",
+        "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+        "source": "TechCrunch",
+        "time_ago": "2d ago",
+        "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
         "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
         "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
         "source": "Ars Technica",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
         "covered_by": [
           "Ars Technica",
@@ -85,99 +162,20 @@
         ]
       },
       {
-        "title": "Jensen Huang agrees to testify before Congress",
-        "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
         "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
         "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
         "source": "TechCrunch",
-        "time_ago": "10h ago",
+        "time_ago": "1d ago",
         "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       }
-    ],
-    "world": [
-      {
-        "title": "Microsoft services begin recovering after global outage",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "6h ago",
-        "summary": "Scott Bessent suggests Howard Lutnick\u2019s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Microsoft outage hits businesses worldwide; India feels impact",
-        "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-hits-businesses-worldwide-india-feels-impact/article71698919.ece",
-        "source": "The Hindu",
-        "time_ago": "46m ago",
-        "summary": "Disruption to Microsoft\u2019s cloud-based email service affects business operations and airline customer support in India; public services in several countries also report problems",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Congress launches website to help voters check SIR deletions, seek restoration",
-        "link": "https://www.thehindu.com/news/national/congress-launches-website-to-help-voters-check-sir-deletions-seek-restoration/article71699249.ece",
-        "source": "The Hindu",
-        "time_ago": "55m ago",
-        "summary": "Announcing the initiative, Congress general secretary (organisation) K.C. Venugopal said the website,\u00a0Iamvoterakshak.in, would allow citizens to verify their names and formally protest against deletions by applying for r",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Trump, Xi and Putin set for unprecedented trilateral meeting in China",
-        "link": "https://timesofindia.indiatimes.com/world/us/trump-xi-and-putin-set-for-unprecedented-trilateral-meeting-in-china/articleshow/135819647.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      }
     ]
   },
   "custom_topic": null,
-  "errors": []
+  "errors": [
+    "ESPN: no element found: line 1, column 0"
+  ]
 }
