@@ -1,140 +1,38 @@
 {
-  "generated_at": "2026-11-15T02:03:33.649704+00:00",
+  "generated_at": "2026-11-16T02:19:55.953819+00:00",
   "categories": {
     "tech": [
       {
-        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-        "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
         "source": "TechCrunch",
         "time_ago": "4h ago",
-        "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+        "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "SpaceX returned its Starship rocket on Saturday\u2014but there's a catch",
-        "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-        "source": "Ars Technica",
-        "time_ago": "1h ago",
-        "summary": "It felt like stepping into the future.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
-        "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+        "title": "Apple launches new app to study how people use AI for health",
+        "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+        "time_ago": "49m ago",
+        "summary": "Apple's new app for a study will answer everyday medical questions",
         "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
-      }
-    ],
-    "india": [
-      {
-        "title": "Prince William, Kate to arrive in India in first joint overseas tour since 2022",
-        "link": "https://timesofindia.indiatimes.com/world/uk/prince-william-kate-middleton-to-attend-earthshot-prize-in-mumbai-in-first-joint-overseas-tour-since-2022/articleshow/135845243.cms",
-        "source": "Times of India",
-        "time_ago": "19m ago",
-        "summary": "Kate Middleton will join Prince William in Mumbai for the 2026 Earthshot Prize awards event. This visit marks their first overseas engagement together since her cancer diagnosis in 2024. The awards will bring together no",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
       },
       {
-        "title": "Indian student in UK jailed for 30 years for grooming 70 girls online",
-        "link": "https://timesofindia.indiatimes.com/world/uk/indian-student-in-uk-jailed-for-30-years-for-grooming-70-girls-online/articleshow/135844557.cms",
-        "source": "Times of India",
-        "time_ago": "2h ago",
-        "summary": "",
+        "title": "Where was Nvidia\u2019s security team?",
+        "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Man held for conducting \u2018reconnaissance\u2019 of sensitive locations in Mumbai",
-        "link": "https://www.thehindu.com/news/national/maharashtra/man-held-for-conducting-reconnaissance-of-sensitive-locations-in-mumbai/article71702932.ece",
-        "source": "The Hindu",
-        "time_ago": "5h ago",
-        "summary": "Yash Singh told the police that he was tasked by social media handlers linked to mafia gangs and subversive elements to carry out a recce of sensitive areas of South Mumbai, particularly around Colaba",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "SpaceX\u2019s Starship nails a smooth return with historic catch",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "41m ago",
-        "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical \u2018chopsticks\u2019.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-        "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2d ago",
-        "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-        "covered_by": [
-          "BBC",
-          "CNN"
-        ]
-      },
-      {
-        "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-        "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "8m ago",
-        "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
-        "covered_by": [
-          "Al Jazeera"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Zuffa Boxing 13 results, highlights: Carlos Adames picks up win over Gerome Warburton in promotional debut",
-        "link": "https://www.cbssports.com/boxing/news/zuffa-boxing-13-results-highlights-carlos-adames-winner/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "Adames took the decision in his first super middleweight fight under the Zuffa Boxing banner",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "UFC 334: Fight card, date, odds and complete guide as Ciryl Gane takes on Josh Hokit in main event",
-        "link": "https://www.cbssports.com/ufc/news/ufc-334-fight-card-date-odds-location-guide/",
-        "source": "CBS Sports",
-        "time_ago": "7m ago",
-        "summary": "A pair of title fights are set to headline at Madison Square Garden in New York City",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "FAA ground stop forces NFL to reshuffle officiating crews for Week 10",
-        "link": "https://www.cbssports.com/nfl/news/nfl-major-officiating-changes-week-10-faa-ground-stop/",
-        "source": "CBS Sports",
-        "time_ago": "44m ago",
-        "summary": "The changes include one referee pulling double-duty on Sunday",
-        "covered_by": [
-          "CBS Sports"
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ],
@@ -143,7 +41,7 @@
         "title": "Jensen Huang was having a third affair, Reuters reports",
         "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
         "source": "TechCrunch",
-        "time_ago": "2d ago",
+        "time_ago": "3d ago",
         "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
         "covered_by": [
           "TechCrunch",
@@ -151,13 +49,13 @@
         ]
       },
       {
-        "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-        "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+        "title": "Apple launches new app to study how people use AI for health",
+        "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "source": "TechCrunch",
+        "time_ago": "49m ago",
+        "summary": "Apple's new app for a study will answer everyday medical questions",
         "covered_by": [
-          "Ars Technica",
+          "TechCrunch",
           "The Verge"
         ]
       },
@@ -165,11 +63,113 @@
         "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
         "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
         "covered_by": [
           "TechCrunch",
           "The Verge"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Punjab BJP forms manifesto, 'chargesheet' committees",
+        "link": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece",
+        "source": "The Hindu",
+        "time_ago": "54m ago",
+        "summary": "The members of this committee include Iqbal Singh Lalpura, Vijay Sampla, Shwet Malik, Maharani Preneet Kaur, Ravneet Singh Bittu, Dinesh Babbu, Sushil Rinku, Geja Ram, Vikramjit Singh Sahney, Ashok Mittal, Sandeep Pathak",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan",
+        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-diabetes-spikes-in-kashmir-the-health-lens-turns-to-the-fabled-wazwan/article71705566.ece",
+        "source": "The Hindu",
+        "time_ago": "6h ago",
+        "summary": "Subsistence agriculture and labour-intensive living has been replaced by urbanisation and declining physical activity, while traditional dietary patterns persist largely unchanged, the doctor-authors of Diabetes Simplifi",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Nvidia Stock Jumps As Jensen Huang Return Buzz Sparks Investor Hope",
+        "link": "https://www.ndtv.com/business-news/nvidia-stock-jumps-as-jensen-huang-return-buzz-sparks-investor-hope-12331441#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "57m ago",
+        "summary": "Jensen Huang has already been discussing the idea of returning, with backing from several Silicon Valley allies.",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "Pope condemns murders of Peru\u2019s Indigenous leaders, deforestation of Amazon",
+        "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "27m ago",
+        "summary": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Czechs rally against gov\u2019t threat to media independence",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "1h ago",
+        "summary": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "4h ago",
+        "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Bengals vs. Steelers odds: Best Sunday Night Football first touchdown scorer picks, NFL predictions",
+        "link": "https://www.cbssports.com/prediction/news/bengals-vs-steelers-odds-sunday-night-football-first-touchdown-scorer-picks-nfl-predictions/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Here are our top picks for first touchdown prediction markets on Sunday Night Football between the Bengals and Steelers",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "All Blacks win can keep Welsh fans roaring - James",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n83gn2mv3vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "7h ago",
+        "summary": "Eddie James and Taine Basham are hungry for more after helping Wales make history against New Zealand, with Australia next up in Cardiff.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "'They reign supreme!' - Australia beat NZ to lift World Cup again",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cw07492d8gv3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "9h ago",
+        "summary": "Australia run in six tries as they beat New Zealand 32-12 in the final of the men's rugby league World Cup, securing the title for a fourth time in a row, and for a ninth time out of the last ten tournaments.",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
