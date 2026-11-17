@@ -1,175 +1,179 @@
 {
-  "generated_at": "2026-11-16T02:19:55.953819+00:00",
+  "generated_at": "2026-11-17T04:42:42.595280+00:00",
   "categories": {
-    "tech": [
-      {
-        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-        "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-        "source": "TechCrunch",
-        "time_ago": "4h ago",
-        "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple launches new app to study how people use AI for health",
-        "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-        "source": "TechCrunch",
-        "time_ago": "49m ago",
-        "summary": "Apple's new app for a study will answer everyday medical questions",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Where was Nvidia\u2019s security team?",
-        "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Jensen Huang was having a third affair, Reuters reports",
-        "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-        "source": "TechCrunch",
-        "time_ago": "3d ago",
-        "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple launches new app to study how people use AI for health",
-        "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-        "source": "TechCrunch",
-        "time_ago": "49m ago",
-        "summary": "Apple's new app for a study will answer everyday medical questions",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
-        "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-        "source": "TechCrunch",
-        "time_ago": "2d ago",
-        "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      }
-    ],
     "india": [
       {
-        "title": "Punjab BJP forms manifesto, 'chargesheet' committees",
-        "link": "https://www.thehindu.com/news/national/punjab/punjab-bjp-forms-manifesto-chargesheet-committees/article71706608.ece",
+        "title": "How does India address service outages?",
+        "link": "https://www.thehindu.com/sci-tech/technology/how-does-india-address-service-outages/article71707944.ece",
         "source": "The Hindu",
-        "time_ago": "54m ago",
-        "summary": "The members of this committee include Iqbal Singh Lalpura, Vijay Sampla, Shwet Malik, Maharani Preneet Kaur, Ravneet Singh Bittu, Dinesh Babbu, Sushil Rinku, Geja Ram, Vikramjit Singh Sahney, Ashok Mittal, Sandeep Pathak",
+        "time_ago": "21m ago",
+        "summary": "Does Indian law require Microsoft to have reported the recent outage that affected customers\u2019 ability to access its productivity suite? What rules apply in such situations and what are their shortcomings in the present f",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan",
-        "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-diabetes-spikes-in-kashmir-the-health-lens-turns-to-the-fabled-wazwan/article71705566.ece",
-        "source": "The Hindu",
-        "time_ago": "6h ago",
-        "summary": "Subsistence agriculture and labour-intensive living has been replaced by urbanisation and declining physical activity, while traditional dietary patterns persist largely unchanged, the doctor-authors of Diabetes Simplifi",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Nvidia Stock Jumps As Jensen Huang Return Buzz Sparks Investor Hope",
-        "link": "https://www.ndtv.com/business-news/nvidia-stock-jumps-as-jensen-huang-return-buzz-sparks-investor-hope-12331441#publisher=newsstand",
+        "title": "Nvidia Not Considering Jensen Huang's Return Despite Trump Support: Report",
+        "link": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-affair-news-nvidia-board-not-considering-jensen-huangs-return-as-ceo-despite-us-president-donald-trump-support-report-12336284#publisher=newsstand",
         "source": "NDTV",
-        "time_ago": "57m ago",
-        "summary": "Jensen Huang has already been discussing the idea of returning, with backing from several Silicon Valley allies.",
+        "time_ago": "2h ago",
+        "summary": "The development marks the latest twist in a crisis that has engulfed the AI chipmaker since reports emerged that Huang had engaged in an extramarital affair with a woman, Alice Huang, whom US intelligence officials belie",
         "covered_by": [
           "NDTV",
           "Times of India"
         ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Pope condemns murders of Peru\u2019s Indigenous leaders, deforestation of Amazon",
-        "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "27m ago",
-        "summary": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
       },
       {
-        "title": "Czechs rally against gov\u2019t threat to media independence",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.",
+        "title": "IBM in talks for 2 large projects in India: CEO Arvind Krishna",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/ibm-in-talks-for-2-large-projects-in-india-ceo-krishna/articleshow/135905284.cms",
+        "source": "Times of India",
+        "time_ago": "5h ago",
+        "summary": "IBM CEO Arvind Krishna remained upbeat on India, saying the company is expanding its footprint in the country and is hiring more.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "4h ago",
-        "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "sports": [
       {
-        "title": "Bengals vs. Steelers odds: Best Sunday Night Football first touchdown scorer picks, NFL predictions",
-        "link": "https://www.cbssports.com/prediction/news/bengals-vs-steelers-odds-sunday-night-football-first-touchdown-scorer-picks-nfl-predictions/",
+        "title": "Former delivery driver Dean earns PGA Tour card",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cmy869jgll7go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "8h ago",
+        "summary": "Former supermarket delivery driver Joe Dean continues a whirlwind year by earning a place on the PGA Tour.",
+        "covered_by": [
+          "BBC Sport",
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Best Kalshi promo code CBSSPORTS55: Claim $55 bonus for Chargers vs. Ravens, Monday Night Football predictions",
+        "link": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-claim-55-bonus-for-chargers-vs-ravens-monday-night-football-predictions/",
         "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Here are our top picks for first touchdown prediction markets on Sunday Night Football between the Bengals and Steelers",
+        "time_ago": "3h ago",
+        "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on the NFL Week 10 Chargers vs. Ravens MNF matchup",
         "covered_by": [
           "CBS Sports"
         ]
       },
       {
-        "title": "All Blacks win can keep Welsh fans roaring - James",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n83gn2mv3vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "7h ago",
-        "summary": "Eddie James and Taine Basham are hungry for more after helping Wales make history against New Zealand, with Australia next up in Cardiff.",
+        "title": "Ravens vs. Chargers prediction: Can L.A. get its first win on 'MNF' against the injury-plagued Ravens?",
+        "link": "https://www.cbssports.com/nfl/news/ravens-vs-chargers-how-to-watch-spread-odds-preview-prediction/",
+        "source": "CBS Sports",
+        "time_ago": "4h ago",
+        "summary": "Plus, how to watch, odds, a preview and a prediction for the Monday night matchup",
         "covered_by": [
-          "BBC Sport"
+          "CBS Sports"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "title": "EU countries announce migrant deportation centre in Rwanda",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "3h ago",
+        "summary": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "'They reign supreme!' - Australia beat NZ to lift World Cup again",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cw07492d8gv3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "9h ago",
-        "summary": "Australia run in six tries as they beat New Zealand 32-12 in the final of the men's rugby league World Cup, securing the title for a fourth time in a row, and for a ninth time out of the last ten tournaments.",
+        "title": "UK seeks closer ties with EU after Brexit fail",
+        "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "4h ago",
+        "summary": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
         "covered_by": [
-          "BBC Sport"
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Trump departs for ASEAN on summit with Xi and Putin",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "5h ago",
+        "summary": "Donald Trump is heading to the Philippines where he\u2019s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "California state AG sues OpenAI over rogue agent incidents",
+        "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+        "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+        "source": "TechCrunch",
+        "time_ago": "13h ago",
+        "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy did not threaten national security",
+        "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy did not threaten national security",
+        "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Three small failures combined to take down Microsoft 365",
+        "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+        "source": "Ars Technica",
+        "time_ago": "6h ago",
+        "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+        "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+        "source": "TechCrunch",
+        "time_ago": "7h ago",
+        "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ]
