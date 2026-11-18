@@ -1,179 +1,177 @@
 {
-  "generated_at": "2026-11-17T04:42:42.595280+00:00",
+  "generated_at": "2026-11-18T03:47:58.993937+00:00",
   "categories": {
     "india": [
       {
-        "title": "How does India address service outages?",
-        "link": "https://www.thehindu.com/sci-tech/technology/how-does-india-address-service-outages/article71707944.ece",
-        "source": "The Hindu",
-        "time_ago": "21m ago",
-        "summary": "Does Indian law require Microsoft to have reported the recent outage that affected customers\u2019 ability to access its productivity suite? What rules apply in such situations and what are their shortcomings in the present f",
+        "title": "Trapped in Kulgam encounter, LeT commander Lateef Bhat refuses to surrender",
+        "link": "https://timesofindia.indiatimes.com/india/lets-most-wanted-kashmir-commander-lateef-bhat-trapped-in-kulgam-encounter-refuses-to-surrender/articleshow/135946782.cms",
+        "source": "Times of India",
+        "time_ago": "40m ago",
+        "summary": "",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Nvidia Not Considering Jensen Huang's Return Despite Trump Support: Report",
-        "link": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-affair-news-nvidia-board-not-considering-jensen-huangs-return-as-ceo-despite-us-president-donald-trump-support-report-12336284#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "2h ago",
-        "summary": "The development marks the latest twist in a crisis that has engulfed the AI chipmaker since reports emerged that Huang had engaged in an extramarital affair with a woman, Alice Huang, whom US intelligence officials belie",
+        "title": "Amazon commits fresh $7 billion in India for green energy",
+        "link": "https://timesofindia.indiatimes.com/business/india-business/amazon-commits-fresh-7-billion-in-india-for-green-energy/articleshow/135943624.cms",
+        "source": "Times of India",
+        "time_ago": "4h ago",
+        "summary": "Announces four new utility-scale wind and solar projects with a combined capacity of 934MW.",
         "covered_by": [
-          "NDTV",
+          "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "IBM in talks for 2 large projects in India: CEO Arvind Krishna",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/ibm-in-talks-for-2-large-projects-in-india-ceo-krishna/articleshow/135905284.cms",
-        "source": "Times of India",
-        "time_ago": "5h ago",
-        "summary": "IBM CEO Arvind Krishna remained upbeat on India, saying the company is expanding its footprint in the country and is hiring more.",
+        "title": "Delhi\u2019s air pollution: What can an air purifier really do? | Explained",
+        "link": "https://www.thehindu.com/news/cities/Delhi/delhis-air-pollution-what-can-an-air-purifier-really-do-explained/article71714432.ece",
+        "source": "The Hindu",
+        "time_ago": "10m ago",
+        "summary": "With sales surging amid worsening air quality across Delhi-NCR, pulmonologists explain what air purifiers can filter, what they cannot remove and how much protection they offer against pollution",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       }
     ],
+    "world": [
+      {
+        "title": "What is Trump hoping to achieve at APEC meeting in China?",
+        "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "2h ago",
+        "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Nvidia shoots down calls for Jensen Huang\u2019s return amid strong earnings",
+        "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "47m ago",
+        "summary": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Russian military plane crash in Siberia kills 19",
+        "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "5h ago",
+        "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
+        "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+        "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+        "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
+        "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+        "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+        "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
     "sports": [
       {
-        "title": "Former delivery driver Dean earns PGA Tour card",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cmy869jgll7go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "8h ago",
-        "summary": "Former supermarket delivery driver Joe Dean continues a whirlwind year by earning a place on the PGA Tour.",
+        "title": "UEFA Women's Champions League Matchday 5: Live stream, schedule what to know as league phase nears end",
+        "link": "https://www.cbssports.com/soccer/news/uefa-womens-champions-league-matchday-5-live-stream-schedule-what-to-know/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "Arsenal test their momentum against high-flying Lyonnes while Chelsea look to stay perfect defensively against PSG as the race for quarterfinal byes heats up",
         "covered_by": [
           "BBC Sport",
           "CBS Sports"
         ]
       },
       {
-        "title": "Best Kalshi promo code CBSSPORTS55: Claim $55 bonus for Chargers vs. Ravens, Monday Night Football predictions",
-        "link": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-claim-55-bonus-for-chargers-vs-ravens-monday-night-football-predictions/",
+        "title": "College basketball picks, schedule: Predictions for Michigan State vs. Tennessee, more Top 25 games Tuesday",
+        "link": "https://www.cbssports.com/college-basketball/news/college-basketball-picks-schedule-predictions-michigan-state-tennessee-top-25-tuesday/",
         "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on the NFL Week 10 Chargers vs. Ravens MNF matchup",
+        "time_ago": "2h ago",
+        "summary": "Our experts have picks for all of college basketball's best games on Tuesday",
         "covered_by": [
           "CBS Sports"
         ]
       },
       {
-        "title": "Ravens vs. Chargers prediction: Can L.A. get its first win on 'MNF' against the injury-plagued Ravens?",
-        "link": "https://www.cbssports.com/nfl/news/ravens-vs-chargers-how-to-watch-spread-odds-preview-prediction/",
-        "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "Plus, how to watch, odds, a preview and a prediction for the Monday night matchup",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "EU countries announce migrant deportation centre in Rwanda",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "Belief and bench help Northern Ireland scale new heights as promotion secured",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
         "time_ago": "3h ago",
-        "summary": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
+        "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "UK seeks closer ties with EU after Brexit fail",
-        "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "4h ago",
-        "summary": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Trump departs for ASEAN on summit with Xi and Putin",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "Donald Trump is heading to the Philippines where he\u2019s scheduled to speak at a meeting of ASEAN leaders in Manila.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "California state AG sues OpenAI over rogue agent incidents",
-        "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-        "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-        "source": "TechCrunch",
-        "time_ago": "13h ago",
-        "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy did not threaten national security",
-        "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy did not threaten national security",
-        "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Three small failures combined to take down Microsoft 365",
-        "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-        "source": "Ars Technica",
-        "time_ago": "6h ago",
-        "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-        "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-        "source": "TechCrunch",
-        "time_ago": "7h ago",
-        "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "BBC Sport"
         ]
       }
     ]
