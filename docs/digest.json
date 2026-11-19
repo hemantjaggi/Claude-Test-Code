@@ -1,35 +1,137 @@
 {
-  "generated_at": "2026-11-18T03:47:58.993937+00:00",
+  "generated_at": "2026-11-19T03:46:07.957518+00:00",
   "categories": {
+    "tech": [
+      {
+        "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+        "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google\u2019s AI feature in Search gets its own incognito mode",
+        "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+        "source": "TechCrunch",
+        "time_ago": "3h ago",
+        "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Google\u2019s AI feature in Search gets its own incognito mode",
+        "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+        "source": "TechCrunch",
+        "time_ago": "9h ago",
+        "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+        "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+        "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+        "source": "Ars Technica",
+        "time_ago": "2d ago",
+        "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "UConn vs. Arizona prediction, odds: 2026 college basketball picks for Wednesday, Nov. 18 by proven model",
+        "link": "https://www.cbssports.com/betting/news/uconn-arizona-prediction-odds-2026-college-basketball-picks-best-bets-wednesday-november-18/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "SportsLine model reveals its picks for the college basketball matchup featuring the No. 3 UConn Huskies vs. No. 12 Arizona Wildcats on Wednesday night",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "'Thursday Night Football' prediction, odds, spread, time: Colts vs. Texans picks from expert on a 34-20 roll",
+        "link": "https://www.cbssports.com/betting/news/thursday-night-football-prediction-odds-spread-line-time-colts-texans-expert-picks/",
+        "source": "CBS Sports",
+        "time_ago": "5h ago",
+        "summary": "R.J. White reveals his picks for Indianapolis Colts vs. Houston Texans in the 2026 Week 11 'Thursday Night Football' matchup",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Ivan Toney loses bid to avoid Euro 2028 court clash",
+        "link": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "14h ago",
+        "summary": "Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
     "india": [
       {
-        "title": "Trapped in Kulgam encounter, LeT commander Lateef Bhat refuses to surrender",
-        "link": "https://timesofindia.indiatimes.com/india/lets-most-wanted-kashmir-commander-lateef-bhat-trapped-in-kulgam-encounter-refuses-to-surrender/articleshow/135946782.cms",
+        "title": "Keralam CM Satheesan faces questions by ministers over key calls",
+        "link": "https://timesofindia.indiatimes.com/india/keralam-ministers-question-cms-key-calls-at-cabinet-meet/articleshow/135971459.cms",
         "source": "Times of India",
-        "time_ago": "40m ago",
+        "time_ago": "6h ago",
+        "summary": "Keralam CM V D Satheesan encountered questions regarding key decisions during the cabinet meeting on Wednesday. Ministers raised concerns about appointments and representation, leading to discussions for nearly two-and-a",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Anthropic IPO: How Can Indian Investors Buy Stock, And Is It Worth It?",
+        "link": "https://www.ndtv.com/business-news/anthropic-ipo-how-can-indian-investors-buy-stock-and-is-it-worth-it-12346745#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "1h ago",
+        "summary": "Stock Market Today: Anthropic IPO is the world's biggest listing ever. Here's how Indian investors can buy the stock and whether it is worth the risk.",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Health of states: Bihar per capita spend lowest, Sikkim's highest",
+        "link": "https://timesofindia.indiatimes.com/india/health-of-states-bihar-per-capita-spend-lowest-sikkims-highest/articleshow/135975120.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
         "summary": "",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Amazon commits fresh $7 billion in India for green energy",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/amazon-commits-fresh-7-billion-in-india-for-green-energy/articleshow/135943624.cms",
-        "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "Announces four new utility-scale wind and solar projects with a combined capacity of 934MW.",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Delhi\u2019s air pollution: What can an air purifier really do? | Explained",
-        "link": "https://www.thehindu.com/news/cities/Delhi/delhis-air-pollution-what-can-an-air-purifier-really-do-explained/article71714432.ece",
-        "source": "The Hindu",
-        "time_ago": "10m ago",
-        "summary": "With sales surging amid worsening air quality across Delhi-NCR, pulmonologists explain what air purifiers can filter, what they cannot remove and how much protection they offer against pollution",
         "covered_by": [
           "The Hindu",
           "Times of India"
@@ -38,140 +140,36 @@
     ],
     "world": [
       {
-        "title": "What is Trump hoping to achieve at APEC meeting in China?",
-        "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+        "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+        "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Nvidia shoots down calls for Jensen Huang\u2019s return amid strong earnings",
-        "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+        "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+        "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "47m ago",
-        "summary": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
+        "time_ago": "1h ago",
+        "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Russian military plane crash in Siberia kills 19",
-        "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+        "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+        "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
-        "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-        "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-        "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
-        "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-        "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-        "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "UEFA Women's Champions League Matchday 5: Live stream, schedule what to know as league phase nears end",
-        "link": "https://www.cbssports.com/soccer/news/uefa-womens-champions-league-matchday-5-live-stream-schedule-what-to-know/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "Arsenal test their momentum against high-flying Lyonnes while Chelsea look to stay perfect defensively against PSG as the race for quarterfinal byes heats up",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "College basketball picks, schedule: Predictions for Michigan State vs. Tennessee, more Top 25 games Tuesday",
-        "link": "https://www.cbssports.com/college-basketball/news/college-basketball-picks-schedule-predictions-michigan-state-tennessee-top-25-tuesday/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "Our experts have picks for all of college basketball's best games on Tuesday",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Belief and bench help Northern Ireland scale new heights as promotion secured",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
         "time_ago": "3h ago",
-        "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
+        "summary": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
         "covered_by": [
-          "BBC Sport"
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ]
