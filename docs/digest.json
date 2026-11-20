@@ -1,175 +1,178 @@
 {
-  "generated_at": "2026-11-19T03:46:07.957518+00:00",
+  "generated_at": "2026-11-20T03:39:59.589553+00:00",
   "categories": {
-    "tech": [
-      {
-        "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-        "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google\u2019s AI feature in Search gets its own incognito mode",
-        "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-        "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-        "source": "TechCrunch",
-        "time_ago": "3h ago",
-        "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an",
-        "covered_by": [
-          "TechCrunch"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Google\u2019s AI feature in Search gets its own incognito mode",
-        "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-        "source": "TechCrunch",
-        "time_ago": "9h ago",
-        "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-        "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-        "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "UConn vs. Arizona prediction, odds: 2026 college basketball picks for Wednesday, Nov. 18 by proven model",
-        "link": "https://www.cbssports.com/betting/news/uconn-arizona-prediction-odds-2026-college-basketball-picks-best-bets-wednesday-november-18/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "SportsLine model reveals its picks for the college basketball matchup featuring the No. 3 UConn Huskies vs. No. 12 Arizona Wildcats on Wednesday night",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "'Thursday Night Football' prediction, odds, spread, time: Colts vs. Texans picks from expert on a 34-20 roll",
-        "link": "https://www.cbssports.com/betting/news/thursday-night-football-prediction-odds-spread-line-time-colts-texans-expert-picks/",
-        "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "R.J. White reveals his picks for Indianapolis Colts vs. Houston Texans in the 2026 Week 11 'Thursday Night Football' matchup",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Ivan Toney loses bid to avoid Euro 2028 court clash",
-        "link": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "14h ago",
-        "summary": "Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
     "india": [
       {
-        "title": "Keralam CM Satheesan faces questions by ministers over key calls",
-        "link": "https://timesofindia.indiatimes.com/india/keralam-ministers-question-cms-key-calls-at-cabinet-meet/articleshow/135971459.cms",
-        "source": "Times of India",
-        "time_ago": "6h ago",
-        "summary": "Keralam CM V D Satheesan encountered questions regarding key decisions during the cabinet meeting on Wednesday. Ministers raised concerns about appointments and representation, leading to discussions for nearly two-and-a",
+        "title": "Vinita Zutshi brings Kashmir\u2019s forgotten folktales to young readers",
+        "link": "https://www.thehindu.com/profile/author/vinita-zutshi-brings-kashmirs-forgotten-folktales-to-young-readers/article71718654.ece",
+        "source": "The Hindu",
+        "time_ago": "17m ago",
+        "summary": "Author and storyteller Vinita Zutshi revisits Kashmir\u2019s oral traditions in a collection of 18 folktales, bringing its characters, customs and storytelling heritage to a new generation of readers",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Anthropic IPO: How Can Indian Investors Buy Stock, And Is It Worth It?",
-        "link": "https://www.ndtv.com/business-news/anthropic-ipo-how-can-indian-investors-buy-stock-and-is-it-worth-it-12346745#publisher=newsstand",
+        "title": "Resignation Not Admission Of Guilt: Justice Yashwant Varma To Lok Sabha Secretariat",
+        "link": "https://www.ndtv.com/india-news/resignation-not-admission-of-guilt-justice-yashwant-varma-tells-lok-sabha-secretariat-12351554#publisher=newsstand",
         "source": "NDTV",
         "time_ago": "1h ago",
-        "summary": "Stock Market Today: Anthropic IPO is the world's biggest listing ever. Here's how Indian investors can buy the stock and whether it is worth the risk.",
+        "summary": "In a letter dated September 10 to Lok Sabha Secretary General Utpal Kumar Singh, he responded to the report of the inquiry committee constituted by Lok Sabha Speaker Om Birla.",
         "covered_by": [
           "NDTV",
-          "Times of India"
+          "The Hindu"
         ]
       },
       {
-        "title": "Health of states: Bihar per capita spend lowest, Sikkim's highest",
-        "link": "https://timesofindia.indiatimes.com/india/health-of-states-bihar-per-capita-spend-lowest-sikkims-highest/articleshow/135975120.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "",
+        "title": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
+        "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+        "source": "The Hindu",
+        "time_ago": "14m ago",
+        "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "The Hindu"
         ]
       }
     ],
     "world": [
       {
-        "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-        "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+        "title": "Rohingya genocide survivor: \u2018perpetrators will have to face consequences\u2019",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "6h ago",
+        "summary": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+        "time_ago": "2h ago",
+        "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+        "covered_by": [
+          "BBC",
+          "CNN"
+        ]
+      },
+      {
+        "title": "Asia\u2019s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+        "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "45m ago",
+        "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
-      },
+      }
+    ],
+    "sports": [
       {
-        "title": "ICJ to rule on Rohingya genocide case against Myanmar",
-        "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+        "title": "Best horse racing betting sites: Where to bet on horse racing",
+        "link": "https://www.cbssports.com/betting/news/horse-racing/",
+        "source": "CBS Sports",
+        "time_ago": "6h ago",
+        "summary": "Discover the best horse racing betting sites, plus how to bet on horse racing online, bet types, and expert tips.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
-        "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
-        "source": "Al Jazeera",
+        "title": "Colts vs. Texans odds, first touchdown scorer picks, odds, predictions for Thursday Night Football",
+        "link": "https://www.cbssports.com/prediction/news/colts-vs-texans-odds-first-touchdown-scorer-picks-odds-predictions-thursday-night-football/",
+        "source": "CBS Sports",
         "time_ago": "3h ago",
-        "summary": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
+        "summary": "We look at first touchdown scorer prediction markets at Kalshi for Colts vs. Texans NFL Week 11 Thursday Night Football",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Pochettino's first Man Utd training session filmed by drone operator",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "8h ago",
+        "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Meta\u2019s new Muse Charm device may cost $300",
+        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+        "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+        "source": "Ars Technica",
+        "time_ago": "7h ago",
+        "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta\u2019s new Muse Charm device may cost $300",
+        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "source": "TechCrunch",
+        "time_ago": "2h ago",
+        "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
         ]
       }
     ]
