@@ -1,178 +1,177 @@
 {
-  "generated_at": "2026-11-20T03:39:59.589553+00:00",
+  "generated_at": "2026-11-21T03:23:05.682592+00:00",
   "categories": {
+    "tech": [
+      {
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "source": "Ars Technica",
+        "time_ago": "5h ago",
+        "summary": "Google search is making it even easier to access AI tools on the search page.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "source": "Ars Technica",
+        "time_ago": "5h ago",
+        "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "SpaceX lenders don\u2019t want Elon Musk launching their collateral into space",
+        "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+        "source": "Ars Technica",
+        "time_ago": "13h ago",
+        "summary": "Bondholders want SpaceX\u2019s valuable chip collateral kept on Earth and within reach.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "source": "Ars Technica",
+        "time_ago": "5h ago",
+        "summary": "Google search is making it even easier to access AI tools on the search page.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "source": "Ars Technica",
+        "time_ago": "5h ago",
+        "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
+        "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+        "source": "TechCrunch",
+        "time_ago": "12h ago",
+        "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, t",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "49ers lose shot at breaking NFL record for most miles traveled due to Week 11 travel detour en route to Mexico",
+        "link": "https://www.cbssports.com/nfl/news/49ers-lose-shot-breaking-nfl-record-most-miles-traveled-week-11-travel-detour/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "The 49ers are taking a detour in Week 11 that's going to cost them the NFL record for most miles traveled",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Oregon vs. Michigan State prediction, odds, time: Week 12 Friday college football picks from proven model",
+        "link": "https://www.cbssports.com/betting/news/oregon-michigan-state-prediction-odds-time-week-12-friday-college-football-picks-best-bets/",
+        "source": "CBS Sports",
+        "time_ago": "4h ago",
+        "summary": "SportsLine's model revealed its best bets for Friday's Big Ten contest between the Oregon Ducks and Michigan State Spartans",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "NFL great Brady could buy Chelsea stake",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "4h ago",
+        "summary": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      }
+    ],
     "india": [
       {
-        "title": "Vinita Zutshi brings Kashmir\u2019s forgotten folktales to young readers",
-        "link": "https://www.thehindu.com/profile/author/vinita-zutshi-brings-kashmirs-forgotten-folktales-to-young-readers/article71718654.ece",
+        "title": "'Look at India': Trump takes India's 7% growth as cue to demand Fed rate cuts",
+        "link": "https://timesofindia.indiatimes.com/business/international-business/india-vs-us-interest-rates-trump-cites-look-at-india-example-to-turn-up-heat-on-fed/articleshow/136043034.cms",
+        "source": "Times of India",
+        "time_ago": "19m ago",
+        "summary": "",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "PM Modi says cultural connect can guarantee global peace",
+        "link": "https://www.thehindu.com/news/national/pm-modi-address-at-sco-civilisational-dialogue-forum/article71725120.ece",
         "source": "The Hindu",
-        "time_ago": "17m ago",
-        "summary": "Author and storyteller Vinita Zutshi revisits Kashmir\u2019s oral traditions in a collection of 18 folktales, bringing its characters, customs and storytelling heritage to a new generation of readers",
+        "time_ago": "2h ago",
+        "summary": "Cultural and civilisational cooperation will strengthen relations among various countries, says Modi at SCO forum; Pakistan Minister to address meet on November 21",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Resignation Not Admission Of Guilt: Justice Yashwant Varma To Lok Sabha Secretariat",
-        "link": "https://www.ndtv.com/india-news/resignation-not-admission-of-guilt-justice-yashwant-varma-tells-lok-sabha-secretariat-12351554#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "1h ago",
-        "summary": "In a letter dated September 10 to Lok Sabha Secretary General Utpal Kumar Singh, he responded to the report of the inquiry committee constituted by Lok Sabha Speaker Om Birla.",
+        "title": "EC pauses Bengal SSR due to\u2018unavoidable circumstances\u2019",
+        "link": "https://timesofindia.indiatimes.com/city/kolkata/ec-stalls-bengal-ssr-draft-poll-roll-publication-postponed/articleshow/136037658.cms",
+        "source": "Times of India",
+        "time_ago": "4h ago",
+        "summary": "",
         "covered_by": [
-          "NDTV",
-          "The Hindu"
-        ]
-      },
-      {
-        "title": "Cyclone 'Akvan' LIVE: Landfall process begins; coastal Odisha districts receive heavy rain",
-        "link": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
-        "source": "The Hindu",
-        "time_ago": "14m ago",
-        "summary": "Director of Bhubaneswar Meteorological Centre Manorama Mohanty said the duration of the landfall process would be a long process which could stretch over seven to eight hours",
-        "covered_by": [
-          "The Hindu"
+          "The Hindu",
+          "Times of India"
         ]
       }
     ],
     "world": [
       {
-        "title": "Rohingya genocide survivor: \u2018perpetrators will have to face consequences\u2019",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss",
+        "title": "Can Africa\u2019s new credit rating agency change how the continent is assessed?",
+        "link": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya.",
+        "time_ago": "1h ago",
+        "summary": "The new African agency aims to bring greater transparency to credit ratings.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-        "covered_by": [
-          "BBC",
-          "CNN"
-        ]
-      },
-      {
-        "title": "Asia\u2019s stock markets dive as Anthropic debut fails to allay AI bubble fears",
-        "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+        "title": "Three French police officers sentenced over racist assault on Black man",
+        "link": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "45m ago",
-        "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+        "time_ago": "21m ago",
+        "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Best horse racing betting sites: Where to bet on horse racing",
-        "link": "https://www.cbssports.com/betting/news/horse-racing/",
-        "source": "CBS Sports",
-        "time_ago": "6h ago",
-        "summary": "Discover the best horse racing betting sites, plus how to bet on horse racing online, bet types, and expert tips.",
-        "covered_by": [
-          "BBC Sport",
-          "CBS Sports"
-        ]
       },
       {
-        "title": "Colts vs. Texans odds, first touchdown scorer picks, odds, predictions for Thursday Night Football",
-        "link": "https://www.cbssports.com/prediction/news/colts-vs-texans-odds-first-touchdown-scorer-picks-odds-predictions-thursday-night-football/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "We look at first touchdown scorer prediction markets at Kalshi for Colts vs. Texans NFL Week 11 Thursday Night Football",
+        "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "33m ago",
+        "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
         "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Pochettino's first Man Utd training session filmed by drone operator",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "8h ago",
-        "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Meta\u2019s new Muse Charm device may cost $300",
-        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Apple may be developing its own AI agent that runs your Mac",
-        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-        "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-        "source": "Ars Technica",
-        "time_ago": "7h ago",
-        "summary": "\"Project Suncatcher is a long-term moonshot.\"",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Apple may be developing its own AI agent that runs your Mac",
-        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Meta\u2019s new Muse Charm device may cost $300",
-        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-        "source": "TechCrunch",
-        "time_ago": "2h ago",
-        "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-        "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       }
     ]
