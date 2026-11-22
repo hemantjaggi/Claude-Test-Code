@@ -1,116 +1,24 @@
 {
-  "generated_at": "2026-11-21T03:23:05.682592+00:00",
+  "generated_at": "2026-11-22T02:32:51.042248+00:00",
   "categories": {
-    "tech": [
-      {
-        "title": "Google rolls out new search homepage with AI chat history and no search button",
-        "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-        "source": "Ars Technica",
-        "time_ago": "5h ago",
-        "summary": "Google search is making it even easier to access AI tools on the search page.",
-        "covered_by": [
-          "Ars Technica",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-        "source": "Ars Technica",
-        "time_ago": "5h ago",
-        "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "SpaceX lenders don\u2019t want Elon Musk launching their collateral into space",
-        "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-        "source": "Ars Technica",
-        "time_ago": "13h ago",
-        "summary": "Bondholders want SpaceX\u2019s valuable chip collateral kept on Earth and within reach.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "ai": [
-      {
-        "title": "Google rolls out new search homepage with AI chat history and no search button",
-        "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-        "source": "Ars Technica",
-        "time_ago": "5h ago",
-        "summary": "Google search is making it even easier to access AI tools on the search page.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-        "source": "Ars Technica",
-        "time_ago": "5h ago",
-        "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
-        "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-        "source": "TechCrunch",
-        "time_ago": "12h ago",
-        "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, t",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "49ers lose shot at breaking NFL record for most miles traveled due to Week 11 travel detour en route to Mexico",
-        "link": "https://www.cbssports.com/nfl/news/49ers-lose-shot-breaking-nfl-record-most-miles-traveled-week-11-travel-detour/",
-        "source": "CBS Sports",
-        "time_ago": "3h ago",
-        "summary": "The 49ers are taking a detour in Week 11 that's going to cost them the NFL record for most miles traveled",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Oregon vs. Michigan State prediction, odds, time: Week 12 Friday college football picks from proven model",
-        "link": "https://www.cbssports.com/betting/news/oregon-michigan-state-prediction-odds-time-week-12-friday-college-football-picks-best-bets/",
-        "source": "CBS Sports",
-        "time_ago": "4h ago",
-        "summary": "SportsLine's model revealed its best bets for Friday's Big Ten contest between the Oregon Ducks and Michigan State Spartans",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "NFL great Brady could buy Chelsea stake",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "4h ago",
-        "summary": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
-        "covered_by": [
-          "BBC Sport"
-        ]
-      }
-    ],
     "india": [
       {
-        "title": "'Look at India': Trump takes India's 7% growth as cue to demand Fed rate cuts",
-        "link": "https://timesofindia.indiatimes.com/business/international-business/india-vs-us-interest-rates-trump-cites-look-at-india-example-to-turn-up-heat-on-fed/articleshow/136043034.cms",
+        "title": "Yuzvendra Chahal Joins BJP, Gets Role In Party's OBC Morcha Committee",
+        "link": "https://www.ndtv.com/india-news/yuzvendra-chahal-joins-bjp-gets-role-in-partys-obc-morcha-committee-12359712#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "1h ago",
+        "summary": "Born in 1990, Chahal is an Indian leg-spinner who previously represented the country in limited-overs cricket. Before making his mark on the cricket field, he was also a competitive chess player.",
+        "covered_by": [
+          "NDTV",
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Amit Shah & Sergio Gor laud joint effort in transnational narcotics network bust",
+        "link": "https://timesofindia.indiatimes.com/india/amit-shah-sergio-gor-laud-joint-effort-in-transnational-narcotics-network-bust/articleshow/136065009.cms",
         "source": "Times of India",
-        "time_ago": "19m ago",
+        "time_ago": "3h ago",
         "summary": "",
         "covered_by": [
           "NDTV",
@@ -118,22 +26,11 @@
         ]
       },
       {
-        "title": "PM Modi says cultural connect can guarantee global peace",
-        "link": "https://www.thehindu.com/news/national/pm-modi-address-at-sco-civilisational-dialogue-forum/article71725120.ece",
-        "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "Cultural and civilisational cooperation will strengthen relations among various countries, says Modi at SCO forum; Pakistan Minister to address meet on November 21",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "EC pauses Bengal SSR due to\u2018unavoidable circumstances\u2019",
-        "link": "https://timesofindia.indiatimes.com/city/kolkata/ec-stalls-bengal-ssr-draft-poll-roll-publication-postponed/articleshow/136037658.cms",
+        "title": "9 family members killed as pilgrims' vehicle crashes into truck in Rajasthan",
+        "link": "https://timesofindia.indiatimes.com/city/jaipur/9-devotees-returning-from-khatu-shyam-temple-killed-as-their-vehicle-rams-parked-truck-in-rajasthans-kota/articleshow/136065930.cms",
         "source": "Times of India",
-        "time_ago": "4h ago",
-        "summary": "",
+        "time_ago": "23m ago",
+        "summary": "Nine individuals died in a tragic accident involving a vehicle carrying family members in Rajasthan. The group was returning home from visiting a religious shrine in Khatu Shyam. The accident occurred near Shambhupura on",
         "covered_by": [
           "The Hindu",
           "Times of India"
@@ -142,36 +39,136 @@
     ],
     "world": [
       {
-        "title": "Can Africa\u2019s new credit rating agency change how the continent is assessed?",
-        "link": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
+        "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+        "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "1h ago",
-        "summary": "The new African agency aims to bring greater transparency to credit ratings.",
+        "time_ago": "5h ago",
+        "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Three French police officers sentenced over racist assault on Black man",
-        "link": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "21m ago",
-        "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "2h ago",
+        "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+        "title": "Indian man jailed over plot to kill Sikh separatist in US",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "33m ago",
-        "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
+        "time_ago": "5h ago",
+        "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "Startup sues Apple in India over tap-to-share contacts feature",
+        "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+        "source": "TechCrunch",
+        "time_ago": "22h ago",
+        "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "A tale of two Nvidias",
+        "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+        "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+        "covered_by": [
+          "Ars Technica"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "source": "Ars Technica",
+        "time_ago": "1d ago",
+        "summary": "Google search is making it even easier to access AI tools on the search page.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "source": "TechCrunch",
+        "time_ago": "2d ago",
+        "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+        "covered_by": [
+          "TechCrunch",
+          "The Verge"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "Ireland remind themselves that the best are beatable",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c820qxx2k7y2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "5h ago",
+        "summary": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin.",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Week 11 NFL odds, picks, predictions: Computer model backs Cowboys and Saints",
+        "link": "https://www.cbssports.com/betting/news/nfl-odds-picks-game-spreads-betting-lines-predictions-week-11-2026/",
+        "source": "CBS Sports",
+        "time_ago": "51m ago",
+        "summary": "SportsLine's advanced model has simulated every game in the Week 11 NFL schedule 10,000 times and locked in its NFL best bets today",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "2h ago",
+        "summary": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
