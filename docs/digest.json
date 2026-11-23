@@ -1,116 +1,81 @@
 {
-  "generated_at": "2026-11-22T02:32:51.042248+00:00",
+  "generated_at": "2026-11-23T03:00:01.477964+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "Yuzvendra Chahal Joins BJP, Gets Role In Party's OBC Morcha Committee",
-        "link": "https://www.ndtv.com/india-news/yuzvendra-chahal-joins-bjp-gets-role-in-partys-obc-morcha-committee-12359712#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "1h ago",
-        "summary": "Born in 1990, Chahal is an Indian leg-spinner who previously represented the country in limited-overs cricket. Before making his mark on the cricket field, he was also a competitive chess player.",
-        "covered_by": [
-          "NDTV",
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Amit Shah & Sergio Gor laud joint effort in transnational narcotics network bust",
-        "link": "https://timesofindia.indiatimes.com/india/amit-shah-sergio-gor-laud-joint-effort-in-transnational-narcotics-network-bust/articleshow/136065009.cms",
-        "source": "Times of India",
-        "time_ago": "3h ago",
-        "summary": "",
-        "covered_by": [
-          "NDTV",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "9 family members killed as pilgrims' vehicle crashes into truck in Rajasthan",
-        "link": "https://timesofindia.indiatimes.com/city/jaipur/9-devotees-returning-from-khatu-shyam-temple-killed-as-their-vehicle-rams-parked-truck-in-rajasthans-kota/articleshow/136065930.cms",
-        "source": "Times of India",
-        "time_ago": "23m ago",
-        "summary": "Nine individuals died in a tragic accident involving a vehicle carrying family members in Rajasthan. The group was returning home from visiting a religious shrine in Khatu Shyam. The accident occurred near Shambhupura on",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
     "world": [
       {
-        "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-        "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+        "title": "\u2018Extremely concerning\u2019: Inside a US Army plan to detonate Iowa lead stores",
+        "link": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+        "time_ago": "50m ago",
+        "summary": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+        "covered_by": [
+          "Al Jazeera",
+          "BBC",
+          "CNN"
+        ]
+      },
+      {
+        "title": "US intelligence chief defends Trump\u2019s comments calling Putin his \u2018friend\u2019",
+        "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "36m ago",
+        "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "FBI reportedly investigating apparent hack of its criminal database",
-        "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
         "time_ago": "2h ago",
-        "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Indian man jailed over plot to kill Sikh separatist in US",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "5h ago",
-        "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+        "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       }
     ],
-    "tech": [
+    "sports": [
       {
-        "title": "Startup sues Apple in India over tap-to-share contacts feature",
-        "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-        "source": "TechCrunch",
-        "time_ago": "22h ago",
-        "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+        "title": "Vikings vs. 49ers odds: Best Sunday Night Football Mexico City first touchdown scorer picks, NFL predictions",
+        "link": "https://www.cbssports.com/prediction/news/vikings-vs-49ers-odds-best-sunday-night-football-mexico-city-first-touchdown-scorer-picks-nfl-predictions/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "Here are our top picks for first touchdown prediction markets on the Vikings and 49ers' Sunday Night Football game in Mexico City",
         "covered_by": [
-          "TechCrunch"
+          "CBS Sports"
         ]
       },
       {
-        "title": "A tale of two Nvidias",
-        "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-        "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return.",
+        "title": "Tarik Skubal signing with Mets: Two-time Cy Young winner lands historic nine-year, $450 million contract",
+        "link": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract/",
+        "source": "CBS Sports",
+        "time_ago": "2h ago",
+        "summary": "The free agent ace will join a rotation that includes Nolan McLean and Christian Scott",
         "covered_by": [
-          "TechCrunch"
+          "CBS Sports"
         ]
       },
       {
-        "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-        "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+        "title": "Did Liverpool 'get lucky' with red card decision?",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "3h ago",
+        "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
         "covered_by": [
-          "Ars Technica"
+          "BBC Sport"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-        "source": "Ars Technica",
-        "time_ago": "1d ago",
-        "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
+        "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+        "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "source": "TechCrunch",
+        "time_ago": "5h ago",
+        "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -121,7 +86,7 @@
         "title": "Google rolls out new search homepage with AI chat history and no search button",
         "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
         "source": "Ars Technica",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Google search is making it even easier to access AI tools on the search page.",
         "covered_by": [
           "Ars Technica",
@@ -129,46 +94,82 @@
         ]
       },
       {
-        "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-        "source": "TechCrunch",
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "source": "Ars Technica",
         "time_ago": "2d ago",
-        "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+        "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
         "covered_by": [
-          "TechCrunch",
-          "The Verge"
+          "Ars Technica",
+          "TechCrunch"
         ]
       }
     ],
-    "sports": [
+    "tech": [
       {
-        "title": "Ireland remind themselves that the best are beatable",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c820qxx2k7y2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "source": "Ars Technica",
+        "time_ago": "2d ago",
+        "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+        "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "source": "TechCrunch",
         "time_ago": "5h ago",
-        "summary": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin.",
+        "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
         "covered_by": [
-          "BBC Sport"
+          "TechCrunch"
         ]
       },
       {
-        "title": "Week 11 NFL odds, picks, predictions: Computer model backs Cowboys and Saints",
-        "link": "https://www.cbssports.com/betting/news/nfl-odds-picks-game-spreads-betting-lines-predictions-week-11-2026/",
-        "source": "CBS Sports",
-        "time_ago": "51m ago",
-        "summary": "SportsLine's advanced model has simulated every game in the Week 11 NFL schedule 10,000 times and locked in its NFL best bets today",
+        "title": "A tale of two Nvidias",
+        "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return.",
         "covered_by": [
-          "CBS Sports"
+          "TechCrunch"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "India, China hold 10-day talks to ease LAC tensions in Arunachal Pradesh",
+        "link": "https://www.thehindu.com/news/national/india-china-hold-10-day-talks-to-ease-loac-tensions-in-arunachal-pradesh/article71731819.ece",
+        "source": "The Hindu",
+        "time_ago": "7h ago",
+        "summary": "The talks focused on establishing engagement protocols, preventing face-offs and misunderstandings between troops deployed along the frontier, and maintaining open communication channels",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "2h ago",
-        "summary": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.",
+        "title": "El Nino May Trigger Floods, Landslides In Hindu Kush Himalaya: Report",
+        "link": "https://www.ndtv.com/india-news/el-nino-may-trigger-floods-landslides-in-hindu-kush-himalaya-report-12363595#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "42m ago",
+        "summary": "The report warns that heavy precipitation could trigger localised floods, landslides and avalanches in the western Himalaya, while some parts of the region may experience dry spells and an increased risk of forest fires.",
         "covered_by": [
-          "BBC Sport"
+          "NDTV",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "What Trump 'Predicted' On Iran, Stocks And Oil Before US Midterms",
+        "link": "https://www.ndtv.com/world-news/what-trump-predicted-on-iran-stocks-and-oil-before-us-midterms-12363869#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "47m ago",
+        "summary": "Trump's remarks came as Democrats secured the largest House majority in a national election in three decades, capturing at least 258 seats in the chamber in a sweeping backlash to rising prices and Trump's tumultuous sec",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
         ]
       }
     ]
