@@ -1,81 +1,48 @@
 {
-  "generated_at": "2026-11-23T03:00:01.477964+00:00",
+  "generated_at": "2026-11-24T06:16:47.775784+00:00",
   "categories": {
-    "world": [
+    "india": [
       {
-        "title": "\u2018Extremely concerning\u2019: Inside a US Army plan to detonate Iowa lead stores",
-        "link": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "50m ago",
-        "summary": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+        "title": "Delhi air quality remains \u2018poor\u2019, average AQI settles at 242",
+        "link": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-remains-poor-average-aqi-settles-at-242/article71737261.ece",
+        "source": "The Hindu",
+        "time_ago": "59m ago",
+        "summary": "Of the 57 weather monitoring stations in Delhi, 34 were in the poor category, 15 in the moderate category and eight in the very poor category. Siri Fort recorded the worst air quality with an AQI of 330",
         "covered_by": [
-          "Al Jazeera",
-          "BBC",
-          "CNN"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "US intelligence chief defends Trump\u2019s comments calling Putin his \u2018friend\u2019",
-        "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "36m ago",
-        "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+        "title": "TNCC president Manickam Tagore demands legal action against TVK MLA",
+        "link": "https://www.thehindu.com/news/cities/Madurai/tncc-president-manickam-tagore-demands-legal-action-against-tvk-mla/article71737123.ece",
+        "source": "The Hindu",
+        "time_ago": "27m ago",
+        "summary": "The State government should immediately intervene and take action ensuring that the woman district Collector gets justice",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "The Hindu",
+          "Times of India"
         ]
       },
       {
-        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-        "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "2h ago",
-        "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+        "title": "Jensen Huang Confessed To More Affairs Before Returning As Nvidia CEO: Report",
+        "link": "https://www.ndtv.com/world-news/jensen-huang-confessed-to-more-affairs-before-returning-as-nvidia-ceo-report-12369005#publisher=newsstand",
+        "source": "NDTV",
+        "time_ago": "56m ago",
+        "summary": "Huang, a company co-founder, stepped down after reports of extramarital affairs, including one with a Chinese businesswoman suspected of working as a spy for Beijing.",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
-    "sports": [
-      {
-        "title": "Vikings vs. 49ers odds: Best Sunday Night Football Mexico City first touchdown scorer picks, NFL predictions",
-        "link": "https://www.cbssports.com/prediction/news/vikings-vs-49ers-odds-best-sunday-night-football-mexico-city-first-touchdown-scorer-picks-nfl-predictions/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "Here are our top picks for first touchdown prediction markets on the Vikings and 49ers' Sunday Night Football game in Mexico City",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Tarik Skubal signing with Mets: Two-time Cy Young winner lands historic nine-year, $450 million contract",
-        "link": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract/",
-        "source": "CBS Sports",
-        "time_ago": "2h ago",
-        "summary": "The free agent ace will join a rotation that includes Nolan McLean and Christian Scott",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Did Liverpool 'get lucky' with red card decision?",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "time_ago": "3h ago",
-        "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
-        "covered_by": [
-          "BBC Sport"
+          "NDTV",
+          "Times of India"
         ]
       }
     ],
     "ai": [
       {
-        "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
-        "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
+        "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+        "time_ago": "13h ago",
+        "summary": "\"I spoke to them, let me put it that way\u00a0\u2026 And I convinced them,\" the president told CNBC.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -83,93 +50,126 @@
         ]
       },
       {
-        "title": "Google rolls out new search homepage with AI chat history and no search button",
-        "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Google search is making it even easier to access AI tools on the search page.",
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
         "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
+        "time_ago": "8h ago",
+        "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
         "covered_by": [
           "Ars Technica",
-          "TechCrunch"
+          "The Verge"
         ]
       }
     ],
     "tech": [
       {
-        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-        "source": "Ars Technica",
-        "time_ago": "2d ago",
-        "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
+        "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
+        "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+        "source": "TechCrunch",
+        "time_ago": "13h ago",
+        "summary": "\"I spoke to them, let me put it that way\u00a0\u2026 And I convinced them,\" the president told CNBC.",
         "covered_by": [
-          "Ars Technica",
+          "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
-        "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+        "time_ago": "8h ago",
+        "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
         "covered_by": [
+          "Ars Technica",
           "TechCrunch"
         ]
       },
       {
-        "title": "A tale of two Nvidias",
-        "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "title": "Meta throws out its net-zero goal \u2014 its competitors should be furious",
+        "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return.",
+        "time_ago": "13h ago",
+        "summary": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
         "covered_by": [
+          "Ars Technica",
           "TechCrunch"
         ]
       }
     ],
-    "india": [
+    "world": [
       {
-        "title": "India, China hold 10-day talks to ease LAC tensions in Arunachal Pradesh",
-        "link": "https://www.thehindu.com/news/national/india-china-hold-10-day-talks-to-ease-loac-tensions-in-arunachal-pradesh/article71731819.ece",
-        "source": "The Hindu",
-        "time_ago": "7h ago",
-        "summary": "The talks focused on establishing engagement protocols, preventing face-offs and misunderstandings between troops deployed along the frontier, and maintaining open communication channels",
+        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+        "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "1h ago",
+        "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
         "covered_by": [
-          "The Hindu",
-          "Times of India"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "El Nino May Trigger Floods, Landslides In Hindu Kush Himalaya: Report",
-        "link": "https://www.ndtv.com/india-news/el-nino-may-trigger-floods-landslides-in-hindu-kush-himalaya-report-12363595#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "42m ago",
-        "summary": "The report warns that heavy precipitation could trigger localised floods, landslides and avalanches in the western Himalaya, while some parts of the region may experience dry spells and an increased risk of forest fires.",
+        "title": "Mamdani blasts AI-reliant stock market after Jensen Huang\u2019s return",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "6h ago",
+        "summary": "New York City Mayor Zohran Mamdani has criticised the volatility of artificial intelligence linked stocks in the US.",
         "covered_by": [
-          "NDTV",
-          "Times of India"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "What Trump 'Predicted' On Iran, Stocks And Oil Before US Midterms",
-        "link": "https://www.ndtv.com/world-news/what-trump-predicted-on-iran-stocks-and-oil-before-us-midterms-12363869#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "47m ago",
-        "summary": "Trump's remarks came as Democrats secured the largest House majority in a national election in three decades, capturing at least 258 seats in the chamber in a sweeping backlash to rising prices and Trump's tumultuous sec",
+        "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+        "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "4h ago",
+        "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
         "covered_by": [
-          "NDTV",
-          "Times of India"
+          "BBC"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "title": "NFL Week 11 grades for every team: Commanders earn 'A-' for stunning Monday win",
+        "link": "https://www.cbssports.com/nfl/news/nfl-week-11-grades-every-team-cowboys-earn-a-high-flying-win-steelers-nearly-fail/",
+        "source": "CBS Sports",
+        "time_ago": "1h ago",
+        "summary": "We're handing out grades for every team that played in Week 11",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "13h ago",
+        "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+        "covered_by": [
+          "BBC Sport"
+        ]
+      },
+      {
+        "title": "Hosting World Cup means decade of excitement - Weir",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "9h ago",
+        "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
+        "covered_by": [
+          "BBC Sport"
         ]
       }
     ]
