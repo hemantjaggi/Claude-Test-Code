@@ -1,48 +1,84 @@
 {
-  "generated_at": "2026-11-24T06:16:47.775784+00:00",
+  "generated_at": "2026-11-25T04:59:09.048958+00:00",
   "categories": {
+    "tech": [
+      {
+        "title": "Trump reportedly says pardoning Jensen Huang is \u2018an option\u2019",
+        "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips ",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+        "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+        "source": "TechCrunch",
+        "time_ago": "13h ago",
+        "summary": "Amazon\u2019s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+        "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+        "source": "TechCrunch",
+        "time_ago": "4h ago",
+        "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal l",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      }
+    ],
     "india": [
       {
-        "title": "Delhi air quality remains \u2018poor\u2019, average AQI settles at 242",
-        "link": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-remains-poor-average-aqi-settles-at-242/article71737261.ece",
-        "source": "The Hindu",
-        "time_ago": "59m ago",
-        "summary": "Of the 57 weather monitoring stations in Delhi, 34 were in the poor category, 15 in the moderate category and eight in the very poor category. Siri Fort recorded the worst air quality with an AQI of 330",
+        "title": "Punjab teacher plants 10,000 trees over 18 years, keeps mission alive",
+        "link": "https://timesofindia.indiatimes.com/life-style/people/punjab-teacher-spent-18-years-planting-around-10000-trees-along-roads-schools-and-public-spaces-starting-with-125-saplings-watered-by-bucket-at-56-ranjit-singh-chinna-now-uses-a-tractor-to-keep-his-mission-alive/articleshow/136124044.cms",
+        "source": "Times of India",
+        "time_ago": "29m ago",
+        "summary": "For 18 years, Ranjit Singh Chinna has passionately championed environmental activism in Punjab, inspired by the lack of shade along a road in his community. He has successfully planted approximately 10,000 trees in publi",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "TNCC president Manickam Tagore demands legal action against TVK MLA",
-        "link": "https://www.thehindu.com/news/cities/Madurai/tncc-president-manickam-tagore-demands-legal-action-against-tvk-mla/article71737123.ece",
+        "title": "Thirupparankundram 'deepathoon' row LIVE: Temple says Karthigai Deepam lit at Thiruparankundram hill 'as per age-old tradition'",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
         "source": "The Hindu",
-        "time_ago": "27m ago",
-        "summary": "The State government should immediately intervene and take action ensuring that the woman district Collector gets justice",
+        "time_ago": "8m ago",
+        "summary": "The Arulmighu Subramanian Swamy Temple administration stated that it had followed 'age-old traditions and Agama rules' by lighting the maha deepam at the traditional Uchipillayar deepa mandapam. Meanwhile, police detaine",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "Jensen Huang Confessed To More Affairs Before Returning As Nvidia CEO: Report",
-        "link": "https://www.ndtv.com/world-news/jensen-huang-confessed-to-more-affairs-before-returning-as-nvidia-ceo-report-12369005#publisher=newsstand",
-        "source": "NDTV",
-        "time_ago": "56m ago",
-        "summary": "Huang, a company co-founder, stepped down after reports of extramarital affairs, including one with a Chinese businesswoman suspected of working as a spy for Beijing.",
+        "title": "Delhi wakes up to coldest morning of the season; Air quality \u2018poor\u2019",
+        "link": "https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-coldest-morning-of-the-season-air-quality-poor/article71741102.ece",
+        "source": "The Hindu",
+        "time_ago": "10m ago",
+        "summary": "Air quality in Delhi remained in the \u2018poor\u2019 category, with four monitoring stations recording 'very poor' readings, even as the city's average AQI stood at 224",
         "covered_by": [
-          "NDTV",
+          "The Hindu",
           "Times of India"
         ]
       }
     ],
     "ai": [
       {
-        "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
-        "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
         "source": "TechCrunch",
-        "time_ago": "13h ago",
-        "summary": "\"I spoke to them, let me put it that way\u00a0\u2026 And I convinced them,\" the president told CNBC.",
+        "time_ago": "1d ago",
+        "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -50,57 +86,23 @@
         ]
       },
       {
-        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-        "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-        "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-        "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+        "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+        "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
         "source": "Ars Technica",
-        "time_ago": "8h ago",
-        "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+        "time_ago": "11h ago",
+        "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
         "covered_by": [
           "Ars Technica",
-          "The Verge"
-        ]
-      }
-    ],
-    "tech": [
-      {
-        "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
-        "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-        "source": "TechCrunch",
-        "time_ago": "13h ago",
-        "summary": "\"I spoke to them, let me put it that way\u00a0\u2026 And I convinced them,\" the president told CNBC.",
-        "covered_by": [
           "TechCrunch",
           "The Verge"
         ]
       },
       {
-        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-        "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+        "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
-        "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Meta throws out its net-zero goal \u2014 its competitors should be furious",
-        "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
-        "source": "TechCrunch",
-        "time_ago": "13h ago",
-        "summary": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+        "time_ago": "6h ago",
+        "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
@@ -109,65 +111,66 @@
     ],
     "world": [
       {
-        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-        "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "1h ago",
-        "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Mamdani blasts AI-reliant stock market after Jensen Huang\u2019s return",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
+        "title": "Russian jets spark air raid alert in South Korea",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
         "source": "Al Jazeera",
-        "time_ago": "6h ago",
-        "summary": "New York City Mayor Zohran Mamdani has criticised the volatility of artificial intelligence linked stocks in the US.",
+        "time_ago": "7h ago",
+        "summary": "South Korea\u2019s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
         "covered_by": [
           "Al Jazeera",
           "BBC"
         ]
       },
       {
-        "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-        "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+        "title": "Kilmar \u00c1brego Garc\u00eda leaving US for Spain, ending Trump deportation battle",
+        "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC",
-        "time_ago": "4h ago",
-        "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+        "time_ago": "9m ago",
+        "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
         "covered_by": [
+          "Al Jazeera",
+          "BBC"
+        ]
+      },
+      {
+        "title": "Israeli strike kills four people in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "45m ago",
+        "summary": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
+        "covered_by": [
+          "Al Jazeera",
           "BBC"
         ]
       }
     ],
     "sports": [
       {
-        "title": "NFL Week 11 grades for every team: Commanders earn 'A-' for stunning Monday win",
-        "link": "https://www.cbssports.com/nfl/news/nfl-week-11-grades-every-team-cowboys-earn-a-high-flying-win-steelers-nearly-fail/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "We're handing out grades for every team that played in Week 11",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+        "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "13h ago",
-        "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+        "time_ago": "6h ago",
+        "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
         "covered_by": [
           "BBC Sport"
         ]
       },
       {
-        "title": "Hosting World Cup means decade of excitement - Weir",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
+        "title": "Nuggets vs. Mavericks prediction, odds, time: 2026 NBA Cup picks for Tuesday, Nov. 24 from proven model",
+        "link": "https://www.cbssports.com/betting/news/nuggets-mavericks-prediction-odds-time-2026-nba-cup-picks-best-bets-tuesday-november-24/",
+        "source": "CBS Sports",
+        "time_ago": "3h ago",
+        "summary": "SportsLine's model reveals its Dallas vs. Denver best bets for NBA Cup 2026 group stage action on Tuesday",
+        "covered_by": [
+          "CBS Sports"
+        ]
+      },
+      {
+        "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "time_ago": "9h ago",
-        "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
+        "time_ago": "2d ago",
+        "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
         "covered_by": [
           "BBC Sport"
         ]
