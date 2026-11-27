@@ -1,127 +1,83 @@
 {
-  "generated_at": "2026-11-26T04:17:14.856257+00:00",
+  "generated_at": "2026-11-27T04:26:58.327081+00:00",
   "categories": {
-    "india": [
-      {
-        "title": "RBI brings another 60 tonnes of gold home; 84% reserves now held in India",
-        "link": "https://timesofindia.indiatimes.com/business/india-business/rbi-continues-to-bring-back-gold-to-india-as-it-repatriates-60-tonnes-more-of-yellow-metal-india-now-houses-84-of-its-880-52-metric-tonnes-gold-reserves-while-remaining-are-with-bank-of-england-and-bank-for-international-settlements/articleshow/136167289.cms",
-        "source": "Times of India",
-        "time_ago": "46m ago",
-        "summary": "According to the RBI's latest half-yearly report, India's gold reserves stood at 880.52 metric tonnes at the end of September. Of this, 740.13 metric tonnes, equivalent to 84% of the total, were held within the country. ",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Constitution Day LIVE updates: Priceless heritage of Indian democracy, says PM Modi",
-        "link": "https://www.thehindu.com/news/national/constitution-day-indian-democracy-pm-modi-congress-samvidhan-raksha-march-november-26-2026-live-updates/article71745137.ece",
-        "source": "The Hindu",
-        "time_ago": "2m ago",
-        "summary": "Congress to hold \u2018Samvidhan Raksha\u2019 marches across states on Constitution Day, intensifying its campaign against alleged electoral roll manipulation and the ECI\u2019s failure to safeguard the right to vote",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "Kallakurichi police serve summons on TVK MLA Arul Vignesh",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/kallakurichi-police-serve-summons-on-tvk-mla/article71741206.ece",
-        "source": "The Hindu",
-        "time_ago": "51m ago",
-        "summary": "An Inspector attached to the All Women Police station visited the MLA\u2019s house in Kallakurichi and handed the summons to him in person",
-        "covered_by": [
-          "The Hindu",
-          "Times of India"
-        ]
-      }
-    ],
-    "world": [
-      {
-        "title": "Ukraine attacks Russian military base, says five planes struck",
-        "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "2h ago",
-        "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Judges recommend prosecutors end corruption case against Netanyahu",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "3h ago",
-        "summary": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      },
-      {
-        "title": "Colombian president taunts arrested supermarket hostage-takers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "53m ago",
-        "summary": "Colombia\u2019s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
-        "covered_by": [
-          "Al Jazeera",
-          "BBC"
-        ]
-      }
-    ],
     "sports": [
       {
-        "title": "NFL on Thanksgiving halftime shows: Ranking the 10 most memorable performances",
-        "link": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-2026-ranking-most-memorable-halftime-shows/",
-        "source": "CBS Sports",
-        "time_ago": "1h ago",
-        "summary": "A look at some of the most iconic performances from Turkey Days of the past",
-        "covered_by": [
-          "CBS Sports"
-        ]
-      },
-      {
-        "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
+        "title": "Wetzel: The Steelers should have known what the Aaron Rodgers experience entailed",
+        "link": "https://www.espn.com/nfl/story/_/id/50607587/aaron-rodgers-steelers-mike-mccarthy-release-wetzel",
+        "source": "ESPN",
         "time_ago": "3h ago",
-        "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
+        "summary": "Rodgers was released by the Steelers after making accusations about Mike McCarthy. It's not his first breakup, and Pittsburgh should have seen it coming.",
         "covered_by": [
-          "BBC Sport"
+          "BBC Sport",
+          "CBS Sports",
+          "ESPN"
         ]
       },
       {
-        "title": "Mike McCarthy responds to Aaron Rodgers, confirms QB gave him 'ultimatum:' 'I know how to win'",
-        "link": "https://www.cbssports.com/nfl/news/steelers-mike-mccarthy-responds-to-aaron-rodgers-after-pat-mcafee-interview/",
-        "source": "CBS Sports",
-        "time_ago": "5h ago",
-        "summary": "McCarthy responded to Rodgers' tirade against him",
+        "title": "Follow live: Chiefs, Bills go down to the wire",
+        "link": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
+        "source": "ESPN",
+        "time_ago": "9m ago",
+        "summary": "null",
         "covered_by": [
-          "CBS Sports"
+          "CBS Sports",
+          "ESPN"
+        ]
+      },
+      {
+        "title": "Tomlin saddened by Rodgers' bitter exit, calls situation 'a dumpster fire'",
+        "link": "https://www.espn.com/nfl/story/_/id/50608802/tomlin-calls-rodgers-mccarthy-situation-dumpster-fire",
+        "source": "ESPN",
+        "time_ago": "21m ago",
+        "summary": "Mike Tomlin said he was saddened by Aaron Rodgers' tumultuous exit from Pittsburgh and disagreed with how the QB \"aired out\" his grievances against Mike McCarthy.",
+        "covered_by": [
+          "CBS Sports",
+          "ESPN"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "title": "FCC approves SpaceX plan to put AI data centers in space",
+        "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+        "covered_by": [
+          "Ars Technica",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "source": "TechCrunch",
+        "time_ago": "8h ago",
+        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "covered_by": [
+          "TechCrunch"
         ]
       }
     ],
     "ai": [
       {
-        "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
-        "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+        "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
         "source": "TechCrunch",
-        "time_ago": "5h ago",
-        "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ]
-      },
-      {
-        "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-        "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-        "source": "Ars Technica",
         "time_ago": "1d ago",
-        "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+        "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch",
@@ -132,53 +88,96 @@
         "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
         "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
         "source": "Ars Technica",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Amazon says Prime Air drones made \u201chundreds of thousands\u201d of deliveries in 2026.",
+        "covered_by": [
+          "Ars Technica",
+          "The Verge"
+        ]
+      },
+      {
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "source": "Ars Technica",
+        "time_ago": "6d ago",
+        "summary": "Google search is making it even easier to access AI tools on the search page.",
         "covered_by": [
           "Ars Technica",
           "The Verge"
         ]
       }
     ],
-    "tech": [
+    "world": [
       {
-        "title": "FCC approves SpaceX plan to put AI data centers in space",
-        "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-        "source": "TechCrunch",
+        "title": "Mexico seeks US talks about suspected SpaceX debris",
+        "link": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
+        "source": "Al Jazeera",
         "time_ago": "7h ago",
-        "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+        "summary": "Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Google search alternative Kagi launches Gmail rival",
-        "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-        "source": "Ars Technica",
-        "time_ago": "7h ago",
-        "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+        "title": "Asian stock markets rise after earlier tech rout",
+        "link": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "44m ago",
+        "summary": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
         "covered_by": [
-          "Ars Technica",
-          "The Verge"
+          "Al Jazeera",
+          "CNN"
         ]
       },
       {
-        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-        "source": "TechCrunch",
-        "time_ago": "14h ago",
-        "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+        "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "3h ago",
+        "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
         "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
+          "Al Jazeera",
+          "BBC"
+        ]
+      }
+    ],
+    "india": [
+      {
+        "title": "Tamil Nadu introduces 15 days of paternity leave for married government employees",
+        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-introduces-15-days-of-paternity-leave-for-married-government-employees/article71745892.ece",
+        "source": "The Hindu",
+        "time_ago": "2h ago",
+        "summary": "The paternity leave can be availed by male employees either 15 days before the birth of the child or within six months from the date of birth.",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "0 runs, 3 wickets! India bowlers produce stunning turnaround vs New Zealand",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/0-runs-3-wickets-india-bowlers-produce-stunning-turnaround-against-new-zealand/articleshow/136207447.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "India's fast bowlers made a strong comeback by taking three wickets quickly after struggling initially. Akash Deep was instrumental in breaking the New Zealand innings by dismissing Tom Latham. Anshul Kamboj contributed ",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "'I'd like to have him': Trump on Putin's possible G20 visit amid Ukraine war",
+        "link": "https://timesofindia.indiatimes.com/world/us/id-like-to-have-him-trump-says-putin-welcome-at-g20-summit-in-us-doubts-russian-leader-will-attend/articleshow/136207731.cms",
+        "source": "Times of India",
+        "time_ago": "1h ago",
+        "summary": "US President Donald Trump said that Vladimir Putin may join the G20 summit if he decides to do so. Trump highlighted the vital role of diplomacy in addressing the ongoing Russia-Ukraine crisis. Trump also said Putin want",
+        "covered_by": [
+          "NDTV",
+          "Times of India"
         ]
       }
     ]
   },
   "custom_topic": null,
-  "errors": [
-    "ESPN: no element found: line 1, column 0"
-  ]
+  "errors": []
 }
