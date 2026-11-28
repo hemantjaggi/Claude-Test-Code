@@ -1,39 +1,38 @@
 {
-  "generated_at": "2026-11-27T04:26:58.327081+00:00",
+  "generated_at": "2026-11-28T04:07:56.317161+00:00",
   "categories": {
-    "sports": [
+    "world": [
       {
-        "title": "Wetzel: The Steelers should have known what the Aaron Rodgers experience entailed",
-        "link": "https://www.espn.com/nfl/story/_/id/50607587/aaron-rodgers-steelers-mike-mccarthy-release-wetzel",
-        "source": "ESPN",
-        "time_ago": "3h ago",
-        "summary": "Rodgers was released by the Steelers after making accusations about Mike McCarthy. It's not his first breakup, and Pittsburgh should have seen it coming.",
+        "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+        "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "5h ago",
+        "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
         "covered_by": [
-          "BBC Sport",
-          "CBS Sports",
-          "ESPN"
+          "BBC",
+          "CNN"
         ]
       },
       {
-        "title": "Follow live: Chiefs, Bills go down to the wire",
-        "link": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-        "source": "ESPN",
-        "time_ago": "9m ago",
-        "summary": "null",
+        "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+        "link": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+        "source": "Al Jazeera",
+        "time_ago": "5h ago",
+        "summary": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
         "covered_by": [
-          "CBS Sports",
-          "ESPN"
+          "Al Jazeera",
+          "BBC"
         ]
       },
       {
-        "title": "Tomlin saddened by Rodgers' bitter exit, calls situation 'a dumpster fire'",
-        "link": "https://www.espn.com/nfl/story/_/id/50608802/tomlin-calls-rodgers-mccarthy-situation-dumpster-fire",
-        "source": "ESPN",
-        "time_ago": "21m ago",
-        "summary": "Mike Tomlin said he was saddened by Aaron Rodgers' tumultuous exit from Pittsburgh and disagreed with how the QB \"aired out\" his grievances against Mike McCarthy.",
+        "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+        "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "time_ago": "21h ago",
+        "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
         "covered_by": [
-          "CBS Sports",
-          "ESPN"
+          "BBC",
+          "CNN"
         ]
       }
     ],
@@ -42,19 +41,8 @@
         "title": "FCC approves SpaceX plan to put AI data centers in space",
         "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
-        "covered_by": [
-          "Ars Technica",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-        "source": "TechCrunch",
-        "time_ago": "1d ago",
-        "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
         "covered_by": [
           "Ars Technica",
           "TechCrunch"
@@ -64,8 +52,18 @@
         "title": "Nvidia hits pause on chip shipments to Southeast Asia",
         "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
         "source": "TechCrunch",
-        "time_ago": "8h ago",
+        "time_ago": "1d ago",
         "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "covered_by": [
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Is Alice Huang a spy or not?",
+        "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+        "source": "TechCrunch",
+        "time_ago": "1d ago",
+        "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
         "covered_by": [
           "TechCrunch"
         ]
@@ -76,7 +74,7 @@
         "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
         "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
         "source": "TechCrunch",
-        "time_ago": "1d ago",
+        "time_ago": "2d ago",
         "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
         "covered_by": [
           "Ars Technica",
@@ -88,7 +86,7 @@
         "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
         "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
         "source": "Ars Technica",
-        "time_ago": "2d ago",
+        "time_ago": "3d ago",
         "summary": "Amazon says Prime Air drones made \u201chundreds of thousands\u201d of deliveries in 2026.",
         "covered_by": [
           "Ars Technica",
@@ -99,7 +97,7 @@
         "title": "Google rolls out new search homepage with AI chat history and no search button",
         "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
         "source": "Ars Technica",
-        "time_ago": "6d ago",
+        "time_ago": "7d ago",
         "summary": "Google search is making it even easier to access AI tools on the search page.",
         "covered_by": [
           "Ars Technica",
@@ -107,77 +105,77 @@
         ]
       }
     ],
-    "world": [
+    "sports": [
       {
-        "title": "Mexico seeks US talks about suspected SpaceX debris",
-        "link": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "7h ago",
-        "summary": "Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.",
+        "title": "USWNT qualifies for World Cup with dominant 8-0 win over El Salvador",
+        "link": "https://www.cbssports.com/soccer/news/uswnt-qualifies-for-world-cup-with-dominant-8-0-win-over-el-salvador/",
+        "source": "CBS Sports",
+        "time_ago": "21m ago",
+        "summary": "Team USA only needed eight minutes to take the lead via Kennedy Wesley",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "BBC Sport",
+          "CBS Sports"
         ]
       },
       {
-        "title": "Asian stock markets rise after earlier tech rout",
-        "link": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
-        "source": "Al Jazeera",
-        "time_ago": "44m ago",
-        "summary": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
+        "title": "Chelsea must stick together in 'difficult moment' - Alonso",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "5h ago",
+        "summary": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this season in the Premier League.",
         "covered_by": [
-          "Al Jazeera",
-          "CNN"
+          "BBC Sport"
         ]
       },
       {
-        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-        "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC",
-        "time_ago": "3h ago",
-        "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+        "title": "Skupski and Patten win to send GB into Davis Cup semi-finals",
+        "link": "https://www.bbc.co.uk/sport/tennis/videos/cmn0lrjdd9n5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "time_ago": "1d ago",
+        "summary": "Great Britain's Neal Skupski and Henry Patten produce a stunning victory against Germany's Kevin Krawietz and Tim Puetz to win the decisive doubles match and secure Great Britain's place in the Davis Cup semi-finals for ",
         "covered_by": [
-          "Al Jazeera",
-          "BBC"
+          "BBC Sport"
         ]
       }
     ],
     "india": [
       {
-        "title": "Tamil Nadu introduces 15 days of paternity leave for married government employees",
-        "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-introduces-15-days-of-paternity-leave-for-married-government-employees/article71745892.ece",
+        "title": "How BJP, DMK's year-long negotiations paved way for delimitation deal",
+        "link": "https://timesofindia.indiatimes.com/city/chennai/dmk-bjp-parleys-were-on-for-more-than-a-year/articleshow/136231607.cms",
+        "source": "Times of India",
+        "time_ago": "4h ago",
+        "summary": "After intense negotiations, DMK decides to support the BJP-led Union government's delimitation bill, a notable change from their previous stance. This strategic move comes after discussions concerning proportional seat a",
+        "covered_by": [
+          "The Hindu",
+          "Times of India"
+        ]
+      },
+      {
+        "title": "Centre proposes freeze on Lok Sabha seat proportions for States until 2051",
+        "link": "https://www.thehindu.com/news/national/centre-proposes-freeze-on-lok-sabha-seat-proportions-for-states-until-2051/article71752150.ece",
         "source": "The Hindu",
-        "time_ago": "2h ago",
-        "summary": "The paternity leave can be availed by male employees either 15 days before the birth of the child or within six months from the date of birth.",
+        "time_ago": "5h ago",
+        "summary": "The new Constitutional Amendment Bill, accompanied by a fresh Delimitation Bill, proposes to increase the number of Lok Sabha seats in each State by 50%; they also bring into force the 33% reservation for women in the Lo",
         "covered_by": [
           "The Hindu",
           "Times of India"
         ]
       },
       {
-        "title": "0 runs, 3 wickets! India bowlers produce stunning turnaround vs New Zealand",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/0-runs-3-wickets-india-bowlers-produce-stunning-turnaround-against-new-zealand/articleshow/136207447.cms",
+        "title": "Bangladesh eyes ICJ route to bring Sheikh Hasina back from India",
+        "link": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-hints-at-icj-route-to-bring-hasina-back-as-india-examines-extradition-plea/articleshow/136235651.cms",
         "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "India's fast bowlers made a strong comeback by taking three wickets quickly after struggling initially. Akash Deep was instrumental in breaking the New Zealand innings by dismissing Tom Latham. Anshul Kamboj contributed ",
+        "time_ago": "4h ago",
+        "summary": "Bangladesh might pursue legal action at the International Court of Justice regarding Sheikh Hasina's extradition from India. Hasina has been living in India since fleeing Bangladesh following a student-led uprising. The ",
         "covered_by": [
           "The Hindu",
-          "Times of India"
-        ]
-      },
-      {
-        "title": "'I'd like to have him': Trump on Putin's possible G20 visit amid Ukraine war",
-        "link": "https://timesofindia.indiatimes.com/world/us/id-like-to-have-him-trump-says-putin-welcome-at-g20-summit-in-us-doubts-russian-leader-will-attend/articleshow/136207731.cms",
-        "source": "Times of India",
-        "time_ago": "1h ago",
-        "summary": "US President Donald Trump said that Vladimir Putin may join the G20 summit if he decides to do so. Trump highlighted the vital role of diplomacy in addressing the ongoing Russia-Ukraine crisis. Trump also said Putin want",
-        "covered_by": [
-          "NDTV",
           "Times of India"
         ]
       }
     ]
   },
   "custom_topic": null,
-  "errors": []
+  "errors": [
+    "ESPN: no element found: line 1, column 0"
+  ]
 }
